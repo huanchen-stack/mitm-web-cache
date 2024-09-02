@@ -37,3 +37,12 @@ mitmdump --mode regular@8081 -s script.py &
 mitmdump --mode regular@8082 -s script.py &
 mitmdump --mode regular@8083 -s script.py &
 mitmdump --mode regular@8084 -s script.py &
+
+
+----------------------------------------------------------------
+mitmdump --mode regular@8081 -s ../mitm-web-cache/script.py -vvv  > ../mitm-web-cache/out.txt
+
+
+
+----------------------------------------------------------------
+env/bin/pip install -e ".[dev]"

@@ -9624,3 +9624,12 @@ TypeError: argument of type 'NoneType' is not iterable
     via: 1.1 google
     alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
     content-length: 0
+[21:42:07.019] ----------------------------------------------------------------responsedone
+[21:42:36.809][127.0.0.1:65173] client disconnect
+[21:42:36.809][127.0.0.1:65173] closing transports...
+[21:42:36.810][127.0.0.1:65173] server disconnect profile.accounts.firefox.com:443 (34.110.207.168:443)
+[21:42:36.810][127.0.0.1:65176] client disconnect
+[21:42:36.810][127.0.0.1:65176] closing transports...
+[21:42:36.811][127.0.0.1:65176] server disconnect sync-1-us-west1-g.sync.services.mozilla.com:443 (35.186.227.140:443)
+[21:42:36.811][127.0.0.1:65173] transports closed!
+[21:42:36.811][127.0.0.1:65176] transports closed!

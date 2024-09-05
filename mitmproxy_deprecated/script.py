@@ -13,38 +13,6 @@ import os
 from mitmproxy import ctx, http
 
 
-def caesar_cipher_encrypt(plaintext: str, shift: int) -> str:
-    """
-    Encrypts the plaintext using Caesar cipher by shifting each letter by the specified shift amount.
-
-    :param plaintext: The input text to encrypt.
-    :param shift: The number of positions each letter in the plaintext is shifted.
-    :return: The encrypted text (ciphertext).
-    """
-    ciphertext = ""
-
-    for char in plaintext:
-        ciphertext += chr((ord(char) + shift) % 256)
-
-    return ciphertext
-
-
-def caesar_cipher_decrypt(ciphertext: str, shift: int) -> str:
-    """
-    Decrypts the ciphertext using Caesar cipher by shifting each letter back by the specified shift amount.
-
-    :param ciphertext: The encrypted text to decrypt.
-    :param shift: The number of positions each letter in the ciphertext is shifted.
-    :return: The decrypted text (plaintext).
-    """
-    plaintext = ""
-
-    for char in ciphertext:
-        ciphertext += chr((ord(char) - shift) % 256)
-
-    return plaintext
-
-
 TMAP = {}
 CSSMAP = {}
 

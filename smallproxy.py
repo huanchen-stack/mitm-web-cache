@@ -104,8 +104,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             request_data = self.rfile.read(65536)
             if not request_data:
                 return
-            print(f"Intercepted HTTPS request data: {request_data.decode(
-                'utf-8', errors='replace')[:100]}... [truncated]")
+            print(f"Intercepted HTTPS request data: {request_data.decode('utf-8', errors='replace')[:100]}... [truncated]")
 
             # Forward the HTTPS request to the actual server
             response_status, response_headers, response_body = self.forward_request(
@@ -130,8 +129,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         """Handle HTTP requests."""
         try:
             request_data = self.rfile.read(65536)
-            print(f"Intercepted HTTP request data: {request_data.decode(
-                'utf-8', errors='replace')[:50]}... [truncated]")
+            print(f"Intercepted HTTP request data: {request_data.decode('utf-8', errors='replace')[:50]}... [truncated]")
 
             # Forward the HTTP request to the actual server
             response_status, response_headers, response_body = self.forward_request(
@@ -181,8 +179,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             }
 
             # Print debug information
-            print(f"Forwarding request: {method} {
-                  path}, Host: {host}, Port: {port}")
+            print(f"Forwarding request: {method} {path}, Host: {host}, Port: {port}")
 
             # Forward the request to the actual server
             conn.request(method, path, headers=headers)

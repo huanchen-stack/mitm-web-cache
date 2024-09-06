@@ -2,7 +2,6 @@ from collections import defaultdict
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import ssl
 import os
-
 import requests
 from OpenSSL import crypto
 import time
@@ -16,7 +15,11 @@ CA_CERT_FILE = "mitmproxy-ca.pem"
 CA_KEY_FILE = "mitmproxy-ca.pem"
 CERT_DIR = "./certs"
 
-MAX_WORKERS = 5
+MAX_WORKERS = 20
+MAX_SESSIONS_PER_HOST = 6
+CONNECTION_IDLE_TIMEOUT = 30
+
+session_pool = defaultdict(lambda: {'session': None, 'last_used': 0})
 
 def create_certificate(hostname):
     """Generate a certificate and key for the given hostname."""
@@ -76,10 +79,6 @@ class ThreadedHTTPServer(HTTPServer):
             self.handle_error(request, client_address)
             self.shutdown_request(request)
 
-
-session_pool = defaultdict(lambda: {'session': None, 'last_used': 0})
-CONNECTION_IDLE_TIMEOUT = 30
-MAX_SESSIONS_PER_HOST = 6
 
 class ProxyRequestHandler(BaseHTTPRequestHandler):
     def do_CONNECT(self):
@@ -223,7 +222,8 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         session_key = (host, port)
         session_info = session_pool[session_key]
 
-        if session_info['session'] is None or len(session_pool) > MAX_SESSIONS_PER_HOST:
+        # Count only sessions for the current host:port pair
+        if session_info['session'] is None or count_sessions_for_host(host, port) >= MAX_SESSIONS_PER_HOST:
             session_info['session'] = requests.Session()
             session_info['last_used'] = time.time()
 
@@ -237,6 +237,10 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 print(f"Closing idle session for {key}")
                 session_info['session'].close()
                 del session_pool[key]
+
+def count_sessions_for_host(host, port):
+    """Count the number of active sessions for a specific host and port."""
+    return sum(1 for (h, p), session_info in session_pool.items() if h == host and p == port)
 
 
 def run(server_class=ThreadedHTTPServer, handler_class=ProxyRequestHandler):

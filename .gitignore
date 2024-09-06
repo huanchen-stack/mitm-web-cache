@@ -2,3 +2,5 @@ __*/
 env/
 *load*
 .idea/
+*out*
+certs/

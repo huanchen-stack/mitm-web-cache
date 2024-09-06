@@ -1,4 +1,3 @@
-from collections import defaultdict
 import tempfile
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import ssl
@@ -16,9 +15,10 @@ import random
 from warcio.warcwriter import WARCWriter
 from warcio.archiveiterator import ArchiveIterator
 from warcio.statusandheaders import StatusAndHeaders
+import brotli
 
 # MongoDB setup
-client = MongoClient('localhost', 27017, maxPoolSize=1000)
+client = MongoClient('fable.eecs.umich.edu', 27017, maxPoolSize=1000)
 db = client['mitm-web-cache']
 collection = db['web_archive_org']
 
@@ -112,6 +112,29 @@ def parse_warc_record(warc_record_bytes: bytes):
     return None, None, None
 
 
+# def handle_response_decompression(response):
+#     """Handle Brotli and gzip decompression."""
+#     content_encoding = response.headers.get('Content-Encoding', '')
+
+#     # Brotli encoding
+#     if 'br' in content_encoding:
+#         try:
+#             decompressed_body = brotli.decompress(response.content)
+#             return decompressed_body
+#         except Exception as e:
+#             print(f"Error decompressing Brotli content: {e}")
+#             return response.content  # Return the original content if decompression fails
+#     # Gzip encoding
+#     elif 'gzip' in content_encoding:
+#         try:
+#             decompressed_body = gzip.decompress(response.content)
+#             return decompressed_body
+#         except Exception as e:
+#             print(f"Error decompressing Gzip content: {e}")
+#             return response.content  # Fallback to the original content
+#     return response.content
+
+
 class ThreadedHTTPServer(HTTPServer):
     """Handle requests in a separate thread."""
     def __init__(self, server_address, RequestHandlerClass, bind_and_activate=True):
@@ -135,9 +158,6 @@ class ThreadedHTTPServer(HTTPServer):
 
 class ProxyRequestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
-        print("========")
-        print("\t", self.path)
-        # Reuse the handle_https_request to handle GET requests as well
         self.handle_https_request()
 
     def do_CONNECT(self):
@@ -174,7 +194,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             context.load_cert_chain(certfile=cert_file_path, keyfile=key_file_path)
 
             if not self.connection or self.connection.fileno() == -1:
-                self.send_error(502, "Bad Gateway")
+                # self.send_error(502, "Bad Gateway")
                 return
             try:
                 self.connection = context.wrap_socket(self.connection, server_side=True)
@@ -204,10 +224,13 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             #   (get host)
             headers_start = request_data.split(b'\r\n\r\n', 1)[0].decode('utf-8', errors='replace')
             host = None
+            original_headers = {}
             for line in headers_start.split('\r\n'):
                 if line.lower().startswith('host:'):
-                    host = line.split(':', 1)[1].strip()
-                    break
+                    host = line.split(':', 1)[1].strip()  # Get the host from the headers
+                elif ': ' in line:
+                    key, value = line.split(': ', 1)
+                    original_headers[key] = value  # Store the rest of the headers in a dictionary
 
             if not host:
                 self.send_error(400, "Bad Request")
@@ -226,22 +249,22 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 if status_code:
                     self.send_response(status_code)
 
-                    for key, value in headers.items():
-                        if key not in skip_headers:
-                            self.send_header(key, value)
+                    # for key, value in headers.items():
+                    #     if key not in skip_headers:
+                    #         self.send_header(key, value)
                     self.end_headers()
 
                     self.wfile.write(body)
                     return
 
             # Cache MISS: forward the request and cache the response
-            response_status, response_headers, response_body = self.forward_request(request_data, host, path, method)
+            response_status, response_headers, response_body = self.forward_request(request_data, host, path, method, original_headers)
 
             self.send_response(response_status)
             # TODO: header??
-            for key, value in response_headers:
-                if key not in skip_headers:
-                    self.send_header(key, value)
+            # for key, value in response_headers:
+            #     if key not in skip_headers:
+            #         self.send_header(key, value)
             self.end_headers()
 
             if response_body:
@@ -260,28 +283,14 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             self.send_error(500)
             self.wfile.flush()
 
-    def forward_request(self, request_data, host, path, method):
+    def forward_request(self, request_data, host, path, method, original_headers):
         try:
             session_info = self.get_or_create_session(host, 443)
             full_url = f"https://{host}{path}"
 
-            headers = {
-                "Host": host,
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-                "Accept-Encoding": "gzip, deflate, br, zstd",
-                "Accept-Language": "en-US,en;q=0.9",
-                "Connection": "keep-alive",
-                "Priority": "u=0, i",
-                "Sec-CH-UA": '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
-                "Sec-CH-UA-Mobile": "?0",
-                "Sec-CH-UA-Platform": '"macOS"',
-                "Sec-Fetch-Dest": "document",
-                "Sec-Fetch-Mode": "navigate",
-                "Sec-Fetch-Site": "none",
-                "Sec-Fetch-User": "?1",
-                "Upgrade-Insecure-Requests": "1",
-                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-            }
+            headers = original_headers.copy()
+            headers.pop("Connection", None)
+            headers["Host"] = host
 
             if method == "GET":
                 response = session_info['session'].get(full_url, headers=headers, stream=True)

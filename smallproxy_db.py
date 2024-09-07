@@ -239,7 +239,8 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             full_url = f"https://{host}{path}"
             url_hash = hash_url(full_url)
 
-            skip_headers = ["Transfer-Encoding", "Content-Encoding", "Connection", "Keep-Alive", "Proxy-Connection"]
+            skip_headers = ["Transfer-Encoding", "Content-Encoding", "Connection", "Keep-Alive", "Proxy-Connection", 
+                            "Set-Cookie", "Content-Length"]
             
             # Look up the request in the cache
             cached = collection.find_one({"_id": url_hash})
@@ -249,9 +250,9 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 if status_code:
                     self.send_response(status_code)
 
-                    # for key, value in headers.items():
-                    #     if key not in skip_headers:
-                    #         self.send_header(key, value)
+                    for key, value in headers.items():
+                        if key not in skip_headers:
+                            self.send_header(key, value)
                     self.end_headers()
 
                     self.wfile.write(body)
@@ -262,9 +263,9 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
 
             self.send_response(response_status)
             # TODO: header??
-            # for key, value in response_headers:
-            #     if key not in skip_headers:
-            #         self.send_header(key, value)
+            for key, value in response_headers:
+                if key not in skip_headers:
+                    self.send_header(key, value)
             self.end_headers()
 
             if response_body:
@@ -297,6 +298,8 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             elif method == "POST":
                 body = request_data.split(b'\r\n\r\n', 1)[1]
                 response = session_info['session'].post(full_url, data=body, headers=headers, stream=True)
+            elif method == "OPTIONS":
+                response = session_info['session'].options(full_url, headers=headers)
             else:
                 self.send_error(405, "Method Not Allowed")
                 return 405, [], b'Method Not Allowed'

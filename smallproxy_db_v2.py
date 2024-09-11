@@ -76,6 +76,7 @@ def hash_string(s):
     return sha256(s.encode('utf-8')).hexdigest()[:32]
 
 
+# store response_heaader and response_body in warcs_body
 def create_warc_record(response, request_url) -> bytes:
     """Create a WARC record for the given response."""
     headers_list = [(k, v) for k, v in response.headers.items()]
@@ -110,6 +111,10 @@ def parse_warc_record(warc_record_bytes: bytes):
                 body = record.content_stream().read()
                 return status_code, headers, body
     return None, None, None
+
+
+def serve_warc_record():
+    pass
 
 
 class ThreadedHTTPServer(HTTPServer):
@@ -360,7 +365,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
     
         request_data_list = request_data.split(b'\r\n')
         request_identifier = request_data_list[0].decode('utf-8') + request_data_list[1].decode('utf-8')
-        host = request_data_list[1].decode('utf-8').lstrip('Host: ').strip()
+        host = request_data_list[1].decode('utf-8')[5:].strip()
     
         # Validate and sanitize hostname
         if not host or len(host) > 255 or not all(c.isalnum() or c in '-.' for c in host):

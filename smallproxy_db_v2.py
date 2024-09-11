@@ -1,3 +1,4 @@
+import socket
 import tempfile
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import ssl
@@ -71,9 +72,9 @@ def create_certificate(hostname):
     return cert_bytes, key_bytes
 
 
-def hash_url(url):
+def hash_string(s):
     """Create a hash for the full URL to use as the cache key."""
-    return sha256(url.encode('utf-8')).hexdigest()
+    return sha256(s.encode('utf-8')).hexdigest()[:32]
 
 
 def create_warc_record(response, request_url) -> bytes:
@@ -133,6 +134,139 @@ class ThreadedHTTPServer(HTTPServer):
                 #TODO: shutdown_request sometimes gives me error due to closed sockets 
                 pass
 
+
+def handle_chunked_response(sock, wfile, body):
+    def read_from_body_or_sock(num_bytes):
+        nonlocal body
+        if body:
+            chunk_data = body[:num_bytes]
+            body = body[len(chunk_data):]  # Remove the chunk from the body
+            return chunk_data
+        else:
+            return sock.recv(num_bytes)
+
+    while True:
+        chunk_size_str = b""
+        while b"\r\n" not in chunk_size_str:
+            data = read_from_body_or_sock(1)
+            if not data:
+                raise Exception("Connection closed unexpectedly while reading chunk size")
+            chunk_size_str += data
+
+        chunk_size = int(chunk_size_str.split(b"\r\n")[0], 16)
+        # print("chunk_size:", chunk_size_str, chunk_size, flush=True)
+        wfile.write(chunk_size_str)
+        wfile.flush()
+
+        if chunk_size == 0:
+            wfile.write(b"\r\n")
+            wfile.flush()
+            break
+
+        bytes_received = 0
+        while bytes_received < chunk_size:
+            to_read = min(4096, chunk_size - bytes_received)
+            chunk_data = read_from_body_or_sock(to_read)
+            if not chunk_data:
+                raise Exception("Connection closed unexpectedly while reading chunk data")
+            wfile.write(chunk_data)
+            wfile.flush()
+            bytes_received += len(chunk_data)
+            print(f"Received {bytes_received} of {chunk_size} bytes", flush=True)
+
+        trailing_chars = read_from_body_or_sock(2)  # The trailing CRLF after the chunk data
+        wfile.write(trailing_chars)
+        wfile.flush()
+
+
+def handle_content_sized_response(sock, wfile, body, content_length):
+    total_read = len(body)
+    wfile.write(body)
+    wfile.flush()
+
+    while total_read < content_length:
+        to_read = min(4096, content_length - total_read)
+        data = sock.recv(to_read)
+        total_read += len(data)
+        wfile.write(data)
+        wfile.flush()
+
+
+def get_and_forward_http_response(sock, wfile):
+    response = b""
+    
+    while True:
+        data = sock.recv(65536)
+        response += data
+        if b"\r\n\r\n" in response:
+            break
+
+    headers, body = response.split(b"\r\n\r\n", 1)
+
+    header_lines = headers.decode("utf-8").split("\r\n")
+    is_chunked = False
+    content_length = 0
+
+    for header in header_lines:
+        if header.lower().startswith("transfer-encoding") and "chunked" in header.lower():
+            is_chunked = True
+            break
+        elif header.lower().startswith("content-length"):
+            content_length = int(header.split(":")[1].strip())
+            break
+
+    wfile.write(headers + b"\r\n\r\n")
+    wfile.flush()
+
+    if is_chunked:
+        handle_chunked_response(sock, wfile, body)
+    else:
+        handle_content_sized_response(sock, wfile, body, content_length)
+
+class SocketPool:
+    def __init__(self, max_connections_per_host=6, idle_timeout=30):
+        self.max_connections_per_host = max_connections_per_host
+        self.idle_timeout = idle_timeout
+        self.pool = {}
+        self.lock = threading.Lock()
+
+    def get_socket(self, host):
+        def is_socket_alive(sock):
+            try:
+                sock.send(b"", socket.MSG_PEEK)
+                return True
+            except Exception:
+                return False
+
+        with self.lock:
+            if host in self.pool:
+                to_remove = []
+                for i, (sock, last_used) in enumerate(self.pool[host]):
+                    if time.time() - last_used > self.idle_timeout or not is_socket_alive(sock):
+                        try:
+                            sock.close()
+                        except Exception:
+                            pass
+                        to_remove.append(i)
+                    else:
+                        return sock
+                
+                # Remove stale sockets after the iteration
+                for i in reversed(to_remove):
+                    del self.pool[host][i]
+
+            if len(self.pool.get(host, [])) < self.max_connections_per_host:
+                sock = socket.create_connection((host, 443))
+                ssl_context = ssl.create_default_context()
+                sock = ssl_context.wrap_socket(sock, server_hostname=host)
+
+                self.pool.setdefault(host, []).append((sock, time.time()))
+                return sock
+
+            return None
+SOCKETPOOL = SocketPool(max_connections_per_host=1)
+
+
 class ProxyRequestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         self.handle_https_request()
@@ -190,108 +324,34 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             os.remove(key_file_path)
 
     def handle_https_request(self):
+
+        request_data = self.rfile.read(65536)
+        if not request_data:
+            self.send_error(400, "Bad Request")
+            return
+        
+        request_data_list = request_data.split(b'\r\n')
+        request_identifier = request_data_list[0].decode('utf-8') + request_data_list[1].decode('utf-8')
+        host = request_data_list[1].decode('utf-8').lstrip('Host: ').strip()
+        cache_key = hash_string(request_identifier)
+        
         try:
-            request_data = self.rfile.read(65536)
-            if not request_data:
-                return
+            # sock = SOCKETPOOL.get_socket(host)
 
-            # Parse request data to get the host and path
-            request_line = request_data.split(b'\r\n', 1)[0].decode('utf-8')
-            method, path, version = request_line.split()
-            #   (get host)
-            headers_start = request_data.split(b'\r\n\r\n', 1)[0].decode('utf-8', errors='replace')
-            host = None
-            original_headers = {}
-            for line in headers_start.split('\r\n'):
-                if line.lower().startswith('host:'):
-                    host = line.split(':', 1)[1].strip()  # Get the host from the headers
-                elif ': ' in line:
-                    key, value = line.split(': ', 1)
-                    original_headers[key] = value  # Store the rest of the headers in a dictionary
+            # if not sock:
+            #     print("!!!!!This should never happen!!!!!", flush=True)
+            sock = socket.create_connection((host, 443))
+            ssl_context = ssl.create_default_context()
+            sock = ssl_context.wrap_socket(sock, server_hostname=host)
 
-            if not host:
-                self.send_error(400, "Bad Request")
-                return
-
-            full_url = f"https://{host}{path}"
-            url_hash = hash_url(full_url)
-
-            skip_headers = ["Transfer-Encoding", "Content-Encoding", "Connection", "Keep-Alive", "Proxy-Connection", 
-                            "Set-Cookie", "Content-Length"]
-            
-            # Look up the request in the cache
-            cached = collection.find_one({"_id": url_hash})
-            if cached:
-                # Cache HIT: return the cached response
-                status_code, headers, body = parse_warc_record(cached['warc_record'])
-                if status_code:
-                    self.send_response(status_code)
-
-                    for key, value in headers.items():
-                        if key not in skip_headers:
-                            self.send_header(key, value)
-                    self.end_headers()
-
-                    self.wfile.write(body)
-                    return
-
-            # Cache MISS: forward the request and cache the response
-            response_status, response_headers, response_body = self.forward_request(request_data, host, path, method, original_headers)
-
-            self.send_response(response_status)
-            # TODO: header??
-            for key, value in response_headers:
-                if key not in skip_headers:
-                    self.send_header(key, value)
-            self.end_headers()
-
-            if response_body:
-                self.wfile.write(response_body)
-                self.wfile.flush()
-
-            # Cache the response asynchronously
-            response_obj = requests.Response()
-            response_obj.status_code = response_status
-            response_obj.headers = {k: v for k, v in response_headers}
-            response_obj._content = response_body
-            threading.Thread(target=self.cache_response, args=(response_obj, full_url)).start()
+            sock.sendall(request_data)
+            get_and_forward_http_response(sock, self.wfile)
 
         except Exception as e:
-            print(e, host, path)
-            self.send_error(500)
-            self.wfile.flush()
-
-    def forward_request(self, request_data, host, path, method, original_headers):
-        try:
-            session_info = self.get_or_create_session(host, 443)
-            full_url = f"https://{host}{path}"
-
-            headers = original_headers.copy()
-            headers.pop("Connection", None)
-            headers["Host"] = host
-
-            if method == "GET":
-                response = session_info['session'].get(full_url, headers=headers, stream=True)
-            elif method == "POST":
-                body = request_data.split(b'\r\n\r\n', 1)[1]
-                response = session_info['session'].post(full_url, data=body, headers=headers, stream=True)
-            elif method == "OPTIONS":
-                response = session_info['session'].options(full_url, headers=headers)
-            else:
-                self.send_error(405, "Method Not Allowed")
-                return 405, [], b'Method Not Allowed'
-
-            response_status = response.status_code
-            response_headers = [(k, v) for k, v in response.headers.items()]
-            response_body = response.content
-
-            session_info['last_used'] = time.time()
-
-            return response_status, response_headers, response_body
-
-        except Exception as e:
-            print(e, host, path)
-            return 500, {'Content-Type': 'text/plain'}, b'Internal Server Error'
+            print(e, flush=True)
+            self.send_error(503, "Bad Gateway")
+        
+        return
 
     def cache_response(self, response, url):
         """Cache the response as a WARC record."""
@@ -308,32 +368,6 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             upsert=True
         )
 
-    def get_or_create_session(self, host, port):
-        global session_pool
-
-        with session_lock:
-            # self.cleanup_expired_sessions()
-            session_key = (host, port)
-
-            if session_key not in session_pool:
-                session_pool[session_key] = []            
-            if len(session_pool[session_key]) < MAX_SESSIONS_PER_HOST:
-                session_info = {"session": requests.Session(), "last_used": time.time()}
-                session_pool[session_key].append(session_info)
-            else:
-                session_info = session_pool[session_key].pop(0)
-                session_pool[session_key].append(session_info)
-    
-            return session_info
-
-    def cleanup_expired_sessions(self):
-        # TODO: don't need this func
-        # lock acquired in caller
-        for key, session_info_s in session_pool.items():
-            for session_info in session_info_s:
-                if time.time() - session_info['last_used'] > CONNECTION_IDLE_TIMEOUT:
-                    session_info['session'].close()
-                    session_pool[key]
 
 
 def run(server_class=ThreadedHTTPServer, handler_class=ProxyRequestHandler):

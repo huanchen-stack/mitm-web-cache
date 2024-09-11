@@ -27,13 +27,13 @@ collection = db['web_archive_org']
 CA_CERT_FILE = "mitmproxy-ca.pem"
 CA_KEY_FILE = "mitmproxy-ca.pem"
 CERT_DIR = "./certs"
-MAX_WORKERS = 50
+MAX_WORKERS = 100
 MAX_SESSIONS_PER_HOST = 6
 CONNECTION_IDLE_TIMEOUT = 30
 
 session_lock = threading.Lock()
 session_pool = {}
-# session_pool = defaultdict(lambda: {'session': None, 'last_used': 0})
+
 
 def create_certificate(hostname):
     """Generate a certificate and key for the given hostname."""
@@ -68,7 +68,6 @@ def create_certificate(hostname):
 
     cert_bytes = crypto.dump_certificate(crypto.FILETYPE_PEM, cert)
     key_bytes = crypto.dump_privatekey(crypto.FILETYPE_PEM, key)
-
     return cert_bytes, key_bytes
 
 
@@ -220,8 +219,9 @@ def get_and_forward_http_response(sock, wfile):
 
     if is_chunked:
         handle_chunked_response(sock, wfile, body)
-    else:
+    elif content_length > 0:
         handle_content_sized_response(sock, wfile, body, content_length)
+
 
 class SocketPool:
     def __init__(self, max_connections_per_host=6, idle_timeout=30):
@@ -271,6 +271,21 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         self.handle_https_request()
 
+    def do_POST(self):
+        self.handle_https_request()
+
+    def do_HEAD(self):
+        self.handle_https_request()
+
+    def do_PUT(self): 
+        self.handle_https_request()
+
+    def do_DELETE(self):
+        self.handle_https_request()
+
+    def do_OPTIONS(self):
+        self.handle_https_request()
+
     def do_CONNECT(self):
         port = "443"
         l_ = self.path.split(':')
@@ -283,7 +298,6 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             self.send_error(400, "Only HTTPS connections are handled in CONNECT method.")
             return
 
-        # self.do_GET()
         self.handle_https_request()
 
     def establish_tls_connection(self, hostname):
@@ -324,35 +338,60 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             os.remove(key_file_path)
 
     def handle_https_request(self):
-
-        request_data = self.rfile.read(65536)
+        request_headers = b""
+        while True:
+            line = self.rfile.readline()
+            if not line or line == b"\r\n":
+                break
+            request_headers += line
+    
+        content_length = 0
+        for header in request_headers.decode().split("\r\n"):
+            if header.lower().startswith("content-length"):
+                content_length = int(header.split(":")[1].strip())
+                break
+    
+        request_data = request_headers + b"\r\n"
         if not request_data:
             self.send_error(400, "Bad Request")
             return
-        
+    
+        print(request_data.decode('utf-8'), flush=True)
+    
         request_data_list = request_data.split(b'\r\n')
         request_identifier = request_data_list[0].decode('utf-8') + request_data_list[1].decode('utf-8')
         host = request_data_list[1].decode('utf-8').lstrip('Host: ').strip()
-        cache_key = hash_string(request_identifier)
-        
+    
+        # Validate and sanitize hostname
+        if not host or len(host) > 255 or not all(c.isalnum() or c in '-.' for c in host):
+            self.send_error(400, "Invalid hostname")
+            return
+    
         try:
-            # sock = SOCKETPOOL.get_socket(host)
-
-            # if not sock:
-            #     print("!!!!!This should never happen!!!!!", flush=True)
             sock = socket.create_connection((host, 443))
             ssl_context = ssl.create_default_context()
             sock = ssl_context.wrap_socket(sock, server_hostname=host)
-
+    
             sock.sendall(request_data)
+    
+            if content_length > 0:
+                remaining = content_length
+                while remaining > 0:
+                    chunk_size = min(4096, remaining)
+                    chunk = self.rfile.read(chunk_size)
+                    if not chunk:
+                        break
+                    sock.sendall(chunk)
+                    remaining -= len(chunk)
+    
             get_and_forward_http_response(sock, self.wfile)
-
+    
         except Exception as e:
             print(e, flush=True)
             self.send_error(503, "Bad Gateway")
         
         return
-
+    
     def cache_response(self, response, url):
         """Cache the response as a WARC record."""
         url_hash = hash_url(url)
@@ -367,7 +406,6 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             },
             upsert=True
         )
-
 
 
 def run(server_class=ThreadedHTTPServer, handler_class=ProxyRequestHandler):

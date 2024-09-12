@@ -217,10 +217,11 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             url_hash = hash_url(full_url)
 
             skip_headers = ["Transfer-Encoding", "Content-Encoding", "Connection", "Keep-Alive", "Proxy-Connection", 
-                            "Set-Cookie", "Content-Length"]
+                            "Set-Cookie"]
             
             # Look up the request in the cache
             cached = collection.find_one({"_id": url_hash})
+            cached = False 
             if cached:
                 # Cache HIT: return the cached response
                 status_code, headers, body = parse_warc_record(cached['warc_record'])

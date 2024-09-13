@@ -1,3 +1,4 @@
+import io
 import select
 import socket
 import tempfile
@@ -9,7 +10,6 @@ import gzip
 from io import BytesIO
 from hashlib import sha256
 from pymongo import MongoClient
-import requests
 from OpenSSL import crypto
 import time
 from concurrent.futures import ThreadPoolExecutor
@@ -17,12 +17,15 @@ import random
 from warcio.warcwriter import WARCWriter
 from warcio.archiveiterator import ArchiveIterator
 from warcio.statusandheaders import StatusAndHeaders
-import brotli
+import brotli  # MUST IMPORT: IMPLICITELY USED BY WARCIO LIBRARY
 
 # MongoDB setup
-client = MongoClient('localhost', 27017, maxPoolSize=1000)
-db = client['mitm-web-cache']
-collection = db['web_archive_org']
+# client = MongoClient('localhost', 27017, maxPoolSize=1000)
+# db = client['mitm-web-cache']
+# collection = db['web_archive_org']
+
+R_CACHE = False
+W_CACHE = False
 
 # Proxy server config
 CA_CERT_FILE = "mitmproxy-ca.pem"
@@ -31,9 +34,6 @@ CERT_DIR = "./certs"
 MAX_WORKERS = 100
 MAX_SESSIONS_PER_HOST = 6
 CONNECTION_IDLE_TIMEOUT = 30
-
-session_lock = threading.Lock()
-session_pool = {}
 
 
 def create_certificate(hostname):
@@ -77,6 +77,52 @@ def hash_string(s):
     return sha256(s.encode('utf-8')).hexdigest()[:32]
 
 
+class MITMWebCache:
+    
+    @staticmethod
+    def find_warc_record(cache_key):
+        if not R_CACHE:
+            return None
+        pass
+
+    @staticmethod
+    def serve_warc_record(wfile, cache_warc):
+        pass
+
+    class WfileWARCHook(io.BufferedWriter):
+        def __init__(self, wfile, cache_key):
+            super().__init__(wfile)
+            self.cache_key = cache_key
+            # self.buffer = 
+            self._closed = False
+
+        def write(self, data):
+            if W_CACHE:
+                # self.buffer.extend(data)
+                pass
+            return super().write(data)
+
+        def flush(self):
+            if not self.closed:
+                super().flush()
+
+        def close(self):
+            if not self.closed:
+                if W_CACHE:
+                    # MITMWebCache.cache[self.cache_key] = bytes(self.buffer)
+                    pass
+                try:
+                    super().close()
+                except Exception as _:
+                    pass
+                self._closed = True
+
+        @property
+        def closed(self):
+            return self._closed
+
+
+
 # store response_heaader and response_body in warcs_body
 def create_warc_record(response, request_url) -> bytes:
     """Create a WARC record for the given response."""
@@ -112,10 +158,6 @@ def parse_warc_record(warc_record_bytes: bytes):
                 body = record.content_stream().read()
                 return status_code, headers, body
     return None, None, None
-
-
-def serve_warc_record():
-    pass
 
 
 class ThreadedHTTPServer(HTTPServer):
@@ -378,20 +420,28 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         # print(request_data.decode('utf-8'), flush=True)
     
         request_data_list = request_data.split(b'\r\n')
+        
         request_identifier = request_data_list[0].decode('utf-8') + request_data_list[1].decode('utf-8')
+        cache_key = hash_string(request_identifier)
+        cache_warc = MITMWebCache.find_warc_record(cache_key)
+        if cache_warc:
+            MITMWebCache.serve_warc_record(wfile=self.wfile, cache_warc=cache_warc)
+            return
+        self.wfile = MITMWebCache.WfileWARCHook(wfile=self.wfile, cache_key=cache_key)
+
         host = request_data_list[1].decode('utf-8')[5:].strip()
     
         # Validate and sanitize hostname
         if not host or len(host) > 255 or not all(c.isalnum() or c in '-.' for c in host):
-            self.send_error(400, "Invalid hostname")
+            self.send_error(400, f"Invalid hostname {host}")
+            self.wfile.close()
             return
     
         try:
             sock = SOCKETPOOL.get_socket(host)
 
             sock.sendall(request_data)
-    
-            if content_length > 0:
+            if content_length > 0:  # request payload
                 remaining = content_length
                 while remaining > 0:
                     chunk_size = min(4096, remaining)
@@ -408,8 +458,8 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         except Exception as e:
             print(e, flush=True)
             self.send_error(503, "Bad Gateway")
-        
-        return
+        finally:
+            self.wfile.close()
     
     def cache_response(self, response, url):
         """Cache the response as a WARC record."""

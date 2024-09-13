@@ -1,3 +1,4 @@
+import select
 import socket
 import tempfile
 from http.server import BaseHTTPRequestHandler, HTTPServer
@@ -176,7 +177,7 @@ def handle_chunked_response(sock, wfile, body):
             wfile.write(chunk_data)
             wfile.flush()
             bytes_received += len(chunk_data)
-            print(f"Received {bytes_received} of {chunk_size} bytes", flush=True)
+            # print(f"Received {bytes_received} of {chunk_size} bytes", flush=True)
 
         trailing_chars = read_from_body_or_sock(2)  # The trailing CRLF after the chunk data
         wfile.write(trailing_chars)
@@ -235,41 +236,67 @@ class SocketPool:
         self.pool = {}
         self.lock = threading.Lock()
 
-    def get_socket(self, host):
-        def is_socket_alive(sock):
-            try:
-                sock.send(b"", socket.MSG_PEEK)
+    @staticmethod
+    def is_socket_alive(sock):
+        try:
+            ready_to_read, _, _ = select.select([sock], [], [], 0)
+            if ready_to_read:
+                data = sock.recv(1, socket.MSG_PEEK)
+                if data:
+                    print("Socket is alive by MSG_PEEK", flush=True)
+                    return True
+                else:
+                    print("Socket is dead by MSG_PEEK", flush=True)
+                    return False
+            else:
+                print("Socket is alive by select", flush=True)
                 return True
-            except Exception:
-                return False
+        except Exception:
+            print("Socket is dead by exception", flush=True)
+            return False
 
+    def get_socket(self, host):
         with self.lock:
+            print("Cleaning up stale sockets for host", host, flush=True)
             if host in self.pool:
-                to_remove = []
-                for i, (sock, last_used) in enumerate(self.pool[host]):
-                    if time.time() - last_used > self.idle_timeout or not is_socket_alive(sock):
-                        try:
-                            sock.close()
-                        except Exception:
-                            pass
-                        to_remove.append(i)
-                    else:
-                        return sock
-                
-                # Remove stale sockets after the iteration
-                for i in reversed(to_remove):
-                    del self.pool[host][i]
+                self._cleanup_stale_sockets(host)
+            else:
+                self.pool[host] = []
+            print("Clean up done", flush=True)
 
-            if len(self.pool.get(host, [])) < self.max_connections_per_host:
-                sock = socket.create_connection((host, 443))
-                ssl_context = ssl.create_default_context()
-                sock = ssl_context.wrap_socket(sock, server_hostname=host)
-
-                self.pool.setdefault(host, []).append((sock, time.time()))
+            if self.pool[host]:
+                sock, _ = self.pool[host].pop()
+                print("Reusing existing socket for host", host, flush=True)
                 return sock
 
+            if len(self.pool[host]) < self.max_connections_per_host:
+                try:
+                    sock = socket.create_connection((host, 443))
+                    ssl_context = ssl.create_default_context()
+                    sock = ssl_context.wrap_socket(sock, server_hostname=host)
+                    print("Socket created for host", host, flush=True)
+                    return sock
+                except Exception as e:
+                    print(f"Failed to create connection: {e}")
+                    return None
+
+            print("No available sockets for host", host, flush=True)
             return None
-SOCKETPOOL = SocketPool(max_connections_per_host=1)
+        
+    def release_socket(self, host, sock):
+        with self.lock:
+            self.pool[host].append((sock, time.time()))
+
+    def _cleanup_stale_sockets(self, host):
+        print("Num sock avail in pool", len(self.pool[host]), flush=True)
+        current_time = time.time()
+        self.pool[host] = [
+            (sock, last_used) for sock, last_used in self.pool[host]
+            if current_time - last_used <= self.idle_timeout and SocketPool.is_socket_alive(sock)
+        ]
+        print("Num sock avail in pool", len(self.pool[host]), flush=True)
+
+SOCKETPOOL = SocketPool(max_connections_per_host=MAX_SESSIONS_PER_HOST)
 
 
 class ProxyRequestHandler(BaseHTTPRequestHandler):
@@ -361,7 +388,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             self.send_error(400, "Bad Request")
             return
     
-        print(request_data.decode('utf-8'), flush=True)
+        # print(request_data.decode('utf-8'), flush=True)
     
         request_data_list = request_data.split(b'\r\n')
         request_identifier = request_data_list[0].decode('utf-8') + request_data_list[1].decode('utf-8')
@@ -373,10 +400,11 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             return
     
         try:
-            sock = socket.create_connection((host, 443))
-            ssl_context = ssl.create_default_context()
-            sock = ssl_context.wrap_socket(sock, server_hostname=host)
-    
+            # sock = socket.create_connection((host, 443))
+            # ssl_context = ssl.create_default_context()
+            # sock = ssl_context.wrap_socket(sock, server_hostname=host)
+            sock = SOCKETPOOL.get_socket(host)
+
             sock.sendall(request_data)
     
             if content_length > 0:
@@ -390,6 +418,8 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                     remaining -= len(chunk)
     
             get_and_forward_http_response(sock, self.wfile)
+
+            SOCKETPOOL.release_socket(host, sock)
     
         except Exception as e:
             print(e, flush=True)

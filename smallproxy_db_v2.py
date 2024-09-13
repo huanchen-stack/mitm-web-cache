@@ -139,96 +139,6 @@ class ThreadedHTTPServer(HTTPServer):
                 #TODO: shutdown_request sometimes gives me error due to closed sockets 
                 pass
 
-
-def handle_chunked_response(sock, wfile, body):
-    def read_from_body_or_sock(num_bytes):
-        nonlocal body
-        if body:
-            chunk_data = body[:num_bytes]
-            body = body[len(chunk_data):]  # Remove the chunk from the body
-            return chunk_data
-        else:
-            return sock.recv(num_bytes)
-
-    while True:
-        chunk_size_str = b""
-        while b"\r\n" not in chunk_size_str:
-            data = read_from_body_or_sock(1)
-            if not data:
-                raise Exception("Connection closed unexpectedly while reading chunk size")
-            chunk_size_str += data
-
-        chunk_size = int(chunk_size_str.split(b"\r\n")[0], 16)
-        # print("chunk_size:", chunk_size_str, chunk_size, flush=True)
-        wfile.write(chunk_size_str)
-        wfile.flush()
-
-        if chunk_size == 0:
-            wfile.write(b"\r\n")
-            wfile.flush()
-            break
-
-        bytes_received = 0
-        while bytes_received < chunk_size:
-            to_read = min(4096, chunk_size - bytes_received)
-            chunk_data = read_from_body_or_sock(to_read)
-            if not chunk_data:
-                raise Exception("Connection closed unexpectedly while reading chunk data")
-            wfile.write(chunk_data)
-            wfile.flush()
-            bytes_received += len(chunk_data)
-            # print(f"Received {bytes_received} of {chunk_size} bytes", flush=True)
-
-        trailing_chars = read_from_body_or_sock(2)  # The trailing CRLF after the chunk data
-        wfile.write(trailing_chars)
-        wfile.flush()
-
-
-def handle_content_sized_response(sock, wfile, body, content_length):
-    total_read = len(body)
-    wfile.write(body)
-    wfile.flush()
-
-    while total_read < content_length:
-        to_read = min(4096, content_length - total_read)
-        data = sock.recv(to_read)
-        total_read += len(data)
-        wfile.write(data)
-        wfile.flush()
-
-
-def get_and_forward_http_response(sock, wfile):
-    response = b""
-    
-    while True:
-        data = sock.recv(65536)
-        response += data
-        if b"\r\n\r\n" in response:
-            break
-
-    headers, body = response.split(b"\r\n\r\n", 1)
-
-    header_lines = headers.decode("utf-8").split("\r\n")
-    is_chunked = False
-    content_length = 0
-
-    for header in header_lines:
-        if header.lower().startswith("transfer-encoding") and "chunked" in header.lower():
-            is_chunked = True
-            break
-        elif header.lower().startswith("content-length"):
-            content_length = int(header.split(":")[1].strip())
-            break
-
-    wfile.write(headers + b"\r\n\r\n")
-    wfile.flush()
-
-    if is_chunked:
-        handle_chunked_response(sock, wfile, body)
-    elif content_length > 0:
-        handle_content_sized_response(sock, wfile, body, content_length)
-
-
 class SocketPool:
     def __init__(self, max_connections_per_host=6, idle_timeout=30):
         self.max_connections_per_host = max_connections_per_host
@@ -287,7 +197,6 @@ class SocketPool:
 
 SOCKETPOOL = SocketPool(max_connections_per_host=MAX_SESSIONS_PER_HOST)
 
-
 class ProxyRequestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         self.handle_https_request()
@@ -320,6 +229,95 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             return
 
         self.handle_https_request()
+
+    @staticmethod
+    def handle_chunked_response(sock, wfile, body):
+        def read_from_body_or_sock(num_bytes):
+            nonlocal body
+            if body:
+                chunk_data = body[:num_bytes]
+                body = body[len(chunk_data):]  # Remove the chunk from the body
+                return chunk_data
+            else:
+                return sock.recv(num_bytes)
+
+        while True:
+            chunk_size_str = b""
+            while b"\r\n" not in chunk_size_str:
+                data = read_from_body_or_sock(1)
+                if not data:
+                    raise Exception("Connection closed unexpectedly while reading chunk size")
+                chunk_size_str += data
+
+            chunk_size = int(chunk_size_str.split(b"\r\n")[0], 16)
+            # print("chunk_size:", chunk_size_str, chunk_size, flush=True)
+            wfile.write(chunk_size_str)
+            wfile.flush()
+
+            if chunk_size == 0:
+                wfile.write(b"\r\n")
+                wfile.flush()
+                break
+
+            bytes_received = 0
+            while bytes_received < chunk_size:
+                to_read = min(4096, chunk_size - bytes_received)
+                chunk_data = read_from_body_or_sock(to_read)
+                if not chunk_data:
+                    raise Exception("Connection closed unexpectedly while reading chunk data")
+                wfile.write(chunk_data)
+                wfile.flush()
+                bytes_received += len(chunk_data)
+                # print(f"Received {bytes_received} of {chunk_size} bytes", flush=True)
+
+            trailing_chars = read_from_body_or_sock(2)  # The trailing CRLF after the chunk data
+            wfile.write(trailing_chars)
+            wfile.flush()
+
+    @staticmethod
+    def handle_content_sized_response(sock, wfile, body, content_length):
+        total_read = len(body)
+        wfile.write(body)
+        wfile.flush()
+
+        while total_read < content_length:
+            to_read = min(4096, content_length - total_read)
+            data = sock.recv(to_read)
+            total_read += len(data)
+            wfile.write(data)
+            wfile.flush()
+
+    @staticmethod
+    def get_and_forward_http_response(sock, wfile):
+        response = b""
+        
+        while True:
+            data = sock.recv(65536)
+            response += data
+            if b"\r\n\r\n" in response:
+                break
+
+        headers, body = response.split(b"\r\n\r\n", 1)
+
+        header_lines = headers.decode("utf-8").split("\r\n")
+        is_chunked = False
+        content_length = 0
+
+        for header in header_lines:
+            if header.lower().startswith("transfer-encoding") and "chunked" in header.lower():
+                is_chunked = True
+                break
+            elif header.lower().startswith("content-length"):
+                content_length = int(header.split(":")[1].strip())
+                break
+
+        wfile.write(headers + b"\r\n\r\n")
+        wfile.flush()
+
+        if is_chunked:
+            ProxyRequestHandler.handle_chunked_response(sock, wfile, body)
+        elif content_length > 0:
+            ProxyRequestHandler.handle_content_sized_response(sock, wfile, body, content_length)
 
     def establish_tls_connection(self, hostname):
         cert_bytes, key_bytes = create_certificate(hostname)
@@ -403,7 +401,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                     sock.sendall(chunk)
                     remaining -= len(chunk)
     
-            get_and_forward_http_response(sock, self.wfile)
+            ProxyRequestHandler.get_and_forward_http_response(sock, self.wfile)
 
             SOCKETPOOL.release_socket(host, sock)
     
@@ -415,7 +413,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
     
     def cache_response(self, response, url):
         """Cache the response as a WARC record."""
-        url_hash = hash_url(url)
+        url_hash = hash_string(url)
         warc_record_bytes = create_warc_record(response, url)
         collection.update_one(
             {"_id": url_hash},

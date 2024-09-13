@@ -243,30 +243,23 @@ class SocketPool:
             if ready_to_read:
                 data = sock.recv(1, socket.MSG_PEEK)
                 if data:
-                    print("Socket is alive by MSG_PEEK", flush=True)
                     return True
                 else:
-                    print("Socket is dead by MSG_PEEK", flush=True)
                     return False
             else:
-                print("Socket is alive by select", flush=True)
                 return True
         except Exception:
-            print("Socket is dead by exception", flush=True)
             return False
 
     def get_socket(self, host):
         with self.lock:
-            print("Cleaning up stale sockets for host", host, flush=True)
             if host in self.pool:
                 self._cleanup_stale_sockets(host)
             else:
                 self.pool[host] = []
-            print("Clean up done", flush=True)
 
             if self.pool[host]:
                 sock, _ = self.pool[host].pop()
-                print("Reusing existing socket for host", host, flush=True)
                 return sock
 
             if len(self.pool[host]) < self.max_connections_per_host:
@@ -274,13 +267,11 @@ class SocketPool:
                     sock = socket.create_connection((host, 443))
                     ssl_context = ssl.create_default_context()
                     sock = ssl_context.wrap_socket(sock, server_hostname=host)
-                    print("Socket created for host", host, flush=True)
                     return sock
                 except Exception as e:
-                    print(f"Failed to create connection: {e}")
                     return None
 
-            print("No available sockets for host", host, flush=True)
+            print("WARNING: This line should not be reached!", flush=True)
             return None
         
     def release_socket(self, host, sock):
@@ -288,13 +279,11 @@ class SocketPool:
             self.pool[host].append((sock, time.time()))
 
     def _cleanup_stale_sockets(self, host):
-        print("Num sock avail in pool", len(self.pool[host]), flush=True)
         current_time = time.time()
         self.pool[host] = [
             (sock, last_used) for sock, last_used in self.pool[host]
             if current_time - last_used <= self.idle_timeout and SocketPool.is_socket_alive(sock)
         ]
-        print("Num sock avail in pool", len(self.pool[host]), flush=True)
 
 SOCKETPOOL = SocketPool(max_connections_per_host=MAX_SESSIONS_PER_HOST)
 
@@ -356,10 +345,10 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             try:
                 self.connection = context.wrap_socket(self.connection, server_side=True)
             except ssl.SSLError as e:
-                print(e)
+                print(e, flush=True)
                 self.send_error(502, "Bad Gateway")
             except OSError as e:
-                print(e)
+                print(e, flush=True)
                 self.send_error(502, "Bad Gateway")
 
             self.rfile = self.connection.makefile('rb', buffering=0)
@@ -400,9 +389,6 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             return
     
         try:
-            # sock = socket.create_connection((host, 443))
-            # ssl_context = ssl.create_default_context()
-            # sock = ssl_context.wrap_socket(sock, server_hostname=host)
             sock = SOCKETPOOL.get_socket(host)
 
             sock.sendall(request_data)

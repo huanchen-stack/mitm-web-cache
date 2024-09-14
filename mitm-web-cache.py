@@ -20,12 +20,11 @@ from warcio.statusandheaders import StatusAndHeaders
 import brotli  # MUST IMPORT: IMPLICITELY USED BY WARCIO LIBRARY
 
 # MongoDB setup
-# client = MongoClient('localhost', 27017, maxPoolSize=1000)
-# db = client['mitm-web-cache']
-# collection = db['web_archive_org']
-
-R_CACHE = False
-W_CACHE = False
+MONGO_URI = 'localhost:27017'
+DB_NAME = 'mitm-web-cache'
+COLLECTION_NAME = 'web_archive_org'
+R_CACHE = True
+W_CACHE = True
 
 # Proxy server config
 CA_CERT_FILE = "mitmproxy-ca.pem"
@@ -33,7 +32,7 @@ CA_KEY_FILE = "mitmproxy-ca.pem"
 CERT_DIR = "./certs"
 MAX_WORKERS = 100
 MAX_SESSIONS_PER_HOST = 6
-CONNECTION_IDLE_TIMEOUT = 30
+CONNECTION_IDLE_TIMEOUT = 6000
 
 
 def create_certificate(hostname):
@@ -71,46 +70,92 @@ def create_certificate(hostname):
     key_bytes = crypto.dump_privatekey(crypto.FILETYPE_PEM, key)
     return cert_bytes, key_bytes
 
-
 def hash_string(s):
-    """Create a hash for the full URL to use as the cache key."""
     return sha256(s.encode('utf-8')).hexdigest()[:32]
 
-
 class MITMWebCache:
-    
+
+    db_collection = MongoClient(MONGO_URI, maxPoolSize=1000)[DB_NAME][COLLECTION_NAME]
+    r_cache = R_CACHE
+    w_cache = W_CACHE
+
     @staticmethod
     def find_warc_record(cache_key):
-        if not R_CACHE:
-            return None
-        pass
+        if MITMWebCache.r_cache:
+            warc_record = MITMWebCache.db_collection.find_one({"_id": cache_key})
+            if warc_record:
+                return warc_record["warc_record"]
+        return None
 
     @staticmethod
     def serve_warc_record(wfile, cache_warc):
-        pass
+        # warc_stream = io.BytesIO(cache_warc)
+        # for record in ArchiveIterator(warc_stream):
+        #     payload = record.content_stream().read()
+        #     for i in range(0, len(payload), 4096):
+        #         wfile.write(payload[i:i + 4096])
+        #         wfile.flush()
+        #     wfile.flush()
+        warc_stream = io.BytesIO(cache_warc)  # Create a byte stream for the cached response
+        
+        # Read and serve the entire payload (which includes status line, headers, and body)
+        while True:
+            chunk = warc_stream.read(4096)  # Read in 4096-byte chunks
+            if not chunk:
+                break
+            wfile.write(chunk)  # Write the chunk to the browser
+            wfile.flush() 
 
     class WfileWARCHook(io.BufferedWriter):
         def __init__(self, wfile, cache_key):
             super().__init__(wfile)
+
             self.cache_key = cache_key
-            # self.buffer = 
+            self.buff = io.BytesIO()
+
             self._closed = False
 
         def write(self, data):
-            if W_CACHE:
-                # self.buffer.extend(data)
-                pass
+            if MITMWebCache.w_cache:
+                self.buff.write(data)
             return super().write(data)
 
         def flush(self):
             if not self.closed:
-                super().flush()
+                try:
+                    super().flush()
+                except Exception as _:
+                    pass  # TODO: Handle any flush errors
 
         def close(self):
             if not self.closed:
-                if W_CACHE:
-                    # MITMWebCache.cache[self.cache_key] = bytes(self.buffer)
-                    pass
+                if MITMWebCache.w_cache:
+                    self.buff.seek(0)
+                    # warc_writer = WARCWriter(self.buff)
+                    # status_and_headers = StatusAndHeaders(
+                    #     statusline="HTTP/1.1 200 OK",
+                    #     headers=[('Content-Type', 'text/html')],
+                    #     protocol="HTTP/1.1"
+                    # )
+                    # warc_record = warc_writer.create_warc_record(
+                    #     uri=self.cache_key,
+                    #     record_type='response',
+                    #     payload=self.buff,
+                    #     http_headers=status_and_headers
+                    # )
+                    
+
+                    MITMWebCache.db_collection.update_one(
+                        {"_id": self.cache_key},
+                        {
+                            "$set": {
+                                "url": self.cache_key,  # Placeholder for the URL
+                                "warc_record": self.buff.read()
+                            }
+                        },
+                        upsert=True
+                    )
+
                 try:
                     super().close()
                 except Exception as _:
@@ -121,44 +166,7 @@ class MITMWebCache:
         def closed(self):
             return self._closed
 
-
-
-# store response_heaader and response_body in warcs_body
-def create_warc_record(response, request_url) -> bytes:
-    """Create a WARC record for the given response."""
-    headers_list = [(k, v) for k, v in response.headers.items()]
-    status_and_headers = StatusAndHeaders(
-        statusline=str(response.status_code),
-        headers=headers_list,
-        protocol="HTTP/2.0"
-    )
-
-    # Write WARC record to a byte stream
-    warc_bytes = BytesIO()
-    warc_writer = WARCWriter(warc_bytes)
-    record = warc_writer.create_warc_record(
-        uri=request_url,
-        record_type='response',
-        payload=BytesIO(response.content),
-        http_headers=status_and_headers
-    )
-    warc_writer.write_record(record)
-    warc_bytes.seek(0)
-    return warc_bytes.read()
-
-
-def parse_warc_record(warc_record_bytes: bytes):
-    """Parse WARC record to extract status code, headers, and body."""
-    with BytesIO(warc_record_bytes) as f:
-        for record in ArchiveIterator(f):
-            if record.rec_type == 'response':
-                status_code = int(record.http_headers.statusline.split()[-1])
-                headers = {k: v for k, v in record.http_headers.headers}
-                headers["Server"] = "mitm-cache"
-                body = record.content_stream().read()
-                return status_code, headers, body
-    return None, None, None
-
+MITMWEBCACHE = MITMWebCache()
 
 class ThreadedHTTPServer(HTTPServer):
     """Handle requests in a separate thread."""
@@ -178,6 +186,7 @@ class ThreadedHTTPServer(HTTPServer):
                 self.handle_error(request, client_address)
                 self.shutdown_request(request)
             except Exception as e:
+                print(e, flush=True)
                 #TODO: shutdown_request sometimes gives me error due to closed sockets 
                 pass
 
@@ -186,6 +195,7 @@ class SocketPool:
         self.max_connections_per_host = max_connections_per_host
         self.idle_timeout = idle_timeout
         self.pool = {}
+        self.connections_per_host = {}
         self.lock = threading.Lock()
 
     @staticmethod
@@ -209,22 +219,23 @@ class SocketPool:
                 self._cleanup_stale_sockets(host)
             else:
                 self.pool[host] = []
-
-            if self.pool[host]:
-                sock, _ = self.pool[host].pop()
-                return sock
-
-            if len(self.pool[host]) < self.max_connections_per_host:
+                self.connections_per_host[host] = 0
+            
+            if self.connections_per_host[host] < self.max_connections_per_host:
                 try:
                     sock = socket.create_connection((host, 443))
                     ssl_context = ssl.create_default_context()
                     sock = ssl_context.wrap_socket(sock, server_hostname=host)
+                    
+                    self.connections_per_host[host] += 1
                     return sock
                 except Exception as e:
                     return None
 
-            print("WARNING: This line should not be reached!", flush=True)
-            return None
+            while not len(self.pool[host]):
+                time.sleep(0.01)
+            sock, _ = self.pool[host].pop()
+            return sock
         
     def release_socket(self, host, sock):
         with self.lock:
@@ -236,8 +247,9 @@ class SocketPool:
             (sock, last_used) for sock, last_used in self.pool[host]
             if current_time - last_used <= self.idle_timeout and SocketPool.is_socket_alive(sock)
         ]
+        self.connections_per_host[host] = len(self.pool[host])
 
-SOCKETPOOL = SocketPool(max_connections_per_host=MAX_SESSIONS_PER_HOST)
+SOCKETPOOL = SocketPool(max_connections_per_host=MAX_SESSIONS_PER_HOST, idle_timeout=CONNECTION_IDLE_TIMEOUT)
 
 class ProxyRequestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
@@ -269,8 +281,9 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         else:
             self.send_error(400, "Only HTTPS connections are handled in CONNECT method.")
             return
-
-        self.handle_https_request()
+        
+        while True:
+            self.handle_https_request()
 
     @staticmethod
     def handle_chunked_response(sock, wfile, body):
@@ -310,7 +323,6 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 wfile.write(chunk_data)
                 wfile.flush()
                 bytes_received += len(chunk_data)
-                # print(f"Received {bytes_received} of {chunk_size} bytes", flush=True)
 
             trailing_chars = read_from_body_or_sock(2)  # The trailing CRLF after the chunk data
             wfile.write(trailing_chars)
@@ -334,7 +346,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         response = b""
         
         while True:
-            data = sock.recv(65536)
+            data = sock.recv(4096)
             response += data
             if b"\r\n\r\n" in response:
                 break
@@ -380,7 +392,6 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             context.load_cert_chain(certfile=cert_file_path, keyfile=key_file_path)
 
             if not self.connection or self.connection.fileno() == -1:
-                # self.send_error(502, "Bad Gateway")
                 return
             try:
                 self.connection = context.wrap_socket(self.connection, server_side=True)
@@ -423,11 +434,11 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         
         request_identifier = request_data_list[0].decode('utf-8') + request_data_list[1].decode('utf-8')
         cache_key = hash_string(request_identifier)
-        cache_warc = MITMWebCache.find_warc_record(cache_key)
-        if cache_warc:
-            MITMWebCache.serve_warc_record(wfile=self.wfile, cache_warc=cache_warc)
-            return
-        self.wfile = MITMWebCache.WfileWARCHook(wfile=self.wfile, cache_key=cache_key)
+        # cache_warc = MITMWebCache.find_warc_record(cache_key)
+        # if False and cache_warc:
+            # MITMWebCache.serve_warc_record(wfile=self.wfile, cache_warc=cache_warc)
+            # return
+        # self.wfile = MITMWebCache.WfileWARCHook(wfile=self.wfile, cache_key=cache_key)
 
         host = request_data_list[1].decode('utf-8')[5:].strip()
     
@@ -456,32 +467,17 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             SOCKETPOOL.release_socket(host, sock)
     
         except Exception as e:
-            print(e, flush=True)
-            self.send_error(503, "Bad Gateway")
-        finally:
-            self.wfile.close()
-    
-    def cache_response(self, response, url):
-        """Cache the response as a WARC record."""
-        url_hash = hash_string(url)
-        warc_record_bytes = create_warc_record(response, url)
-        collection.update_one(
-            {"_id": url_hash},
-            {
-                "$set": {
-                    "url": url,
-                    "warc_record": warc_record_bytes
-                }
-            },
-            upsert=True
-        )
+            print(e, "wfile:", self.wfile.closed, self.wfile.writable(), flush=True)
+            print(f"\tMAYBE SOCK CLOSED ON BROWSER SIDE/POOL MANAGEMENT\n{request_data.decode('utf-8')}", flush=True)
+            # self.send_error(502, "Bad Gateway")
+        # finally:
+        #     self.wfile.close()
 
 
 def run(server_class=ThreadedHTTPServer, handler_class=ProxyRequestHandler):
     server_address = ('localhost', 8080)
     httpd = server_class(server_address, handler_class)
     httpd.serve_forever()
-
 
 if __name__ == "__main__":
     run()

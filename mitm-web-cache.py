@@ -282,8 +282,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             self.send_error(400, "Only HTTPS connections are handled in CONNECT method.")
             return
         
-        while True:
-            self.handle_https_request()
+        self.handle_https_request()
 
     @staticmethod
     def handle_chunked_response(sock, wfile, body):
@@ -466,7 +465,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
 
             SOCKETPOOL.release_socket(host, sock)
     
-        except Exception as e:
+        except Exception as e: 
             print(e, "wfile:", self.wfile.closed, self.wfile.writable(), flush=True)
             print(f"\tMAYBE SOCK CLOSED ON BROWSER SIDE/POOL MANAGEMENT\n{request_data.decode('utf-8')}", flush=True)
             # self.send_error(502, "Bad Gateway")

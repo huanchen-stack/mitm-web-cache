@@ -238,51 +238,12 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
     def forward_client_to_target(client_sock, target_sock, request_url):
         print("Started forwarding client to target", flush=True)
         try:
-            i = 0
-            request_data = b""
             while True:
-                print("Handling request in the same thread", i, flush=True)
-                i += 1
-                while True:
-                    chunk = client_sock.recv(4096)
-                    request_data += chunk
-                    if "\r\n\r\n" in request_data.decode():
-                        break
-                
-                request_headers = request_data.split(b"\r\n\r\n")[0].decode().split("\r\n")
-                
-                path = request_headers[0].split(" ")[1]
-                host = request_headers[1].split(" ")[1]
-                request_url.append(f"{host}{path}")
-                print(request_url, flush=True)
-
-                target_sock.sendall(request_data)
-
-                # while True:
-                #     data = client_sock.recv(4096)
-                #     if not data:
-                #         break
-                #     target_sock.sendall(data)
-                
-                content_length = 0
-                for header in request_headers:
-                    if header.lower().startswith("content-length"):
-                        content_length = int(header.split(":")[1].strip())
-                        break
-
-                header_tail = request_data.split(b"\r\n\r\n")[1]
-                if content_length > 0:
-                    remaining = content_length - len(header_tail)
-                    while remaining > 0:
-                        chunk_size = min(4096, remaining)
-                        chunk = client_sock.recv(chunk_size)
-                        if not chunk:
-                            break
-                        target_sock.sendall(chunk)
-                        remaining -= len(chunk)
-                    request_data = b""
-                else:
-                    request_data = header_tail
+                data = client_sock.recv(4096)
+                if not data:
+                    break
+                target_sock.sendall(data)
+                request_url.append(data)
 
         except Exception as e:
             print(f"Error forwarding data from client to target: {e}", flush=True)

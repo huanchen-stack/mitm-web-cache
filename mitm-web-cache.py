@@ -30,8 +30,8 @@ W_CACHE = True
 CA_CERT_FILE = "mitmproxy-ca.pem"
 CA_KEY_FILE = "mitmproxy-ca.pem"
 CERT_DIR = "./certs"
-MAX_WORKERS = 100
-MAX_SESSIONS_PER_HOST = 6
+MAX_WORKERS = 10000
+MAX_SESSIONS_PER_HOST = 12
 CONNECTION_IDLE_TIMEOUT = 6000
 
 
@@ -50,7 +50,7 @@ def create_certificate(hostname):
     cert.get_subject().ST = "State"
     cert.get_subject().L = "City"
     cert.get_subject().O = "MyOrganization"
-    cert.get_subject().CN = hostname
+    cert.get_subject().CN = hostname[:64]
 
     unique_serial = int(time.time() * 1000) + random.SystemRandom().randint(1, 100000)
     cert.set_serial_number(unique_serial)
@@ -253,9 +253,11 @@ SOCKETPOOL = SocketPool(max_connections_per_host=MAX_SESSIONS_PER_HOST, idle_tim
 
 class ProxyRequestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
+        print("Handling GET request for path", self.path, flush=True)
         self.handle_https_request()
 
     def do_POST(self):
+        print("Handling POST request for path", self.path, flush=True)
         self.handle_https_request()
 
     def do_HEAD(self):
@@ -275,14 +277,112 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         l_ = self.path.split(':')
         if len(l_) > 1:
             port = l_[1]
-        hostname = l_[0]
+        self.hostname = l_[0]
         if port == '443':
-            self.establish_tls_connection(hostname)
+            self.establish_tls_connection()
         else:
             self.send_error(400, "Only HTTPS connections are handled in CONNECT method.")
             return
         
         self.handle_https_request()
+
+    def establish_tls_connection(self):
+        cert_bytes, key_bytes = create_certificate(self.hostname)
+
+        with tempfile.NamedTemporaryFile(delete=False) as cert_file:
+            cert_file.write(cert_bytes)
+            cert_file_path = cert_file.name
+
+        with tempfile.NamedTemporaryFile(delete=False) as key_file:
+            key_file.write(key_bytes)
+            key_file_path = key_file.name
+
+        try:
+            self.send_response(200, "Connection Established")
+            self.end_headers()
+
+            context = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
+            context.load_cert_chain(certfile=cert_file_path, keyfile=key_file_path)
+
+            if not self.connection or self.connection.fileno() == -1:
+                return
+            try:
+                self.connection = context.wrap_socket(self.connection, server_side=True)
+            except ssl.SSLError as e:
+                print(e, flush=True)
+                self.send_error(502, "Bad Gateway")
+            except OSError as e:
+                print(e, flush=True)
+                self.send_error(502, "Bad Gateway")
+
+            # self.rfile = self.connection.makefile('rb', buffering=0)
+            # self.wfile = self.connection.makefile('wb', buffering=0)
+
+        finally:
+            os.remove(cert_file_path)
+            os.remove(key_file_path)
+
+    @staticmethod
+    def forward_request(rfile, sock):
+        request_headers = b""
+        while True:
+            line = rfile.readline()
+            if not line or line == b"\r\n":
+                break
+            request_headers += line
+    
+        content_length = 0
+        for header in request_headers.decode().split("\r\n"):
+            if header.lower().startswith("content-length"):
+                content_length = int(header.split(":")[1].strip())
+                break
+    
+        request_data = request_headers + b"\r\n"
+        # print(request_data.decode('utf-8'), flush=True)
+    
+        request_data_list = request_data.split(b'\r\n')
+        
+        request_identifier = request_data_list[0].decode('utf-8') + request_data_list[1].decode('utf-8')
+        cache_key = hash_string(request_identifier)
+
+        sock.sendall(request_data)
+        if content_length > 0:  # request payload
+            remaining = content_length
+            while remaining > 0:
+                chunk_size = min(4096, remaining)
+                chunk = rfile.read(chunk_size)
+                if not chunk:
+                    break
+                sock.sendall(chunk)
+                remaining -= len(chunk)
+
+    @staticmethod
+    def eavesdrop_http_request(buff, lock):
+        try:
+            while True:
+                time.sleep(0.1)
+                with lock:
+                    buff.seek(0)
+                    data = buff.read()
+                    if not data:
+                        continue
+
+                    buff.truncate(0)
+                    buff.seek(0)
+                
+        except Exception as e:
+            print(f"Error eavesdropping HTTP request: {e}", flush=True)
+
+    @staticmethod
+    def forward_request_forever(conn, sock, buff, lock):
+        try:
+            while True:
+                data = conn.read(4096)
+                with lock:
+                    buff.write(data)
+                sock.sendall(data)
+        except Exception as e:
+            print(f"Error forwarding data from client to target: {e}", flush=True)
 
     @staticmethod
     def handle_chunked_response(sock, wfile, body):
@@ -341,7 +441,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             wfile.flush()
 
     @staticmethod
-    def get_and_forward_http_response(sock, wfile):
+    def forward_response(sock, wfile):
         response = b""
         
         while True:
@@ -372,102 +472,81 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         elif content_length > 0:
             ProxyRequestHandler.handle_content_sized_response(sock, wfile, body, content_length)
 
-    def establish_tls_connection(self, hostname):
-        cert_bytes, key_bytes = create_certificate(hostname)
-
-        with tempfile.NamedTemporaryFile(delete=False) as cert_file:
-            cert_file.write(cert_bytes)
-            cert_file_path = cert_file.name
-
-        with tempfile.NamedTemporaryFile(delete=False) as key_file:
-            key_file.write(key_bytes)
-            key_file_path = key_file.name
-
+    @staticmethod
+    def eavesdrop_http_response(buff, lock):
         try:
-            self.send_response(200, "Connection Established")
-            self.end_headers()
+            while True:
+                time.sleep(0.1)
+                with lock:
+                    buff.seek(0)
+                    data = buff.read()
+                    if not data:
+                        continue
+                    # print(data, flush=True)
+                    buff.truncate(0)
+                    buff.seek(0)
+        except Exception as e:
+            print(f"Error eavesdropping HTTP response: {e}", flush=True)
 
-            context = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
-            context.load_cert_chain(certfile=cert_file_path, keyfile=key_file_path)
+    @staticmethod
+    def forward_response_forever(sock, conn, buff, lock):
+        try:
+            while True:
+                data = sock.recv(4096)
+                with lock:
+                    buff.write(data)
+                conn.sendall(data)
 
-            if not self.connection or self.connection.fileno() == -1:
-                return
-            try:
-                self.connection = context.wrap_socket(self.connection, server_side=True)
-            except ssl.SSLError as e:
-                print(e, flush=True)
-                self.send_error(502, "Bad Gateway")
-            except OSError as e:
-                print(e, flush=True)
-                self.send_error(502, "Bad Gateway")
+        except Exception as e:
+            print(f"Error forwarding data from target to client: {e}", flush=True)
 
-            self.rfile = self.connection.makefile('rb', buffering=0)
-            self.wfile = self.connection.makefile('wb', buffering=0)
-
-        finally:
-            os.remove(cert_file_path)
-            os.remove(key_file_path)
 
     def handle_https_request(self):
-        request_headers = b""
-        while True:
-            line = self.rfile.readline()
-            if not line or line == b"\r\n":
-                break
-            request_headers += line
-    
-        content_length = 0
-        for header in request_headers.decode().split("\r\n"):
-            if header.lower().startswith("content-length"):
-                content_length = int(header.split(":")[1].strip())
-                break
-    
-        request_data = request_headers + b"\r\n"
-        if not request_data:
-            self.send_error(400, "Bad Request")
-            return
-    
-        # print(request_data.decode('utf-8'), flush=True)
-    
-        request_data_list = request_data.split(b'\r\n')
         
-        request_identifier = request_data_list[0].decode('utf-8') + request_data_list[1].decode('utf-8')
-        cache_key = hash_string(request_identifier)
         # cache_warc = MITMWebCache.find_warc_record(cache_key)
         # if False and cache_warc:
             # MITMWebCache.serve_warc_record(wfile=self.wfile, cache_warc=cache_warc)
             # return
         # self.wfile = MITMWebCache.WfileWARCHook(wfile=self.wfile, cache_key=cache_key)
 
-        host = request_data_list[1].decode('utf-8')[5:].strip()
+        # host = request_data_list[1].decode('utf-8')[5:].strip()
     
-        # Validate and sanitize hostname
-        if not host or len(host) > 255 or not all(c.isalnum() or c in '-.' for c in host):
-            self.send_error(400, f"Invalid hostname {host}")
-            self.wfile.close()
-            return
+        # # Validate and sanitize hostname
+        # if not host or len(host) > 255 or not all(c.isalnum() or c in '-.' for c in host):
+        #     self.send_error(400, f"Invalid hostname {host}")
+        #     self.wfile.close()
+        #     return
     
         try:
-            sock = SOCKETPOOL.get_socket(host)
+            sock = SOCKETPOOL.get_socket(self.hostname)
+            # sock = socket.create_connection((self.hostname, 443))
+            # ssl_context = ssl.create_default_context()
+            # sock = ssl_context.wrap_socket(sock, server_hostname=self.hostname)
 
-            sock.sendall(request_data)
-            if content_length > 0:  # request payload
-                remaining = content_length
-                while remaining > 0:
-                    chunk_size = min(4096, remaining)
-                    chunk = self.rfile.read(chunk_size)
-                    if not chunk:
-                        break
-                    sock.sendall(chunk)
-                    remaining -= len(chunk)
-    
-            ProxyRequestHandler.get_and_forward_http_response(sock, self.wfile)
+            # eavas_request_buff = io.BytesIO()
+            # eavas_response_buff = io.BytesIO()
+            # eavas_request_lock = threading.Lock()
+            # eavas_response_lock = threading.Lock()
+            
+            # th_request = threading.Thread(target=ProxyRequestHandler.forward_request_forever, args=(self.connection, sock, eavas_request_buff, eavas_request_lock))
+            # th_response = threading.Thread(target=ProxyRequestHandler.forward_response_forever, args=(sock, self.connection, eavas_response_buff, eavas_response_lock))
+            # th_request_eavas = threading.Thread(target=ProxyRequestHandler.eavesdrop_http_request, args=(eavas_request_buff, eavas_request_lock))
+            # th_response_eavas = threading.Thread(target=ProxyRequestHandler.eavesdrop_http_response, args=(eavas_response_buff, eavas_response_lock))
+            
+            # th_request.start()
+            # th_response.start()
+            # th_request_eavas.start()
+            # th_response_eavas.start()
+            
+            # th_request.join()
+            # th_response.join()
+            # th_request_eavas.join()
+            # th_response_eavas.join()
 
-            SOCKETPOOL.release_socket(host, sock)
+            SOCKETPOOL.release_socket(self.hostname, sock)
     
         except Exception as e: 
-            print(e, "wfile:", self.wfile.closed, self.wfile.writable(), flush=True)
-            print(f"\tMAYBE SOCK CLOSED ON BROWSER SIDE/POOL MANAGEMENT\n{request_data.decode('utf-8')}", flush=True)
+            print(f"\tMAYBE SOCK CLOSED ON BROWSER SIDE/POOL MANAGEMENT\n", flush=True)
             # self.send_error(502, "Bad Gateway")
         # finally:
         #     self.wfile.close()

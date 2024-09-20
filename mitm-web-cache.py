@@ -31,8 +31,8 @@ CA_CERT_FILE = "mitmproxy-ca.pem"
 CA_KEY_FILE = "mitmproxy-ca.pem"
 CERT_DIR = "./certs"
 MAX_WORKERS = 10000
-MAX_SESSIONS_PER_HOST = 12
-CONNECTION_IDLE_TIMEOUT = 6000
+MAX_SESSIONS_PER_HOST = 6
+CONNECTION_IDLE_TIMEOUT = 300000
 
 
 def create_certificate(hostname):
@@ -273,18 +273,28 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         self.handle_https_request()
 
     def do_CONNECT(self):
+
         port = "443"
         l_ = self.path.split(':')
         if len(l_) > 1:
             port = l_[1]
         self.hostname = l_[0]
-        if port == '443':
-            self.establish_tls_connection()
-        else:
-            self.send_error(400, "Only HTTPS connections are handled in CONNECT method.")
-            return
-        
-        self.handle_https_request()
+
+        self.sock = SOCKETPOOL.get_socket(self.hostname)
+
+        try:
+            if port == '443':
+                self.establish_tls_connection()
+            else:
+                self.send_error(400, "Only HTTPS connections are handled in CONNECT method.")
+                return
+            
+            self.handle_https_request()
+
+        except Exception as e:
+            print(f"Error handling CONNECT request: {e}", flush=True)
+        finally:
+            SOCKETPOOL.release_socket(self.hostname, self.sock)
 
     def establish_tls_connection(self):
         cert_bytes, key_bytes = create_certificate(self.hostname)
@@ -315,8 +325,8 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 print(e, flush=True)
                 self.send_error(502, "Bad Gateway")
 
-            # self.rfile = self.connection.makefile('rb', buffering=0)
-            # self.wfile = self.connection.makefile('wb', buffering=0)
+            self.rfile = self.connection.makefile('rb', buffering=0)
+            self.wfile = self.connection.makefile('wb', buffering=0)
 
         finally:
             os.remove(cert_file_path)
@@ -357,29 +367,14 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 remaining -= len(chunk)
 
     @staticmethod
-    def eavesdrop_http_request(buff, lock):
-        try:
-            while True:
-                time.sleep(0.1)
-                with lock:
-                    buff.seek(0)
-                    data = buff.read()
-                    if not data:
-                        continue
-
-                    buff.truncate(0)
-                    buff.seek(0)
-                
-        except Exception as e:
-            print(f"Error eavesdropping HTTP request: {e}", flush=True)
-
-    @staticmethod
-    def forward_request_forever(conn, sock, buff, lock):
+    def forward_request_forever(conn, sock):
         try:
             while True:
                 data = conn.read(4096)
-                with lock:
-                    buff.write(data)
+                # if not data:
+                #     break
+                # with lock:
+                #     buff.write(data)
                 sock.sendall(data)
         except Exception as e:
             print(f"Error forwarding data from client to target: {e}", flush=True)
@@ -473,32 +468,24 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             ProxyRequestHandler.handle_content_sized_response(sock, wfile, body, content_length)
 
     @staticmethod
-    def eavesdrop_http_response(buff, lock):
-        try:
-            while True:
-                time.sleep(0.1)
-                with lock:
-                    buff.seek(0)
-                    data = buff.read()
-                    if not data:
-                        continue
-                    # print(data, flush=True)
-                    buff.truncate(0)
-                    buff.seek(0)
-        except Exception as e:
-            print(f"Error eavesdropping HTTP response: {e}", flush=True)
-
-    @staticmethod
-    def forward_response_forever(sock, conn, buff, lock):
-        try:
-            while True:
+    def forward_response_forever(sock, conn):
+        # try:
+        while True:
+            try:
                 data = sock.recv(4096)
-                with lock:
-                    buff.write(data)
+            except Exception as e:
+                print("Error receiving data from target:", e, flush=True)
+            # if not data:
+            #     break
+            # with lock:
+            #     buff.write(data)
+            try:
                 conn.sendall(data)
+            except Exception as e:
+                print("Error sending data to client:", e, flush=True)
 
-        except Exception as e:
-            print(f"Error forwarding data from target to client: {e}", flush=True)
+        # except Exception as e:
+        #     print(f"Error forwarding data from target to client: {e}", flush=True)
 
 
     def handle_https_request(self):
@@ -518,7 +505,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         #     return
     
         try:
-            sock = SOCKETPOOL.get_socket(self.hostname)
+            # sock = SOCKETPOOL.get_socket(self.hostname)
             # sock = socket.create_connection((self.hostname, 443))
             # ssl_context = ssl.create_default_context()
             # sock = ssl_context.wrap_socket(sock, server_hostname=self.hostname)
@@ -527,29 +514,28 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             # eavas_response_buff = io.BytesIO()
             # eavas_request_lock = threading.Lock()
             # eavas_response_lock = threading.Lock()
+
+            sock = self.sock
             
-            # th_request = threading.Thread(target=ProxyRequestHandler.forward_request_forever, args=(self.connection, sock, eavas_request_buff, eavas_request_lock))
-            # th_response = threading.Thread(target=ProxyRequestHandler.forward_response_forever, args=(sock, self.connection, eavas_response_buff, eavas_response_lock))
+            th_request = threading.Thread(target=ProxyRequestHandler.forward_request, args=(self.rfile, sock))
+            th_response = threading.Thread(target=ProxyRequestHandler.forward_response, args=(sock, self.wfile))
             # th_request_eavas = threading.Thread(target=ProxyRequestHandler.eavesdrop_http_request, args=(eavas_request_buff, eavas_request_lock))
             # th_response_eavas = threading.Thread(target=ProxyRequestHandler.eavesdrop_http_response, args=(eavas_response_buff, eavas_response_lock))
             
-            # th_request.start()
-            # th_response.start()
+            th_request.start()
+            th_response.start()
             # th_request_eavas.start()
             # th_response_eavas.start()
             
-            # th_request.join()
-            # th_response.join()
+            th_request.join()
+            th_response.join()
             # th_request_eavas.join()
             # th_response_eavas.join()
 
-            SOCKETPOOL.release_socket(self.hostname, sock)
+            # SOCKETPOOL.release_socket(self.hostname, sock)
     
         except Exception as e: 
             print(f"\tMAYBE SOCK CLOSED ON BROWSER SIDE/POOL MANAGEMENT\n", flush=True)
-            # self.send_error(502, "Bad Gateway")
-        # finally:
-        #     self.wfile.close()
 
 
 def run(server_class=ThreadedHTTPServer, handler_class=ProxyRequestHandler):

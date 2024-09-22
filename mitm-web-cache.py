@@ -280,21 +280,19 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             port = l_[1]
         self.hostname = l_[0]
 
+        # get a proxy-server sock before browser-proxy connection
         self.sock = SOCKETPOOL.get_socket(self.hostname)
 
-        try:
-            if port == '443':
-                self.establish_tls_connection()
-            else:
-                self.send_error(400, "Only HTTPS connections are handled in CONNECT method.")
-                return
-            
+        if port == '443':
+            self.establish_tls_connection()
             self.handle_https_request()
-
-        except Exception as e:
-            print(f"Error handling CONNECT request: {e}", flush=True)
-        finally:
+        else:
+            print(f"!! HTTP IS NOT SUPPORTED !!", flush=True)
+            self.send_error(400, "Only HTTPS connections are handled in CONNECT method.")
             SOCKETPOOL.release_socket(self.hostname, self.sock)
+            return        
+
+        SOCKETPOOL.release_socket(self.hostname, self.sock)
 
     def establish_tls_connection(self):
         cert_bytes, key_bytes = create_certificate(self.hostname)
@@ -333,7 +331,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             os.remove(key_file_path)
 
     @staticmethod
-    def forward_request(rfile, sock):
+    def forward_request(rfile, sock, ts):
         request_headers = b""
         while True:
             line = rfile.readline()
@@ -347,13 +345,12 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 content_length = int(header.split(":")[1].strip())
                 break
     
-        request_data = request_headers + b"\r\n"
-        # print(request_data.decode('utf-8'), flush=True)
-    
+        request_data = request_headers + b"\r\n"    
         request_data_list = request_data.split(b'\r\n')
-        
         request_identifier = request_data_list[0].decode('utf-8') + request_data_list[1].decode('utf-8')
         cache_key = hash_string(request_identifier)
+
+        print(f"{ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
 
         sock.sendall(request_data)
         if content_length > 0:  # request payload
@@ -399,7 +396,6 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 chunk_size_str += data
 
             chunk_size = int(chunk_size_str.split(b"\r\n")[0], 16)
-            # print("chunk_size:", chunk_size_str, chunk_size, flush=True)
             wfile.write(chunk_size_str)
             wfile.flush()
 
@@ -425,8 +421,9 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
     @staticmethod
     def handle_content_sized_response(sock, wfile, body, content_length):
         total_read = len(body)
-        wfile.write(body)
-        wfile.flush()
+        if total_read > 0:
+            wfile.write(body)
+            wfile.flush()
 
         while total_read < content_length:
             to_read = min(4096, content_length - total_read)
@@ -436,9 +433,8 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             wfile.flush()
 
     @staticmethod
-    def forward_response(sock, wfile):
+    def forward_response(sock, wfile, ts):
         response = b""
-        
         while True:
             data = sock.recv(4096)
             response += data
@@ -446,11 +442,15 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 break
 
         headers, body = response.split(b"\r\n\r\n", 1)
-
         header_lines = headers.decode("utf-8").split("\r\n")
+
+        eof_exempt = False
+        status_line = header_lines[0].split()
+        if len(status_line) >= 3 and len(status_line[1]) == 3 and status_line[1].isdigit():
+            eof_exempt = int(status_line[1][0]) > 2
+
         is_chunked = False
         content_length = 0
-
         for header in header_lines:
             if header.lower().startswith("transfer-encoding") and "chunked" in header.lower():
                 is_chunked = True
@@ -462,10 +462,15 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         wfile.write(headers + b"\r\n\r\n")
         wfile.flush()
 
-        if is_chunked:
-            ProxyRequestHandler.handle_chunked_response(sock, wfile, body)
-        elif content_length > 0:
-            ProxyRequestHandler.handle_content_sized_response(sock, wfile, body, content_length)
+        try:
+            if is_chunked:
+                ProxyRequestHandler.handle_chunked_response(sock, wfile, body)
+            elif content_length > 0:
+                ProxyRequestHandler.handle_content_sized_response(sock, wfile, body, content_length)
+        except Exception as e:
+            if not eof_exempt:
+                print(header_lines, flush=True)
+                print(f"{ts}\tError handling response: {e}", flush=True)
 
     @staticmethod
     def forward_response_forever(sock, conn):
@@ -510,27 +515,16 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             # ssl_context = ssl.create_default_context()
             # sock = ssl_context.wrap_socket(sock, server_hostname=self.hostname)
 
-            # eavas_request_buff = io.BytesIO()
-            # eavas_response_buff = io.BytesIO()
-            # eavas_request_lock = threading.Lock()
-            # eavas_response_lock = threading.Lock()
-
             sock = self.sock
-            
-            th_request = threading.Thread(target=ProxyRequestHandler.forward_request, args=(self.rfile, sock))
-            th_response = threading.Thread(target=ProxyRequestHandler.forward_response, args=(sock, self.wfile))
-            # th_request_eavas = threading.Thread(target=ProxyRequestHandler.eavesdrop_http_request, args=(eavas_request_buff, eavas_request_lock))
-            # th_response_eavas = threading.Thread(target=ProxyRequestHandler.eavesdrop_http_response, args=(eavas_response_buff, eavas_response_lock))
-            
+
+            ts = time.time()
+
+            th_request = threading.Thread(target=ProxyRequestHandler.forward_request, args=(self.rfile, sock, ts))
+            th_response = threading.Thread(target=ProxyRequestHandler.forward_response, args=(sock, self.wfile, ts))
             th_request.start()
             th_response.start()
-            # th_request_eavas.start()
-            # th_response_eavas.start()
-            
             th_request.join()
             th_response.join()
-            # th_request_eavas.join()
-            # th_response_eavas.join()
 
             # SOCKETPOOL.release_socket(self.hostname, sock)
     
@@ -541,6 +535,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
 def run(server_class=ThreadedHTTPServer, handler_class=ProxyRequestHandler):
     server_address = ('localhost', 8080)
     httpd = server_class(server_address, handler_class)
+    print("Serving at", server_address, flush=True)
     httpd.serve_forever()
 
 if __name__ == "__main__":

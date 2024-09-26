@@ -31,8 +31,8 @@ CA_CERT_FILE = "mitmproxy-ca.pem"
 CA_KEY_FILE = "mitmproxy-ca.pem"
 CERT_DIR = "./certs"
 MAX_WORKERS = 10000
-MAX_SESSIONS_PER_HOST = 6
-CONNECTION_IDLE_TIMEOUT = 300000
+MAX_SESSIONS_PER_HOST = 3
+CONNECTION_IDLE_TIMEOUT = 30
 
 
 def create_certificate(hostname):
@@ -196,7 +196,7 @@ class SocketPool:
         self.idle_timeout = idle_timeout
         self.pool = {}
         self.connections_per_host = {}
-        self.lock = threading.Lock()
+        self.condition = threading.Condition()
 
     @staticmethod
     def is_socket_alive(sock):
@@ -214,40 +214,66 @@ class SocketPool:
             return False
 
     def get_socket(self, host):
-        with self.lock:
+        with self.condition:
             if host in self.pool:
                 self._cleanup_stale_sockets(host)
             else:
                 self.pool[host] = []
                 self.connections_per_host[host] = 0
             
-            if self.connections_per_host[host] < self.max_connections_per_host:
+            if not self.pool[host] and self.connections_per_host[host] < self.max_connections_per_host:
                 try:
                     sock = socket.create_connection((host, 443))
                     ssl_context = ssl.create_default_context()
                     sock = ssl_context.wrap_socket(sock, server_hostname=host)
+                    print(f"=-=-=-=-= New connection to {host}", flush=True)
                     
                     self.connections_per_host[host] += 1
                     return sock
                 except Exception as e:
                     return None
 
-            while not len(self.pool[host]):
-                time.sleep(0.01)
+            while not self.pool[host]:
+                self.condition.wait()
             sock, _ = self.pool[host].pop()
             return sock
         
     def release_socket(self, host, sock):
-        with self.lock:
-            self.pool[host].append((sock, time.time()))
+        if SocketPool.is_socket_alive(sock):
+            with self.condition:
+                self.pool[host].append((sock, time.time()))
+                self.condition.notify()
+        else:
+            self._cleanup_stale_sockets(host, force=True)
 
-    def _cleanup_stale_sockets(self, host):
+    def _cleanup_stale_sockets(self, host, force=False):
         current_time = time.time()
-        self.pool[host] = [
-            (sock, last_used) for sock, last_used in self.pool[host]
-            if current_time - last_used <= self.idle_timeout and SocketPool.is_socket_alive(sock)
-        ]
-        self.connections_per_host[host] = len(self.pool[host])
+        if not force:
+            clean_all = False
+            for i in range(len(self.pool[host])):
+                sock, last_used = self.pool[host][i]
+                if current_time - last_used > self.idle_timeout or not SocketPool.is_socket_alive(sock):
+                    clean_all = True
+                    break
+        else:
+            clean_all = True
+        
+        if clean_all:
+            print(f"=======c-l-e-a-n-i-n-g=======(host: {host})", flush=True)
+            for sock in self.pool[host]:
+                try:
+                    sock[0].close()
+                except Exception as e:
+                    pass
+            self.connections_per_host[host] -= len(self.pool[host])
+            self.pool[host] = []
+
+        # cur_num_host = len(self.pool[host])
+        # self.pool[host] = [
+        #     (sock, last_used) for sock, last_used in self.pool[host]
+        #     if current_time - last_used <= self.idle_timeout and SocketPool.is_socket_alive(sock)
+        # ]
+        # self.connections_per_host[host] -= cur_num_host - len(self.pool[host])
 
 SOCKETPOOL = SocketPool(max_connections_per_host=MAX_SESSIONS_PER_HOST, idle_timeout=CONNECTION_IDLE_TIMEOUT)
 
@@ -280,19 +306,25 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             port = l_[1]
         self.hostname = l_[0]
 
-        # get a proxy-server sock before browser-proxy connection
-        self.sock = SOCKETPOOL.get_socket(self.hostname)
+        try:
+            # get a proxy-server sock before browser-proxy connection
+            start = time.time()
 
-        if port == '443':
-            self.establish_tls_connection()
-            self.handle_https_request()
-        else:
-            print(f"!! HTTP IS NOT SUPPORTED !!", flush=True)
-            self.send_error(400, "Only HTTPS connections are handled in CONNECT method.")
-            SOCKETPOOL.release_socket(self.hostname, self.sock)
-            return        
-
-        SOCKETPOOL.release_socket(self.hostname, self.sock)
+            if port == '443':
+                self.establish_tls_connection()
+                connection_negotiate_time = time.time() - start
+                self.handle_https_request()
+            else:
+                print(f"!! HTTP IS NOT SUPPORTED !!", flush=True)
+                self.send_error(400, "Only HTTPS connections are handled in CONNECT method.")
+                return        
+        except Exception as e:
+            print("?????", e, flush=True)
+        finally:
+            try:
+                self.connection.close()
+            except Exception as e:
+                print("!!!!!!!!", e, flush=True)
 
     def establish_tls_connection(self):
         cert_bytes, key_bytes = create_certificate(self.hostname)
@@ -307,6 +339,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
 
         try:
             self.send_response(200, "Connection Established")
+            # self.send_header("Connection", "close")
             self.end_headers()
 
             context = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
@@ -330,54 +363,53 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             os.remove(cert_file_path)
             os.remove(key_file_path)
 
-    @staticmethod
-    def forward_request(rfile, sock, ts):
+    def forward_request(self):
         request_headers = b""
         while True:
-            line = rfile.readline()
+            line = self.rfile.readline()
             if not line or line == b"\r\n":
                 break
             request_headers += line
     
         content_length = 0
+        self.sec_fetch_dest = ""
         for header in request_headers.decode().split("\r\n"):
             if header.lower().startswith("content-length"):
                 content_length = int(header.split(":")[1].strip())
-                break
+            if header.lower().startswith("sec-fetch-dest"):
+                self.sec_fetch_dest = header.split(":")[1].strip().lower()
     
         request_data = request_headers + b"\r\n"    
         request_data_list = request_data.split(b'\r\n')
-        request_identifier = request_data_list[0].decode('utf-8') + request_data_list[1].decode('utf-8')
+        request_identifier = request_data_list[0].decode('utf-8')[:80] + request_data_list[1].decode('utf-8')
         cache_key = hash_string(request_identifier)
+        # print(request_identifier)
 
-        print(f"{ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
+        cache_warc = MITMWebCache.find_warc_record(cache_key)
+        if cache_warc:
+            # print("CACHE FOUND", flush=True)
+            return cache_warc, cache_key
+        else:
+            print("PROX FROM WEB", flush=True)
+            print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
 
-        sock.sendall(request_data)
+        self.sock = SOCKETPOOL.get_socket(self.hostname)
+        # print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
+
+        self.sock.sendall(request_data)
         if content_length > 0:  # request payload
             remaining = content_length
             while remaining > 0:
                 chunk_size = min(4096, remaining)
-                chunk = rfile.read(chunk_size)
+                chunk = self.rfile.read(chunk_size)
                 if not chunk:
                     break
-                sock.sendall(chunk)
+                self.sock.sendall(chunk)
                 remaining -= len(chunk)
 
-    @staticmethod
-    def forward_request_forever(conn, sock):
-        try:
-            while True:
-                data = conn.read(4096)
-                # if not data:
-                #     break
-                # with lock:
-                #     buff.write(data)
-                sock.sendall(data)
-        except Exception as e:
-            print(f"Error forwarding data from client to target: {e}", flush=True)
+        return None, cache_key
 
-    @staticmethod
-    def handle_chunked_response(sock, wfile, body):
+    def handle_chunked_response(self, body):
         def read_from_body_or_sock(num_bytes):
             nonlocal body
             if body:
@@ -385,7 +417,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 body = body[len(chunk_data):]  # Remove the chunk from the body
                 return chunk_data
             else:
-                return sock.recv(num_bytes)
+                return self.sock.recv(num_bytes)
 
         while True:
             chunk_size_str = b""
@@ -396,12 +428,20 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 chunk_size_str += data
 
             chunk_size = int(chunk_size_str.split(b"\r\n")[0], 16)
-            wfile.write(chunk_size_str)
-            wfile.flush()
+            try:
+                self.wfile.write(chunk_size_str)
+                self.wfile.flush()
+            except Exception as e:
+                if not self.err_rsc_opt:
+                    raise e
 
             if chunk_size == 0:
-                wfile.write(b"\r\n")
-                wfile.flush()
+                try:
+                    self.wfile.write(b"\r\n")
+                    self.wfile.flush()
+                except Exception as e:
+                    if not self.err_rsc_opt:
+                        raise e
                 break
 
             bytes_received = 0
@@ -410,45 +450,64 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 chunk_data = read_from_body_or_sock(to_read)
                 if not chunk_data:
                     raise Exception("Connection closed unexpectedly while reading chunk data")
-                wfile.write(chunk_data)
-                wfile.flush()
+                try:
+                    self.wfile.write(chunk_data)
+                    self.wfile.flush()
+                except Exception as e:
+                    if not self.err_rsc_opt:
+                        raise e
                 bytes_received += len(chunk_data)
 
             trailing_chars = read_from_body_or_sock(2)  # The trailing CRLF after the chunk data
-            wfile.write(trailing_chars)
-            wfile.flush()
+            try:
+                self.wfile.write(trailing_chars)
+                self.wfile.flush()
+            except Exception as e:
+                if not self.err_rsc_opt:
+                    raise e
 
-    @staticmethod
-    def handle_content_sized_response(sock, wfile, body, content_length):
+    def handle_content_sized_response(self, body, content_length):
         total_read = len(body)
         if total_read > 0:
-            wfile.write(body)
-            wfile.flush()
+            try:
+                self.wfile.write(body)
+                self.wfile.flush()
+            except Exception as e:
+                if not self.err_rsc_opt:
+                    raise e
 
         while total_read < content_length:
             to_read = min(4096, content_length - total_read)
-            data = sock.recv(to_read)
+            data = self.sock.recv(to_read)
             total_read += len(data)
-            wfile.write(data)
-            wfile.flush()
+            try:    
+                self.wfile.write(data)
+                self.wfile.flush()
+            except Exception as e:
+                if not self.err_rsc_opt:
+                    raise e
 
-    @staticmethod
-    def forward_response(sock, wfile, ts):
+    def forward_response(self):
         response = b""
         while True:
-            data = sock.recv(4096)
+            data = self.sock.recv(4096)
             response += data
             if b"\r\n\r\n" in response:
                 break
 
         headers, body = response.split(b"\r\n\r\n", 1)
-        header_lines = headers.decode("utf-8").split("\r\n")
+        header_lines = headers.decode("utf-8").strip("\r\n").split("\r\n")   # add strip to sanitize
 
-        eof_exempt = False
-        status_line = header_lines[0].split()
-        if len(status_line) >= 3 and len(status_line[1]) == 3 and status_line[1].isdigit():
-            eof_exempt = int(status_line[1][0]) > 2
-
+        self.err_rsc_opt = False
+        if self.sec_fetch_dest not in ["", "empty", "none"]:
+            status_line = header_lines[0].split()
+            if len(status_line) >= 3 and len(status_line[1]) == 3 and status_line[1].isdigit():
+                self.err_rsc_opt = int(status_line[1][0]) > 2
+        
+        # self.err_rsc_opt = False
+        # if self.err_rsc_opt:
+        #     updated_headers = []
+        
         is_chunked = False
         content_length = 0
         for header in header_lines:
@@ -459,78 +518,29 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 content_length = int(header.split(":")[1].strip())
                 break
 
-        wfile.write(headers + b"\r\n\r\n")
-        wfile.flush()
+        self.wfile.write(headers + b"\r\n\r\n")
+        self.wfile.flush()
 
-        try:
-            if is_chunked:
-                ProxyRequestHandler.handle_chunked_response(sock, wfile, body)
-            elif content_length > 0:
-                ProxyRequestHandler.handle_content_sized_response(sock, wfile, body, content_length)
-        except Exception as e:
-            if not eof_exempt:
-                print(header_lines, flush=True)
-                print(f"{ts}\tError handling response: {e}", flush=True)
-
-    @staticmethod
-    def forward_response_forever(sock, conn):
-        # try:
-        while True:
-            try:
-                data = sock.recv(4096)
-            except Exception as e:
-                print("Error receiving data from target:", e, flush=True)
-            # if not data:
-            #     break
-            # with lock:
-            #     buff.write(data)
-            try:
-                conn.sendall(data)
-            except Exception as e:
-                print("Error sending data to client:", e, flush=True)
-
-        # except Exception as e:
-        #     print(f"Error forwarding data from target to client: {e}", flush=True)
-
+        if is_chunked:
+            self.handle_chunked_response(body)
+        elif content_length > 0:
+            self.handle_content_sized_response(body, content_length)
 
     def handle_https_request(self):
-        
-        # cache_warc = MITMWebCache.find_warc_record(cache_key)
-        # if False and cache_warc:
-            # MITMWebCache.serve_warc_record(wfile=self.wfile, cache_warc=cache_warc)
-            # return
-        # self.wfile = MITMWebCache.WfileWARCHook(wfile=self.wfile, cache_key=cache_key)
-
-        # host = request_data_list[1].decode('utf-8')[5:].strip()
-    
-        # # Validate and sanitize hostname
-        # if not host or len(host) > 255 or not all(c.isalnum() or c in '-.' for c in host):
-        #     self.send_error(400, f"Invalid hostname {host}")
-        #     self.wfile.close()
-        #     return
     
         try:
-            # sock = SOCKETPOOL.get_socket(self.hostname)
-            # sock = socket.create_connection((self.hostname, 443))
-            # ssl_context = ssl.create_default_context()
-            # sock = ssl_context.wrap_socket(sock, server_hostname=self.hostname)
+            self.ts = time.time()
 
-            sock = self.sock
-
-            ts = time.time()
-
-            th_request = threading.Thread(target=ProxyRequestHandler.forward_request, args=(self.rfile, sock, ts))
-            th_response = threading.Thread(target=ProxyRequestHandler.forward_response, args=(sock, self.wfile, ts))
-            th_request.start()
-            th_response.start()
-            th_request.join()
-            th_response.join()
-
-            # SOCKETPOOL.release_socket(self.hostname, sock)
-    
+            cache_warc, cache_key = self.forward_request()
+            if cache_warc:
+                # print("Serve from cache", flush=True)
+                MITMWEBCACHE.serve_warc_record(wfile=self.wfile, cache_warc=cache_warc)
+            else:
+                self.wfile = MITMWebCache.WfileWARCHook(wfile=self.wfile, cache_key=cache_key)
+                self.forward_response()
+                SOCKETPOOL.release_socket(self.hostname, self.sock)
         except Exception as e: 
-            print(f"\tMAYBE SOCK CLOSED ON BROWSER SIDE/POOL MANAGEMENT\n", flush=True)
-
+            print(f"\t{e}\n\tMAYBE SOCK CLOSED ON BROWSER SIDE/POOL MANAGEMENT\n", flush=True)
 
 def run(server_class=ThreadedHTTPServer, handler_class=ProxyRequestHandler):
     server_address = ('localhost', 8080)

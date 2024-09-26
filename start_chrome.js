@@ -29,6 +29,30 @@ async function startChrome() {
     // Open a new page
     const page = await browser.newPage();
 
+    // Enable request interception to modify or block requests
+    await page.setRequestInterception(true);
+
+    page.on('request', (request) => {
+        const headers = request.headers();
+
+        // Remove 'cookie' header from the request to block cookies being sent
+        if (headers['cookie']) {
+            delete headers['cookie'];
+        }
+
+        request.continue({ headers });
+    });
+
+    page.on('response', async (response) => {
+        const responseHeaders = response.headers();
+
+        // Check if the response is trying to set cookies
+        if (responseHeaders['set-cookie']) {
+            // Remove 'set-cookie' header to prevent setting cookies
+            delete responseHeaders['set-cookie'];
+        }
+    });
+
     // // Enable request interception for controlling request flow
     // await page.setRequestInterception(true);
 

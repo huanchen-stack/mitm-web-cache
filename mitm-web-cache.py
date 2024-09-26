@@ -24,14 +24,14 @@ MONGO_URI = 'localhost:27017'
 DB_NAME = 'mitm-web-cache'
 COLLECTION_NAME = 'web_archive_org'
 R_CACHE = True
-W_CACHE = True
+W_CACHE = R_CACHE
 
 # Proxy server config
 CA_CERT_FILE = "mitmproxy-ca.pem"
 CA_KEY_FILE = "mitmproxy-ca.pem"
 CERT_DIR = "./certs"
 MAX_WORKERS = 10000
-MAX_SESSIONS_PER_HOST = 3
+MAX_SESSIONS_PER_HOST = 5
 CONNECTION_IDLE_TIMEOUT = 30
 
 
@@ -300,6 +300,9 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
 
     def do_CONNECT(self):
 
+        self.ts = time.time()
+        print(f"{self.ts} Connecting to {self.path}", flush=True)
+
         port = "443"
         l_ = self.path.split(':')
         if len(l_) > 1:
@@ -308,6 +311,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
 
         try:
             # get a proxy-server sock before browser-proxy connection
+            # self.sock = SOCKETPOOL.get_socket(self.hostname)
             start = time.time()
 
             if port == '443':
@@ -381,20 +385,25 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
     
         request_data = request_headers + b"\r\n"    
         request_data_list = request_data.split(b'\r\n')
-        request_identifier = request_data_list[0].decode('utf-8')[:80] + request_data_list[1].decode('utf-8')
+        request_identifier = request_data_list[0].decode('utf-8')[:85] + request_data_list[1].decode('utf-8')
         cache_key = hash_string(request_identifier)
         # print(request_identifier)
 
+        print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
         cache_warc = MITMWebCache.find_warc_record(cache_key)
         if cache_warc:
             # print("CACHE FOUND", flush=True)
             return cache_warc, cache_key
         else:
-            print("PROX FROM WEB", flush=True)
-            print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
+            print(f"{self.ts} PROX FROM WEB", flush=True)
+            # print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
 
-        self.sock = SOCKETPOOL.get_socket(self.hostname)
-        # print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
+        if self.sock is None:
+            self.sock = SOCKETPOOL.get_socket(self.hostname)
+            assert self.sock is not None, "WHAT THE FUCK !!!!!!!!!"
+        if not SocketPool.is_socket_alive(self.sock):
+            print("SOCKET NOT ALIVE", flush=True)
+            self.sock = SOCKETPOOL.get_socket(self.hostname)
 
         self.sock.sendall(request_data)
         if content_length > 0:  # request payload
@@ -529,18 +538,20 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
     def handle_https_request(self):
     
         try:
-            self.ts = time.time()
+            # self.ts = time.time()
+            self.sock = None
 
             cache_warc, cache_key = self.forward_request()
             if cache_warc:
-                # print("Serve from cache", flush=True)
+                print(f"{self.ts} Serve from cache", flush=True)
                 MITMWEBCACHE.serve_warc_record(wfile=self.wfile, cache_warc=cache_warc)
+                # cache_warc, cache_key = self.forward_request()
             else:
                 self.wfile = MITMWebCache.WfileWARCHook(wfile=self.wfile, cache_key=cache_key)
                 self.forward_response()
                 SOCKETPOOL.release_socket(self.hostname, self.sock)
         except Exception as e: 
-            print(f"\t{e}\n\tMAYBE SOCK CLOSED ON BROWSER SIDE/POOL MANAGEMENT\n", flush=True)
+            print(f"\t{self.ts}{e}\n\tMAYBE SOCK CLOSED ON BROWSER SIDE/POOL MANAGEMENT\n", flush=True)
 
 def run(server_class=ThreadedHTTPServer, handler_class=ProxyRequestHandler):
     server_address = ('localhost', 8080)

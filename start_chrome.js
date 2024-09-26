@@ -19,8 +19,8 @@ async function startChrome() {
 }
 
 (async function () {
-    const MAX_BATCH_SIZE = 30;  // Maximum number of resources to process in each cycle
-    const INTERVAL = 1000;      // Fixed cycle interval (ms)
+    const MAX_BATCH_SIZE = 10;  // Maximum number of resources to process in each cycle
+    const INTERVAL = 500;      // Fixed cycle interval (ms)
     let pendingRequests = [];
 
     // Start the browser
@@ -30,31 +30,31 @@ async function startChrome() {
     const page = await browser.newPage();
 
     // Enable request interception to modify or block requests
-    await page.setRequestInterception(true);
-
-    page.on('request', (request) => {
-        const headers = request.headers();
-
-        // Remove 'cookie' header from the request to block cookies being sent
-        if (headers['cookie']) {
-            delete headers['cookie'];
-        }
-
-        request.continue({ headers });
-    });
-
-    page.on('response', async (response) => {
-        const responseHeaders = response.headers();
-
-        // Check if the response is trying to set cookies
-        if (responseHeaders['set-cookie']) {
-            // Remove 'set-cookie' header to prevent setting cookies
-            delete responseHeaders['set-cookie'];
-        }
-    });
-
-    // // Enable request interception for controlling request flow
     // await page.setRequestInterception(true);
+
+    // // page.on('request', (request) => {
+    // //     const headers = request.headers();
+
+    // //     // Remove 'cookie' header from the request to block cookies being sent
+    // //     if (headers['cookie']) {
+    // //         delete headers['cookie'];
+    // //     }
+
+    // //     request.continue({ headers });
+    // // });
+
+    // // page.on('response', async (response) => {
+    // //     const responseHeaders = response.headers();
+
+    // //     // Check if the response is trying to set cookies
+    // //     if (responseHeaders['set-cookie']) {
+    // //         // Remove 'set-cookie' header to prevent setting cookies
+    // //         delete responseHeaders['set-cookie'];
+    // //     }
+    // // });
+
+    // // // Enable request interception for controlling request flow
+    // // await page.setRequestInterception(true);
 
     // // Intercept and batch network requests
     // page.on('request', (request) => {
@@ -91,8 +91,8 @@ async function startChrome() {
     // // Start the busy-idle cycle
     // processRequestsInBatches();
 
-    // Let the user manually enter any URL in the browser
-    console.log("Browser launched. Manually enter a URL in the address bar.");
+    // // Let the user manually enter any URL in the browser
+    // console.log("Browser launched. Manually enter a URL in the address bar.");
 
-    // This keeps the browser session alive until manually closed
+    // // This keeps the browser session alive until manually closed
 })();

@@ -30,7 +30,7 @@ W_CACHE = R_CACHE
 CA_CERT_FILE = "mitmproxy-ca.pem"
 CA_KEY_FILE = "mitmproxy-ca.pem"
 CERT_DIR = "./certs"
-MAX_WORKERS = 10000
+MAX_WORKERS = 100000
 MAX_SESSIONS_PER_HOST = 5
 CONNECTION_IDLE_TIMEOUT = 30
 
@@ -103,8 +103,13 @@ class MITMWebCache:
             chunk = warc_stream.read(4096)  # Read in 4096-byte chunks
             if not chunk:
                 break
-            wfile.write(chunk)  # Write the chunk to the browser
-            wfile.flush() 
+            try:
+                wfile.write(chunk)  # Write the chunk to the browser
+                wfile.flush() 
+            except Exception as e:
+                print("============== cache forward exception", e, flush=True)
+                return False
+        return True
 
     class WfileWARCHook(io.BufferedWriter):
         def __init__(self, wfile, cache_key):
@@ -221,12 +226,12 @@ class SocketPool:
                 self.pool[host] = []
                 self.connections_per_host[host] = 0
             
-            if not self.pool[host] and self.connections_per_host[host] < self.max_connections_per_host:
+            if self.connections_per_host[host] < self.max_connections_per_host:
                 try:
                     sock = socket.create_connection((host, 443))
                     ssl_context = ssl.create_default_context()
                     sock = ssl_context.wrap_socket(sock, server_hostname=host)
-                    print(f"=-=-=-=-= New connection to {host}", flush=True)
+                    print(f"=-=-=-=-= New connection to {host}, curr N sock={self.connections_per_host[host]}", flush=True)
                     
                     self.connections_per_host[host] += 1
                     return sock
@@ -326,6 +331,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             print("?????", e, flush=True)
         finally:
             try:
+                # SOCKETPOOL.release_socket(self.hostname, self.sock)
                 self.connection.close()
             except Exception as e:
                 print("!!!!!!!!", e, flush=True)
@@ -343,7 +349,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
 
         try:
             self.send_response(200, "Connection Established")
-            # self.send_header("Connection", "close")
+            self.send_header("Connection", "close")
             self.end_headers()
 
             context = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
@@ -385,18 +391,18 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
     
         request_data = request_headers + b"\r\n"    
         request_data_list = request_data.split(b'\r\n')
-        request_identifier = request_data_list[0].decode('utf-8')[:85] + request_data_list[1].decode('utf-8')
+        request_identifier = request_data_list[0].decode('utf-8') + request_data_list[1].decode('utf-8')
         cache_key = hash_string(request_identifier)
         # print(request_identifier)
 
-        print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
-        cache_warc = MITMWebCache.find_warc_record(cache_key)
-        if cache_warc:
-            # print("CACHE FOUND", flush=True)
-            return cache_warc, cache_key
-        else:
-            print(f"{self.ts} PROX FROM WEB", flush=True)
-            # print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
+        # print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
+        # cache_warc = MITMWebCache.find_warc_record(cache_key)
+        # if cache_warc:
+        #     # print("CACHE FOUND", flush=True)
+        #     return cache_warc, cache_key
+        # else:
+        #     print(f"{self.ts} PROX FROM WEB", flush=True)
+        #     # print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
 
         if self.sock is None:
             self.sock = SOCKETPOOL.get_socket(self.hostname)
@@ -535,16 +541,31 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         elif content_length > 0:
             self.handle_content_sized_response(body, content_length)
 
+    def forward_request_thread_forever(self):
+        while True: self.forward_request()
+    def forward_response_thread_forever(self):
+        while True: self.forward_response()
+
     def handle_https_request(self):
     
+        # self.sock = None
+        # th_request = threading.Thread(target=self.forward_request_thread_forever)
+        # th_response = threading.Thread(target=self.forward_response_thread_forever)
+        # th_request.start()
+        # th_response.start()
+        # th_request.join()
+        # th_response.join()
+
+
         try:
             # self.ts = time.time()
             self.sock = None
-
             cache_warc, cache_key = self.forward_request()
             if cache_warc:
                 print(f"{self.ts} Serve from cache", flush=True)
-                MITMWEBCACHE.serve_warc_record(wfile=self.wfile, cache_warc=cache_warc)
+                succeed = MITMWEBCACHE.serve_warc_record(wfile=self.wfile, cache_warc=cache_warc)
+                if not succeed:
+                    print(f"{self.ts} EXCEPTING CACHE WRITE ERR!!!", flush=True)
                 # cache_warc, cache_key = self.forward_request()
             else:
                 self.wfile = MITMWebCache.WfileWARCHook(wfile=self.wfile, cache_key=cache_key)

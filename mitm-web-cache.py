@@ -306,6 +306,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
     def do_CONNECT(self):
 
         self.ts = time.time()
+        time.sleep(0.05)
         print(f"{self.ts} Connecting to {self.path}", flush=True)
 
         port = "443"
@@ -349,7 +350,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
 
         try:
             self.send_response(200, "Connection Established")
-            self.send_header("Connection", "close")
+            # self.send_header("Connection", "close")
             self.end_headers()
 
             context = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
@@ -395,14 +396,14 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         cache_key = hash_string(request_identifier)
         # print(request_identifier)
 
-        # print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
-        # cache_warc = MITMWebCache.find_warc_record(cache_key)
-        # if cache_warc:
-        #     # print("CACHE FOUND", flush=True)
-        #     return cache_warc, cache_key
-        # else:
-        #     print(f"{self.ts} PROX FROM WEB", flush=True)
-        #     # print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
+        print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
+        cache_warc = MITMWebCache.find_warc_record(cache_key)
+        if cache_warc:
+            # print("CACHE FOUND", flush=True)
+            return cache_warc, cache_key
+        else:
+            print(f"{self.ts} PROX FROM WEB", flush=True)
+            # print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
 
         if self.sock is None:
             self.sock = SOCKETPOOL.get_socket(self.hostname)
@@ -513,6 +514,23 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         headers, body = response.split(b"\r\n\r\n", 1)
         header_lines = headers.decode("utf-8").strip("\r\n").split("\r\n")   # add strip to sanitize
 
+        # Modify the Connection header to be 'close'
+        modified_headers = []
+        connection_header_found = False
+        for line in header_lines:
+            if line.lower().startswith("connection:"):
+                modified_headers.append("Connection: close")
+                connection_header_found = True
+            else:
+                modified_headers.append(line)
+        
+        if not connection_header_found:
+            modified_headers.append("Connection: close")
+
+        # Reconstruct the response
+        modified_headers = "\r\n".join(modified_headers).encode("utf-8")
+
+
         self.err_rsc_opt = False
         if self.sec_fetch_dest not in ["", "empty", "none"]:
             status_line = header_lines[0].split()
@@ -533,7 +551,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 content_length = int(header.split(":")[1].strip())
                 break
 
-        self.wfile.write(headers + b"\r\n\r\n")
+        self.wfile.write(modified_headers + b"\r\n\r\n")
         self.wfile.flush()
 
         if is_chunked:

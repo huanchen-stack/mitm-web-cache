@@ -277,8 +277,6 @@ class SocketPool:
         # ]
         # self.connections_per_host[host] -= cur_num_host - len(self.pool[host])
 
-
-
 SOCKETPOOL = SocketPool(max_connections_per_host=MAX_SESSIONS_PER_HOST, idle_timeout=CONNECTION_IDLE_TIMEOUT)
 
 class ConnectionPool:

@@ -14,10 +14,10 @@ from OpenSSL import crypto
 import time
 from concurrent.futures import ThreadPoolExecutor
 import random
-from warcio.warcwriter import WARCWriter
-from warcio.archiveiterator import ArchiveIterator
-from warcio.statusandheaders import StatusAndHeaders
-import brotli  # MUST IMPORT: IMPLICITELY USED BY WARCIO LIBRARY
+# from warcio.warcwriter import WARCWriter
+# from warcio.archiveiterator import ArchiveIterator
+# from warcio.statusandheaders import StatusAndHeaders
+# import brotli  # MUST IMPORT: IMPLICITELY USED BY WARCIO LIBRARY
 
 # MongoDB setup
 MONGO_URI = 'localhost:27017'
@@ -29,7 +29,6 @@ W_CACHE = R_CACHE
 # Proxy server config
 CA_CERT_FILE = "mitmproxy-ca.pem"
 CA_KEY_FILE = "mitmproxy-ca.pem"
-CERT_DIR = "./certs"
 MAX_WORKERS = 100000
 MAX_SESSIONS_PER_HOST = 5
 CONNECTION_IDLE_TIMEOUT = 30

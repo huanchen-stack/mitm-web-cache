@@ -31,7 +31,7 @@ W_CACHE = R_CACHE
 CA_CERT_FILE = "mitmproxy-ca.pem"
 CA_KEY_FILE = "mitmproxy-ca.pem"
 MAX_WORKERS = 100000
-MAX_SESSIONS_PER_HOST = 5
+MAX_SESSIONS_PER_HOST = 6
 CONNECTION_IDLE_TIMEOUT = 30
 
 
@@ -371,6 +371,7 @@ class ConnectionPool:
                     self.pool.remove(sock_item)
 
         def cleanup(self):
+            return
             with self.condition:
                 to_be_removed = []
                 for sock_item in self.pool:
@@ -379,6 +380,8 @@ class ConnectionPool:
                         to_be_removed.append(sock_item)
                 for sock_item in to_be_removed:
                     self.pool.remove(sock_item)
+
+SOCKETPOOL = ConnectionPool()
 
 class ProxyRequestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
@@ -480,7 +483,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             if not line or line == b"\r\n":
                 break
             request_headers += line
-    
+
         content_length = 0
         self.sec_fetch_dest = ""
         for header in request_headers.decode().split("\r\n"):
@@ -500,25 +503,35 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         cache_warc = MITMWebCache.find_warc_record(cache_key)
         if cache_warc:
             return cache_warc, cache_key
-        else:
-            print(f"{self.ts} PROX FROM WEB", flush=True)
 
         if self.sock is None:
             self.sock = SOCKETPOOL.get_socket(self.hostname)
         if not SocketPool.is_socket_alive(self.sock):  # sanity check?
             print("SOCKET NOT ALIVE", flush=True)
             self.sock = SOCKETPOOL.get_socket(self.hostname)
+        print(f"{self.ts} PROX FROM WEB with sock {id(self.sock)}", flush=True)
 
-        self.sock.sendall(request_data)
-        if content_length > 0:  # request payload
-            remaining = content_length
-            while remaining > 0:
-                chunk_size = min(4096, remaining)
-                chunk = self.rfile.read(chunk_size)
-                if not chunk:
-                    break
-                self.sock.sendall(chunk)
-                remaining -= len(chunk)
+        self.sock.settimeout(30)
+        try:
+            self.sock.sendall(request_data)
+            if content_length > 0:  # request payload
+                remaining = content_length
+                while remaining > 0:
+                    chunk_size = min(4096, remaining)
+                    chunk = self.rfile.read(chunk_size)
+                    if not chunk:
+                        break
+                    self.sock.sendall(chunk)
+                    remaining -= len(chunk)
+        except socket.timeout:
+            print(f"{self.ts} Request timeout", flush=True)
+            return None, None
+        except Exception as e:
+            print(f"{self.ts} Request failed: {e}", flush=True)
+            return None, None
+        finally:
+            self.sock.settimeout(None)
+        print(f"{self.ts} Request forwarded", flush=True)
 
         return None, cache_key
 
@@ -601,13 +614,25 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                     raise e
 
     def forward_response(self):
+        self.sock.settimeout(30)
         response = b""
-        while True:
-            data = self.sock.recv(4096)
-            response += data
-            if b"\r\n\r\n" in response:
-                break
-
+        try:
+            while True:
+                data = self.sock.recv(4096)
+                if data:
+                    print(f"{self.ts} Receiving {len(data)} bytes", flush=True)
+                else:
+                    break
+                response += data
+                if b"\r\n\r\n" in response:
+                    break
+        except socket.timeout:
+            print(f"{self.ts} Response timeout", flush=True)
+            return
+        finally:
+            self.sock.settimeout(None)
+        
+        # print(response.decode("utf-8").split("\r\n")[0], flush=True)
         headers, body = response.split(b"\r\n\r\n", 1)
         header_lines = headers.decode("utf-8").strip("\r\n").split("\r\n")   # add strip to sanitize
 
@@ -657,7 +682,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 if not succeed:
                     print(f"{self.ts} EXCEPTING CACHE WRITE ERR!!!", flush=True)
                 # cache_warc, cache_key = self.forward_request()
-            else:
+            elif cache_key:
                 self.wfile = MITMWebCache.WfileWARCHook(wfile=self.wfile, cache_key=cache_key)
                 self.forward_response()
         except Exception as e: 

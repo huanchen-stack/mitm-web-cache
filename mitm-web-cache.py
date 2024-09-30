@@ -14,6 +14,7 @@ from OpenSSL import crypto
 import time
 from concurrent.futures import ThreadPoolExecutor
 import random
+
 # from warcio.warcwriter import WARCWriter
 # from warcio.archiveiterator import ArchiveIterator
 # from warcio.statusandheaders import StatusAndHeaders
@@ -276,7 +277,110 @@ class SocketPool:
         # ]
         # self.connections_per_host[host] -= cur_num_host - len(self.pool[host])
 
+
+
 SOCKETPOOL = SocketPool(max_connections_per_host=MAX_SESSIONS_PER_HOST, idle_timeout=CONNECTION_IDLE_TIMEOUT)
+
+class ConnectionPool:
+
+    max_connections_per_host = MAX_SESSIONS_PER_HOST
+    max_connection_timeout = CONNECTION_IDLE_TIMEOUT
+    
+    def __init__(self):
+        self.hosts = {}
+    
+    def get_socket(self, host):
+        if host not in self.hosts:
+            self.hosts[host] = ConnectionPool.HostPool(host)
+        return self.hosts[host].get_socket()
+    
+    def release_socket(self, host, sock):
+        self.hosts[host].release_socket(sock)
+
+    @staticmethod
+    def _create_socket(host, port=443):
+        try:
+            sock = socket.create_connection((host, port))
+            ssl_context = ssl.create_default_context()
+            sock = ssl_context.wrap_socket(sock, server_hostname=host)
+        except Exception as e:
+            print("Socket creation failed:", e, flush=True)
+            return None
+        return sock
+    
+    @staticmethod
+    def _destroy_socket(sock):
+        try:
+            sock.close()
+        except Exception as e:
+            print("Socket destruction failed:", e, flush=True)
+            return False
+        return True
+    
+    @staticmethod
+    def _is_socket_alive(sock):
+        try:
+            ready_to_read, _, in_error = select.select([sock], [], [], 0)
+            if in_error:
+                return False
+            if ready_to_read:
+                data = sock.recv(1, socket.MSG_PEEK)
+                if not data:
+                    return False
+            return True
+        except Exception:
+            return False
+
+    class HostPool:
+        def __init__(self, host):
+            self.host = host
+            self.pool = []
+            self.condition = threading.Condition()
+            self.max_retries = 3
+
+        def get_socket(self):
+            with self.condition:
+                while True:
+                    self.cleanup()
+
+                    if len(self.pool) < ConnectionPool.max_connections_per_host:
+                        for _ in range(self.max_retries):
+                            sock = ConnectionPool._create_socket(self.host)
+                            if sock:
+                                self.pool.append({"sock": sock, "status": "busy"})
+                                return sock
+
+                    for sock_item in self.pool:
+                        if sock_item["status"] == "idle":
+                            sock_item["status"] = "busy"
+                            return sock_item["sock"]
+
+                    self.condition.wait(timeout=10)
+
+        def release_socket(self, sock):
+            with self.condition:
+                to_be_removed = []
+                for sock_item in self.pool:
+                    if sock_item["sock"] == sock:
+                        if ConnectionPool._is_socket_alive(sock):
+                            sock_item["status"] = "idle"
+                        else:
+                            ConnectionPool._destroy_socket(sock)
+                            to_be_removed.append(sock_item)
+                        self.condition.notify()
+                        break
+                for sock_item in to_be_removed:
+                    self.pool.remove(sock_item)
+
+        def cleanup(self):
+            with self.condition:
+                to_be_removed = []
+                for sock_item in self.pool:
+                    if not ConnectionPool._is_socket_alive(sock_item["sock"]):
+                        ConnectionPool._destroy_socket(sock_item["sock"])
+                        to_be_removed.append(sock_item)
+                for sock_item in to_be_removed:
+                    self.pool.remove(sock_item)
 
 class ProxyRequestHandler(BaseHTTPRequestHandler):
     def do_GET(self):

@@ -97,8 +97,6 @@ class MITMWebCache:
         #         wfile.flush()
         #     wfile.flush()
         warc_stream = io.BytesIO(cache_warc)  # Create a byte stream for the cached response
-        
-        # Read and serve the entire payload (which includes status line, headers, and body)
         while True:
             chunk = warc_stream.read(4096)  # Read in 4096-byte chunks
             if not chunk:
@@ -107,7 +105,6 @@ class MITMWebCache:
                 wfile.write(chunk)  # Write the chunk to the browser
                 wfile.flush() 
             except Exception as e:
-                print("============== cache forward exception", e, flush=True)
                 return False
         return True
 
@@ -148,7 +145,6 @@ class MITMWebCache:
                     #     payload=self.buff,
                     #     http_headers=status_and_headers
                     # )
-                    
 
                     MITMWebCache.db_collection.update_one(
                         {"_id": self.cache_key},
@@ -249,6 +245,7 @@ class SocketPool:
                 self.pool[host].append((sock, time.time()))
                 self.condition.notify()
         else:
+            self.connections_per_host[host] -= 1
             self._cleanup_stale_sockets(host, force=True)
 
     def _cleanup_stale_sockets(self, host, force=False):
@@ -304,10 +301,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
         self.handle_https_request()
 
     def do_CONNECT(self):
-
         self.ts = time.time()
-        time.sleep(0.05)
-        print(f"{self.ts} Connecting to {self.path}", flush=True)
 
         port = "443"
         l_ = self.path.split(':')
@@ -315,14 +309,15 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             port = l_[1]
         self.hostname = l_[0]
 
+        if "archive.org" not in self.hostname:
+            self.send_error(400, "Only archive.org is supported.")
+            return
+
         try:
             # get a proxy-server sock before browser-proxy connection
             # self.sock = SOCKETPOOL.get_socket(self.hostname)
-            start = time.time()
-
             if port == '443':
                 self.establish_tls_connection()
-                connection_negotiate_time = time.time() - start
                 self.handle_https_request()
             else:
                 print(f"!! HTTP IS NOT SUPPORTED !!", flush=True)
@@ -350,7 +345,6 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
 
         try:
             self.send_response(200, "Connection Established")
-            # self.send_header("Connection", "close")
             self.end_headers()
 
             context = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
@@ -360,6 +354,10 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 return
             try:
                 self.connection = context.wrap_socket(self.connection, server_side=True)
+
+                remote_ip, remote_port = self.connection.getpeername()
+                print(f"{self.ts} TLS connection established with {remote_ip}:{remote_port}", flush=True)
+
             except ssl.SSLError as e:
                 print(e, flush=True)
                 self.send_error(502, "Bad Gateway")
@@ -391,24 +389,22 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 self.sec_fetch_dest = header.split(":")[1].strip().lower()
     
         request_data = request_headers + b"\r\n"    
-        request_data_list = request_data.split(b'\r\n')
+        request_data_list = request_data.strip().split(b'\r\n')
         request_identifier = request_data_list[0].decode('utf-8') + request_data_list[1].decode('utf-8')
         cache_key = hash_string(request_identifier)
-        # print(request_identifier)
+
+        self.method = request_data_list[0].decode('utf-8').split(' ')[0]
 
         print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
         cache_warc = MITMWebCache.find_warc_record(cache_key)
         if cache_warc:
-            # print("CACHE FOUND", flush=True)
             return cache_warc, cache_key
         else:
             print(f"{self.ts} PROX FROM WEB", flush=True)
-            # print(f"{self.ts}\tREQUEST: {request_data_list[0].decode('utf-8')}\t{request_data_list[1].decode('utf-8')}", flush=True)
 
         if self.sock is None:
             self.sock = SOCKETPOOL.get_socket(self.hostname)
-            assert self.sock is not None, "WHAT THE FUCK !!!!!!!!!"
-        if not SocketPool.is_socket_alive(self.sock):
+        if not SocketPool.is_socket_alive(self.sock):  # sanity check?
             print("SOCKET NOT ALIVE", flush=True)
             self.sock = SOCKETPOOL.get_socket(self.hostname)
 
@@ -516,31 +512,24 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
 
         # Modify the Connection header to be 'close'
         modified_headers = []
-        connection_header_found = False
         for line in header_lines:
-            if line.lower().startswith("connection:"):
-                modified_headers.append("Connection: close")
-                connection_header_found = True
-            else:
+            if not line.lower().startswith("connection:"):
                 modified_headers.append(line)
-        
-        if not connection_header_found:
-            modified_headers.append("Connection: close")
-
-        # Reconstruct the response
+        modified_headers.append("Connection: close")
         modified_headers = "\r\n".join(modified_headers).encode("utf-8")
 
+        self.wfile.write(modified_headers + b"\r\n\r\n")
+        self.wfile.flush()
 
+        if self.method == "HEAD":
+            return
+        
+        status_line = header_lines[0].split()
         self.err_rsc_opt = False
         if self.sec_fetch_dest not in ["", "empty", "none"]:
-            status_line = header_lines[0].split()
             if len(status_line) >= 3 and len(status_line[1]) == 3 and status_line[1].isdigit():
                 self.err_rsc_opt = int(status_line[1][0]) > 2
-        
-        # self.err_rsc_opt = False
-        # if self.err_rsc_opt:
-        #     updated_headers = []
-        
+
         is_chunked = False
         content_length = 0
         for header in header_lines:
@@ -551,33 +540,15 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 content_length = int(header.split(":")[1].strip())
                 break
 
-        self.wfile.write(modified_headers + b"\r\n\r\n")
-        self.wfile.flush()
-
         if is_chunked:
             self.handle_chunked_response(body)
         elif content_length > 0:
             self.handle_content_sized_response(body, content_length)
 
-    def forward_request_thread_forever(self):
-        while True: self.forward_request()
-    def forward_response_thread_forever(self):
-        while True: self.forward_response()
-
     def handle_https_request(self):
-    
-        # self.sock = None
-        # th_request = threading.Thread(target=self.forward_request_thread_forever)
-        # th_response = threading.Thread(target=self.forward_response_thread_forever)
-        # th_request.start()
-        # th_response.start()
-        # th_request.join()
-        # th_response.join()
-
-
         try:
-            # self.ts = time.time()
             self.sock = None
+
             cache_warc, cache_key = self.forward_request()
             if cache_warc:
                 print(f"{self.ts} Serve from cache", flush=True)
@@ -588,9 +559,12 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
             else:
                 self.wfile = MITMWebCache.WfileWARCHook(wfile=self.wfile, cache_key=cache_key)
                 self.forward_response()
-                SOCKETPOOL.release_socket(self.hostname, self.sock)
         except Exception as e: 
             print(f"\t{self.ts}{e}\n\tMAYBE SOCK CLOSED ON BROWSER SIDE/POOL MANAGEMENT\n", flush=True)
+        finally:
+            if self.sock:
+                SOCKETPOOL.release_socket(self.hostname, self.sock)
+
 
 def run(server_class=ThreadedHTTPServer, handler_class=ProxyRequestHandler):
     server_address = ('localhost', 8080)

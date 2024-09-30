@@ -622,7 +622,7 @@ class ProxyRequestHandler(BaseHTTPRequestHandler):
                 if data:
                     print(f"{self.ts} Receiving {len(data)} bytes", flush=True)
                 else:
-                    break
+                    raise socket.timeout
                 response += data
                 if b"\r\n\r\n" in response:
                     break

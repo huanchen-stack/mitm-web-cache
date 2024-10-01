@@ -16,12 +16,14 @@ def read_top_websites(csv_file, num_websites=100):
 
 def get_first_archive_in_2024(website):
     """Fetches the first archive link from 2024 for a given website."""
-    api_url = f"http://archive.org/wayback/available?url={website}&timestamp=20240101"
+    api_url = f"http://archive.org/wayback/available?url={website}&from=20240101"
     response = requests.get(api_url)
     if response.status_code == 200:
         data = response.json()
         snapshots = data.get("archived_snapshots")
         if snapshots and "closest" in snapshots:
+            if "/2024" not in snapshots["closest"]["url"]:
+                return None
             return snapshots["closest"]["url"]
     return None
 

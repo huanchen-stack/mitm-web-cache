@@ -7,4 +7,4 @@ certs/
 chrome_data/
 node_modules/
 test/chrome_data/
-test/resources/
+# test/resources/

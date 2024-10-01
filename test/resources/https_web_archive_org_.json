@@ -1,0 +1,1604 @@
+{
+    "stats": {
+        "total_resources": [
+            56,
+            56,
+            56,
+            56
+        ],
+        "non_erroneous_resources": [
+            55,
+            55,
+            55,
+            55
+        ],
+        "resources_200": [
+            55,
+            55,
+            55,
+            55
+        ],
+        "resources_404": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://polyfill.archive.org/v3/polyfill.min.js?features=fetch,IntersectionObserver,ResizeObserver,globalThis,Element.prototype.getAttributeNames,String.prototype.startsWith,Array.prototype.flat,Element.prototype.closest,Element.prototype.scroll,Element.prototype.remove,Object.entries,Object.values,Object.fromEntries",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/lit/polyfill-support.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/ia-topnav.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/archive.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/css/archive.min.css?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/styles.css?v=X-Ndhul9",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/web.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/main.a45b45c852f370f18257.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/runtime.d5f0d799718b48de84ef.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/vendors~main.1f961daf77a0d809fbef.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/main.a45b45c852f370f18257.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/logo_archive-sm.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?cache_bust=0.5344790118624851&kind=track_js&track_js_case=external_executes&service=ao_2&version=2&count=6",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/vendors~revolving-landing.5b0135d74f850831eab7.chunk.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/revolving-landing.b3676464120ac6143de6.chunk.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/revolving-landing.b3676464120ac6143de6.chunk.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_deviantart.com_20131015212820.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_cl.cam.ac.uk_20130109210545.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_foodnetwork.com_20131020224056.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_yahoo.com_20110331050410.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_spiegel.de_20131001152630.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_imdb.com_20131021165347.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_stackoverflow.com_20131014212210.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_ubl.com_19961227203847.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_bloomberg.com_20131001231045.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjsscreenshots/wm_reference.com_20131018071258.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": "net::ERR_BLOCKED_BY_ORB"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_feedmag.com_19961223105317.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_wikihow.com_20131021205646.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nbcnews.com_20131021172452.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_goodreads.com_20131021004242.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_obamaforillinois.com_20041109042806.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_geocities.com_19970222174751.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_amazon.com_20050204004733.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nytimes.com_20131001014236.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_bbc.co.uk_20131001001332.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_huffingtonpost.com_20131021171112.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_reddit.com_20131001031539.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_cnet.com_20131021020703.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_whitehouse.gov_19961227062541.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_aol.com_20131001050131.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_yelp.com_20131019024453.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_etsy.com_20130601013852.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_foxnews.com_20131001010827.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_well.com_19970108065337.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_w3schools.com_20131019005510.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_buzzfeed.com_20131021173221.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nasa.gov_19961231235847.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_mashable.com_20131021021614.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nfl.com_20131021073925.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/search/collectioninfo?collection=all",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?path=&service=wb&server_name=wwwb-app220.us.archive.org&server_ms=36&kind=pageview&timediff=-7&locale=en-US&referrer=-&loadtime=4298&nav_to_done_ms=4910&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=14",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://polyfill.archive.org/v3/polyfill.min.js?features=fetch,IntersectionObserver,ResizeObserver,globalThis,Element.prototype.getAttributeNames,String.prototype.startsWith,Array.prototype.flat,Element.prototype.closest,Element.prototype.scroll,Element.prototype.remove,Object.entries,Object.values,Object.fromEntries",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/lit/polyfill-support.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/ia-topnav.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/archive.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/css/archive.min.css?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/styles.css?v=X-Ndhul9",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/web.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/main.a45b45c852f370f18257.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/runtime.d5f0d799718b48de84ef.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/vendors~main.1f961daf77a0d809fbef.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/main.a45b45c852f370f18257.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/logo_archive-sm.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?cache_bust=0.7463061479270698&kind=track_js&track_js_case=external_executes&service=ao_2&version=2&count=6",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/vendors~revolving-landing.5b0135d74f850831eab7.chunk.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/revolving-landing.b3676464120ac6143de6.chunk.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/revolving-landing.b3676464120ac6143de6.chunk.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_deviantart.com_20131015212820.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_cl.cam.ac.uk_20130109210545.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_foodnetwork.com_20131020224056.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_yahoo.com_20110331050410.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_spiegel.de_20131001152630.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_imdb.com_20131021165347.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_stackoverflow.com_20131014212210.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_ubl.com_19961227203847.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_bloomberg.com_20131001231045.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjsscreenshots/wm_reference.com_20131018071258.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": "net::ERR_BLOCKED_BY_ORB"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_feedmag.com_19961223105317.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_wikihow.com_20131021205646.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nbcnews.com_20131021172452.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_goodreads.com_20131021004242.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_obamaforillinois.com_20041109042806.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_geocities.com_19970222174751.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_amazon.com_20050204004733.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nytimes.com_20131001014236.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_bbc.co.uk_20131001001332.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_huffingtonpost.com_20131021171112.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_reddit.com_20131001031539.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_cnet.com_20131021020703.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_whitehouse.gov_19961227062541.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_aol.com_20131001050131.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_yelp.com_20131019024453.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_etsy.com_20130601013852.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_foxnews.com_20131001010827.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_well.com_19970108065337.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_w3schools.com_20131019005510.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_buzzfeed.com_20131021173221.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nasa.gov_19961231235847.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_mashable.com_20131021021614.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nfl.com_20131021073925.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/search/collectioninfo?collection=all",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?path=&service=wb&server_name=wwwb-app220.us.archive.org&server_ms=36&kind=pageview&timediff=-7&locale=en-US&referrer=-&loadtime=5841&nav_to_done_ms=6392&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=14",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://polyfill.archive.org/v3/polyfill.min.js?features=fetch,IntersectionObserver,ResizeObserver,globalThis,Element.prototype.getAttributeNames,String.prototype.startsWith,Array.prototype.flat,Element.prototype.closest,Element.prototype.scroll,Element.prototype.remove,Object.entries,Object.values,Object.fromEntries",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/lit/polyfill-support.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/ia-topnav.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/archive.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/css/archive.min.css?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/styles.css?v=X-Ndhul9",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/web.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/main.a45b45c852f370f18257.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/runtime.d5f0d799718b48de84ef.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/vendors~main.1f961daf77a0d809fbef.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/main.a45b45c852f370f18257.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/logo_archive-sm.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?cache_bust=0.33992123259296037&kind=track_js&track_js_case=external_executes&service=ao_2&version=2&count=6",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/vendors~revolving-landing.5b0135d74f850831eab7.chunk.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/revolving-landing.b3676464120ac6143de6.chunk.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/revolving-landing.b3676464120ac6143de6.chunk.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_deviantart.com_20131015212820.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_cl.cam.ac.uk_20130109210545.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_foodnetwork.com_20131020224056.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_yahoo.com_20110331050410.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_spiegel.de_20131001152630.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_imdb.com_20131021165347.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_stackoverflow.com_20131014212210.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_ubl.com_19961227203847.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_bloomberg.com_20131001231045.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjsscreenshots/wm_reference.com_20131018071258.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": "net::ERR_BLOCKED_BY_ORB"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_feedmag.com_19961223105317.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_wikihow.com_20131021205646.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nbcnews.com_20131021172452.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_goodreads.com_20131021004242.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_obamaforillinois.com_20041109042806.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_geocities.com_19970222174751.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_amazon.com_20050204004733.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nytimes.com_20131001014236.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_bbc.co.uk_20131001001332.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_huffingtonpost.com_20131021171112.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_reddit.com_20131001031539.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_cnet.com_20131021020703.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_whitehouse.gov_19961227062541.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_aol.com_20131001050131.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_yelp.com_20131019024453.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_etsy.com_20130601013852.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_foxnews.com_20131001010827.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_well.com_19970108065337.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_w3schools.com_20131019005510.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_buzzfeed.com_20131021173221.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nasa.gov_19961231235847.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_mashable.com_20131021021614.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nfl.com_20131021073925.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/search/collectioninfo?collection=all",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?path=&service=wb&server_name=wwwb-app220.us.archive.org&server_ms=36&kind=pageview&timediff=-7&locale=en-US&referrer=-&loadtime=5247&nav_to_done_ms=5986&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=14",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://polyfill.archive.org/v3/polyfill.min.js?features=fetch,IntersectionObserver,ResizeObserver,globalThis,Element.prototype.getAttributeNames,String.prototype.startsWith,Array.prototype.flat,Element.prototype.closest,Element.prototype.scroll,Element.prototype.remove,Object.entries,Object.values,Object.fromEntries",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/lit/polyfill-support.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/ia-topnav.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/archive.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/css/archive.min.css?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/styles.css?v=X-Ndhul9",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/web.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/main.a45b45c852f370f18257.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/runtime.d5f0d799718b48de84ef.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/vendors~main.1f961daf77a0d809fbef.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/main.a45b45c852f370f18257.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/logo_archive-sm.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?cache_bust=0.283292387562849&kind=track_js&track_js_case=external_executes&service=ao_2&version=2&count=6",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/vendors~revolving-landing.5b0135d74f850831eab7.chunk.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/revolving-landing.b3676464120ac6143de6.chunk.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/revolving-landing.b3676464120ac6143de6.chunk.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_deviantart.com_20131015212820.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_cl.cam.ac.uk_20130109210545.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_foodnetwork.com_20131020224056.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_yahoo.com_20110331050410.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_spiegel.de_20131001152630.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_imdb.com_20131021165347.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_stackoverflow.com_20131014212210.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_ubl.com_19961227203847.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_bloomberg.com_20131001231045.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjsscreenshots/wm_reference.com_20131018071258.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": "net::ERR_BLOCKED_BY_ORB"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_feedmag.com_19961223105317.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_wikihow.com_20131021205646.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nbcnews.com_20131021172452.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_goodreads.com_20131021004242.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_obamaforillinois.com_20041109042806.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_geocities.com_19970222174751.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_amazon.com_20050204004733.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nytimes.com_20131001014236.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_bbc.co.uk_20131001001332.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_huffingtonpost.com_20131021171112.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_reddit.com_20131001031539.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_cnet.com_20131021020703.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_whitehouse.gov_19961227062541.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_aol.com_20131001050131.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_yelp.com_20131019024453.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_etsy.com_20130601013852.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_foxnews.com_20131001010827.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_well.com_19970108065337.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_w3schools.com_20131019005510.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_buzzfeed.com_20131021173221.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nasa.gov_19961231235847.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_mashable.com_20131021021614.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/waybackjs/screenshots/wm_nfl.com_20131021073925.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/search/collectioninfo?collection=all",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?path=&service=wb&server_name=wwwb-app220.us.archive.org&server_ms=36&kind=pageview&timediff=-7&locale=en-US&referrer=-&loadtime=1448&nav_to_done_ms=1505&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=14",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ]
+}

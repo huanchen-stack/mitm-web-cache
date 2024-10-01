@@ -1,0 +1,1366 @@
+{
+    "stats": {
+        "total_resources": [
+            49,
+            47,
+            47,
+            47
+        ],
+        "non_erroneous_resources": [
+            46,
+            44,
+            44,
+            44
+        ],
+        "resources_200": [
+            32,
+            31,
+            31,
+            31
+        ],
+        "resources_404": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002448/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320cs_/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002449/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002707/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002448cs_/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000317/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://www.instagram.com/ajax/qm/?__a=1&__user=0&__comet_req=7&jazoest=21074",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000320/https%3A//www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000320/https%3A//www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.instagram.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.instagram.com%2F&timestamp=20240102000320",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/http://web.archive.org/screenshot/https://www.instagram.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002449js_/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309js_/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000317js_/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app28.us.archive.org&server_ms=875&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=1763&nav_to_done_ms=6045&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231222001016/http://web.archive.org/screenshot/https://www.instagram.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309js_/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002707js_/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320im_/https://static.cdninstagram.com/rsrc.php/y4/r/QaBlI0OZiks.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000307im_/https://static.cdninstagram.com/rsrc.php/y4/r/QaBlI0OZiks.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "Navigation timeout of 300000 ms exceeded"
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002448/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320cs_/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002707/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002448cs_/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://www.instagram.com/ajax/qm/?__a=1&__user=0&__comet_req=7&jazoest=21074",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000320/https%3A//www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000320/https%3A//www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.instagram.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/http://web.archive.org/screenshot/https://www.instagram.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.instagram.com%2F&timestamp=20240102000320",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000317/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app202.us.archive.org&server_ms=911&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=981&nav_to_done_ms=6249&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231222001016/http://web.archive.org/screenshot/https://www.instagram.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309js_/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002449js_/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002707js_/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000317js_/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309js_/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002449/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "Navigation timeout of 300000 ms exceeded"
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002448/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320cs_/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002707/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002448cs_/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002449/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://www.instagram.com/ajax/qm/?__a=1&__user=0&__comet_req=7&jazoest=21074",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000320/https%3A//www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000320/https%3A//www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.instagram.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/http://web.archive.org/screenshot/https://www.instagram.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.instagram.com%2F&timestamp=20240102000320",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000317/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app223.us.archive.org&server_ms=1607&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3348&nav_to_done_ms=9155&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231222001016/http://web.archive.org/screenshot/https://www.instagram.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309js_/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002707js_/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002449js_/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000317js_/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309js_/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "Navigation timeout of 300000 ms exceeded"
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002448/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002707/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320cs_/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002449/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://www.instagram.com/ajax/qm/?__a=1&__user=0&__comet_req=7&jazoest=21074",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320js_/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000320/https%3A//www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000320/https%3A//www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.instagram.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/http://web.archive.org/screenshot/https://www.instagram.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.instagram.com%2F&timestamp=20240102000320",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231222001016/http://web.archive.org/screenshot/https://www.instagram.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000317/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002448cs_/https://static.cdninstagram.com/rsrc.php/v3/yM/l/0,cross/iJ8la7JMB07OjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002707js_/https://static.cdninstagram.com/rsrc.php/v3/ya/r/JcZfFI94ia7.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app223.us.archive.org&server_ms=1607&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3820&nav_to_done_ms=4186&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309js_/https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002449js_/https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000317js_/https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000309js_/https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000320/https://www.instagram.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "Navigation timeout of 300000 ms exceeded"
+        }
+    ]
+}

@@ -1,0 +1,1660 @@
+{
+    "stats": {
+        "total_resources": [
+            58,
+            58,
+            58,
+            58
+        ],
+        "non_erroneous_resources": [
+            57,
+            57,
+            57,
+            57
+        ],
+        "resources_200": [
+            30,
+            30,
+            30,
+            30
+        ],
+        "resources_404": [
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/web/20090106153324/http://googlevideo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324cs_/http://googlevideo.com/css/homepage_c.css?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324js_/http://googlevideo.com/js/video_search_lib.js?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727cs_/http://googlevideo.com/css/homepage_c.css?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727js_/http://googlevideo.com/js/video_search_lib.js?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727js_/http://video.google.com/js/video_search_lib.js?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727cs_/http://video.google.com/css/homepage_c.css?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214732js_/http://video.google.com/js/video_search_lib.js?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214731cs_/http://video.google.com/css/homepage_c.css?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://googlevideo.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130401063301im_/http://www.googlevideo.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/NDKFjc3_wrk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/DpQBD672HkQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/Ev6ojm62qwA/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://2.gvt0.com/vi/5RxgiLARd5I/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/df1PGFpwxz0/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/MMjwAsThY00/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=97a08099150e1eaf&offsetms=2790000&itag=w160&sigh=kyFaxDmucitcLluvejUaDAEXGgQ",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=18d5f03a529c9117&offsetms=1&itag=w160&sigh=_8zyl-oKZsNahOhJxrtCYmov3L8",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/8lx4j9m4AQQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/ulqU78xcC6w/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/susZ2ceEHwk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://3.gvt0.com/vi/5IQ9mpFZz9c/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20090106153324/http%3A//googlevideo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20090106153324/http%3A//googlevideo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fgooglevideo.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fgooglevideo.com%2F&timestamp=20090106153324",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324/http://web.archive.org/screenshot/http://googlevideo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app217.us.archive.org&server_ms=717&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2904&nav_to_done_ms=5766&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://0.gvt0.com/vi/DpQBD672HkQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050500im_/http://1.gvt0.com/vi/df1PGFpwxz0/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://0.gvt0.com/vi/Ev6ojm62qwA/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://2.gvt0.com/vi/5RxgiLARd5I/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130401063301im_/http://video.google.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050500im_/http://1.gvt0.com/vi/MMjwAsThY00/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://1.gvt0.com/vi/NDKFjc3_wrk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=18d5f03a529c9117&offsetms=1&itag=w160&sigh=_8zyl-oKZsNahOhJxrtCYmov3L8",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://0.gvt0.com/vi/8lx4j9m4AQQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://3.gvt0.com/vi/5IQ9mpFZz9c/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120801210050/http://web.archive.org/screenshot/http://googlevideo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://1.gvt0.com/vi/susZ2ceEHwk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=97a08099150e1eaf&offsetms=2790000&itag=w160&sigh=kyFaxDmucitcLluvejUaDAEXGgQ",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://0.gvt0.com/vi/ulqU78xcC6w/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130622154915im_/http://video.google.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/web/20090106153324/http://googlevideo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324cs_/http://googlevideo.com/css/homepage_c.css?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324js_/http://googlevideo.com/js/video_search_lib.js?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://googlevideo.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727js_/http://googlevideo.com/js/video_search_lib.js?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130401063301im_/http://www.googlevideo.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727js_/http://video.google.com/js/video_search_lib.js?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214732js_/http://video.google.com/js/video_search_lib.js?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20130401063301im_/http://video.google.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727cs_/http://googlevideo.com/css/homepage_c.css?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130622154915im_/http://video.google.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/NDKFjc3_wrk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://1.gvt0.com/vi/NDKFjc3_wrk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/DpQBD672HkQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://0.gvt0.com/vi/DpQBD672HkQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/Ev6ojm62qwA/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://0.gvt0.com/vi/Ev6ojm62qwA/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://2.gvt0.com/vi/5RxgiLARd5I/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://2.gvt0.com/vi/5RxgiLARd5I/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/df1PGFpwxz0/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727cs_/http://video.google.com/css/homepage_c.css?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050500im_/http://1.gvt0.com/vi/df1PGFpwxz0/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214731cs_/http://video.google.com/css/homepage_c.css?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/MMjwAsThY00/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=97a08099150e1eaf&offsetms=2790000&itag=w160&sigh=kyFaxDmucitcLluvejUaDAEXGgQ",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=18d5f03a529c9117&offsetms=1&itag=w160&sigh=_8zyl-oKZsNahOhJxrtCYmov3L8",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/8lx4j9m4AQQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/ulqU78xcC6w/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/susZ2ceEHwk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://3.gvt0.com/vi/5IQ9mpFZz9c/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20090106153324/http%3A//googlevideo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20090106153324/http%3A//googlevideo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fgooglevideo.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fgooglevideo.com%2F&timestamp=20090106153324",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324/http://web.archive.org/screenshot/http://googlevideo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050500im_/http://1.gvt0.com/vi/MMjwAsThY00/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=97a08099150e1eaf&offsetms=2790000&itag=w160&sigh=kyFaxDmucitcLluvejUaDAEXGgQ",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=18d5f03a529c9117&offsetms=1&itag=w160&sigh=_8zyl-oKZsNahOhJxrtCYmov3L8",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://0.gvt0.com/vi/8lx4j9m4AQQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://1.gvt0.com/vi/susZ2ceEHwk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://0.gvt0.com/vi/ulqU78xcC6w/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://3.gvt0.com/vi/5IQ9mpFZz9c/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app221.us.archive.org&server_ms=3154&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2897&nav_to_done_ms=10653&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120801210050/http://web.archive.org/screenshot/http://googlevideo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/web/20090106153324/http://googlevideo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324cs_/http://googlevideo.com/css/homepage_c.css?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324js_/http://googlevideo.com/js/video_search_lib.js?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://googlevideo.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727cs_/http://googlevideo.com/css/homepage_c.css?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727js_/http://googlevideo.com/js/video_search_lib.js?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130401063301im_/http://www.googlevideo.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727js_/http://video.google.com/js/video_search_lib.js?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130401063301im_/http://video.google.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727cs_/http://video.google.com/css/homepage_c.css?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214731cs_/http://video.google.com/css/homepage_c.css?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214732js_/http://video.google.com/js/video_search_lib.js?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/NDKFjc3_wrk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/DpQBD672HkQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/Ev6ojm62qwA/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://2.gvt0.com/vi/5RxgiLARd5I/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/df1PGFpwxz0/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/MMjwAsThY00/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=97a08099150e1eaf&offsetms=2790000&itag=w160&sigh=kyFaxDmucitcLluvejUaDAEXGgQ",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=18d5f03a529c9117&offsetms=1&itag=w160&sigh=_8zyl-oKZsNahOhJxrtCYmov3L8",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/8lx4j9m4AQQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/ulqU78xcC6w/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/susZ2ceEHwk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://3.gvt0.com/vi/5IQ9mpFZz9c/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20090106153324/http%3A//googlevideo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20090106153324/http%3A//googlevideo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fgooglevideo.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324/http://web.archive.org/screenshot/http://googlevideo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fgooglevideo.com%2F&timestamp=20090106153324",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app225.us.archive.org&server_ms=667&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3820&nav_to_done_ms=6949&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130622154915im_/http://video.google.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://0.gvt0.com/vi/DpQBD672HkQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://0.gvt0.com/vi/Ev6ojm62qwA/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://2.gvt0.com/vi/5RxgiLARd5I/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050500im_/http://1.gvt0.com/vi/MMjwAsThY00/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050500im_/http://1.gvt0.com/vi/df1PGFpwxz0/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=97a08099150e1eaf&offsetms=2790000&itag=w160&sigh=kyFaxDmucitcLluvejUaDAEXGgQ",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=18d5f03a529c9117&offsetms=1&itag=w160&sigh=_8zyl-oKZsNahOhJxrtCYmov3L8",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://0.gvt0.com/vi/8lx4j9m4AQQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://0.gvt0.com/vi/ulqU78xcC6w/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://1.gvt0.com/vi/susZ2ceEHwk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://3.gvt0.com/vi/5IQ9mpFZz9c/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120801210050/http://web.archive.org/screenshot/http://googlevideo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://1.gvt0.com/vi/NDKFjc3_wrk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/web/20090106153324/http://googlevideo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324cs_/http://googlevideo.com/css/homepage_c.css?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324js_/http://googlevideo.com/js/video_search_lib.js?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727cs_/http://googlevideo.com/css/homepage_c.css?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727cs_/http://video.google.com/css/homepage_c.css?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://googlevideo.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214731cs_/http://video.google.com/css/homepage_c.css?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727js_/http://googlevideo.com/js/video_search_lib.js?video_vfe_5b_p5",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130401063301im_/http://www.googlevideo.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214727js_/http://video.google.com/js/video_search_lib.js?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130709214732js_/http://video.google.com/js/video_search_lib.js?video_vfe_5b_p5=",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/NDKFjc3_wrk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/DpQBD672HkQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/Ev6ojm62qwA/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://2.gvt0.com/vi/5RxgiLARd5I/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/df1PGFpwxz0/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/MMjwAsThY00/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=97a08099150e1eaf&offsetms=2790000&itag=w160&sigh=kyFaxDmucitcLluvejUaDAEXGgQ",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=18d5f03a529c9117&offsetms=1&itag=w160&sigh=_8zyl-oKZsNahOhJxrtCYmov3L8",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/8lx4j9m4AQQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://0.gvt0.com/vi/ulqU78xcC6w/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://1.gvt0.com/vi/susZ2ceEHwk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324im_/http://3.gvt0.com/vi/5IQ9mpFZz9c/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20090106153324/http%3A//googlevideo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20090106153324/http%3A//googlevideo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fgooglevideo.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20090106153324/http://web.archive.org/screenshot/http://googlevideo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fgooglevideo.com%2F&timestamp=20090106153324",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130401063301im_/http://video.google.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app225.us.archive.org&server_ms=667&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2744&nav_to_done_ms=3240&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://1.gvt0.com/vi/NDKFjc3_wrk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://0.gvt0.com/vi/DpQBD672HkQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://0.gvt0.com/vi/Ev6ojm62qwA/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050500im_/http://1.gvt0.com/vi/df1PGFpwxz0/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://2.gvt0.com/vi/5RxgiLARd5I/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050500im_/http://1.gvt0.com/vi/MMjwAsThY00/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=97a08099150e1eaf&offsetms=2790000&itag=w160&sigh=kyFaxDmucitcLluvejUaDAEXGgQ",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111212033833im_/http://0.gvt0.com/vi/8lx4j9m4AQQ/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://3.gvt0.com/ThumbnailServer2?app=vss&contentid=18d5f03a529c9117&offsetms=1&itag=w160&sigh=_8zyl-oKZsNahOhJxrtCYmov3L8",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://0.gvt0.com/vi/ulqU78xcC6w/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://1.gvt0.com/vi/susZ2ceEHwk/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20111220050501im_/http://3.gvt0.com/vi/5IQ9mpFZz9c/2.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130622154915im_/http://video.google.com/img/logo_video.gif?hl=en",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120801210050/http://web.archive.org/screenshot/http://googlevideo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ]
+}

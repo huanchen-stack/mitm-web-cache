@@ -11,7 +11,7 @@ async function startChrome(useProxy, proxyPort, forceHttp1) {
             '--enable-automation',
         ],
         defaultViewport: { width: 1920, height: 1080 },
-        headless: "new" // false
+        headless: "new" //false
     };
 
     // Conditionally add proxy server
@@ -88,9 +88,9 @@ async function captureNetworkTraffic(url, useProxy, proxyPort, forceHttp1) {
 
     try {
         // Load the page with increased timeout
-        await page.goto(url, { waitUntil: 'networkidle0', timeout: 300000 });  // 5 minutes timeout
+        await page.goto(url, { waitUntil: 'networkidle0' });  // 5 minutes timeout
 
-        await delay(10000);  // Wait for 5 seconds after the page is fully loaded
+        await delay(5000);  // Wait for 5 seconds after the page is fully loaded
 
     } catch (error) {
         console.error(`Error occurred while loading ${url}: ${error.message}`);

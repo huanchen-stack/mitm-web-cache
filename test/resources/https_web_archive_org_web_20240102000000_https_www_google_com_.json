@@ -1,0 +1,1044 @@
+{
+    "stats": {
+        "total_resources": [
+            36,
+            36,
+            36,
+            36
+        ],
+        "non_erroneous_resources": [
+            35,
+            35,
+            35,
+            35
+        ],
+        "resources_200": [
+            24,
+            24,
+            24,
+            24
+        ],
+        "resources_404": [
+            3,
+            3,
+            3,
+            3
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/web/20240102000000/https://www.google.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/logos/doodles/2024/new-years-day-2024-6753651837110174-law.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102001741im_/https://www.google.com/logos/doodles/2024/new-years-day-2024-6753651837110174-law.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000000/https%3A//www.google.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000000/https%3A//www.google.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.google.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000/http://web.archive.org/screenshot/https://www.google.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.google.com%2F&timestamp=20240102000000",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/client_204?&atyp=i&biw=1920&bih=1080&ei=AFKTZee5OO7ZkPIPjuqY0AQ&opi=89978449",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://ssl.gstatic.com/gb/images/b_8d5afc09.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/images/nav_logo229.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000js_/https://www.google.com/xjs/_/js/k=xjs.hp.en.6YapfFsyys0.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA4AAACEAAAAAAAAAAAgABAdAQAwAIAXA/d=1/ed=1/rs=ACT90oFa9UWkgkEahQVHgbKWj02U79yPSQ/m=sb_he,d,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app222.us.archive.org&server_ms=570&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=564&nav_to_done_ms=3881&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231223190912js_/https://www.google.com/xjs/_/js/k=xjs.hp.en.6YapfFsyys0.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA4AAACEAAAAAAAAAAAgABAdAQAwAIAXA/d=1/ed=1/rs=ACT90oFa9UWkgkEahQVHgbKWj02U79yPSQ/m=sb_he,d,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000117im_/https://ssl.gstatic.com/gb/images/b_8d5afc09.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240112031131/http://web.archive.org/screenshot/http://www.google.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102001742im_/https://www.google.com/images/nav_logo229.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://clients1.google.com/generate_204",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011706im_/https://clients1.google.com/generate_204",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 204,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/gen_204?atyp=i&ct=psnt&cad=&nt=navigate&ei=AFKTZee5OO7ZkPIPjuqY0AQ&zx=1704153603333&opi=89978449",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000/https://ssl.gstatic.com/gb/js/sem_5e6825101553e9529a89dc6f94e6d1c6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240103115751/http://ssl.gstatic.com/gb/js/sem_5e6825101553e9529a89dc6f94e6d1c6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/web/20240102000000/https://www.google.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/logos/doodles/2024/new-years-day-2024-6753651837110174-law.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102001741im_/https://www.google.com/logos/doodles/2024/new-years-day-2024-6753651837110174-law.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000000/https%3A//www.google.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000000/https%3A//www.google.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.google.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000/http://web.archive.org/screenshot/https://www.google.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.google.com%2F&timestamp=20240102000000",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/client_204?&atyp=i&biw=1920&bih=1080&ei=AFKTZee5OO7ZkPIPjuqY0AQ&opi=89978449",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://ssl.gstatic.com/gb/images/b_8d5afc09.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/images/nav_logo229.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000js_/https://www.google.com/xjs/_/js/k=xjs.hp.en.6YapfFsyys0.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA4AAACEAAAAAAAAAAAgABAdAQAwAIAXA/d=1/ed=1/rs=ACT90oFa9UWkgkEahQVHgbKWj02U79yPSQ/m=sb_he,d,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app222.us.archive.org&server_ms=570&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=624&nav_to_done_ms=772&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240112031131/http://web.archive.org/screenshot/http://www.google.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000117im_/https://ssl.gstatic.com/gb/images/b_8d5afc09.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102001742im_/https://www.google.com/images/nav_logo229.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231223190912js_/https://www.google.com/xjs/_/js/k=xjs.hp.en.6YapfFsyys0.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA4AAACEAAAAAAAAAAAgABAdAQAwAIAXA/d=1/ed=1/rs=ACT90oFa9UWkgkEahQVHgbKWj02U79yPSQ/m=sb_he,d,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://clients1.google.com/generate_204",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011706im_/https://clients1.google.com/generate_204",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 204,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/gen_204?atyp=i&ct=psnt&cad=&nt=navigate&ei=AFKTZee5OO7ZkPIPjuqY0AQ&zx=1704153600625&opi=89978449",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000/https://ssl.gstatic.com/gb/js/sem_5e6825101553e9529a89dc6f94e6d1c6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240103115751/http://ssl.gstatic.com/gb/js/sem_5e6825101553e9529a89dc6f94e6d1c6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/web/20240102000000/https://www.google.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/logos/doodles/2024/new-years-day-2024-6753651837110174-law.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102001741im_/https://www.google.com/logos/doodles/2024/new-years-day-2024-6753651837110174-law.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000000/https%3A//www.google.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000000/https%3A//www.google.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.google.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000/http://web.archive.org/screenshot/https://www.google.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.google.com%2F&timestamp=20240102000000",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/client_204?&atyp=i&biw=1920&bih=1080&ei=AFKTZee5OO7ZkPIPjuqY0AQ&opi=89978449",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://ssl.gstatic.com/gb/images/b_8d5afc09.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/images/nav_logo229.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000js_/https://www.google.com/xjs/_/js/k=xjs.hp.en.6YapfFsyys0.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA4AAACEAAAAAAAAAAAgABAdAQAwAIAXA/d=1/ed=1/rs=ACT90oFa9UWkgkEahQVHgbKWj02U79yPSQ/m=sb_he,d,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app224.us.archive.org&server_ms=762&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=537&nav_to_done_ms=609&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240112031131/http://web.archive.org/screenshot/http://www.google.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000117im_/https://ssl.gstatic.com/gb/images/b_8d5afc09.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102001742im_/https://www.google.com/images/nav_logo229.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231223190912js_/https://www.google.com/xjs/_/js/k=xjs.hp.en.6YapfFsyys0.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA4AAACEAAAAAAAAAAAgABAdAQAwAIAXA/d=1/ed=1/rs=ACT90oFa9UWkgkEahQVHgbKWj02U79yPSQ/m=sb_he,d,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://clients1.google.com/generate_204",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011706im_/https://clients1.google.com/generate_204",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 204,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/gen_204?atyp=i&ct=psnt&cad=&nt=navigate&ei=AFKTZee5OO7ZkPIPjuqY0AQ&zx=1704153600703&opi=89978449",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000/https://ssl.gstatic.com/gb/js/sem_5e6825101553e9529a89dc6f94e6d1c6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240103115751/http://ssl.gstatic.com/gb/js/sem_5e6825101553e9529a89dc6f94e6d1c6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/web/20240102000000/https://www.google.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/logos/doodles/2024/new-years-day-2024-6753651837110174-law.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102001741im_/https://www.google.com/logos/doodles/2024/new-years-day-2024-6753651837110174-law.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000000/https%3A//www.google.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000000/https%3A//www.google.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.google.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000/http://web.archive.org/screenshot/https://www.google.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.google.com%2F&timestamp=20240102000000",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/client_204?&atyp=i&biw=1920&bih=1080&ei=AFKTZee5OO7ZkPIPjuqY0AQ&opi=89978449",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://ssl.gstatic.com/gb/images/b_8d5afc09.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/images/nav_logo229.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000js_/https://www.google.com/xjs/_/js/k=xjs.hp.en.6YapfFsyys0.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA4AAACEAAAAAAAAAAAgABAdAQAwAIAXA/d=1/ed=1/rs=ACT90oFa9UWkgkEahQVHgbKWj02U79yPSQ/m=sb_he,d,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app224.us.archive.org&server_ms=762&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=466&nav_to_done_ms=549&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240112031131/http://web.archive.org/screenshot/http://www.google.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000117im_/https://ssl.gstatic.com/gb/images/b_8d5afc09.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102001742im_/https://www.google.com/images/nav_logo229.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231223190912js_/https://www.google.com/xjs/_/js/k=xjs.hp.en.6YapfFsyys0.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA4AAACEAAAAAAAAAAAgABAdAQAwAIAXA/d=1/ed=1/rs=ACT90oFa9UWkgkEahQVHgbKWj02U79yPSQ/m=sb_he,d,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://clients1.google.com/generate_204",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011706im_/https://clients1.google.com/generate_204",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 204,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000im_/https://www.google.com/gen_204?atyp=i&ct=psnt&cad=&nt=navigate&ei=AFKTZee5OO7ZkPIPjuqY0AQ&zx=1704153600827&opi=89978449",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000000/https://ssl.gstatic.com/gb/js/sem_5e6825101553e9529a89dc6f94e6d1c6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240103115751/http://ssl.gstatic.com/gb/js/sem_5e6825101553e9529a89dc6f94e6d1c6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ]
+}

@@ -1,0 +1,1184 @@
+{
+    "stats": {
+        "total_resources": [
+            41,
+            41,
+            41,
+            41
+        ],
+        "non_erroneous_resources": [
+            37,
+            37,
+            37,
+            37
+        ],
+        "resources_200": [
+            23,
+            23,
+            23,
+            23
+        ],
+        "resources_404": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/web/20081010201322/http://www.amazonaws.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322cs_/http://www.amazonaws.com/css/screen_1.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322js_/http://www.amazonaws.com/js/all_1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://www.amazonaws.com/js/all_1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322im_/http://awsmedia.s3.amazonaws.com/icon_createawsacct.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322im_/http://awsmedia.s3.amazonaws.com/logo_aws.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543cs_/http://www.amazonaws.com/css/screen_1.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20080923142407im_/http://awsmedia.s3.amazonaws.com/icon_createawsacct.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081024130423im_/http://awsmedia.s3.amazonaws.com/logo_aws.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322cs_/http://www.amazonaws.com/css/hero-carousel.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152544cs_/http://www.amazonaws.com/css/hero-carousel.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322js_/http://www.amazonaws.com/js/hero-carousel.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://www.amazonaws.com/js/hero-carousel.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152544cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010201322/http%3A//www.amazonaws.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010201322/http%3A//www.amazonaws.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fwww.amazonaws.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322/http://web.archive.org/screenshot/http://www.amazonaws.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fwww.amazonaws.com%2F&timestamp=20081010201322",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120121165704/http://web.archive.org/screenshot/http://www.amazonaws.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app215.us.archive.org&server_ms=642&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4608&nav_to_done_ms=7436&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/web/20081010201322/http://www.amazonaws.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322cs_/http://www.amazonaws.com/css/screen_1.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322js_/http://www.amazonaws.com/js/all_1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543cs_/http://www.amazonaws.com/css/screen_1.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://www.amazonaws.com/js/all_1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322im_/http://awsmedia.s3.amazonaws.com/icon_createawsacct.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322im_/http://awsmedia.s3.amazonaws.com/logo_aws.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20080923142407im_/http://awsmedia.s3.amazonaws.com/icon_createawsacct.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081024130423im_/http://awsmedia.s3.amazonaws.com/logo_aws.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322cs_/http://www.amazonaws.com/css/hero-carousel.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322js_/http://www.amazonaws.com/js/hero-carousel.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152544cs_/http://www.amazonaws.com/css/hero-carousel.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://www.amazonaws.com/js/hero-carousel.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152544cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010201322/http%3A//www.amazonaws.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010201322/http%3A//www.amazonaws.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fwww.amazonaws.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322/http://web.archive.org/screenshot/http://www.amazonaws.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fwww.amazonaws.com%2F&timestamp=20081010201322",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120121165704/http://web.archive.org/screenshot/http://www.amazonaws.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app215.us.archive.org&server_ms=642&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=625&nav_to_done_ms=767&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/web/20081010201322/http://www.amazonaws.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322cs_/http://www.amazonaws.com/css/screen_1.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322js_/http://www.amazonaws.com/js/all_1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543cs_/http://www.amazonaws.com/css/screen_1.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322im_/http://awsmedia.s3.amazonaws.com/icon_createawsacct.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322im_/http://awsmedia.s3.amazonaws.com/logo_aws.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://www.amazonaws.com/js/all_1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20080923142407im_/http://awsmedia.s3.amazonaws.com/icon_createawsacct.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081024130423im_/http://awsmedia.s3.amazonaws.com/logo_aws.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322cs_/http://www.amazonaws.com/css/hero-carousel.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322js_/http://www.amazonaws.com/js/hero-carousel.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152544cs_/http://www.amazonaws.com/css/hero-carousel.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010201322/http%3A//www.amazonaws.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010201322/http%3A//www.amazonaws.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fwww.amazonaws.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322/http://web.archive.org/screenshot/http://www.amazonaws.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fwww.amazonaws.com%2F&timestamp=20081010201322",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://www.amazonaws.com/js/hero-carousel.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152544cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120121165704/http://web.archive.org/screenshot/http://www.amazonaws.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app210.us.archive.org&server_ms=708&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=1060&nav_to_done_ms=1132&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/web/20081010201322/http://www.amazonaws.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322cs_/http://www.amazonaws.com/css/screen_1.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322js_/http://www.amazonaws.com/js/all_1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543cs_/http://www.amazonaws.com/css/screen_1.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322im_/http://awsmedia.s3.amazonaws.com/icon_createawsacct.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322im_/http://awsmedia.s3.amazonaws.com/logo_aws.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://www.amazonaws.com/js/all_1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20080923142407im_/http://awsmedia.s3.amazonaws.com/icon_createawsacct.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322cs_/http://www.amazonaws.com/css/hero-carousel.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322js_/http://www.amazonaws.com/js/hero-carousel.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010201322/http%3A//www.amazonaws.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010201322/http%3A//www.amazonaws.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fwww.amazonaws.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010201322/http://web.archive.org/screenshot/http://www.amazonaws.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fwww.amazonaws.com%2F&timestamp=20081010201322",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081024130423im_/http://awsmedia.s3.amazonaws.com/logo_aws.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152544cs_/http://www.amazonaws.com/css/hero-carousel.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152544cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529cs_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120121165704/http://web.archive.org/screenshot/http://www.amazonaws.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://www.amazonaws.com/js/hero-carousel.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309152543js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120309163529js_/http://aws.amazon.com/",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app210.us.archive.org&server_ms=708&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=1182&nav_to_done_ms=1354&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ]
+}

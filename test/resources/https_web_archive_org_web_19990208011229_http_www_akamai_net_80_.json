@@ -1,0 +1,1128 @@
+{
+    "stats": {
+        "total_resources": [
+            39,
+            39,
+            39,
+            39
+        ],
+        "non_erroneous_resources": [
+            38,
+            38,
+            38,
+            38
+        ],
+        "resources_200": [
+            20,
+            20,
+            20,
+            20
+        ],
+        "resources_404": [
+            6,
+            6,
+            6,
+            6
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/web/19990208011229/http://www.akamai.net:80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/images/logo.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/_vti_bin/fpcount.exe/?Page=_borders/bottom.htm|Image=3|Digits=5",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/_themes/sumipntg/sumhorsa.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/images/ie_animated.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/images/logo.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/_themes/sumipntg/sumtextb.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/19990208011229/http%3A//www.akamai.net%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/19990208011229/http%3A//www.akamai.net%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fwww.akamai.net%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229/http://web.archive.org/screenshot/http://www.akamai.net/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fwww.akamai.net%2F&timestamp=19990208011229",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19980208041835im_/http://www.akamai.net/_vti_bin/fpcount.exe/?Page=_borders/bottom.htm|Image=3|Digits=5",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app204.us.archive.org&server_ms=202&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=707&nav_to_done_ms=1576&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/images/ie_animated.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/_themes/sumipntg/sumhorsa.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/_themes/sumipntg/sumtextb.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/serve/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110929im_/http://www.akamai.net/serve/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/serve/images/ie_animated.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110929im_/http://ia600400.us.archive.org/31/items/images/fpbluestripe.gif?cnt=0",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://ia700400.us.archive.org/31/items/images/ie_animated.gif?cnt=0",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20140212072851im_/http://ia700400.us.archive.org/31/items/images/ie_animated.gif?cnt=0",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/web/19990208011229/http://www.akamai.net:80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/images/logo.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/_vti_bin/fpcount.exe/?Page=_borders/bottom.htm|Image=3|Digits=5",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/images/logo.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19980208041835im_/http://www.akamai.net/_vti_bin/fpcount.exe/?Page=_borders/bottom.htm|Image=3|Digits=5",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/_themes/sumipntg/sumhorsa.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/images/ie_animated.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/_themes/sumipntg/sumtextb.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/19990208011229/http%3A//www.akamai.net%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/19990208011229/http%3A//www.akamai.net%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fwww.akamai.net%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229/http://web.archive.org/screenshot/http://www.akamai.net/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fwww.akamai.net%2F&timestamp=19990208011229",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/images/ie_animated.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/_themes/sumipntg/sumhorsa.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/_themes/sumipntg/sumtextb.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app204.us.archive.org&server_ms=202&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=573&nav_to_done_ms=717&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/serve/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/serve/images/ie_animated.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110929im_/http://www.akamai.net/serve/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://ia700400.us.archive.org/31/items/images/ie_animated.gif?cnt=0",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110929im_/http://ia600400.us.archive.org/31/items/images/fpbluestripe.gif?cnt=0",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20140212072851im_/http://ia700400.us.archive.org/31/items/images/ie_animated.gif?cnt=0",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/web/19990208011229/http://www.akamai.net:80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/images/logo.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/_vti_bin/fpcount.exe/?Page=_borders/bottom.htm|Image=3|Digits=5",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/_themes/sumipntg/sumhorsa.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/images/ie_animated.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/_themes/sumipntg/sumtextb.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/19990208011229/http%3A//www.akamai.net%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/19990208011229/http%3A//www.akamai.net%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fwww.akamai.net%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229/http://web.archive.org/screenshot/http://www.akamai.net/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fwww.akamai.net%2F&timestamp=19990208011229",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/images/logo.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app204.us.archive.org&server_ms=202&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=527&nav_to_done_ms=81587&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19980208041835im_/http://www.akamai.net/_vti_bin/fpcount.exe/?Page=_borders/bottom.htm|Image=3|Digits=5",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/_themes/sumipntg/sumhorsa.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/images/ie_animated.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/_themes/sumipntg/sumtextb.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/serve/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110929im_/http://www.akamai.net/serve/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/serve/images/ie_animated.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110929im_/http://ia600400.us.archive.org/31/items/images/fpbluestripe.gif?cnt=0",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://ia700400.us.archive.org/31/items/images/ie_animated.gif?cnt=0",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20140212072851im_/http://ia700400.us.archive.org/31/items/images/ie_animated.gif?cnt=0",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/web/19990208011229/http://www.akamai.net:80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/images/logo.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/_vti_bin/fpcount.exe/?Page=_borders/bottom.htm|Image=3|Digits=5",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/_themes/sumipntg/sumhorsa.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/images/ie_animated.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/images/logo.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19980208041835im_/http://www.akamai.net/_vti_bin/fpcount.exe/?Page=_borders/bottom.htm|Image=3|Digits=5",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229im_/http://www.akamai.net/_themes/sumipntg/sumtextb.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/19990208011229/http%3A//www.akamai.net%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/19990208011229/http%3A//www.akamai.net%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fwww.akamai.net%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/19990208011229/http://web.archive.org/screenshot/http://www.akamai.net/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fwww.akamai.net%2F&timestamp=19990208011229",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app204.us.archive.org&server_ms=202&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=528&nav_to_done_ms=634&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/_themes/sumipntg/sumtextb.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/_themes/sumipntg/sumhorsa.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/serve/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110929im_/http://www.akamai.net/serve/images/fpbluestripe.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110929im_/http://ia600400.us.archive.org/31/items/images/fpbluestripe.gif?cnt=0",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/images/ie_animated.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://www.akamai.net/serve/images/ie_animated.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20130719110928im_/http://ia700400.us.archive.org/31/items/images/ie_animated.gif?cnt=0",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20140212072851im_/http://ia700400.us.archive.org/31/items/images/ie_animated.gif?cnt=0",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ]
+}

@@ -1,0 +1,2787 @@
+{
+    "stats": {
+        "total_resources": [
+            92,
+            92,
+            105,
+            104
+        ],
+        "non_erroneous_resources": [
+            75,
+            73,
+            73,
+            73
+        ],
+        "resources_200": [
+            51,
+            50,
+            50,
+            50
+        ],
+        "resources_404": [
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000315/https%3A//www.linkedin.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000315/https%3A//www.linkedin.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.linkedin.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/http://web.archive.org/screenshot/https://www.linkedin.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.linkedin.com%2F&timestamp=20240102000315",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231223010831/http://web.archive.org/screenshot/https://www.linkedin.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app223.us.archive.org&server_ms=791&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2822&nav_to_done_ms=7273&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/8m736dfzskmdn6bwwqz67iiki",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/e5ka7p8s9n5r0z9p6kpmm3hig",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/51t74mlo1ty7vakn3a80a9jcp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/homepage-guest/api/ingraphs/gauge",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/litms/api/metadata/user",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://platform.linkedin.com/litms/utag/homepage-guest-frontend/utag.js?cb=1704153600000",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707/https://ponf.linkedin.com/pixel/tracking.png?reqid=69377cd9-25b3-4875-a85d-9d429111003a&pageInstance=urn%3Ali%3Apage%3Ad_homepage-guest-home_jsbeacon%3BovMUhTJPTS6shJNV9gt07A%3D%3D&js=enabled",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230850js_/https://static.licdn.com/aero-v1/sc/h/8m736dfzskmdn6bwwqz67iiki",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230849/https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002404/https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000307/https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102003141/https://static.licdn.com/aero-v1/sc/h/e5ka7p8s9n5r0z9p6kpmm3hig",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102004438/https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102044426js_/https://static.licdn.com/aero-v1/sc/h/51t74mlo1ty7vakn3a80a9jcp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102003141/https://www.linkedin.com/homepage-guest/api/ingraphs/gauge",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315im_/https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707/https://www.linkedin.com/platform-telemetry/li/apfcDf",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102004438/https://www.linkedin.com/litms/api/metadata/user",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230850/https://accounts.google.com/gsi/button?logo_alignment=center&shape=pill&size=large&text=continue_with&theme=undefined&type=undefined&width=398&client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&iframe_id=gsi_802846_562898&as=6qq%2B4N9%2BBn2KBi2NipwxPg&hl=en_US",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230850/https://accounts.google.com/gsi/status?client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&as=6qq%2B4N9%2BBn2KBi2NipwxPg",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000800/https://www.linkedin.com/platform-telemetry/li/apfcDf",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707im_/https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://polyfill.archive.org/v3/polyfill.min.js?features=fetch,IntersectionObserver,ResizeObserver,globalThis,Element.prototype.getAttributeNames,String.prototype.startsWith,Array.prototype.flat,Element.prototype.closest,Element.prototype.scroll,Element.prototype.remove,Object.entries,Object.values,Object.fromEntries",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js?v=736f37b4",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/lit/polyfill-support.js?v=736f37b4",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=736f37b4",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/ia-topnav.min.js?v=736f37b4",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/archive.min.js?v=736f37b4",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/css/archive.min.css?v=736f37b4",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/styles.css?v=X-Ndhul9",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/web.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/logo_archive-sm.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?cache_bust=0.5082859968382551&kind=track_js&track_js_case=external_executes&service=ao_2&version=2&count=6",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?path=%2Fweb&service=wb&server_name=wwwb-app219.us.archive.org&server_ms=776&kind=pageview&timediff=-7&locale=en-US&referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20240102000315%2Fhttps%3A%2F%2Fwww.linkedin.com%2F&loadtime=622&nav_to_done_ms=1475&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=14",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000315/https%3A//www.linkedin.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000315/https%3A//www.linkedin.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.linkedin.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/http://web.archive.org/screenshot/https://www.linkedin.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.linkedin.com%2F&timestamp=20240102000315",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231223010831/http://web.archive.org/screenshot/https://www.linkedin.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app223.us.archive.org&server_ms=791&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2604&nav_to_done_ms=2766&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/8m736dfzskmdn6bwwqz67iiki",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/e5ka7p8s9n5r0z9p6kpmm3hig",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/51t74mlo1ty7vakn3a80a9jcp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/homepage-guest/api/ingraphs/gauge",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/litms/api/metadata/user",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://platform.linkedin.com/litms/utag/homepage-guest-frontend/utag.js?cb=1704153600000",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707/https://ponf.linkedin.com/pixel/tracking.png?reqid=69377cd9-25b3-4875-a85d-9d429111003a&pageInstance=urn%3Ali%3Apage%3Ad_homepage-guest-home_jsbeacon%3BovMUhTJPTS6shJNV9gt07A%3D%3D&js=enabled",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230850js_/https://static.licdn.com/aero-v1/sc/h/8m736dfzskmdn6bwwqz67iiki",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000307/https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102004438/https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230849/https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002404/https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102003141/https://static.licdn.com/aero-v1/sc/h/e5ka7p8s9n5r0z9p6kpmm3hig",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102044426js_/https://static.licdn.com/aero-v1/sc/h/51t74mlo1ty7vakn3a80a9jcp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102003141/https://www.linkedin.com/homepage-guest/api/ingraphs/gauge",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102004438/https://www.linkedin.com/litms/api/metadata/user",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/8m736dfzskmdn6bwwqz67iiki",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230850/https://accounts.google.com/gsi/button?logo_alignment=center&shape=pill&size=large&text=continue_with&theme=undefined&type=undefined&width=398&client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&iframe_id=gsi_799475_899867&as=H45nGJeSXnrRmeLOdnkynw&hl=en_US",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230850/https://accounts.google.com/gsi/status?client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&as=H45nGJeSXnrRmeLOdnkynw",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000307/https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230850js_/https://static.licdn.com/aero-v1/sc/h/8m736dfzskmdn6bwwqz67iiki",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707/https://www.linkedin.com/platform-telemetry/li/apfcDf",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000800/https://www.linkedin.com/platform-telemetry/li/apfcDf",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://polyfill.archive.org/v3/polyfill.min.js?features=fetch,IntersectionObserver,ResizeObserver,globalThis,Element.prototype.getAttributeNames,String.prototype.startsWith,Array.prototype.flat,Element.prototype.closest,Element.prototype.scroll,Element.prototype.remove,Object.entries,Object.values,Object.fromEntries",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/lit/polyfill-support.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/ia-topnav.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/archive.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/css/archive.min.css?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/styles.css?v=X-Ndhul9",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/web.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/logo_archive-sm.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?cache_bust=0.43221777455370636&kind=track_js&track_js_case=external_executes&service=ao_2&version=2&count=6",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?path=%2Fweb&service=wb&server_name=wwwb-app226.us.archive.org&server_ms=631&kind=pageview&timediff=-7&locale=en-US&referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20240102000315%2Fhttps%3A%2F%2Fwww.linkedin.com%2F&loadtime=664&nav_to_done_ms=1391&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=14",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000315/https%3A//www.linkedin.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000315/https%3A//www.linkedin.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.linkedin.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/http://web.archive.org/screenshot/https://www.linkedin.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.linkedin.com%2F&timestamp=20240102000315",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app223.us.archive.org&server_ms=791&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3085&nav_to_done_ms=3539&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231223010831/http://web.archive.org/screenshot/https://www.linkedin.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/8m736dfzskmdn6bwwqz67iiki",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/e5ka7p8s9n5r0z9p6kpmm3hig",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/51t74mlo1ty7vakn3a80a9jcp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/homepage-guest/api/ingraphs/gauge",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/litms/api/metadata/user",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://platform.linkedin.com/litms/utag/homepage-guest-frontend/utag.js?cb=1704153600000",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707/https://ponf.linkedin.com/pixel/tracking.png?reqid=69377cd9-25b3-4875-a85d-9d429111003a&pageInstance=urn%3Ali%3Apage%3Ad_homepage-guest-home_jsbeacon%3BovMUhTJPTS6shJNV9gt07A%3D%3D&js=enabled",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000307/https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102004438/https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230849/https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002404/https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102003141/https://static.licdn.com/aero-v1/sc/h/e5ka7p8s9n5r0z9p6kpmm3hig",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230850js_/https://static.licdn.com/aero-v1/sc/h/8m736dfzskmdn6bwwqz67iiki",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102044426js_/https://static.licdn.com/aero-v1/sc/h/51t74mlo1ty7vakn3a80a9jcp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102003141/https://www.linkedin.com/homepage-guest/api/ingraphs/gauge",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102004438/https://www.linkedin.com/litms/api/metadata/user",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707/https://www.linkedin.com/platform-telemetry/li/apfcDf",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000307/https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102004438/https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230849/https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002404/https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230850/https://accounts.google.com/gsi/button?logo_alignment=center&shape=pill&size=large&text=continue_with&theme=undefined&type=undefined&width=398&client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&iframe_id=gsi_803806_562898&as=6qq%2B4N9%2BBn2KBi2NipwxPg&hl=en_US",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230850/https://accounts.google.com/gsi/status?client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&as=6qq%2B4N9%2BBn2KBi2NipwxPg",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000800/https://www.linkedin.com/platform-telemetry/li/apfcDf",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://polyfill.archive.org/v3/polyfill.min.js?features=fetch,IntersectionObserver,ResizeObserver,globalThis,Element.prototype.getAttributeNames,String.prototype.startsWith,Array.prototype.flat,Element.prototype.closest,Element.prototype.scroll,Element.prototype.remove,Object.entries,Object.values,Object.fromEntries",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/lit/polyfill-support.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/ia-topnav.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/archive.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/css/archive.min.css?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/styles.css?v=X-Ndhul9",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/web.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/logo_archive-sm.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?cache_bust=0.705723937987454&kind=track_js&track_js_case=external_executes&service=ao_2&version=2&count=6",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?path=%2Fweb&service=wb&server_name=wwwb-app224.us.archive.org&server_ms=429&kind=pageview&timediff=-7&locale=en-US&referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20240102000315%2Fhttps%3A%2F%2Fwww.linkedin.com%2F&loadtime=2212&nav_to_done_ms=3053&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=14",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000315/https%3A//www.linkedin.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000315/https%3A//www.linkedin.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.linkedin.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/http://web.archive.org/screenshot/https://www.linkedin.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.linkedin.com%2F&timestamp=20240102000315",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231223010831/http://web.archive.org/screenshot/https://www.linkedin.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app223.us.archive.org&server_ms=791&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3258&nav_to_done_ms=3758&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/8m736dfzskmdn6bwwqz67iiki",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/e5ka7p8s9n5r0z9p6kpmm3hig",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/51t74mlo1ty7vakn3a80a9jcp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/homepage-guest/api/ingraphs/gauge",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/litms/api/metadata/user",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315js_/https://platform.linkedin.com/litms/utag/homepage-guest-frontend/utag.js?cb=1704153600000",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707/https://ponf.linkedin.com/pixel/tracking.png?reqid=69377cd9-25b3-4875-a85d-9d429111003a&pageInstance=urn%3Ali%3Apage%3Ad_homepage-guest-home_jsbeacon%3BovMUhTJPTS6shJNV9gt07A%3D%3D&js=enabled",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000307/https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102004438/https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230849/https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002404/https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710cs_/https://static.licdn.com/aero-v1/sc/h/dn6jp3udgwbm83hj6en985hmr",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102003141/https://static.licdn.com/aero-v1/sc/h/e5ka7p8s9n5r0z9p6kpmm3hig",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230850js_/https://static.licdn.com/aero-v1/sc/h/8m736dfzskmdn6bwwqz67iiki",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102044426js_/https://static.licdn.com/aero-v1/sc/h/51t74mlo1ty7vakn3a80a9jcp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710im_/https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707js_/https://static.licdn.com/aero-v1/sc/h/2vtn2g3fu2sxgszymqt7jygjp",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233710js_/https://static.licdn.com/aero-v1/sc/h/3j9qu1ksxxslbfrtzb1qlscyf",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102003141/https://www.linkedin.com/homepage-guest/api/ingraphs/gauge",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102004438/https://www.linkedin.com/litms/api/metadata/user",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233707/https://www.linkedin.com/platform-telemetry/li/apfcDf",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000800/https://www.linkedin.com/platform-telemetry/li/apfcDf",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102004438/https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000307/https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230849/https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102002042/https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki",
+            "method": "HEAD",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230850/https://accounts.google.com/gsi/button?logo_alignment=center&shape=pill&size=large&text=continue_with&theme=undefined&type=undefined&width=398&client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&iframe_id=gsi_803606_562898&as=6qq%2B4N9%2BBn2KBi2NipwxPg&hl=en_US",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101230850/https://accounts.google.com/gsi/status?client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&as=6qq%2B4N9%2BBn2KBi2NipwxPg",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://polyfill.archive.org/v3/polyfill.min.js?features=fetch,IntersectionObserver,ResizeObserver,globalThis,Element.prototype.getAttributeNames,String.prototype.startsWith,Array.prototype.flat,Element.prototype.closest,Element.prototype.scroll,Element.prototype.remove,Object.entries,Object.values,Object.fromEntries",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/lit/polyfill-support.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/ia-topnav.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/archive.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/css/archive.min.css?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/styles.css?v=X-Ndhul9",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/web.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/logo_archive-sm.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?cache_bust=0.8755434043193961&kind=track_js&track_js_case=external_executes&service=ao_2&version=2&count=6",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?path=%2Fweb&service=wb&server_name=wwwb-app214.us.archive.org&server_ms=708&kind=pageview&timediff=-7&locale=en-US&referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20240102000315%2Fhttps%3A%2F%2Fwww.linkedin.com%2F&loadtime=1920&nav_to_done_ms=3066&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=14",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000315/https://www.linkedin.com/li/track",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        }
+    ]
+}

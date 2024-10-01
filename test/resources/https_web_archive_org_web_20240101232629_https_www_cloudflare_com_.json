@@ -1,0 +1,2262 @@
+{
+    "stats": {
+        "total_resources": [
+            97,
+            81,
+            45,
+            95
+        ],
+        "non_erroneous_resources": [
+            96,
+            80,
+            16,
+            94
+        ],
+        "resources_200": [
+            55,
+            47,
+            13,
+            54
+        ],
+        "resources_404": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5XA6P5ZUYwcjq9LZGBbAcj/1517e2b34ef3bf213fca28586ae33170/ease-of-use-toggle.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/74GDwwyKnKfYYz1QQEQh1P/c7232082d74a2cb16d2197596662f593/security-shield-protection-2.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/74GDwwyKnKfYYz1QQEQh1P/c7232082d74a2cb16d2197596662f593/security-shield-protection-2.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5XA6P5ZUYwcjq9LZGBbAcj/1517e2b34ef3bf213fca28586ae33170/ease-of-use-toggle.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/vendor/onetrust/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://performance.radar.cloudflare.com/beacon.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/76x52jIsr93tqZq0h3HCFW/99238ae9f872014e19514793c2899208/Blueprint_after_ConnectivityCloud_Resized.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/3hozCySUonJzxSF7TBtDeF/09c3642522b5a9036c157dcab3a59b8d/performance-acceleration-bolt.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/4VlvhGvGbJaxjZSP9FzUxL/8c5199800e0e10bdf85f00c6b031d16c/arrow-down.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://www.cloudflare.com/img/privacyoptions.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/app-e160a97ce8533d25cd7a.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/framework-e961e92a4f41016ec0b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/webpack-runtime-8be4e4911e6c929f030c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240101232629/https%3A//www.cloudflare.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240101232629/https%3A//www.cloudflare.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.cloudflare.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/http://web.archive.org/screenshot/https://www.cloudflare.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.cloudflare.com%2F&timestamp=20240101232629",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6302ihcg7gVSsw1lJxL9Qw/02adde7130353d7652596de436294b15/Hero-Flare-Background.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5qOkL7b52oII5tM50rXHvx/244e247fb24d4b337481750c11a25031/Whats-New_Background.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5wz61d8VbU8FpxOTXk24Ub/543ca40d2e393bd45a3f0acd1c27d55b/NW_2023.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/2aCIuZIN3F07mHamqKvPil/f02c97e3cb43bd31b419e6eaa943749e/Press-releases.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/647BpuGnYGXGZUolZKxb4N/ffd5ab48ae8283acd3217f82e08b498a/ntroducing_the_Cloudflare_Radar_Internet_Quality_Page.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6R6cOP7579alYnESM0uIff/4e121fe46ff4571934e68d38af478bd2/2024_loading.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/472Uj25x4L3jM0WkIfqRSz/c04869f0bd2680b2372d9e034e74f35f/Insights-from-new-Forrester-2_100x165.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/4HZ8UQEXxCAEMTMJpXeIup/a4d45524a280d777e4af736c0fcb307b/23-Q1-DDoS-threat-report.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/38c5ZCcMkPewGMcTeinndz/b8e3d5584ee0ae9f17b84136f296f2f9/image4-4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/76x52jIsr93tqZq0h3HCFW/99238ae9f872014e19514793c2899208/Blueprint_after_ConnectivityCloud_Resized.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233416im_/https://www.cloudflare.com/img/privacyoptions.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/3hozCySUonJzxSF7TBtDeF/09c3642522b5a9036c157dcab3a59b8d/performance-acceleration-bolt.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000222js_/https://www.cloudflare.com/app-e160a97ce8533d25cd7a.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000222js_/https://performance.radar.cloudflare.com/beacon.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 403,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20231216164206/http://web.archive.org/screenshot/https://cloudflare.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000221js_/https://www.cloudflare.com/framework-e961e92a4f41016ec0b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000221js_/https://www.cloudflare.com/vendor/onetrust/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6wvLylL1UDvEfh7N5WBd32/44ff9093b6aa1feb33d12d020ce756df/Generic_Orange_Background.jpeg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/647BpuGnYGXGZUolZKxb4N/ffd5ab48ae8283acd3217f82e08b498a/ntroducing_the_Cloudflare_Radar_Internet_Quality_Page.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000221js_/https://www.cloudflare.com/webpack-runtime-8be4e4911e6c929f030c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232546js_/https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/472Uj25x4L3jM0WkIfqRSz/c04869f0bd2680b2372d9e034e74f35f/Insights-from-new-Forrester-2_100x165.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6R6cOP7579alYnESM0uIff/4e121fe46ff4571934e68d38af478bd2/2024_loading.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/4VlvhGvGbJaxjZSP9FzUxL/8c5199800e0e10bdf85f00c6b031d16c/arrow-down.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011016im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5wz61d8VbU8FpxOTXk24Ub/543ca40d2e393bd45a3f0acd1c27d55b/NW_2023.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011016im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/2aCIuZIN3F07mHamqKvPil/f02c97e3cb43bd31b419e6eaa943749e/Press-releases.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6302ihcg7gVSsw1lJxL9Qw/02adde7130353d7652596de436294b15/Hero-Flare-Background.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011016im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/4HZ8UQEXxCAEMTMJpXeIup/a4d45524a280d777e4af736c0fcb307b/23-Q1-DDoS-threat-report.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011016im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/38c5ZCcMkPewGMcTeinndz/b8e3d5584ee0ae9f17b84136f296f2f9/image4-4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5qOkL7b52oII5tM50rXHvx/244e247fb24d4b337481750c11a25031/Whats-New_Background.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6wvLylL1UDvEfh7N5WBd32/44ff9093b6aa1feb33d12d020ce756df/Generic_Orange_Background.jpeg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/app-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/index/page-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101221651/https://www.cloudflare.com/page-data/index/page-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233417/https://www.cloudflare.com/page-data/app-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233418/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app219.us.archive.org&server_ms=849&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4644&nav_to_done_ms=26857&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/cdn-cgi/rum?",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://www.cloudflare.com/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/a06cff934e9579536ce1c10bad21c1d6d7f63ae0-ddb6421aa7bc5e036e8a.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/7fec36a243acbd7d0118980321a9bd361182b506-7126113dabf7bdf2bd91.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/sq/d/1048862057.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/sq/d/3199558980.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/sq/d/333361657.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/sq/d/3934964512.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/otBannerSdk.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240110182052/https://www.cloudflare.com/cdn-cgi/rum",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 204,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102032324js_/https://www.cloudflare.com/a06cff934e9579536ce1c10bad21c1d6d7f63ae0-ddb6421aa7bc5e036e8a.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102032324js_/https://www.cloudflare.com/7fec36a243acbd7d0118980321a9bd361182b506-7126113dabf7bdf2bd91.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233417/https://www.cloudflare.com/page-data/sq/d/1048862057.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101221647/https://www.cloudflare.com/page-data/sq/d/3934964512.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233417/https://www.cloudflare.com/page-data/sq/d/3199558980.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101221647/https://www.cloudflare.com/page-data/sq/d/333361657.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102032324js_/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/otBannerSdk.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232923im_/https://www.cloudflare.com/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/9c011a9d-2ff9-42cc-bcbf-2063ed41650c/en.json",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101150632/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/9c011a9d-2ff9-42cc-bcbf-2063ed41650c/en.json",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/assets/otFlat.json",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/assets/otCommonStyles.css",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101150632/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/assets/otFlat.json",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102032324/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/assets/otCommonStyles.css",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/9c011a9d-2ff9-42cc-bcbf-2063ed41650c/logos/static/ot_close.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101150633/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/9c011a9d-2ff9-42cc-bcbf-2063ed41650c/logos/static/ot_close.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5XA6P5ZUYwcjq9LZGBbAcj/1517e2b34ef3bf213fca28586ae33170/ease-of-use-toggle.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/74GDwwyKnKfYYz1QQEQh1P/c7232082d74a2cb16d2197596662f593/security-shield-protection-2.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5XA6P5ZUYwcjq9LZGBbAcj/1517e2b34ef3bf213fca28586ae33170/ease-of-use-toggle.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/74GDwwyKnKfYYz1QQEQh1P/c7232082d74a2cb16d2197596662f593/security-shield-protection-2.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/vendor/onetrust/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000221js_/https://www.cloudflare.com/vendor/onetrust/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://performance.radar.cloudflare.com/beacon.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/76x52jIsr93tqZq0h3HCFW/99238ae9f872014e19514793c2899208/Blueprint_after_ConnectivityCloud_Resized.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/3hozCySUonJzxSF7TBtDeF/09c3642522b5a9036c157dcab3a59b8d/performance-acceleration-bolt.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/4VlvhGvGbJaxjZSP9FzUxL/8c5199800e0e10bdf85f00c6b031d16c/arrow-down.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://www.cloudflare.com/img/privacyoptions.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/app-e160a97ce8533d25cd7a.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/framework-e961e92a4f41016ec0b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/webpack-runtime-8be4e4911e6c929f030c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240101232629/https%3A//www.cloudflare.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240101232629/https%3A//www.cloudflare.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.cloudflare.com%2F&timestamp=20240101232629",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.cloudflare.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/http://web.archive.org/screenshot/https://www.cloudflare.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/76x52jIsr93tqZq0h3HCFW/99238ae9f872014e19514793c2899208/Blueprint_after_ConnectivityCloud_Resized.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/3hozCySUonJzxSF7TBtDeF/09c3642522b5a9036c157dcab3a59b8d/performance-acceleration-bolt.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/4VlvhGvGbJaxjZSP9FzUxL/8c5199800e0e10bdf85f00c6b031d16c/arrow-down.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000222js_/https://performance.radar.cloudflare.com/beacon.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 403,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233416im_/https://www.cloudflare.com/img/privacyoptions.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000221js_/https://www.cloudflare.com/framework-e961e92a4f41016ec0b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000222js_/https://www.cloudflare.com/app-e160a97ce8533d25cd7a.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6302ihcg7gVSsw1lJxL9Qw/02adde7130353d7652596de436294b15/Hero-Flare-Background.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5qOkL7b52oII5tM50rXHvx/244e247fb24d4b337481750c11a25031/Whats-New_Background.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232546js_/https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000221js_/https://www.cloudflare.com/webpack-runtime-8be4e4911e6c929f030c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231216164206/http://web.archive.org/screenshot/https://cloudflare.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6wvLylL1UDvEfh7N5WBd32/44ff9093b6aa1feb33d12d020ce756df/Generic_Orange_Background.jpeg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5qOkL7b52oII5tM50rXHvx/244e247fb24d4b337481750c11a25031/Whats-New_Background.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6302ihcg7gVSsw1lJxL9Qw/02adde7130353d7652596de436294b15/Hero-Flare-Background.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6wvLylL1UDvEfh7N5WBd32/44ff9093b6aa1feb33d12d020ce756df/Generic_Orange_Background.jpeg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233418/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/app-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/index/page-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/otBannerSdk.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101221651/https://www.cloudflare.com/page-data/index/page-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233417/https://www.cloudflare.com/page-data/app-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102032324js_/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/otBannerSdk.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/a06cff934e9579536ce1c10bad21c1d6d7f63ae0-ddb6421aa7bc5e036e8a.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/7fec36a243acbd7d0118980321a9bd361182b506-7126113dabf7bdf2bd91.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/sq/d/1048862057.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/sq/d/3199558980.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/sq/d/333361657.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/sq/d/3934964512.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/9c011a9d-2ff9-42cc-bcbf-2063ed41650c/en.json",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102032324js_/https://www.cloudflare.com/7fec36a243acbd7d0118980321a9bd361182b506-7126113dabf7bdf2bd91.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102032324js_/https://www.cloudflare.com/a06cff934e9579536ce1c10bad21c1d6d7f63ae0-ddb6421aa7bc5e036e8a.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233417/https://www.cloudflare.com/page-data/sq/d/1048862057.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233417/https://www.cloudflare.com/page-data/sq/d/3199558980.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101221647/https://www.cloudflare.com/page-data/sq/d/333361657.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101221647/https://www.cloudflare.com/page-data/sq/d/3934964512.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101150632/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/9c011a9d-2ff9-42cc-bcbf-2063ed41650c/en.json",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app219.us.archive.org&server_ms=849&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2537&nav_to_done_ms=2919&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/cdn-cgi/rum?",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/assets/otFlat.json",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/assets/otCommonStyles.css",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102032324/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/assets/otCommonStyles.css",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101150632/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/assets/otFlat.json",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/9c011a9d-2ff9-42cc-bcbf-2063ed41650c/logos/static/ot_close.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240110182052/https://www.cloudflare.com/cdn-cgi/rum",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 204,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101150633/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/9c011a9d-2ff9-42cc-bcbf-2063ed41650c/logos/static/ot_close.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5XA6P5ZUYwcjq9LZGBbAcj/1517e2b34ef3bf213fca28586ae33170/ease-of-use-toggle.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/74GDwwyKnKfYYz1QQEQh1P/c7232082d74a2cb16d2197596662f593/security-shield-protection-2.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5XA6P5ZUYwcjq9LZGBbAcj/1517e2b34ef3bf213fca28586ae33170/ease-of-use-toggle.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/vendor/onetrust/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://performance.radar.cloudflare.com/beacon.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/76x52jIsr93tqZq0h3HCFW/99238ae9f872014e19514793c2899208/Blueprint_after_ConnectivityCloud_Resized.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/3hozCySUonJzxSF7TBtDeF/09c3642522b5a9036c157dcab3a59b8d/performance-acceleration-bolt.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/4VlvhGvGbJaxjZSP9FzUxL/8c5199800e0e10bdf85f00c6b031d16c/arrow-down.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://www.cloudflare.com/img/privacyoptions.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/app-e160a97ce8533d25cd7a.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/framework-e961e92a4f41016ec0b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/webpack-runtime-8be4e4911e6c929f030c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240101232629/https%3A//www.cloudflare.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240101232629/https%3A//www.cloudflare.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.cloudflare.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/http://web.archive.org/screenshot/https://www.cloudflare.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.cloudflare.com%2F&timestamp=20240101232629",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/74GDwwyKnKfYYz1QQEQh1P/c7232082d74a2cb16d2197596662f593/security-shield-protection-2.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6302ihcg7gVSsw1lJxL9Qw/02adde7130353d7652596de436294b15/Hero-Flare-Background.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5qOkL7b52oII5tM50rXHvx/244e247fb24d4b337481750c11a25031/Whats-New_Background.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5wz61d8VbU8FpxOTXk24Ub/543ca40d2e393bd45a3f0acd1c27d55b/NW_2023.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/2aCIuZIN3F07mHamqKvPil/f02c97e3cb43bd31b419e6eaa943749e/Press-releases.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/647BpuGnYGXGZUolZKxb4N/ffd5ab48ae8283acd3217f82e08b498a/ntroducing_the_Cloudflare_Radar_Internet_Quality_Page.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6R6cOP7579alYnESM0uIff/4e121fe46ff4571934e68d38af478bd2/2024_loading.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/472Uj25x4L3jM0WkIfqRSz/c04869f0bd2680b2372d9e034e74f35f/Insights-from-new-Forrester-2_100x165.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/4HZ8UQEXxCAEMTMJpXeIup/a4d45524a280d777e4af736c0fcb307b/23-Q1-DDoS-threat-report.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/38c5ZCcMkPewGMcTeinndz/b8e3d5584ee0ae9f17b84136f296f2f9/image4-4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6wvLylL1UDvEfh7N5WBd32/44ff9093b6aa1feb33d12d020ce756df/Generic_Orange_Background.jpeg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231216164206/http://web.archive.org/screenshot/https://cloudflare.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "Navigation timeout of 300000 ms exceeded"
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5XA6P5ZUYwcjq9LZGBbAcj/1517e2b34ef3bf213fca28586ae33170/ease-of-use-toggle.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/74GDwwyKnKfYYz1QQEQh1P/c7232082d74a2cb16d2197596662f593/security-shield-protection-2.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5XA6P5ZUYwcjq9LZGBbAcj/1517e2b34ef3bf213fca28586ae33170/ease-of-use-toggle.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/vendor/onetrust/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://performance.radar.cloudflare.com/beacon.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/76x52jIsr93tqZq0h3HCFW/99238ae9f872014e19514793c2899208/Blueprint_after_ConnectivityCloud_Resized.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/3hozCySUonJzxSF7TBtDeF/09c3642522b5a9036c157dcab3a59b8d/performance-acceleration-bolt.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/4VlvhGvGbJaxjZSP9FzUxL/8c5199800e0e10bdf85f00c6b031d16c/arrow-down.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://www.cloudflare.com/img/privacyoptions.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/app-e160a97ce8533d25cd7a.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/framework-e961e92a4f41016ec0b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/webpack-runtime-8be4e4911e6c929f030c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/74GDwwyKnKfYYz1QQEQh1P/c7232082d74a2cb16d2197596662f593/security-shield-protection-2.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240101232629/https%3A//www.cloudflare.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240101232629/https%3A//www.cloudflare.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.cloudflare.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/http://web.archive.org/screenshot/https://www.cloudflare.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.cloudflare.com%2F&timestamp=20240101232629",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6302ihcg7gVSsw1lJxL9Qw/02adde7130353d7652596de436294b15/Hero-Flare-Background.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5qOkL7b52oII5tM50rXHvx/244e247fb24d4b337481750c11a25031/Whats-New_Background.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6wvLylL1UDvEfh7N5WBd32/44ff9093b6aa1feb33d12d020ce756df/Generic_Orange_Background.jpeg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5wz61d8VbU8FpxOTXk24Ub/543ca40d2e393bd45a3f0acd1c27d55b/NW_2023.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/2aCIuZIN3F07mHamqKvPil/f02c97e3cb43bd31b419e6eaa943749e/Press-releases.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/647BpuGnYGXGZUolZKxb4N/ffd5ab48ae8283acd3217f82e08b498a/ntroducing_the_Cloudflare_Radar_Internet_Quality_Page.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6R6cOP7579alYnESM0uIff/4e121fe46ff4571934e68d38af478bd2/2024_loading.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/472Uj25x4L3jM0WkIfqRSz/c04869f0bd2680b2372d9e034e74f35f/Insights-from-new-Forrester-2_100x165.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/4HZ8UQEXxCAEMTMJpXeIup/a4d45524a280d777e4af736c0fcb307b/23-Q1-DDoS-threat-report.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/38c5ZCcMkPewGMcTeinndz/b8e3d5584ee0ae9f17b84136f296f2f9/image4-4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/76x52jIsr93tqZq0h3HCFW/99238ae9f872014e19514793c2899208/Blueprint_after_ConnectivityCloud_Resized.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/3hozCySUonJzxSF7TBtDeF/09c3642522b5a9036c157dcab3a59b8d/performance-acceleration-bolt.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000221js_/https://www.cloudflare.com/vendor/onetrust/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/4VlvhGvGbJaxjZSP9FzUxL/8c5199800e0e10bdf85f00c6b031d16c/arrow-down.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231216164206/http://web.archive.org/screenshot/https://cloudflare.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000222js_/https://performance.radar.cloudflare.com/beacon.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 403,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6302ihcg7gVSsw1lJxL9Qw/02adde7130353d7652596de436294b15/Hero-Flare-Background.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233416im_/https://www.cloudflare.com/img/privacyoptions.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000222js_/https://www.cloudflare.com/app-e160a97ce8533d25cd7a.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000221js_/https://www.cloudflare.com/framework-e961e92a4f41016ec0b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000221js_/https://www.cloudflare.com/webpack-runtime-8be4e4911e6c929f030c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232546js_/https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/647BpuGnYGXGZUolZKxb4N/ffd5ab48ae8283acd3217f82e08b498a/ntroducing_the_Cloudflare_Radar_Internet_Quality_Page.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5qOkL7b52oII5tM50rXHvx/244e247fb24d4b337481750c11a25031/Whats-New_Background.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6wvLylL1UDvEfh7N5WBd32/44ff9093b6aa1feb33d12d020ce756df/Generic_Orange_Background.jpeg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011016im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/5wz61d8VbU8FpxOTXk24Ub/543ca40d2e393bd45a3f0acd1c27d55b/NW_2023.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011016im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/2aCIuZIN3F07mHamqKvPil/f02c97e3cb43bd31b419e6eaa943749e/Press-releases.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/6R6cOP7579alYnESM0uIff/4e121fe46ff4571934e68d38af478bd2/2024_loading.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011014im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/472Uj25x4L3jM0WkIfqRSz/c04869f0bd2680b2372d9e034e74f35f/Insights-from-new-Forrester-2_100x165.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011016im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/4HZ8UQEXxCAEMTMJpXeIup/a4d45524a280d777e4af736c0fcb307b/23-Q1-DDoS-threat-report.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102011016im_/https://cf-assets.www.cloudflare.com/slt3lc6tev37/38c5ZCcMkPewGMcTeinndz/b8e3d5584ee0ae9f17b84136f296f2f9/image4-4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233418/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/app-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/index/page-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233417/https://www.cloudflare.com/page-data/app-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101221651/https://www.cloudflare.com/page-data/index/page-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app219.us.archive.org&server_ms=849&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3912&nav_to_done_ms=3985&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/cdn-cgi/rum?",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/otBannerSdk.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/a06cff934e9579536ce1c10bad21c1d6d7f63ae0-ddb6421aa7bc5e036e8a.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629js_/https://www.cloudflare.com/7fec36a243acbd7d0118980321a9bd361182b506-7126113dabf7bdf2bd91.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/sq/d/1048862057.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/sq/d/3199558980.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/sq/d/333361657.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/page-data/sq/d/3934964512.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240110182052/https://www.cloudflare.com/cdn-cgi/rum",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 204,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102032324js_/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/otBannerSdk.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233417/https://www.cloudflare.com/page-data/sq/d/3199558980.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101233417/https://www.cloudflare.com/page-data/sq/d/1048862057.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101221647/https://www.cloudflare.com/page-data/sq/d/333361657.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102032324js_/https://www.cloudflare.com/7fec36a243acbd7d0118980321a9bd361182b506-7126113dabf7bdf2bd91.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102032324js_/https://www.cloudflare.com/a06cff934e9579536ce1c10bad21c1d6d7f63ae0-ddb6421aa7bc5e036e8a.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101221647/https://www.cloudflare.com/page-data/sq/d/3934964512.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/9c011a9d-2ff9-42cc-bcbf-2063ed41650c/en.json",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101150632/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/9c011a9d-2ff9-42cc-bcbf-2063ed41650c/en.json",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/assets/otFlat.json",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/assets/otCommonStyles.css",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101150632/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/assets/otFlat.json",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102032324/https://www.cloudflare.com/vendor/onetrust/scripttemplates/202308.2.0/assets/otCommonStyles.css",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101232629/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/9c011a9d-2ff9-42cc-bcbf-2063ed41650c/logos/static/ot_close.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101150633/https://www.cloudflare.com/vendor/onetrust/consent/e34df59b-4a48-4bf9-b2b5-7a4bb09cd231/9c011a9d-2ff9-42cc-bcbf-2063ed41650c/logos/static/ot_close.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ]
+}

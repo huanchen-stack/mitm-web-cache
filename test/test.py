@@ -74,14 +74,18 @@ def save_resources_to_file(filename, stats, resources_1, resources_2, resources_
         json.dump(data, f, indent=4)
 
 def run_tests(url):
-    proxy_process = start_proxy()
     
     resources_1 = run_puppeteer(url, use_proxy=False, force_http1=False)
     resources_2 = run_puppeteer(url, use_proxy=False, force_http1=True)
+    
+    proxy_process = start_proxy()
     resources_3 = run_puppeteer(url, use_proxy=True, force_http1=False)
-    resources_4 = run_puppeteer(url, use_proxy=True, force_http1=False)
-
     stop_proxy(proxy_process)
+    
+    proxy_process = start_proxy()
+    resources_4 = run_puppeteer(url, use_proxy=True, force_http1=False)
+    stop_proxy(proxy_process)
+
 
     analysis_1 = analyze_resources(resources_1)
     analysis_2 = analyze_resources(resources_2)
@@ -101,10 +105,14 @@ def run_tests(url):
     
     return stats
 
-# Test URL
-url_to_test = "https://web.archive.org/web/20240401084821/https://www.moma.org/"
-results = run_tests(url_to_test)
-print(results)
+with open("archived_links_2024.json", "r") as f:
+    d = json.load(f)
+
+for host, url_to_test in d.items():
+    # Test URL
+    results = run_tests(url_to_test)
+    print(results, flush=True)
+    time.sleep(60)
 
 # start_proxy()
 # time.sleep(100)

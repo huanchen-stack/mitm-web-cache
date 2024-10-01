@@ -1,0 +1,3844 @@
+{
+    "stats": {
+        "total_resources": [
+            136,
+            136,
+            136,
+            136
+        ],
+        "non_erroneous_resources": [
+            127,
+            127,
+            127,
+            127
+        ],
+        "resources_200": [
+            72,
+            72,
+            72,
+            72
+        ],
+        "resources_404": [
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://www.facebook.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003js_/https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/MbkC-2_EJ0h.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101203102cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211939js_/https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/MbkC-2_EJ0h.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235742cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://facebook.com/security/hsts-pixel.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000003/https%3A//www.facebook.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000003/https%3A//www.facebook.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.facebook.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.facebook.com%2F&timestamp=20240102000003",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/http://web.archive.org/screenshot/https://www.facebook.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940im_/https://static.xx.fbcdn.net/rsrc.php/v3/yB/r/Y0L6f5sxdIV.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/RKK6hMCj3R1.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app213.us.archive.org&server_ms=831&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=1735&nav_to_done_ms=5591&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://www.facebook.com/data/manifest/",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101203102/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101185644/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000312/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101185644/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235742/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240103045439/http://web.archive.org/screenshot/https://www.facebook.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000005/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101212045im_/https://static.xx.fbcdn.net/rsrc.php/v3/yB/r/Y0L6f5sxdIV.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140im_/https://facebook.com/security/hsts-pixel.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/RKK6hMCj3R1.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101231338/https://www.facebook.com/data/manifest/",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000312/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000005/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/6bjw9N12j0I.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/HtdXy-2D6mm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/3FPJ9YC_wUr.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/M08arqdo_nN.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/x5_Htks8xgp.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lFK_RCKM9IT.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/uxo64bLLIeV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yF/r/p55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/K3FFBsG37CV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/CbM6CZG2ZAb.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/Cho0ckfKH4r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yo/r/LDFDUeRDitE.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/sKtrEJAtiUM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/qvzskUrYlYC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/Jn0xcQmjzFV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3iF074/y2/l/en_US/DCC9wCuPOXu.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/FmJypT0OLYm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lYejkzyV906.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/GWg_BJU26GY.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/eGY_1gEOdFg.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/qWK6o26zE7r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/ikmqTRxurQL.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/y8/l/en_US/Ch_YChJCKQS.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/zyRovCtoGSI.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/x5_Htks8xgp.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/6bjw9N12j0I.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235426/https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/uxo64bLLIeV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/HtdXy-2D6mm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/M08arqdo_nN.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lFK_RCKM9IT.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/K3FFBsG37CV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/3FPJ9YC_wUr.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/CbM6CZG2ZAb.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yF/r/p55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/Cho0ckfKH4r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/GWg_BJU26GY.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102004524/https://static.xx.fbcdn.net/rsrc.php/v3iF074/y2/l/en_US/DCC9wCuPOXu.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/sKtrEJAtiUM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lYejkzyV906.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/eGY_1gEOdFg.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/qvzskUrYlYC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/qWK6o26zE7r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000313/https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/y8/l/en_US/Ch_YChJCKQS.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/zyRovCtoGSI.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/ikmqTRxurQL.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yo/r/LDFDUeRDitE.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/Jn0xcQmjzFV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/FmJypT0OLYm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://www.facebook.com/ajax/bz?__a=1&__ccg=EXCELLENT&__dyn=7xe6E5aQ1PyUbFp61swgE98nwgU6C7UW3q327E2vwXw5ux60Vo1upE4W0OE2WxO2O1Vw8G1Qw5Mx61vw5zwwwi81nE1u83mwaS0zK1swc-0pa0h-0Lo6-0iq0NE&__hs=19724.BP%3ADEFAULT.2.0..0.0&__hsi=7319283992668834241&__req=1&__rev=1010620404&__s=%3A%3Amd1lll&__spin_b=trunk&__spin_r=1010620404&__spin_t=1704153603&__user=0&dpr=1&jazoest=2985&lsd=AVqboGERhOk",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://www.facebook.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003js_/https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/MbkC-2_EJ0h.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235742cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101203102cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211939js_/https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/MbkC-2_EJ0h.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101203102/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://facebook.com/security/hsts-pixel.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000003/https%3A//www.facebook.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000003/https%3A//www.facebook.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.facebook.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/http://web.archive.org/screenshot/https://www.facebook.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.facebook.com%2F&timestamp=20240102000003",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940im_/https://static.xx.fbcdn.net/rsrc.php/v3/yB/r/Y0L6f5sxdIV.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235742/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101185644/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140im_/https://facebook.com/security/hsts-pixel.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/RKK6hMCj3R1.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000005/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000312/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240103045439/http://web.archive.org/screenshot/https://www.facebook.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app213.us.archive.org&server_ms=831&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=641&nav_to_done_ms=779&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://www.facebook.com/data/manifest/",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101212045im_/https://static.xx.fbcdn.net/rsrc.php/v3/yB/r/Y0L6f5sxdIV.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101185644/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/RKK6hMCj3R1.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101231338/https://www.facebook.com/data/manifest/",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000312/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000005/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/6bjw9N12j0I.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/HtdXy-2D6mm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/3FPJ9YC_wUr.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/M08arqdo_nN.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/x5_Htks8xgp.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lFK_RCKM9IT.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/uxo64bLLIeV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yF/r/p55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/K3FFBsG37CV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/CbM6CZG2ZAb.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/Cho0ckfKH4r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yo/r/LDFDUeRDitE.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/sKtrEJAtiUM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/qvzskUrYlYC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/Jn0xcQmjzFV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3iF074/y2/l/en_US/DCC9wCuPOXu.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/FmJypT0OLYm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lYejkzyV906.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/GWg_BJU26GY.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/eGY_1gEOdFg.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/qWK6o26zE7r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/ikmqTRxurQL.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/y8/l/en_US/Ch_YChJCKQS.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/zyRovCtoGSI.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/6bjw9N12j0I.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/M08arqdo_nN.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/3FPJ9YC_wUr.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lFK_RCKM9IT.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/HtdXy-2D6mm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/x5_Htks8xgp.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235426/https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/uxo64bLLIeV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yF/r/p55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/CbM6CZG2ZAb.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/K3FFBsG37CV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/Cho0ckfKH4r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yo/r/LDFDUeRDitE.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/sKtrEJAtiUM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lYejkzyV906.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/FmJypT0OLYm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/Jn0xcQmjzFV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/qvzskUrYlYC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102004524/https://static.xx.fbcdn.net/rsrc.php/v3iF074/y2/l/en_US/DCC9wCuPOXu.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/GWg_BJU26GY.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/eGY_1gEOdFg.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/ikmqTRxurQL.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/qWK6o26zE7r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/zyRovCtoGSI.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000313/https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/y8/l/en_US/Ch_YChJCKQS.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://www.facebook.com/ajax/bz?__a=1&__ccg=EXCELLENT&__dyn=7xe6E5aQ1PyUbFp61swgE98nwgU6C7UW3q327E2vwXw5ux60Vo1upE4W0OE2WxO2O1Vw8G1Qw5Mx61vw5zwwwi81nE1u83mwaS0zK1swc-0pa0h-0Lo6-0iq0NE&__hs=19724.BP%3ADEFAULT.2.0..0.0&__hsi=7319283992668834241&__req=1&__rev=1010620404&__s=%3A%3Amd1lll&__spin_b=trunk&__spin_r=1010620404&__spin_t=1704153603&__user=0&dpr=1&jazoest=2985&lsd=AVqboGERhOk",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://www.facebook.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003js_/https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/MbkC-2_EJ0h.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101203102cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235742cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211939js_/https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/MbkC-2_EJ0h.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101203102/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://facebook.com/security/hsts-pixel.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000003/https%3A//www.facebook.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000003/https%3A//www.facebook.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.facebook.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/http://web.archive.org/screenshot/https://www.facebook.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.facebook.com%2F&timestamp=20240102000003",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940im_/https://static.xx.fbcdn.net/rsrc.php/v3/yB/r/Y0L6f5sxdIV.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/RKK6hMCj3R1.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app213.us.archive.org&server_ms=831&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=1220&nav_to_done_ms=1521&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235742/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://www.facebook.com/data/manifest/",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101185644/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101185644/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000312/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000005/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240103045439/http://web.archive.org/screenshot/https://www.facebook.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101212045im_/https://static.xx.fbcdn.net/rsrc.php/v3/yB/r/Y0L6f5sxdIV.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/RKK6hMCj3R1.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101231338/https://www.facebook.com/data/manifest/",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140im_/https://facebook.com/security/hsts-pixel.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000312/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000005/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/6bjw9N12j0I.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/HtdXy-2D6mm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/3FPJ9YC_wUr.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/M08arqdo_nN.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/x5_Htks8xgp.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lFK_RCKM9IT.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/uxo64bLLIeV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yF/r/p55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/K3FFBsG37CV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/CbM6CZG2ZAb.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/Cho0ckfKH4r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yo/r/LDFDUeRDitE.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/sKtrEJAtiUM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/qvzskUrYlYC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/Jn0xcQmjzFV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3iF074/y2/l/en_US/DCC9wCuPOXu.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/FmJypT0OLYm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lYejkzyV906.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/GWg_BJU26GY.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/eGY_1gEOdFg.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/qWK6o26zE7r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/ikmqTRxurQL.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/y8/l/en_US/Ch_YChJCKQS.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/zyRovCtoGSI.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/6bjw9N12j0I.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/HtdXy-2D6mm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/3FPJ9YC_wUr.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/M08arqdo_nN.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/x5_Htks8xgp.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lFK_RCKM9IT.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235426/https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/uxo64bLLIeV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yF/r/p55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/K3FFBsG37CV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/CbM6CZG2ZAb.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/Cho0ckfKH4r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/sKtrEJAtiUM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yo/r/LDFDUeRDitE.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/qvzskUrYlYC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/FmJypT0OLYm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/Jn0xcQmjzFV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102004524/https://static.xx.fbcdn.net/rsrc.php/v3iF074/y2/l/en_US/DCC9wCuPOXu.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lYejkzyV906.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/GWg_BJU26GY.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/qWK6o26zE7r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/eGY_1gEOdFg.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/ikmqTRxurQL.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000313/https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/y8/l/en_US/Ch_YChJCKQS.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/zyRovCtoGSI.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://www.facebook.com/ajax/bz?__a=1&__ccg=EXCELLENT&__dyn=7xe6E5aQ1PyUbFp61swgE98nwgU6C7UW3q327E2vwXw5ux60Vo1upE4W0OE2WxO2O1Vw8G1Qw5Mx61vw5zwwwi81nE1u83mwaS0zK1swc-0pa0h-0Lo6-0iq0NE&__hs=19724.BP%3ADEFAULT.2.0..0.0&__hsi=7319283992668834241&__req=1&__rev=1010620404&__s=%3A%3Amd1lll&__spin_b=trunk&__spin_r=1010620404&__spin_t=1704153603&__user=0&dpr=1&jazoest=2985&lsd=AVqboGERhOk",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://www.facebook.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003js_/https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/MbkC-2_EJ0h.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101203102cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235742cs_/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211939js_/https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/MbkC-2_EJ0h.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940/https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/spc-eFYPfEt.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940/https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/cpqgTojwVjB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://facebook.com/security/hsts-pixel.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000003/https%3A//www.facebook.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240102000003/https%3A//www.facebook.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.facebook.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/http://web.archive.org/screenshot/https://www.facebook.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.facebook.com%2F&timestamp=20240102000003",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_card_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940im_/https://static.xx.fbcdn.net/rsrc.php/v3/yB/r/Y0L6f5sxdIV.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/RKK6hMCj3R1.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app213.us.archive.org&server_ms=831&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=663&nav_to_done_ms=743&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://www.facebook.com/data/manifest/",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240103045439/http://web.archive.org/screenshot/https://www.facebook.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101211940/https://static.xx.fbcdn.net/rsrc.php/v3/yU/l/0,cross/fkil1VAocZp.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101203102/https://static.xx.fbcdn.net/rsrc.php/v3/yC/l/0,cross/Jzo7GexzRg3.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000312/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235742/https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/wzRmCMksWgs.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/lIzLCRwr_LB.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000005/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101185644/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140im_/https://facebook.com/security/hsts-pixel.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101185644/https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/7GoRRvcA7pK.css?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101212045im_/https://static.xx.fbcdn.net/rsrc.php/v3/yB/r/Y0L6f5sxdIV.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/RKK6hMCj3R1.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101231338/https://www.facebook.com/data/manifest/",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_card_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_1.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_3.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235909im_/https://www.facebook.com/images/cookies/cookie_info_popup_image_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/xGzxHIbkRpC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000312/https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yf/l/en_US/_cNbISKpDhw.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000005/https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/GIlJjyzEguQ.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/6bjw9N12j0I.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/HtdXy-2D6mm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/3FPJ9YC_wUr.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/M08arqdo_nN.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/x5_Htks8xgp.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lFK_RCKM9IT.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/uxo64bLLIeV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yF/r/p55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/K3FFBsG37CV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/CbM6CZG2ZAb.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/Cho0ckfKH4r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yo/r/LDFDUeRDitE.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/sKtrEJAtiUM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/qvzskUrYlYC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/Jn0xcQmjzFV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3iF074/y2/l/en_US/DCC9wCuPOXu.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/FmJypT0OLYm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lYejkzyV906.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/GWg_BJU26GY.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/eGY_1gEOdFg.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/qWK6o26zE7r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/ikmqTRxurQL.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/y8/l/en_US/Ch_YChJCKQS.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/zyRovCtoGSI.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/6bjw9N12j0I.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/HtdXy-2D6mm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/3FPJ9YC_wUr.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/M08arqdo_nN.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/x5_Htks8xgp.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lFK_RCKM9IT.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240101235426/https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/uxo64bLLIeV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/K3FFBsG37CV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yF/r/p55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/CbM6CZG2ZAb.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/Cho0ckfKH4r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yo/r/LDFDUeRDitE.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/sKtrEJAtiUM.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/qvzskUrYlYC.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102004524/https://static.xx.fbcdn.net/rsrc.php/v3iF074/y2/l/en_US/DCC9wCuPOXu.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/Jn0xcQmjzFV.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/FmJypT0OLYm.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000140/https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lYejkzyV906.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/GWg_BJU26GY.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/eGY_1gEOdFg.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/qWK6o26zE7r.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000313/https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/y8/l/en_US/Ch_YChJCKQS.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/zyRovCtoGSI.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000141/https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/ikmqTRxurQL.js?_nc_x=Ij3Wp8lg5Kz",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240102000003/https://www.facebook.com/ajax/bz?__a=1&__ccg=EXCELLENT&__dyn=7xe6E5aQ1PyUbFp61swgE98nwgU6C7UW3q327E2vwXw5ux60Vo1upE4W0OE2WxO2O1Vw8G1Qw5Mx61vw5zwwwi81nE1u83mwaS0zK1swc-0pa0h-0Lo6-0iq0NE&__hs=19724.BP%3ADEFAULT.2.0..0.0&__hsi=7319283992668834241&__req=1&__rev=1010620404&__s=%3A%3Amd1lll&__spin_b=trunk&__spin_r=1010620404&__spin_t=1704153603&__user=0&dpr=1&jazoest=2985&lsd=AVqboGERhOk",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ]
+}

@@ -1,0 +1,2920 @@
+{
+    "stats": {
+        "total_resources": [
+            103,
+            103,
+            103,
+            103
+        ],
+        "non_erroneous_resources": [
+            85,
+            85,
+            85,
+            85
+        ],
+        "resources_200": [
+            48,
+            48,
+            48,
+            48
+        ],
+        "resources_404": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/web/20081010145148/http://www.azure.com:80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148js_/http://as.casalemedia.com/sd?s=95308&f=1",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212619js_/http://as.casalemedia.com/sd?s=95308&f=1",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_orangearrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_gdlogo.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212945im_/http://images-pw.secureserver.net/images/img_gdlogo.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213056im_/http://images-pw.secureserver.net/images/img_orangearrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_saletag.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212847im_/http://images-pw.secureserver.net/images/img_saletag.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/061703/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_parkedfreetext_b.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/but_search.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ban_199_domains.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/061703/but_go_orange_green.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_biz2.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/log_icann.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_footertext2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/bul_blacksquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/bul_bluesquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_toplft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/assets/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_toprt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_botlft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_botrt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://www.azure.com/",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/hdr_parked_ppc_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010145148/http%3A//www.azure.com%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010145148/http%3A//www.azure.com%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fwww.azure.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148/http://web.archive.org/screenshot/http://www.azure.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fwww.azure.com%2F&timestamp=20081010145148",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://www.azure.com/images/spacer.gif?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_resultsbar_1px.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_prodadv.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_hosting.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_wst.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_auctions.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_email.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_privatereg.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_wwd.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app210.us.archive.org&server_ms=411&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=1690&nav_to_done_ms=2804&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212751im_/http://images-pw.secureserver.net/images/log_icann.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213009im_/http://images-pw.secureserver.net/images/img_parkedfreetext_b.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212914im_/http://images-pw.secureserver.net/images/061703/but_go_orange_green.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213122im_/http://images-pw.secureserver.net/images/but_search.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212826im_/http://images-pw.secureserver.net/images/hdr_parked_ppc_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212837im_/http://images-pw.secureserver.net/images/061703/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213045im_/http://images-pw.secureserver.net/images/ban_199_domains.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120121142606/http://web.archive.org/screenshot/http://azure.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212815im_/http://images-pw.secureserver.net/images/bul_bluesquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212803im_/http://images-pw.secureserver.net/images/ad_ppc_biz2.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212701im_/http://images-pw.secureserver.net/images/bul_blacksquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212953im_/https://imagesak.godaddy.com/assets/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212751im_/http://imagesak.godaddy.com/aaa/help/hlp_toplft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212724im_/http://imagesak.godaddy.com/aaa/help/hlp_toprt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://imagesak.godaddy.com/aaa/help/hlp_botrt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212713im_/http://images-pw.secureserver.net/images/ad_ppc_wst.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212925im_/http://images-pw.secureserver.net/images/ad_ppc_privatereg.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212724im_/http://images-pw.secureserver.net/images/ad_ppc_hosting.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20110603060355im_/http://www.azure.com/images/spacer.gif?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212901im_/http://images-pw.secureserver.net/images/ad_ppc_prodadv.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213024im_/http://images-pw.secureserver.net/images/ad_ppc_wwd.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212735im_/http://images-pw.secureserver.net/images/img_resultsbar_1px.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213109im_/http://images-pw.secureserver.net/images/ad_ppc_email.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212959im_/http://images-pw.secureserver.net/images/img_footertext2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20110603060355im_/http://www.microsoft.com/azure/images/spacer.gif?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20110603060355im_/http://www.microsoft.com/windowsazure/?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212803im_/http://imagesak.godaddy.com/aaa/help/hlp_botlft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": "net::ERR_TOO_MANY_REDIRECTS"
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212935im_/http://images-pw.secureserver.net/images/ad_ppc_auctions.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/web/20081010145148/http://www.azure.com:80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148js_/http://as.casalemedia.com/sd?s=95308&f=1",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212619js_/http://as.casalemedia.com/sd?s=95308&f=1",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_orangearrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_gdlogo.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213056im_/http://images-pw.secureserver.net/images/img_orangearrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212945im_/http://images-pw.secureserver.net/images/img_gdlogo.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_saletag.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212847im_/http://images-pw.secureserver.net/images/img_saletag.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/061703/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_parkedfreetext_b.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/but_search.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ban_199_domains.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/061703/but_go_orange_green.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_biz2.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/log_icann.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_footertext2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/bul_blacksquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/bul_bluesquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_toplft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/assets/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_toprt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_botlft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_botrt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://www.azure.com/",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/hdr_parked_ppc_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010145148/http%3A//www.azure.com%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010145148/http%3A//www.azure.com%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fwww.azure.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fwww.azure.com%2F&timestamp=20081010145148",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148/http://web.archive.org/screenshot/http://www.azure.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212837im_/http://images-pw.secureserver.net/images/061703/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213009im_/http://images-pw.secureserver.net/images/img_parkedfreetext_b.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213122im_/http://images-pw.secureserver.net/images/but_search.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212826im_/http://images-pw.secureserver.net/images/hdr_parked_ppc_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212803im_/http://images-pw.secureserver.net/images/ad_ppc_biz2.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212914im_/http://images-pw.secureserver.net/images/061703/but_go_orange_green.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213045im_/http://images-pw.secureserver.net/images/ban_199_domains.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212751im_/http://images-pw.secureserver.net/images/log_icann.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212959im_/http://images-pw.secureserver.net/images/img_footertext2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212701im_/http://images-pw.secureserver.net/images/bul_blacksquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212815im_/http://images-pw.secureserver.net/images/bul_bluesquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212751im_/http://imagesak.godaddy.com/aaa/help/hlp_toplft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212953im_/https://imagesak.godaddy.com/assets/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212724im_/http://imagesak.godaddy.com/aaa/help/hlp_toprt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212803im_/http://imagesak.godaddy.com/aaa/help/hlp_botlft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://imagesak.godaddy.com/aaa/help/hlp_botrt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_resultsbar_1px.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_prodadv.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120121142606/http://web.archive.org/screenshot/http://azure.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212735im_/http://images-pw.secureserver.net/images/img_resultsbar_1px.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212901im_/http://images-pw.secureserver.net/images/ad_ppc_prodadv.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://www.azure.com/images/spacer.gif?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_hosting.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_wst.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_auctions.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_email.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_privatereg.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_wwd.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": "net::ERR_TOO_MANY_REDIRECTS"
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app210.us.archive.org&server_ms=411&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2048&nav_to_done_ms=2259&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20110603060355im_/http://www.azure.com/images/spacer.gif?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212724im_/http://images-pw.secureserver.net/images/ad_ppc_hosting.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212713im_/http://images-pw.secureserver.net/images/ad_ppc_wst.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213109im_/http://images-pw.secureserver.net/images/ad_ppc_email.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212935im_/http://images-pw.secureserver.net/images/ad_ppc_auctions.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212925im_/http://images-pw.secureserver.net/images/ad_ppc_privatereg.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213024im_/http://images-pw.secureserver.net/images/ad_ppc_wwd.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20110603060355im_/http://www.microsoft.com/azure/images/spacer.gif?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20110603060355im_/http://www.microsoft.com/windowsazure/?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/web/20081010145148/http://www.azure.com:80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148js_/http://as.casalemedia.com/sd?s=95308&f=1",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212619js_/http://as.casalemedia.com/sd?s=95308&f=1",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_orangearrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_gdlogo.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_saletag.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/061703/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_parkedfreetext_b.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/but_search.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ban_199_domains.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/061703/but_go_orange_green.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_biz2.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/log_icann.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_footertext2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/bul_blacksquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/bul_bluesquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_toplft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/assets/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_toprt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_botlft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_botrt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213056im_/http://images-pw.secureserver.net/images/img_orangearrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://www.azure.com/",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/hdr_parked_ppc_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010145148/http%3A//www.azure.com%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010145148/http%3A//www.azure.com%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fwww.azure.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fwww.azure.com%2F&timestamp=20081010145148",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148/http://web.archive.org/screenshot/http://www.azure.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212945im_/http://images-pw.secureserver.net/images/img_gdlogo.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_resultsbar_1px.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_prodadv.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://www.azure.com/images/spacer.gif?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_hosting.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_wst.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_auctions.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_email.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_privatereg.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_wwd.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app210.us.archive.org&server_ms=411&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2428&nav_to_done_ms=3259&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212847im_/http://images-pw.secureserver.net/images/img_saletag.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213122im_/http://images-pw.secureserver.net/images/but_search.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213009im_/http://images-pw.secureserver.net/images/img_parkedfreetext_b.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213045im_/http://images-pw.secureserver.net/images/ban_199_domains.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212914im_/http://images-pw.secureserver.net/images/061703/but_go_orange_green.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212803im_/http://images-pw.secureserver.net/images/ad_ppc_biz2.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212751im_/http://images-pw.secureserver.net/images/log_icann.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212959im_/http://images-pw.secureserver.net/images/img_footertext2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212701im_/http://images-pw.secureserver.net/images/bul_blacksquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212815im_/http://images-pw.secureserver.net/images/bul_bluesquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212826im_/http://images-pw.secureserver.net/images/hdr_parked_ppc_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120121142606/http://web.archive.org/screenshot/http://azure.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212735im_/http://images-pw.secureserver.net/images/img_resultsbar_1px.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20110603060355im_/http://www.azure.com/images/spacer.gif?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212901im_/http://images-pw.secureserver.net/images/ad_ppc_prodadv.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212724im_/http://images-pw.secureserver.net/images/ad_ppc_hosting.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212713im_/http://images-pw.secureserver.net/images/ad_ppc_wst.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212935im_/http://images-pw.secureserver.net/images/ad_ppc_auctions.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213109im_/http://images-pw.secureserver.net/images/ad_ppc_email.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212925im_/http://images-pw.secureserver.net/images/ad_ppc_privatereg.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213024im_/http://images-pw.secureserver.net/images/ad_ppc_wwd.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20110603060355im_/http://www.microsoft.com/azure/images/spacer.gif?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20110603060355im_/http://www.microsoft.com/windowsazure/?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": "net::ERR_TOO_MANY_REDIRECTS"
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212837im_/http://images-pw.secureserver.net/images/061703/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212751im_/http://imagesak.godaddy.com/aaa/help/hlp_toplft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212953im_/https://imagesak.godaddy.com/assets/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212724im_/http://imagesak.godaddy.com/aaa/help/hlp_toprt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212803im_/http://imagesak.godaddy.com/aaa/help/hlp_botlft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://imagesak.godaddy.com/aaa/help/hlp_botrt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/web/20081010145148/http://www.azure.com:80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148js_/http://as.casalemedia.com/sd?s=95308&f=1",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212619js_/http://as.casalemedia.com/sd?s=95308&f=1",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_orangearrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_gdlogo.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213056im_/http://images-pw.secureserver.net/images/img_orangearrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_saletag.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/061703/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_parkedfreetext_b.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/but_search.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ban_199_domains.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/061703/but_go_orange_green.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_biz2.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/log_icann.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_footertext2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/bul_blacksquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/bul_bluesquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_toplft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/assets/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_toprt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_botlft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://imagesak.godaddy.com/aaa/help/hlp_botrt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://www.azure.com/",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/hdr_parked_ppc_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010145148/http%3A//www.azure.com%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20081010145148/http%3A//www.azure.com%3A80/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=http%3A%2F%2Fwww.azure.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=http%3A%2F%2Fwww.azure.com%2F&timestamp=20081010145148",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148/http://web.archive.org/screenshot/http://www.azure.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212945im_/http://images-pw.secureserver.net/images/img_gdlogo.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/img_resultsbar_1px.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_prodadv.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://www.azure.com/images/spacer.gif?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_hosting.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_wst.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_auctions.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_email.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_privatereg.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081010145148im_/http://images-pw.secureserver.net/images/ad_ppc_wwd.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app210.us.archive.org&server_ms=411&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2337&nav_to_done_ms=3163&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212826im_/http://images-pw.secureserver.net/images/hdr_parked_ppc_4.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20120121142606/http://web.archive.org/screenshot/http://azure.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212735im_/http://images-pw.secureserver.net/images/img_resultsbar_1px.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212901im_/http://images-pw.secureserver.net/images/ad_ppc_prodadv.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20110603060355im_/http://www.azure.com/images/spacer.gif?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212724im_/http://images-pw.secureserver.net/images/ad_ppc_hosting.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212713im_/http://images-pw.secureserver.net/images/ad_ppc_wst.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212935im_/http://images-pw.secureserver.net/images/ad_ppc_auctions.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213109im_/http://images-pw.secureserver.net/images/ad_ppc_email.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212925im_/http://images-pw.secureserver.net/images/ad_ppc_privatereg.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213024im_/http://images-pw.secureserver.net/images/ad_ppc_wwd.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20110603060355im_/http://www.microsoft.com/azure/images/spacer.gif?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 301,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20110603060355im_/http://www.microsoft.com/windowsazure/?q=L3MkWGAkZGN3AGVjAwx1ZwD3ZmH0AQZlBPHlAzpyZ3RlZGNjWGV2MFHmpFHlAz4yZ3RkZPHlAzZyZ3RkZvHlAzIzWGAkAvHlAzLyZ3RyZwMyMlHmpGVjZQtkZQRjZQp1ZGD4WGV2L3xyZ3RkWGV2qTpyZ3RlWGV2rPHmpFHlAzMapPHmpGNyZwMbozpyZ3RkWGV2qTLyZ3RjWGV2pUNyZ3SVEvHlAzAbWGAkZD==-1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212847im_/http://images-pw.secureserver.net/images/img_saletag.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212803im_/http://imagesak.godaddy.com/aaa/help/hlp_botlft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212837im_/http://images-pw.secureserver.net/images/061703/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213009im_/http://images-pw.secureserver.net/images/img_parkedfreetext_b.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213122im_/http://images-pw.secureserver.net/images/but_search.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008213045im_/http://images-pw.secureserver.net/images/ban_199_domains.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212914im_/http://images-pw.secureserver.net/images/061703/but_go_orange_green.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212803im_/http://images-pw.secureserver.net/images/ad_ppc_biz2.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212751im_/http://images-pw.secureserver.net/images/log_icann.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212959im_/http://images-pw.secureserver.net/images/img_footertext2.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212701im_/http://images-pw.secureserver.net/images/bul_blacksquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212815im_/http://images-pw.secureserver.net/images/bul_bluesquare.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212751im_/http://imagesak.godaddy.com/aaa/help/hlp_toplft.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212953im_/https://imagesak.godaddy.com/assets/spc_trans.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212724im_/http://imagesak.godaddy.com/aaa/help/hlp_toprt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": "net::ERR_TOO_MANY_REDIRECTS"
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://imagesak.godaddy.com/aaa/help/hlp_botrt.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212629im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png?ad547d10",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20081008212648im_/http://images-pw.secureserver.net/images/img_greenarrows.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        }
+    ]
+}

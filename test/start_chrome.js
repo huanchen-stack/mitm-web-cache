@@ -88,9 +88,12 @@ async function captureNetworkTraffic(url, useProxy, proxyPort, forceHttp1) {
 
     try {
         // Load the page with increased timeout
-        await page.goto(url, { waitUntil: 'networkidle0' });  // 5 minutes timeout
+        const startTime = Date.now();
+        await page.goto(url, { waitUntil: 'networkidle0', timeout: 180000 });
+        const networkIdleTime = Date.now() - startTime;
 
-        await delay(5000);  // Wait for 5 seconds after the page is fully loaded
+        const delayTime = Math.min(60000, Math.max(networkIdleTime, 5000));
+        await delay(delayTime);
 
     } catch (error) {
         console.error(`Error occurred while loading ${url}: ${error.message}`);

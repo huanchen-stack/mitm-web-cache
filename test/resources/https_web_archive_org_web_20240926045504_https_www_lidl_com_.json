@@ -1,0 +1,1982 @@
+{
+    "stats": {
+        "total_resources": [
+            71,
+            69,
+            69,
+            69
+        ],
+        "non_erroneous_resources": [
+            70,
+            68,
+            66,
+            68
+        ],
+        "resources_200": [
+            46,
+            45,
+            43,
+            45
+        ],
+        "resources_404": [
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-SemiBold.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-Regular.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504js_/https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504jm_/https://www.lidl.com/static/index-B0XSdj8N.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504cs_/https://www.lidl.com/static/index-C7hxf4yO.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359jm_/https://www.lidl.com/static/index-B0XSdj8N.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359cs_/https://www.lidl.com/static/index-C7hxf4yO.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045821js_/https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-Regular.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-SemiBold.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://cdn.cookielaw.org/consent/6dd4be68-ee21-4a16-8add-02a2616a1e11/6dd4be68-ee21-4a16-8add-02a2616a1e11.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504js_/https://assets.adobedtm.com/832a01ce1742/29d487a29220/launch-6c33e92d0b73.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504js_/https://www.google.com/recaptcha/api.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.googletagmanager.com/gtm.js?id=GTM-5D9NQR5&gtm_auth=DaNW6qUshp6aGo0QVIW0ug&gtm_preview=env-6&gtm_cookies_win=x",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240926045504/https%3A//www.lidl.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240926045504/https%3A//www.lidl.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.lidl.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/http://web.archive.org/screenshot/https://www.lidl.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.lidl.com%2F&timestamp=20240926045504",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359im_/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-Regular.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/assets/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240322194719/http://web.archive.org/screenshot/https://www.lidl.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359/https://cdn.cookielaw.org/consent/6dd4be68-ee21-4a16-8add-02a2616a1e11/6dd4be68-ee21-4a16-8add-02a2616a1e11.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app202.us.archive.org&server_ms=284&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2191&nav_to_done_ms=3157&iaprop_fontSize=27.200000000000003px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045727js_/https://www.google.com/recaptcha/api.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205434/https://www.googletagmanager.com/gtm.js?id=GTM-5D9NQR5&gtm_auth=DaNW6qUshp6aGo0QVIW0ug&gtm_preview=env-6&gtm_cookies_win=x",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240919033718/https://www.lidl.com/assets/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205434/https://www.google-analytics.com/analytics.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504if_///6642831.fls.doubleclick.net/activityi;src=6642831;type=lidl1;cat=homep0;ord=3321446759259;gtm=2wg3b2;auiddc=1606352928.1727326506;~oref=https%3A%2F%2Fwww.lidl.com%2F?",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205434/https://cdn.mouseflow.com/projects/9131771b-7d22-4ea0-bad2-0765a8f0a69e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926050117/https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045727/https://www.gstatic.com/recaptcha/releases/EGbODne6buzpTnWrrBprcfAY/recaptcha__en.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://polyfill.archive.org/v3/polyfill.min.js?features=fetch,IntersectionObserver,ResizeObserver,globalThis,Element.prototype.getAttributeNames,String.prototype.startsWith,Array.prototype.flat,Element.prototype.closest,Element.prototype.scroll,Element.prototype.remove,Object.entries,Object.values,Object.fromEntries",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/lit/polyfill-support.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/ia-topnav.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/archive.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/css/archive.min.css?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/styles.css?v=X-Ndhul9",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/web.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359js_/https://assets.adobedtm.com/832a01ce1742/29d487a29220/launch-6c33e92d0b73.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20191106014035/https://cdn.mouseflow.com/projects/9131771b-7d22-4ea0-bad2-0765a8f0a69e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/analytics.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045906/https://www.gstatic.com/recaptcha/releases/EGbODne6buzpTnWrrBprcfAY/recaptcha__en.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://dpm.demdex.net/id?d_visid_ver=5.5.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=9FC51E2265D46E1E0A495C06%40AdobeOrg&d_nsid=0&ts=1727326507544",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/r/collect?v=1&_v=j81&a=747909417&t=pageview&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&_u=YADAAAAB~&jid=1059767714&gjid=403380427&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&_r=1&gtm=2wg3b25D9NQR5&cd1=Unauthenticated&z=1863085672",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?path=%2Fweb&service=wb&server_name=wwwb-app212.us.archive.org&server_ms=289&kind=pageview&timediff=-7&locale=en-US&referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20240926045504%2Fhttps%3A%2F%2Fwww.lidl.com%2F&loadtime=3381&nav_to_done_ms=3827&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=14",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?cache_bust=0.23046404318005598&kind=track_js&track_js_case=external_executes&service=ao_2&version=2&count=6",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=747909417&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=25&_u=aAHAAEAB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=1421897823",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=747909417&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=50&_u=aAHAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=1774969616",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=747909417&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=75&_u=aAHAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=45733448",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=747909417&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=90&_u=aAHAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=1072655562",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504im_/https://www.lidl.com/assets/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183401im_/https://www.lidl.com/assets/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-SemiBold.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-Regular.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504js_/https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504jm_/https://www.lidl.com/static/index-B0XSdj8N.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504cs_/https://www.lidl.com/static/index-C7hxf4yO.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359cs_/https://www.lidl.com/static/index-C7hxf4yO.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-SemiBold.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-Regular.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045821js_/https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359jm_/https://www.lidl.com/static/index-B0XSdj8N.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504js_/https://assets.adobedtm.com/832a01ce1742/29d487a29220/launch-6c33e92d0b73.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359js_/https://assets.adobedtm.com/832a01ce1742/29d487a29220/launch-6c33e92d0b73.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://cdn.cookielaw.org/consent/6dd4be68-ee21-4a16-8add-02a2616a1e11/6dd4be68-ee21-4a16-8add-02a2616a1e11.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504js_/https://www.google.com/recaptcha/api.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.googletagmanager.com/gtm.js?id=GTM-5D9NQR5&gtm_auth=DaNW6qUshp6aGo0QVIW0ug&gtm_preview=env-6&gtm_cookies_win=x",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240926045504/https%3A//www.lidl.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240926045504/https%3A//www.lidl.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.lidl.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/http://web.archive.org/screenshot/https://www.lidl.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.lidl.com%2F&timestamp=20240926045504",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359im_/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-Regular.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359/https://cdn.cookielaw.org/consent/6dd4be68-ee21-4a16-8add-02a2616a1e11/6dd4be68-ee21-4a16-8add-02a2616a1e11.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205434/https://www.googletagmanager.com/gtm.js?id=GTM-5D9NQR5&gtm_auth=DaNW6qUshp6aGo0QVIW0ug&gtm_preview=env-6&gtm_cookies_win=x",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045727js_/https://www.google.com/recaptcha/api.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240322194719/http://web.archive.org/screenshot/https://www.lidl.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/assets/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app202.us.archive.org&server_ms=284&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=1830&nav_to_done_ms=2385&iaprop_fontSize=27.200000000000003px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://dpm.demdex.net/id?d_visid_ver=5.5.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=9FC51E2265D46E1E0A495C06%40AdobeOrg&d_nsid=0&ts=1727326504794",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045727/https://www.gstatic.com/recaptcha/releases/EGbODne6buzpTnWrrBprcfAY/recaptcha__en.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926050117/https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205434/https://www.google-analytics.com/analytics.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504if_///6642831.fls.doubleclick.net/activityi;src=6642831;type=lidl1;cat=homep0;ord=3321446759259;gtm=2wg3b2;auiddc=1606352928.1727326506;~oref=https%3A%2F%2Fwww.lidl.com%2F?",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205434/https://cdn.mouseflow.com/projects/9131771b-7d22-4ea0-bad2-0765a8f0a69e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045906/https://www.gstatic.com/recaptcha/releases/EGbODne6buzpTnWrrBprcfAY/recaptcha__en.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240919033718/https://www.lidl.com/assets/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/analytics.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://polyfill.archive.org/v3/polyfill.min.js?features=fetch,IntersectionObserver,ResizeObserver,globalThis,Element.prototype.getAttributeNames,String.prototype.startsWith,Array.prototype.flat,Element.prototype.closest,Element.prototype.scroll,Element.prototype.remove,Object.entries,Object.values,Object.fromEntries",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/lit/polyfill-support.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/ia-topnav.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/archive.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/css/archive.min.css?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/styles.css?v=X-Ndhul9",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/web.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20191106014035/https://cdn.mouseflow.com/projects/9131771b-7d22-4ea0-bad2-0765a8f0a69e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=1598332458&t=pageview&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&_u=QAGAAAgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&cd1=Unauthenticated&z=1176899839",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?path=%2Fweb&service=wb&server_name=wwwb-app212.us.archive.org&server_ms=289&kind=pageview&timediff=-7&locale=en-US&referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20240926045504%2Fhttps%3A%2F%2Fwww.lidl.com%2F&loadtime=3149&nav_to_done_ms=3304&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=14",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?cache_bust=0.7334536082169851&kind=track_js&track_js_case=external_executes&service=ao_2&version=2&count=6",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=1598332458&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=25&_u=SAGAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=1495818835",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=1598332458&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=50&_u=SAGAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=2119535429",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=1598332458&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=75&_u=SAGAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=806760853",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=1598332458&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=90&_u=SAGAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=1282451311",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-SemiBold.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-Regular.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504js_/https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504jm_/https://www.lidl.com/static/index-B0XSdj8N.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504cs_/https://www.lidl.com/static/index-C7hxf4yO.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359cs_/https://www.lidl.com/static/index-C7hxf4yO.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-SemiBold.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045821js_/https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359jm_/https://www.lidl.com/static/index-B0XSdj8N.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-Regular.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://cdn.cookielaw.org/consent/6dd4be68-ee21-4a16-8add-02a2616a1e11/6dd4be68-ee21-4a16-8add-02a2616a1e11.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504js_/https://assets.adobedtm.com/832a01ce1742/29d487a29220/launch-6c33e92d0b73.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504js_/https://www.google.com/recaptcha/api.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.googletagmanager.com/gtm.js?id=GTM-5D9NQR5&gtm_auth=DaNW6qUshp6aGo0QVIW0ug&gtm_preview=env-6&gtm_cookies_win=x",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240926045504/https%3A//www.lidl.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240926045504/https%3A//www.lidl.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.lidl.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/http://web.archive.org/screenshot/https://www.lidl.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.lidl.com%2F&timestamp=20240926045504",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359im_/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-Regular.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/assets/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app202.us.archive.org&server_ms=284&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2432&nav_to_done_ms=2634&iaprop_fontSize=27.200000000000003px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": null,
+            "errorText": "net::ERR_EMPTY_RESPONSE"
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359/https://cdn.cookielaw.org/consent/6dd4be68-ee21-4a16-8add-02a2616a1e11/6dd4be68-ee21-4a16-8add-02a2616a1e11.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240322194719/http://web.archive.org/screenshot/https://www.lidl.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240919033718/https://www.lidl.com/assets/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359js_/https://assets.adobedtm.com/832a01ce1742/29d487a29220/launch-6c33e92d0b73.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045727js_/https://www.google.com/recaptcha/api.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205434/https://www.googletagmanager.com/gtm.js?id=GTM-5D9NQR5&gtm_auth=DaNW6qUshp6aGo0QVIW0ug&gtm_preview=env-6&gtm_cookies_win=x",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://dpm.demdex.net/id?d_visid_ver=5.5.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=9FC51E2265D46E1E0A495C06%40AdobeOrg&d_nsid=0&ts=1727326508112",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926050117/https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045727/https://www.gstatic.com/recaptcha/releases/EGbODne6buzpTnWrrBprcfAY/recaptcha__en.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205434/https://www.google-analytics.com/analytics.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504if_///6642831.fls.doubleclick.net/activityi;src=6642831;type=lidl1;cat=homep0;ord=3321446759259;gtm=2wg3b2;auiddc=1606352928.1727326506;~oref=https%3A%2F%2Fwww.lidl.com%2F?",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205434/https://cdn.mouseflow.com/projects/9131771b-7d22-4ea0-bad2-0765a8f0a69e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045906/https://www.gstatic.com/recaptcha/releases/EGbODne6buzpTnWrrBprcfAY/recaptcha__en.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/analytics.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://polyfill.archive.org/v3/polyfill.min.js?features=fetch,IntersectionObserver,ResizeObserver,globalThis,Element.prototype.getAttributeNames,String.prototype.startsWith,Array.prototype.flat,Element.prototype.closest,Element.prototype.scroll,Element.prototype.remove,Object.entries,Object.values,Object.fromEntries",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/lit/polyfill-support.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/ia-topnav.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/archive.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/css/archive.min.css?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/styles.css?v=X-Ndhul9",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/web.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20191106014035/https://cdn.mouseflow.com/projects/9131771b-7d22-4ea0-bad2-0765a8f0a69e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?path=%2Fweb&service=wb&server_name=wwwb-app212.us.archive.org&server_ms=289&kind=pageview&timediff=-7&locale=en-US&referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20240926045504%2Fhttps%3A%2F%2Fwww.lidl.com%2F&loadtime=272&nav_to_done_ms=1353&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=14",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?cache_bust=0.5183151830267521&kind=track_js&track_js_case=external_executes&service=ao_2&version=2&count=6",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": "net::ERR_EMPTY_RESPONSE"
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=586498331&t=pageview&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&_u=QAGAAAgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&cd1=Unauthenticated&z=1732642242",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=586498331&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=25&_u=SAGAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=1495818835",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=586498331&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=50&_u=SAGAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=2119535429",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=586498331&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=75&_u=SAGAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=806760853",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=586498331&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=90&_u=SAGAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=1282451311",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-SemiBold.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-Regular.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504js_/https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504jm_/https://www.lidl.com/static/index-B0XSdj8N.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504cs_/https://www.lidl.com/static/index-C7hxf4yO.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359cs_/https://www.lidl.com/static/index-C7hxf4yO.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-SemiBold.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-Regular.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045821js_/https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359jm_/https://www.lidl.com/static/index-B0XSdj8N.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://cdn.cookielaw.org/consent/6dd4be68-ee21-4a16-8add-02a2616a1e11/6dd4be68-ee21-4a16-8add-02a2616a1e11.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504js_/https://assets.adobedtm.com/832a01ce1742/29d487a29220/launch-6c33e92d0b73.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504js_/https://www.google.com/recaptcha/api.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.googletagmanager.com/gtm.js?id=GTM-5D9NQR5&gtm_auth=DaNW6qUshp6aGo0QVIW0ug&gtm_preview=env-6&gtm_cookies_win=x",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240926045504/https%3A//www.lidl.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240926045504/https%3A//www.lidl.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.lidl.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/http://web.archive.org/screenshot/https://www.lidl.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.lidl.com%2F&timestamp=20240926045504",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359im_/https://www.lidl.com/assets/fonts/LidlFontPro/LidlFontPro-Regular.woff",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app202.us.archive.org&server_ms=284&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=596&nav_to_done_ms=672&iaprop_fontSize=27.200000000000003px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359/https://cdn.cookielaw.org/consent/6dd4be68-ee21-4a16-8add-02a2616a1e11/6dd4be68-ee21-4a16-8add-02a2616a1e11.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926183359js_/https://assets.adobedtm.com/832a01ce1742/29d487a29220/launch-6c33e92d0b73.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045727js_/https://www.google.com/recaptcha/api.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://www.lidl.com/assets/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240322194719/http://web.archive.org/screenshot/https://www.lidl.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240919033718/https://www.lidl.com/assets/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205434/https://www.googletagmanager.com/gtm.js?id=GTM-5D9NQR5&gtm_auth=DaNW6qUshp6aGo0QVIW0ug&gtm_preview=env-6&gtm_cookies_win=x",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504/https://dpm.demdex.net/id?d_visid_ver=5.5.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=9FC51E2265D46E1E0A495C06%40AdobeOrg&d_nsid=0&ts=1727326504592",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045727/https://www.gstatic.com/recaptcha/releases/EGbODne6buzpTnWrrBprcfAY/recaptcha__en.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926050117/https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205434/https://www.google-analytics.com/analytics.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205434/https://cdn.mouseflow.com/projects/9131771b-7d22-4ea0-bad2-0765a8f0a69e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045504if_///6642831.fls.doubleclick.net/activityi;src=6642831;type=lidl1;cat=homep0;ord=3321446759259;gtm=2wg3b2;auiddc=1606352928.1727326506;~oref=https%3A%2F%2Fwww.lidl.com%2F?",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926045906/https://www.gstatic.com/recaptcha/releases/EGbODne6buzpTnWrrBprcfAY/recaptcha__en.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/analytics.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20191106014035/https://cdn.mouseflow.com/projects/9131771b-7d22-4ea0-bad2-0765a8f0a69e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://polyfill.archive.org/v3/polyfill.min.js?features=fetch,IntersectionObserver,ResizeObserver,globalThis,Element.prototype.getAttributeNames,String.prototype.startsWith,Array.prototype.flat,Element.prototype.closest,Element.prototype.scroll,Element.prototype.remove,Object.entries,Object.values,Object.fromEntries",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/lit/polyfill-support.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/ia-topnav.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/archive.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/css/archive.min.css?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/styles.css?v=X-Ndhul9",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/web.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/r/collect?v=1&_v=j81&a=586498331&t=pageview&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&_u=QAGAAAgB~&jid=866321121&gjid=747909417&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&_r=1&gtm=2wg3b25D9NQR5&cd1=Unauthenticated&z=806760853",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?path=%2Fweb&service=wb&server_name=wwwb-app212.us.archive.org&server_ms=289&kind=pageview&timediff=-7&locale=en-US&referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20240926045504%2Fhttps%3A%2F%2Fwww.lidl.com%2F&loadtime=269&nav_to_done_ms=436&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=14",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?cache_bust=0.14699427615301164&kind=track_js&track_js_case=external_executes&service=ao_2&version=2&count=6",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=586498331&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=25&_u=SAGAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=1282451311",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=586498331&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=50&_u=SAGAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=1863085672",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=586498331&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=75&_u=SAGAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=1421897823",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20200324205433/https://www.google-analytics.com/collect?v=1&_v=j81&a=586498331&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.lidl.com%2F&ul=en-us&de=UTF-8&dt=Grocery%20Store%20%7C%20Low%20Prices%20%7C%20Lidl%20US&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&fl=32.0%20r0&ec=Scroll%20Depth&ea=Scroll&el=90&_u=SAGAAEgB~&jid=&gjid=&cid=398919704.1711961305&tid=UA-83323254-1&_gid=1029209691.1727326509&gtm=2wg3b25D9NQR5&z=1774969616",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        }
+    ]
+}

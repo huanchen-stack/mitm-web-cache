@@ -1,0 +1,3095 @@
+{
+    "stats": {
+        "total_resources": [
+            115,
+            105,
+            109,
+            108
+        ],
+        "non_erroneous_resources": [
+            111,
+            100,
+            104,
+            104
+        ],
+        "resources_200": [
+            57,
+            52,
+            55,
+            55
+        ],
+        "resources_404": [
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150cs_/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155cs_/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/7773.194c8ca6d8f8395c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/main-e2fc622a4415253d.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/pages/_app-0dfb70673bd31c36.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/pages/index-f9de6d3f76836622.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_buildManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_ssgManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240924105150/https%3A//oenergetice.cz/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240924105150/https%3A//oenergetice.cz/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Foenergetice.cz%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/http://web.archive.org/screenshot/https://oenergetice.cz/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Foenergetice.cz%2F&timestamp=20240924105150",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FPodzemni-zasobnik-Schonkirchen-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2024%2F09%2Fshutterstock_2325334151-1-1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F03%2Fkvarnsveden1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FScreenshot-2022-05-27-at-9.30.47-320x180.png&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2018%2F03%2FEnergy-monitor-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2019%2F03%2Fkarsten-wurth-inf1783-104731-unsplash-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2024%2F09%2Fryanair-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2024%2F09%2FiStock-186328648-1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/exergie2024.aae48d54.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/sef2024.6c7cdb1a.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcez-logo.db180290.png&w=96&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FgasnetLogoTransparent.e6274a35.png&w=96&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/edfLogoTransparent.6966b56d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/skoEnergoLogo.8e78428d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frezolv.2dcf2f98.jpg&w=256&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/public/static/res/site.webmanifest",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240214182142/http://web.archive.org/screenshot/https://oenergetice.cz/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633im_/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633im_/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20230307145704im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FPodzemni-zasobnik-Schonkirchen-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025151im_/https://oenergetice.cz/_next/static/media/exergie2024.aae48d54.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241002082324/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241002082324/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241002082324/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025157js_/https://oenergetice.cz/_next/static/chunks/7773.194c8ca6d8f8395c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205534js_/https://oenergetice.cz/_next/static/chunks/main-e2fc622a4415253d.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205406js_/https://oenergetice.cz/_next/static/chunks/pages/_app-0dfb70673bd31c36.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240913021720/https://oenergetice.cz/public/static/res/site.webmanifest",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205437js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_buildManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205502js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_ssgManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231003114615im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FScreenshot-2022-05-27-at-9.30.47-320x180.png&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240220020834im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2019%2F03%2Fkarsten-wurth-inf1783-104731-unsplash-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925125343im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcez-logo.db180290.png&w=96&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025152im_/https://oenergetice.cz/_next/static/media/sef2024.6c7cdb1a.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240601115733im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2018%2F03%2FEnergy-monitor-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/edfLogoTransparent.6966b56d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025158im_/https://oenergetice.cz/_next/static/media/skoEnergoLogo.8e78428d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240913021625im_/https://oenergetice.cz/_next/image?q=100&url=%2F_next%2Fstatic%2Fmedia%2Frezolv.2dcf2f98.jpg&w=256",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240913021623im_/https://oenergetice.cz/_next/image?q=100&url=%2F_next%2Fstatic%2Fmedia%2FgasnetLogoTransparent.e6274a35.png&w=96",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2024%2F09%2Fryanair-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 429,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2024%2F09%2FiStock-186328648-1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 429,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2024%2F09%2Fshutterstock_2325334151-1-1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 429,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F03%2Fkvarnsveden1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 429,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app224.us.archive.org&server_ms=480&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=17940&nav_to_done_ms=19359&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/public/static/res/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025157im_/https://oenergetice.cz/public/static/res/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150cs_/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155cs_/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 429,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 429,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/7773.194c8ca6d8f8395c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025157js_/https://oenergetice.cz/_next/static/chunks/7773.194c8ca6d8f8395c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/main-e2fc622a4415253d.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/pages/_app-0dfb70673bd31c36.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/pages/index-f9de6d3f76836622.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_buildManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_ssgManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240924105150/https%3A//oenergetice.cz/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240924105150/https%3A//oenergetice.cz/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Foenergetice.cz%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Foenergetice.cz%2F&timestamp=20240924105150",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/http://web.archive.org/screenshot/https://oenergetice.cz/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FPodzemni-zasobnik-Schonkirchen-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2024%2F09%2Fshutterstock_2325334151-1-1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F03%2Fkvarnsveden1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FScreenshot-2022-05-27-at-9.30.47-320x180.png&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2018%2F03%2FEnergy-monitor-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2019%2F03%2Fkarsten-wurth-inf1783-104731-unsplash-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/exergie2024.aae48d54.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/sef2024.6c7cdb1a.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcez-logo.db180290.png&w=96&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FgasnetLogoTransparent.e6274a35.png&w=96&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/edfLogoTransparent.6966b56d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/skoEnergoLogo.8e78428d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frezolv.2dcf2f98.jpg&w=256&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205534js_/https://oenergetice.cz/_next/static/chunks/main-e2fc622a4415253d.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/public/static/res/site.webmanifest",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": null,
+            "errorText": "net::ERR_CONNECTION_REFUSED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205406js_/https://oenergetice.cz/_next/static/chunks/pages/_app-0dfb70673bd31c36.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20230307145704im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FPodzemni-zasobnik-Schonkirchen-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633im_/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633im_/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240214182142/http://web.archive.org/screenshot/https://oenergetice.cz/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205437js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_buildManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205502js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_ssgManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F03%2Fkvarnsveden1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 429,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2024%2F09%2Fshutterstock_2325334151-1-1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 429,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240601115733im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2018%2F03%2FEnergy-monitor-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025151im_/https://oenergetice.cz/_next/static/media/exergie2024.aae48d54.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231003114615im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FScreenshot-2022-05-27-at-9.30.47-320x180.png&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240220020834im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2019%2F03%2Fkarsten-wurth-inf1783-104731-unsplash-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025152im_/https://oenergetice.cz/_next/static/media/sef2024.6c7cdb1a.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925125343im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcez-logo.db180290.png&w=96&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240913021623im_/https://oenergetice.cz/_next/image?q=100&url=%2F_next%2Fstatic%2Fmedia%2FgasnetLogoTransparent.e6274a35.png&w=96",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025158im_/https://oenergetice.cz/_next/static/media/skoEnergoLogo.8e78428d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240913021625im_/https://oenergetice.cz/_next/image?q=100&url=%2F_next%2Fstatic%2Fmedia%2Frezolv.2dcf2f98.jpg&w=256",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/edfLogoTransparent.6966b56d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": "net::ERR_CONNECTION_REFUSED"
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app224.us.archive.org&server_ms=480&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3167&nav_to_done_ms=3886&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150cs_/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155cs_/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/7773.194c8ca6d8f8395c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/main-e2fc622a4415253d.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/pages/_app-0dfb70673bd31c36.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/pages/index-f9de6d3f76836622.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_buildManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_ssgManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240924105150/https%3A//oenergetice.cz/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240924105150/https%3A//oenergetice.cz/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Foenergetice.cz%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/http://web.archive.org/screenshot/https://oenergetice.cz/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Foenergetice.cz%2F&timestamp=20240924105150",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": "net::ERR_EMPTY_RESPONSE"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FPodzemni-zasobnik-Schonkirchen-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2024%2F09%2Fshutterstock_2325334151-1-1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F03%2Fkvarnsveden1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FScreenshot-2022-05-27-at-9.30.47-320x180.png&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2018%2F03%2FEnergy-monitor-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2019%2F03%2Fkarsten-wurth-inf1783-104731-unsplash-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/exergie2024.aae48d54.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/sef2024.6c7cdb1a.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcez-logo.db180290.png&w=96&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FgasnetLogoTransparent.e6274a35.png&w=96&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/edfLogoTransparent.6966b56d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/skoEnergoLogo.8e78428d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frezolv.2dcf2f98.jpg&w=256&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 429,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/public/static/res/site.webmanifest",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633im_/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633im_/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240913021720/https://oenergetice.cz/public/static/res/site.webmanifest",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240214182142/http://web.archive.org/screenshot/https://oenergetice.cz/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20230307145704im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FPodzemni-zasobnik-Schonkirchen-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025151im_/https://oenergetice.cz/_next/static/media/exergie2024.aae48d54.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241002082324/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241002082324/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025157js_/https://oenergetice.cz/_next/static/chunks/7773.194c8ca6d8f8395c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205534js_/https://oenergetice.cz/_next/static/chunks/main-e2fc622a4415253d.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205406js_/https://oenergetice.cz/_next/static/chunks/pages/_app-0dfb70673bd31c36.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205437js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_buildManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205502js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_ssgManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2024%2F09%2Fshutterstock_2325334151-1-1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 429,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F03%2Fkvarnsveden1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 429,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231003114615im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FScreenshot-2022-05-27-at-9.30.47-320x180.png&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240601115733im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2018%2F03%2FEnergy-monitor-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240220020834im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2019%2F03%2Fkarsten-wurth-inf1783-104731-unsplash-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025152im_/https://oenergetice.cz/_next/static/media/sef2024.6c7cdb1a.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925125343im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcez-logo.db180290.png&w=96&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240913021623im_/https://oenergetice.cz/_next/image?q=100&url=%2F_next%2Fstatic%2Fmedia%2FgasnetLogoTransparent.e6274a35.png&w=96",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/edfLogoTransparent.6966b56d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241002082324/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025158im_/https://oenergetice.cz/_next/static/media/skoEnergoLogo.8e78428d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240913021625im_/https://oenergetice.cz/_next/image?q=100&url=%2F_next%2Fstatic%2Fmedia%2Frezolv.2dcf2f98.jpg&w=256",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app224.us.archive.org&server_ms=480&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=16121&nav_to_done_ms=16490&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150cs_/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155cs_/https://oenergetice.cz/_next/static/css/bc6e3079c1354af2.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 429,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/7773.194c8ca6d8f8395c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/main-e2fc622a4415253d.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/pages/_app-0dfb70673bd31c36.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/chunks/pages/index-f9de6d3f76836622.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_buildManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_ssgManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240924105150/https%3A//oenergetice.cz/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240924105150/https%3A//oenergetice.cz/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Foenergetice.cz%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Foenergetice.cz%2F&timestamp=20240924105150",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/http://web.archive.org/screenshot/https://oenergetice.cz/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2016%2F04%2Felektrarna-pocerady-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FPodzemni-zasobnik-Schonkirchen-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2024%2F09%2Fshutterstock_2325334151-1-1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F03%2Fkvarnsveden1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FScreenshot-2022-05-27-at-9.30.47-320x180.png&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2018%2F03%2FEnergy-monitor-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2019%2F03%2Fkarsten-wurth-inf1783-104731-unsplash-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/exergie2024.aae48d54.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/sef2024.6c7cdb1a.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcez-logo.db180290.png&w=96&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FgasnetLogoTransparent.e6274a35.png&w=96&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/edfLogoTransparent.6966b56d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/static/media/skoEnergoLogo.8e78428d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frezolv.2dcf2f98.jpg&w=256&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241002082324/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241002082324/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2023%2F10%2Fegu2023-1-1024x682.jpg&w=828&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240924105150/https://oenergetice.cz/public/static/res/site.webmanifest",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/0484562807a97172-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633im_/https://oenergetice.cz/_next/static/media/eafabf029ad39a43-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/f5767adec246cdc1-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/30cd8f99d32fa6e8-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240913021720/https://oenergetice.cz/public/static/res/site.webmanifest",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182634im_/https://oenergetice.cz/_next/static/media/46c21389e888bf13-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923182633im_/https://oenergetice.cz/_next/static/media/0a03a6d30c07af2e-s.p.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20230307145704im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FPodzemni-zasobnik-Schonkirchen-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025151im_/https://oenergetice.cz/_next/static/media/exergie2024.aae48d54.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240214182142/http://web.archive.org/screenshot/https://oenergetice.cz/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025157js_/https://oenergetice.cz/_next/static/chunks/7773.194c8ca6d8f8395c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205534js_/https://oenergetice.cz/_next/static/chunks/main-e2fc622a4415253d.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205406js_/https://oenergetice.cz/_next/static/chunks/pages/_app-0dfb70673bd31c36.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205502js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_ssgManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240923205437js_/https://oenergetice.cz/_next/static/Nj3fg_bKf91FbTxMwkefW/_buildManifest.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F03%2Fkvarnsveden1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 429,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2024%2F09%2Fshutterstock_2325334151-1-1-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 429,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20231003114615im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2022%2F05%2FScreenshot-2022-05-27-at-9.30.47-320x180.png&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240601115733im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2018%2F03%2FEnergy-monitor-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240220020834im_/https://oenergetice.cz/_next/image?url=https%3A%2F%2Foenergetice.cz%2Fwp-content%2Fuploads%2F2019%2F03%2Fkarsten-wurth-inf1783-104731-unsplash-320x180.jpg&w=384&q=95",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025152im_/https://oenergetice.cz/_next/static/media/sef2024.6c7cdb1a.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925125343im_/https://oenergetice.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcez-logo.db180290.png&w=96&q=100",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240913021623im_/https://oenergetice.cz/_next/image?q=100&url=%2F_next%2Fstatic%2Fmedia%2FgasnetLogoTransparent.e6274a35.png&w=96",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025155im_/https://oenergetice.cz/_next/static/media/edfLogoTransparent.6966b56d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240925025158im_/https://oenergetice.cz/_next/static/media/skoEnergoLogo.8e78428d.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240913021625im_/https://oenergetice.cz/_next/image?q=100&url=%2F_next%2Fstatic%2Fmedia%2Frezolv.2dcf2f98.jpg&w=256",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app224.us.archive.org&server_ms=480&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=1770&nav_to_done_ms=1893&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ]
+}

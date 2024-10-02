@@ -1,0 +1,2941 @@
+{
+    "stats": {
+        "total_resources": [
+            2,
+            2,
+            189,
+            222
+        ],
+        "non_erroneous_resources": [
+            0,
+            0,
+            180,
+            200
+        ],
+        "resources_200": [
+            0,
+            0,
+            96,
+            108
+        ],
+        "resources_404": [
+            0,
+            0,
+            15,
+            13
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://www.iastate.edu/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "net::ERR_CONNECTION_REFUSED"
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://www.iastate.edu/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "net::ERR_CONNECTION_REFUSED at https://web.archive.org/web/20241001061715/https://www.iastate.edu/"
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://www.iastate.edu/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "net::ERR_CONNECTION_REFUSED"
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://www.iastate.edu/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "net::ERR_CONNECTION_REFUSED at https://web.archive.org/web/20241001061715/https://www.iastate.edu/"
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://www.iastate.edu/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://unpkg.com/yett",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715cs_/https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715cs_/https://www.iastate.edu/files/css/css_wXvvIMLakHjn7ZTH8STLEaBuW1n_pPMmJA5FY9cXx7U.css?delta=0&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715cs_/https://www.iastate.edu/files/css/css_GxBXgChqKQCXoLiU9DrTu6ZuWiYHb_2AT69QiRM5_jk.css?delta=1&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715cs_/https://cdn.theme.iastate.edu/iastate/5+/css/iastate.min.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715cs_/https://www.iastate.edu/files/css/css_heJGEUnmf707V2gJSQpoye2JsqP90I6fYCzCjz7RrJI.css?delta=3&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715cs_/https://www.iastate.edu/files/css-local/local.css?skehxq",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-no-tagline-red.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001022531cs_/https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001183244cs_/https://cdn.theme.iastate.edu/iastate/5+/css/iastate.min.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172057cs_/https://www.iastate.edu/files/css-local/local.css?skehxq",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172052cs_/https://www.iastate.edu/files/css/css_heJGEUnmf707V2gJSQpoye2JsqP90I6fYCzCjz7RrJI.css?delta=3&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172049cs_/https://www.iastate.edu/files/css/css_GxBXgChqKQCXoLiU9DrTu6ZuWiYHb_2AT69QiRM5_jk.css?delta=1&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-with-tagline-red.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172045cs_/https://www.iastate.edu/files/css/css_wXvvIMLakHjn7ZTH8STLEaBuW1n_pPMmJA5FY9cXx7U.css?delta=0&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172059im_/https://www.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-no-tagline-red.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001081634js_/https://unpkg.com/yett",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172101im_/https://www.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-with-tagline-red.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://www.iastate.edu/files/js/js_Vfgur9fWR2FKo8E5LeG1P9baOQGrSbBk_WcaEvVPx-g.js?scope=footer&delta=0&language=en&theme=iastate2022wd&include=eJzLTCwuSSxJNTIwMtJPz8lPSswBAD0GBlI",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172216js_/https://www.iastate.edu/files/js/js_Vfgur9fWR2FKo8E5LeG1P9baOQGrSbBk_WcaEvVPx-g.js?scope=footer&delta=0&language=en&theme=iastate2022wd&include=eJzLTCwuSSxJNTIwMtJPz8lPSswBAD0GBlI",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001081634js_/https://unpkg.com/yett@0.2.3",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001081636js_/https://unpkg.com/yett@0.2.3",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://www.iastate.edu/files/js/js_36pm3DgBTyWpkemewwEv8lyqf8Ep9ml5L_aTytPtM2w.js?scope=footer&delta=2&language=en&theme=iastate2022wd&include=eJzLTCwuSSxJNTIwMtJPz8lPSswBAD0GBlI",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001081636js_/https://unpkg.com/yett@0.2.3/dist/yett.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001071035js_/https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001081637js_/https://unpkg.com/yett@0.2.3/dist/yett.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://kit.fontawesome.com/b658fac974.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001183231js_/https://kit.fontawesome.com/b658fac974.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172220js_/https://www.iastate.edu/files/js/js_36pm3DgBTyWpkemewwEv8lyqf8Ep9ml5L_aTytPtM2w.js?scope=footer&delta=2&language=en&theme=iastate2022wd&include=eJzLTCwuSSxJNTIwMtJPz8lPSswBAD0GBlI",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001183244cs_/https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145514cs_/https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://www.googletagmanager.com/gtag/js?id=AW-11030449101",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-with-tagline-sci-tech.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://www.googletagmanager.com/gtm.js?id=GTM-TWG8FV9",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://ssl.google-analytics.com/ga.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://www.googletagmanager.com/gtm.js?id=GTM-TKN282K",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715cs_/https://www.iastate.edu/files/css/css_g1TdEWLy4ks3_5r9syeO2nL9UqrdhwOggtMCWGjEaWA.css?delta=4&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001061715/https%3A//www.iastate.edu/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001061715/https%3A//www.iastate.edu/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.iastate.edu%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/http://web.archive.org/screenshot/https://www.iastate.edu/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.iastate.edu%2F&timestamp=20241001061715",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": "net::ERR_EMPTY_RESPONSE"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://siteimproveanalytics.com/js/siteanalyze_37570.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145514im_/https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZM.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145514im_/https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/files/images/2024-09/HP_HeroSept24hz.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/files/images/2023-11/HP_LCNov2023.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/files/images/2022-06/HP_EngHive.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/files/images/2023-05/HP_ElvisKimara.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172220/https://www.youtube.com/iframe_api",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/files/styles/image_block/public/images/2024-06/HP_NewsStormChasers24.jpeg?itok=yXwdIBCF",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/files/styles/image_block/public/images/2024-04/HP_newsAIminorApril24.jpg?itok=56P6OSZc",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/files/styles/image_block/public/images/2023-11/HP_newsBiomedEng23.jpg?itok=65v_Y4wq",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172914js_/https://www.googletagmanager.com/gtag/js?id=AW-11030449101",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001183231/https://ka-p.fontawesome.com/releases/v6.6.0/js/pro-v4-shims.min.js?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001183231/https://ka-p.fontawesome.com/releases/v6.6.0/js/pro.min.js?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app211.us.archive.org&server_ms=422&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=5906&nav_to_done_ms=9103&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172213im_/https://www.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-with-tagline-sci-tech.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://cdn.theme.iastate.edu/favicon/manifest.webmanifest",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145101im_/https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20221130153605/http://web.archive.org/screenshot/https://www.iastate.edu/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014306/https://www.googletagmanager.com/gtm.js?id=GTM-TWG8FV9",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061310/https://ssl.google-analytics.com/ga.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014306/https://www.googletagmanager.com/gtm.js?id=GTM-TKN282K",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145125im_/https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZM.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001183241/https://cdn.theme.iastate.edu/favicon/manifest.webmanifest",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172107im_/https://www.iastate.edu/files/images/2024-09/HP_HeroSept24hz.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929134906/https://ka-p.fontawesome.com/releases/v6.6.0/js/pro-v4-shims.min.js?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001010755/https://siteimproveanalytics.com/js/siteanalyze_37570.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929134906/https://ka-p.fontawesome.com/releases/v6.6.0/js/pro.min.js?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172117im_/https://www.iastate.edu/files/images/2022-06/HP_EngHive.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://kit-uploads.fontawesome.com/b658fac974/icons/iastate22-magnifying-glass-1.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/light/xmark.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://kit-uploads.fontawesome.com/b658fac974/icons/iastate22-map-pin-1.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://kit-uploads.fontawesome.com/b658fac974/icons/iastate22-instagram-1.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/youtube.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/facebook.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/x-twitter.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/threads.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172120im_/https://www.iastate.edu/files/images/2023-05/HP_ElvisKimara.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001171132/https://www.youtube.com/iframe_api",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336im_/https://www.iastate.edu/files/styles/image_block/public/images/2024-06/HP_NewsStormChasers24.jpeg?itok=yXwdIBCF",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145517/https://kit-uploads.fontawesome.com/b658fac974/icons/iastate22-magnifying-glass-1.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145516/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/light/xmark.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336/https://kit-uploads.fontawesome.com/b658fac974/icons/iastate22-map-pin-1.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145517/https://kit-uploads.fontawesome.com/b658fac974/icons/iastate22-instagram-1.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145516/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/facebook.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145516/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/x-twitter.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929134907/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/youtube.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336im_/https://www.iastate.edu/files/styles/image_block/public/images/2024-04/HP_newsAIminorApril24.jpg?itok=56P6OSZc",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023337/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/threads.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172114im_/https://www.iastate.edu/files/images/2023-11/HP_LCNov2023.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336im_/https://www.iastate.edu/files/styles/image_block/public/images/2023-11/HP_newsBiomedEng23.jpg?itok=65v_Y4wq",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172914/https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11030449101/?random=1727763444141&cv=11&fst=1727763444141&bg=ffffff&guid=ON&async=1&gtm=45be49u0za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=101533422~101671035~101686685~101747727&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.iastate.edu%2F&hn=www.googleadservices.com&frm=0&tiba=Iowa%20State%20University&npa=0&auid=1901242906.1727763444&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B8.0.0.0%7CChromium%3B126.0.6478.126&uamb=0&uam=&uap=macOS&uapv=14.0.0&uaw=0&fledge=1&data=event%3Dgtag.config&rfmt=3&fmt=4",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715if_/https://td.doubleclick.net/td/rul/11030449101?random=1727763444141&cv=11&fst=1727763444141&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be49u0za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=101533422~101671035~101686685~101747727&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.iastate.edu%2F&hn=www.googleadservices.com&frm=0&tiba=Iowa%20State%20University&npa=0&auid=1901242906.1727763444&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B8.0.0.0%7CChromium%3B126.0.6478.126&uamb=0&uam=&uap=macOS&uapv=14.0.0&uaw=0&fledge=1&data=event%3Dgtag.config",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://connect.facebook.net/en_US/fbevents.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://www.googletagmanager.com/gtag/destination?id=G-Z8BYGLSQ3F&l=dataLayer&cx=c",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://polyfill.archive.org/v3/polyfill.min.js?features=fetch,IntersectionObserver,ResizeObserver,globalThis,Element.prototype.getAttributeNames,String.prototype.startsWith,Array.prototype.flat,Element.prototype.closest,Element.prototype.scroll,Element.prototype.remove,Object.entries,Object.values,Object.fromEntries",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/lit/polyfill-support.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/ia-topnav.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/archive.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/css/archive.min.css?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/styles.css?v=X-Ndhul9",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": "net::ERR_EMPTY_RESPONSE"
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/web.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://www.googletagmanager.com/gtag/js?id=G-Z8BYGLSQ3F&l=dataLayer&cx=c",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014306/https://www.google-analytics.com/analytics.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://adp.eab.com/js/adp.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_///cdn.evgnet.com/beacon/iowastunivadmissions/iowasate_prod/scripts/evergage.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://tags.w55c.net/rs?id=a2c7c879c6b64f1cbb30aabb47ac4500&t=homepage&gtmcb=715551714",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://pixel.sitescout.com/up/9a9519a9ffeb3448",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?path=%2Fweb&service=wb&server_name=wwwb-app201.us.archive.org&server_ms=342&kind=pageview&timediff=-7&locale=en-US&referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20241001061715%2Fhttps%3A%2F%2Fwww.iastate.edu%2F&loadtime=480&nav_to_done_ms=1382&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=14",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?cache_bust=0.7652642351700667&kind=track_js&track_js_case=external_executes&service=ao_2&version=2&count=6",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://37570.global.siteimproveanalytics.io/image.aspx?url=https%3A%2F%2Fwww.iastate.edu%2F&title=Iowa%20State%20University&res=1920x1080&accountid=37570&rt=-85068481&prev=d19a7c1c-7332-94e2-7cd3-67dcc23d6080&luid=33e368ff-0656-8b1e-c267-5153effb4cfe&rnd=38689",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061310/https://ssl.google-analytics.com/r/__utm.gif?utmwv=5.7.2&utms=1&utmn=951831990&utmhn=www.iastate.edu&utmcs=UTF-8&utmsr=1920x1080&utmvp=1905x1080&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=32.0%20r0&utmdt=Iowa%20State%20University&utmhid=286690172&utmr=-&utmp=%2F&utmht=1727763445870&utmac=UA-7956569-1&utmcc=__utma%3D208037386.398919704.1711961305.1727763446.1727763446.1%3B%2B__utmz%3D208037386.1727763446.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1931888367&utmredir=1&utmu=qAAAAAAAAAAAAAAAAAABAAAE~",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061310/https://ssl.google-analytics.com/__utm.gif?utmwv=5.7.2&utms=2&utmn=1515555653&utmhn=www.iastate.edu&utmcs=UTF-8&utmsr=1920x1080&utmvp=1905x1080&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=32.0%20r0&utmdt=Iowa%20State%20University&utmhid=286690172&utmr=-&utmp=%2F&utmht=1727763445872&utmac=UA-6220153-1&utmcc=__utma%3D208037386.398919704.1711961305.1727763446.1727763446.1%3B%2B__utmz%3D208037386.1727763446.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmmt=1&utmu=qAAAAAAAAAAAAAAAAAABAAAE~",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001171132/https://www.youtube.com/s/player/d9418494/www-widgetapi.vflset/www-widgetapi.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014306js_/https://www.googletagmanager.com/gtag/destination?id=G-Z8BYGLSQ3F&l=dataLayer&cx=c",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014306js_/https://www.googletagmanager.com/gtag/js?id=G-Z8BYGLSQ3F&l=dataLayer&cx=c",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061236js_/https://connect.facebook.net/en_US/fbevents.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014305/https://www.google-analytics.com/analytics.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014307im_/https://pixel.sitescout.com/up/9a9519a9ffeb3448",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240927195429js_/https://cdn.evgnet.com/beacon/iowastunivadmissions/iowasate_prod/scripts/evergage.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001173147/https://www.youtube.com/s/player/d9418494/www-widgetapi.vflset/www-widgetapi.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001053816js_/https://adp.eab.com/js/adp.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://region1.google-analytics.com/g/collect?v=2&tid=G-Z8BYGLSQ3F&gtm=45je45f0v9134490419z8810475160za200&_p=1727763439784&gcd=13l3l3l2l1&npa=1&dma_cps=sypham&dma=1&cid=398919704.1711961305&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B8.0.0.0%7CChromium%3B126.0.6478.126&uamb=0&uam=&uap=macOS&uapv=14.0.0&uaw=0&are=1&frm=0&pscdl=&_s=1&sid=1727763447&sct=1&seg=0&dl=https%3A%2F%2Fwww.iastate.edu%2F&dt=Iowa%20State%20University&en=gtm.js&_fv=1&_ss=1&tfd=16054",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://region1.analytics.google.com/g/collect?v=2&tid=G-8VJV332G3B&gtm=45je45f0v9134490419z878686541za200&_p=1727763439784&_gaz=1&gcd=13l3l3l2l1&npa=1&dma_cps=sypham&dma=1&cid=398919704.1711961305&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B8.0.0.0%7CChromium%3B126.0.6478.126&uamb=0&uam=&uap=macOS&uapv=14.0.0&uaw=0&are=1&frm=0&pscdl=&_s=1&sid=1727763447&sct=1&seg=0&dl=https%3A%2F%2Fwww.iastate.edu%2F&dt=Iowa%20State%20University&en=page_view&_fv=1&_ss=1&tfd=16082",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014306/https://stats.g.doubleclick.net/g/collect?v=2&tid=G-8VJV332G3B&cid=398919704.1711961305&gtm=45je45f0v9134490419z878686541za200&aip=1&dma=1&dma_cps=sypham&gcd=13l3l3l2l1&npa=1&frm=0",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014306/https://www.google.de/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-8VJV332G3B&cid=398919704.1711961305&gtm=45je45f0v9134490419z878686541za200&aip=1&dma=1&dma_cps=sypham&gcd=13l3l3l2l1&npa=1&frm=0&z=1290248459",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014307im_/https://pixel.sitescout.com/up/9a9519a9ffeb3448?cookieQ=1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001173147/https://www.youtube.com/embed/F1EVZIWdht8?rel=0&enablejsapi=1&origin=https%3A%2F%2Fwww.iastate.edu&widgetid=1",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172055cs_/https://www.iastate.edu/files/css/css_g1TdEWLy4ks3_5r9syeO2nL9UqrdhwOggtMCWGjEaWA.css?delta=4&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336/https://www.youtube.com/embed/F1EVZIWdht8?rel=0&enablejsapi=1&origin=https%3A%2F%2Fwww.iastate.edu&widgetid=1",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061236/https://connect.facebook.net/signals/config/1981521712102064?v=2.9.169&r=stable&domain=www.iastate.edu&hme=d82868061a8c707cd31395a3055e7449daa03bd520872727258c39e6af34523e&ex_m=70%2C120%2C106%2C110%2C61%2C4%2C99%2C69%2C16%2C96%2C88%2C51%2C54%2C171%2C174%2C186%2C182%2C183%2C185%2C29%2C100%2C53%2C77%2C184%2C166%2C169%2C179%2C180%2C187%2C130%2C41%2C34%2C142%2C15%2C50%2C193%2C192%2C132%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C92%2C17%2C14%2C95%2C91%2C90%2C107%2C52%2C109%2C39%2C108%2C30%2C93%2C26%2C167%2C170%2C139%2C28%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C101%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C103%2C102%2C104%2C97%2C10%2C20%2C3%2C38%2C74%2C19%2C85%2C56%2C83%2C33%2C73%2C0%2C94%2C32%2C82%2C87%2C47%2C46%2C86%2C37%2C5%2C89%2C81%2C44%2C35%2C84%2C2%2C36%2C63%2C42%2C105%2C45%2C79%2C68%2C111%2C60%2C59%2C31%2C98%2C58%2C55%2C49%2C78%2C72%2C24%2C112",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014305/https://www.google-analytics.com/j/collect?v=1&_v=j101&a=286690172&t=pageview&_s=1&dl=https%3A%2F%2Fwww.iastate.edu%2F&ul=en-us&de=UTF-8&dt=Iowa%20State%20University&sd=24-bit&sr=1920x1080&vp=1905x1080&je=0&fl=32.0%20r0&_utma=208037386.398919704.1711961305.1727763446.1727763446.1&_utmz=208037386.1727763446.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1727763448815&_u=QAGCAEABAAAAACAAI~&jid=2118504401&gjid=1500780656&cid=398919704.1711961305&tid=UA-6220153-1&_gid=458091178.1711961305&_r=1&_slc=1&gtm=45He45f0n81TKN282Kv78686541za200&gcd=13l3l3l2l1&dma_cps=sypham&dma=1&npa=1&z=1462586599",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://my.isu-info.org/mtc.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240927195429/https://iowastunivadmissions.us-6.evergage.com/api2/event/iowasate_prod?event=eyJzb3VyY2UiOnsicGFnZVR5cGUiOiJIb21lIiwidXJsIjoiaHR0cHM6Ly93d3cuaWFzdGF0ZS5lZHUvIiwidXJsUmVmZXJyZXIiOiIiLCJjaGFubmVsIjoiV2ViIiwiYmVhY29uVmVyc2lvbiI6MTYsImNvbmZpZ1ZlcnNpb24iOiIxMSIsImNvbnRlbnRab25lcyI6WyJoZXJvX2ltYWdlIiwiaGVyb19jb250ZW50Il19LCJ1c2VyIjp7ImFub255bW91c0lkIjoiMzJlYzIyZWI4ZTUyNDc2YSJ9LCJpbnRlcmFjdGlvbiI6eyJuYW1lIjoiSG9tZSB8IFZpZXcifSwicGFnZVZpZXciOnRydWUsImNvbnNlbnRzIjpbXSwiYWNjb3VudCI6e30sIl90b29sc0V2ZW50TGlua0lkIjoiODcwOTQ0Nzg3Mzc5OTcyNiIsImV4cGxhaW4iOnRydWV9",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/jwplayer/jwplayer.js?v=hiYhl5rb",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-video.js?v=TFNEreMA",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336cs_/https://www.youtube.com/s/player/e38bb6de/www-player.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336/https://www.youtube.com/s/player/e38bb6de/player_ias.vflset/en_US/embed.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336js_/https://www.youtube.com/s/player/e38bb6de/www-embed-player.vflset/www-embed-player.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336js_/https://www.youtube.com/s/player/e38bb6de/player_ias.vflset/en_US/base.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023223/https://www.youtube.com/s/player/e38bb6de/player_ias.vflset/en_US/embed.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023229js_/https://www.youtube.com/s/player/e38bb6de/www-embed-player.vflset/www-embed-player.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014307js_/https://my.isu-info.org/mtc.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023230js_/https://www.youtube.com/s/player/e38bb6de/player_ias.vflset/en_US/base.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023212cs_/https://www.youtube.com/s/player/e38bb6de/www-player.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014307/https://my.isu-info.org/mtc/event",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240927195429/https://iowastunivadmissions.us-6.evergage.com/er?.bv=16&_ak=iowastunivadmissions&_ds=iowasate_prod&.scv=11&channel=Web&_r=868788&.anonId=32ec22eb8e52476a&_anon=true&.em=Response%20was%20not%20OK%3A%20%3C!DOCTYPE%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%20%20%3Chead%3E%0A%20%20%20%20%3Ctitle%3EWayback%20Machine%3C%2Ftitle%3E%0A%20%20%20%20%3Cscript%3E%0A%20%20%20%20%2F*%0A%20%20%20%20%40licstart%20%20The%20following%20is%20the%20entire%20license%20notice%20for%20the%20JavaScript%20code%20in%20this%20page.%0A%0A%20%20%20%20Copyright%20(C)%202020%20Internet%20Archive%0A%0A%20%20%20%20The%20JavaScript%20code%20in%20this%20page%20is%20free%20software%3A%20you%20can%0A%20%20%20%20redistribute%20it%20and%2For%20modify%20it%20under%20the%20terms%20of%20the%20GNU%20Affero%0A%20%20%20%20General%20Public%20License%20as%20published%20by%20the%20Free%20Software%0A%20%20%20%20Foundation%2C%20either%20version%203%20of%20the%20License%2C%20or%20(at%20your%20option)%0A%20%20%20%20any%20later%20version.%20%20The%20code%20is%20distributed%20WITHOUT%20ANY%20WARRANTY%3B%0A%20%20%20%20without%20even%20the%20implied%20warranty%20of%20MERCHANTABILITY%20or%20FITNESS%0A%20%20%20%20FOR%20A%20PARTICULAR%20PURPOSE.%20%20See%20the%20GNU%20GPL%20for%20more%20details.%0A%0A%20%20%20%20As%20...%20.org%3C%2Fa%3E.%0A%20%20%20%20%20%20%20%20%3C%2Fp%3E%0A%20%20%20%20%20%20%20%20%3Cp%3E%0A%20%20%20%20%20%20%20%20%20%20Your%20use%20of%20the%20Wayback%20Machine%20is%20subject%20to%20the%20Internet%20Archive%27s%0A%20%20%20%20%20%20%20%20%20%20%3Ca%20href%3D%22%2F%2Farchive.org%2Fabout%2Fterms.php%22%3ETerms%20of%20Use%3C%2Fa%3E.%0A%20%20%20%20%20%20%20%20%3C%2Fp%3E%0A%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%3C%2Ffooter%3E%0A%20%20%3C%2Fbody%3E%0A%3C%2Fhtml%3E&.es=Server%20Response&.vt=chrome&.vn=126",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/videoinfo?vtype=youtube&vid=F1EVZIWdht8",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916024040im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023210im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/jwplayer/jwplayer.html5.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/img/F1EVZIWdht8",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023229/https://googleads.g.doubleclick.net/pagead/id",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20230511132626oe_/https://rr5---sn-a5meknd6.googlevideo.com/videoplayback?expire=1683833178&ei=-uxcZJa8GcTBkgbb_6HwDA&ip=207.241.235.173&id=o-AFJXOAMHh1dUXBHXb51PVYmI2S2X7BsBpoBoLOomgzg5&itag=22&source=youtube&requiressl=yes&spc=qEK7B1p7OKRzpGfXHQkiTjRL3Ws4fb8&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=77.577&lmt=1682954419455020&fexp=24007246&c=ANDROID&txp=6218224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgZk40tGKaj05q8maAmioMbu-NonldeS9i-3wwJvQb-FoCIQCRv7QHRbXsj377RtCwqvhkujT7p5CEKpddYnF2hhm6yQ%3D%3D&video_id=F1EVZIWdht8&redirect_counter=1&cm2rm=sn-n4vse76&req_id=f0fadbcc56e6a3ee&cms_redirect=yes&cmsv=e&mh=fp&mip=207.241.236.59&mm=34&mn=sn-a5meknd6&ms=ltu&mt=1683811241&mv=m&mvi=5&pl=20&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAKT2fZn0pNTMlb_QbA0V_yCPZU-6-WRvKGAxY1BSD1B8AiEA5ACyGMHG4kBWcpEvMeaEfqOpwcNsoD-leHIRDcgmIYI%3D",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022555/https://googleads.g.doubleclick.net/pagead/id",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://region1.google-analytics.com/g/collect?v=2&tid=G-Z8BYGLSQ3F&gtm=45je45f0v9134490419z878686541za200&_p=1727763439784&gcd=13l3l3l2l1&npa=1&dma_cps=sypham&dma=1&cid=398919704.1711961305&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B8.0.0.0%7CChromium%3B126.0.6478.126&uamb=0&uam=&uap=macOS&uapv=14.0.0&uaw=0&are=1&frm=0&pscdl=&_s=2&sid=1727763447&sct=1&seg=1&dl=https%3A%2F%2Fwww.iastate.edu%2F&dt=Iowa%20State%20University&en=page_view&_et=32&tfd=21093",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336/https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://cdn.theme.iastate.edu/favicon/favicon.svg",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022606/https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001183234im_/https://cdn.theme.iastate.edu/favicon/favicon.svg",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://cdn.theme.iastate.edu/favicon/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001045240im_/https://cdn.theme.iastate.edu/favicon/favicon.ico",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://www.iastate.edu/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://unpkg.com/yett",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715cs_/https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715cs_/https://www.iastate.edu/files/css/css_wXvvIMLakHjn7ZTH8STLEaBuW1n_pPMmJA5FY9cXx7U.css?delta=0&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715cs_/https://www.iastate.edu/files/css/css_GxBXgChqKQCXoLiU9DrTu6ZuWiYHb_2AT69QiRM5_jk.css?delta=1&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715cs_/https://cdn.theme.iastate.edu/iastate/5+/css/iastate.min.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715cs_/https://www.iastate.edu/files/css/css_heJGEUnmf707V2gJSQpoye2JsqP90I6fYCzCjz7RrJI.css?delta=3&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715cs_/https://www.iastate.edu/files/css-local/local.css?skehxq",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001022531cs_/https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172045cs_/https://www.iastate.edu/files/css/css_wXvvIMLakHjn7ZTH8STLEaBuW1n_pPMmJA5FY9cXx7U.css?delta=0&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172049cs_/https://www.iastate.edu/files/css/css_GxBXgChqKQCXoLiU9DrTu6ZuWiYHb_2AT69QiRM5_jk.css?delta=1&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001183244cs_/https://cdn.theme.iastate.edu/iastate/5+/css/iastate.min.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172052cs_/https://www.iastate.edu/files/css/css_heJGEUnmf707V2gJSQpoye2JsqP90I6fYCzCjz7RrJI.css?delta=3&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-no-tagline-red.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172057cs_/https://www.iastate.edu/files/css-local/local.css?skehxq",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-with-tagline-red.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001081634js_/https://unpkg.com/yett",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172059im_/https://www.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-no-tagline-red.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172101im_/https://www.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-with-tagline-red.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001081634js_/https://unpkg.com/yett@0.2.3",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://www.iastate.edu/files/js/js_Vfgur9fWR2FKo8E5LeG1P9baOQGrSbBk_WcaEvVPx-g.js?scope=footer&delta=0&language=en&theme=iastate2022wd&include=eJzLTCwuSSxJNTIwMtJPz8lPSswBAD0GBlI",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001081636js_/https://unpkg.com/yett@0.2.3",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001081636js_/https://unpkg.com/yett@0.2.3/dist/yett.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001081637js_/https://unpkg.com/yett@0.2.3/dist/yett.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001183244cs_/https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145514cs_/https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172216js_/https://www.iastate.edu/files/js/js_Vfgur9fWR2FKo8E5LeG1P9baOQGrSbBk_WcaEvVPx-g.js?scope=footer&delta=0&language=en&theme=iastate2022wd&include=eJzLTCwuSSxJNTIwMtJPz8lPSswBAD0GBlI",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://www.iastate.edu/files/js/js_36pm3DgBTyWpkemewwEv8lyqf8Ep9ml5L_aTytPtM2w.js?scope=footer&delta=2&language=en&theme=iastate2022wd&include=eJzLTCwuSSxJNTIwMtJPz8lPSswBAD0GBlI",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://kit.fontawesome.com/b658fac974.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://www.googletagmanager.com/gtag/js?id=AW-11030449101",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-with-tagline-sci-tech.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://www.googletagmanager.com/gtm.js?id=GTM-TWG8FV9",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://ssl.google-analytics.com/ga.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://www.googletagmanager.com/gtm.js?id=GTM-TKN282K",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715cs_/https://www.iastate.edu/files/css/css_g1TdEWLy4ks3_5r9syeO2nL9UqrdhwOggtMCWGjEaWA.css?delta=4&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001061715/https%3A//www.iastate.edu/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001061715/https%3A//www.iastate.edu/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.iastate.edu%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.iastate.edu%2F&timestamp=20241001061715",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/http://web.archive.org/screenshot/https://www.iastate.edu/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://siteimproveanalytics.com/js/siteanalyze_37570.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001071035js_/https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145514im_/https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZM.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145514im_/https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/files/images/2024-09/HP_HeroSept24hz.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/files/images/2023-11/HP_LCNov2023.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/files/images/2022-06/HP_EngHive.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/files/images/2023-05/HP_ElvisKimara.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172220js_/https://www.iastate.edu/files/js/js_36pm3DgBTyWpkemewwEv8lyqf8Ep9ml5L_aTytPtM2w.js?scope=footer&delta=2&language=en&theme=iastate2022wd&include=eJzLTCwuSSxJNTIwMtJPz8lPSswBAD0GBlI",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145125im_/https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZM.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145101im_/https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://cdn.theme.iastate.edu/favicon/manifest.webmanifest",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001183241/https://cdn.theme.iastate.edu/favicon/manifest.webmanifest",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20221130153605/http://web.archive.org/screenshot/https://www.iastate.edu/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172107im_/https://www.iastate.edu/files/images/2024-09/HP_HeroSept24hz.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001183231js_/https://kit.fontawesome.com/b658fac974.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172220/https://www.youtube.com/iframe_api",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/files/styles/image_block/public/images/2024-06/HP_NewsStormChasers24.jpeg?itok=yXwdIBCF",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/files/styles/image_block/public/images/2024-04/HP_newsAIminorApril24.jpg?itok=56P6OSZc",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://www.iastate.edu/files/styles/image_block/public/images/2023-11/HP_newsBiomedEng23.jpg?itok=65v_Y4wq",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172213im_/https://www.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-with-tagline-sci-tech.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172117im_/https://www.iastate.edu/files/images/2022-06/HP_EngHive.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172114im_/https://www.iastate.edu/files/images/2023-11/HP_LCNov2023.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172914js_/https://www.googletagmanager.com/gtag/js?id=AW-11030449101",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014306/https://www.googletagmanager.com/gtm.js?id=GTM-TWG8FV9",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061310/https://ssl.google-analytics.com/ga.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014306/https://www.googletagmanager.com/gtm.js?id=GTM-TKN282K",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001010755/https://siteimproveanalytics.com/js/siteanalyze_37570.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001183231/https://ka-p.fontawesome.com/releases/v6.6.0/js/pro-v4-shims.min.js?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001183231/https://ka-p.fontawesome.com/releases/v6.6.0/js/pro.min.js?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app211.us.archive.org&server_ms=422&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=1404&nav_to_done_ms=1484&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172120im_/https://www.iastate.edu/files/images/2023-05/HP_ElvisKimara.jpg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001171132/https://www.youtube.com/iframe_api",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929134906/https://ka-p.fontawesome.com/releases/v6.6.0/js/pro-v4-shims.min.js?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929134906/https://ka-p.fontawesome.com/releases/v6.6.0/js/pro.min.js?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336im_/https://www.iastate.edu/files/styles/image_block/public/images/2024-06/HP_NewsStormChasers24.jpeg?itok=yXwdIBCF",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336im_/https://www.iastate.edu/files/styles/image_block/public/images/2024-04/HP_newsAIminorApril24.jpg?itok=56P6OSZc",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336im_/https://www.iastate.edu/files/styles/image_block/public/images/2023-11/HP_newsBiomedEng23.jpg?itok=65v_Y4wq",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172914/https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11030449101/?random=1727763436364&cv=11&fst=1727763436364&bg=ffffff&guid=ON&async=1&gtm=45be49u0za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=101533422~101671035~101686685~101747727&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.iastate.edu%2F&hn=www.googleadservices.com&frm=0&tiba=Iowa%20State%20University&npa=0&auid=1901242906.1727763444&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B8.0.0.0%7CChromium%3B126.0.6478.126&uamb=0&uam=&uap=macOS&uapv=14.0.0&uaw=0&fledge=1&data=event%3Dgtag.config&rfmt=3&fmt=4",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715if_/https://td.doubleclick.net/td/rul/11030449101?random=1727763436364&cv=11&fst=1727763436364&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be49u0za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=101533422~101671035~101686685~101747727&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.iastate.edu%2F&hn=www.googleadservices.com&frm=0&tiba=Iowa%20State%20University&npa=0&auid=1901242906.1727763444&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B8.0.0.0%7CChromium%3B126.0.6478.126&uamb=0&uam=&uap=macOS&uapv=14.0.0&uaw=0&fledge=1&data=event%3Dgtag.config",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://connect.facebook.net/en_US/fbevents.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://www.googletagmanager.com/gtag/destination?id=G-Z8BYGLSQ3F&l=dataLayer&cx=c",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061310/https://ssl.google-analytics.com/__utm.gif?utmwv=5.7.2&utms=3&utmn=1290957290&utmhn=www.iastate.edu&utmcs=UTF-8&utmsr=1920x1080&utmvp=1905x1080&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=32.0%20r0&utmdt=Iowa%20State%20University&utmhid=83209468&utmr=-&utmp=%2F&utmht=1727763436416&utmac=UA-7956569-1&utmcc=__utma%3D208037386.398919704.1711961305.1727763446.1727763446.1%3B%2B__utmz%3D208037386.1727763446.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmu=qAAAAAAAAAAAAAAAAAAAAAAE~",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061310/https://ssl.google-analytics.com/__utm.gif?utmwv=5.7.2&utms=4&utmn=1066497012&utmhn=www.iastate.edu&utmcs=UTF-8&utmsr=1920x1080&utmvp=1905x1080&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=32.0%20r0&utmdt=Iowa%20State%20University&utmhid=83209468&utmr=-&utmp=%2F&utmht=1727763436419&utmac=UA-6220153-1&utmcc=__utma%3D208037386.398919704.1711961305.1727763446.1727763446.1%3B%2B__utmz%3D208037386.1727763446.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmmt=1&utmu=qAAAAAAAAAAAAAAAAAAAAAAE~",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://www.googletagmanager.com/gtag/js?id=G-Z8BYGLSQ3F&l=dataLayer&cx=c",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014306/https://www.google-analytics.com/analytics.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://adp.eab.com/js/adp.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_///cdn.evgnet.com/beacon/iowastunivadmissions/iowasate_prod/scripts/evergage.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://tags.w55c.net/rs?id=a2c7c879c6b64f1cbb30aabb47ac4500&t=homepage&gtmcb=1009293379",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://pixel.sitescout.com/up/9a9519a9ffeb3448",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://kit-uploads.fontawesome.com/b658fac974/icons/iastate22-magnifying-glass-1.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/light/xmark.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://kit-uploads.fontawesome.com/b658fac974/icons/iastate22-map-pin-1.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://kit-uploads.fontawesome.com/b658fac974/icons/iastate22-instagram-1.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/youtube.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/facebook.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/x-twitter.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/threads.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://37570.global.siteimproveanalytics.io/image.aspx?url=https%3A%2F%2Fwww.iastate.edu%2F&title=Iowa%20State%20University&res=1920x1080&accountid=37570&rt=-85109307&prev=d19a7c1c-7332-94e2-7cd3-67dcc23d6080&luid=8b1ec267-5153-effb-4cfe-9bb8cd247370&rnd=48760",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001171132/https://www.youtube.com/s/player/d9418494/www-widgetapi.vflset/www-widgetapi.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061236js_/https://connect.facebook.net/en_US/fbevents.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145517/https://kit-uploads.fontawesome.com/b658fac974/icons/iastate22-magnifying-glass-1.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145516/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/light/xmark.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336/https://kit-uploads.fontawesome.com/b658fac974/icons/iastate22-map-pin-1.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145517/https://kit-uploads.fontawesome.com/b658fac974/icons/iastate22-instagram-1.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929134907/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/youtube.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145516/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/facebook.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240929145516/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/x-twitter.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023337/https://ka-p.fontawesome.com/releases/v6.6.0/svgs/brands/threads.svg?token=b658fac974",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://polyfill.archive.org/v3/polyfill.min.js?features=fetch,IntersectionObserver,ResizeObserver,globalThis,Element.prototype.getAttributeNames,String.prototype.startsWith,Array.prototype.flat,Element.prototype.closest,Element.prototype.scroll,Element.prototype.remove,Object.entries,Object.values,Object.fromEntries",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/lit/polyfill-support.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/ia-topnav.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/js/archive.min.js?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/build/css/archive.min.css?v=ae1cf4fc",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/styles.css?v=X-Ndhul9",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/web.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014306js_/https://www.googletagmanager.com/gtag/destination?id=G-Z8BYGLSQ3F&l=dataLayer&cx=c",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014306js_/https://www.googletagmanager.com/gtag/js?id=G-Z8BYGLSQ3F&l=dataLayer&cx=c",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014305/https://www.google-analytics.com/analytics.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001053816js_/https://adp.eab.com/js/adp.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240927195429js_/https://cdn.evgnet.com/beacon/iowastunivadmissions/iowasate_prod/scripts/evergage.min.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?path=%2Fweb&service=wb&server_name=wwwb-app214.us.archive.org&server_ms=225&kind=pageview&timediff=-7&locale=en-US&referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20241001061715%2Fhttps%3A%2F%2Fwww.iastate.edu%2F&loadtime=380&nav_to_done_ms=732&iaprop_fontSize=16px&iaprop_devicePixelRatio=1&version=2&count=14",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?cache_bust=0.0477510695264578&kind=track_js&track_js_case=external_executes&service=ao_2&version=2&count=6",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014307im_/https://pixel.sitescout.com/up/9a9519a9ffeb3448",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001173147/https://www.youtube.com/s/player/d9418494/www-widgetapi.vflset/www-widgetapi.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061236/https://connect.facebook.net/signals/config/1981521712102064?v=2.9.169&r=stable&domain=www.iastate.edu&hme=d82868061a8c707cd31395a3055e7449daa03bd520872727258c39e6af34523e&ex_m=70%2C120%2C106%2C110%2C61%2C4%2C99%2C69%2C16%2C96%2C88%2C51%2C54%2C171%2C174%2C186%2C182%2C183%2C185%2C29%2C100%2C53%2C77%2C184%2C166%2C169%2C179%2C180%2C187%2C130%2C41%2C34%2C142%2C15%2C50%2C193%2C192%2C132%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C92%2C17%2C14%2C95%2C91%2C90%2C107%2C52%2C109%2C39%2C108%2C30%2C93%2C26%2C167%2C170%2C139%2C28%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C101%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C103%2C102%2C104%2C97%2C10%2C20%2C3%2C38%2C74%2C19%2C85%2C56%2C83%2C33%2C73%2C0%2C94%2C32%2C82%2C87%2C47%2C46%2C86%2C37%2C5%2C89%2C81%2C44%2C35%2C84%2C2%2C36%2C63%2C42%2C105%2C45%2C79%2C68%2C111%2C60%2C59%2C31%2C98%2C58%2C55%2C49%2C78%2C72%2C24%2C112",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 404,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014305/https://www.google-analytics.com/j/collect?v=1&_v=j101&a=83209468&t=pageview&_s=1&dl=https%3A%2F%2Fwww.iastate.edu%2F&ul=en-us&de=UTF-8&dt=Iowa%20State%20University&sd=24-bit&sr=1920x1080&vp=1905x1080&je=0&fl=32.0%20r0&_utma=208037386.398919704.1711961305.1727763446.1727763446.1&_utmz=208037386.1727763446.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1727763437430&_u=QAECAEgBAAAAACAAI~&jid=&gjid=&cid=398919704.1711961305&tid=UA-6220153-1&_gid=458091178.1711961305&_slc=1&gtm=45He45f0n81TKN282Kv78686541za200&gcd=13l3l3l2l1&dma_cps=sypham&dma=1&npa=1&z=573380343",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://region1.google-analytics.com/g/collect?v=2&tid=G-Z8BYGLSQ3F&gtm=45je45f0v9134490419z8810475160za200&_p=1727763435492&gcd=13l3l3l2l1&npa=1&dma_cps=sypham&dma=1&cid=398919704.1711961305&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B8.0.0.0%7CChromium%3B126.0.6478.126&uamb=0&uam=&uap=macOS&uapv=14.0.0&uaw=0&are=1&frm=0&pscdl=&_s=1&sid=1727763447&sct=1&seg=1&dl=https%3A%2F%2Fwww.iastate.edu%2F&dt=Iowa%20State%20University&en=gtm.js&tfd=2841",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715js_/https://my.isu-info.org/mtc.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240927195429/https://iowastunivadmissions.us-6.evergage.com/api2/event/iowasate_prod?event=eyJzb3VyY2UiOnsicGFnZVR5cGUiOiJIb21lIiwidXJsIjoiaHR0cHM6Ly93d3cuaWFzdGF0ZS5lZHUvIiwidXJsUmVmZXJyZXIiOiIiLCJjaGFubmVsIjoiV2ViIiwiYmVhY29uVmVyc2lvbiI6MTYsImNvbmZpZ1ZlcnNpb24iOiIxMSIsImNvbnRlbnRab25lcyI6WyJoZXJvX2ltYWdlIiwiaGVyb19jb250ZW50Il19LCJ1c2VyIjp7ImFub255bW91c0lkIjoiMzJlYzIyZWI4ZTUyNDc2YSJ9LCJpbnRlcmFjdGlvbiI6eyJuYW1lIjoiSG9tZSB8IFZpZXcifSwicGFnZVZpZXciOnRydWUsImNvbnNlbnRzIjpbXSwiYWNjb3VudCI6e30sIl90b29sc0V2ZW50TGlua0lkIjoiMTQyMDY5NjE1OTEyMjA4NSIsImV4cGxhaW4iOnRydWV9",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014307im_/https://pixel.sitescout.com/up/9a9519a9ffeb3448?cookieQ=1",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001173147/https://www.youtube.com/embed/F1EVZIWdht8?rel=0&enablejsapi=1&origin=https%3A%2F%2Fwww.iastate.edu&widgetid=1",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336/https://www.youtube.com/embed/F1EVZIWdht8?rel=0&enablejsapi=1&origin=https%3A%2F%2Fwww.iastate.edu&widgetid=1",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/jwplayer/jwplayer.js?v=hiYhl5rb",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-video.js?v=TFNEreMA",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336cs_/https://www.youtube.com/s/player/e38bb6de/www-player.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336/https://www.youtube.com/s/player/e38bb6de/player_ias.vflset/en_US/embed.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336js_/https://www.youtube.com/s/player/e38bb6de/www-embed-player.vflset/www-embed-player.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336js_/https://www.youtube.com/s/player/e38bb6de/player_ias.vflset/en_US/base.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023212cs_/https://www.youtube.com/s/player/e38bb6de/www-player.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023223/https://www.youtube.com/s/player/e38bb6de/player_ias.vflset/en_US/embed.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023230js_/https://www.youtube.com/s/player/e38bb6de/player_ias.vflset/en_US/base.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023229js_/https://www.youtube.com/s/player/e38bb6de/www-embed-player.vflset/www-embed-player.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014307js_/https://my.isu-info.org/mtc.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023210im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023229/https://googleads.g.doubleclick.net/pagead/id",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023229/https://static.doubleclick.net/instream/ad_status.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916024040im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023230/https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336js_/https://www.youtube.com/s/player/e38bb6de/player_ias.vflset/en_US/remote.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336js_///www.google.com/js/th/YpaxWjHVNNO6KZk05PsGAol2GFYfBj4WvF05Ro9VHVE.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336js_/https://www.youtube.com/s/player/e38bb6de/player_ias.vflset/en_US/embed.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336im_/https://i.ytimg.com/vi/F1EVZIWdht8/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gmAAqQFigIMCAAQARhfIF8oXzAP&rs=AOn4CLDqmfsB23qRJs_AIdew_RhhmfIzjA",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001172055cs_/https://www.iastate.edu/files/css/css_g1TdEWLy4ks3_5r9syeO2nL9UqrdhwOggtMCWGjEaWA.css?delta=4&language=en&theme=iastate2022wd&include=eJxdjUEKgDAMBD9UrPRDJW2CBGMDJkX8vSgq4nFmYZbdNsx1JmTXNfKJw4OBf2tDal5E6xxsN6clFjAKDObglMaU4iRaQL5qw1deOYFdu-fSWZDuy2xUnbUdm743PA",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240927195429/https://iowastunivadmissions.us-6.evergage.com/er?.bv=16&_ak=iowastunivadmissions&_ds=iowasate_prod&.scv=11&channel=Web&_r=426594&.anonId=32ec22eb8e52476a&_anon=true&.em=Response%20was%20not%20OK%3A%20%3C!DOCTYPE%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%20%20%3Chead%3E%0A%20%20%20%20%3Ctitle%3EWayback%20Machine%3C%2Ftitle%3E%0A%20%20%20%20%3Cscript%3E%0A%20%20%20%20%2F*%0A%20%20%20%20%40licstart%20%20The%20following%20is%20the%20entire%20license%20notice%20for%20the%20JavaScript%20code%20in%20this%20page.%0A%0A%20%20%20%20Copyright%20(C)%202020%20Internet%20Archive%0A%0A%20%20%20%20The%20JavaScript%20code%20in%20this%20page%20is%20free%20software%3A%20you%20can%0A%20%20%20%20redistribute%20it%20and%2For%20modify%20it%20under%20the%20terms%20of%20the%20GNU%20Affero%0A%20%20%20%20General%20Public%20License%20as%20published%20by%20the%20Free%20Software%0A%20%20%20%20Foundation%2C%20either%20version%203%20of%20the%20License%2C%20or%20(at%20your%20option)%0A%20%20%20%20any%20later%20version.%20%20The%20code%20is%20distributed%20WITHOUT%20ANY%20WARRANTY%3B%0A%20%20%20%20without%20even%20the%20implied%20warranty%20of%20MERCHANTABILITY%20or%20FITNESS%0A%20%20%20%20FOR%20A%20PARTICULAR%20PURPOSE.%20%20See%20the%20GNU%20GPL%20for%20more%20details.%0A%0A%20%20%20%20As%20...%20.org%3C%2Fa%3E.%0A%20%20%20%20%20%20%20%20%3C%2Fp%3E%0A%20%20%20%20%20%20%20%20%3Cp%3E%0A%20%20%20%20%20%20%20%20%20%20Your%20use%20of%20the%20Wayback%20Machine%20is%20subject%20to%20the%20Internet%20Archive%27s%0A%20%20%20%20%20%20%20%20%20%20%3Ca%20href%3D%22%2F%2Farchive.org%2Fabout%2Fterms.php%22%3ETerms%20of%20Use%3C%2Fa%3E.%0A%20%20%20%20%20%20%20%20%3C%2Fp%3E%0A%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%3C%2Ffooter%3E%0A%20%20%3C%2Fbody%3E%0A%3C%2Fhtml%3E&.es=Server%20Response&.vt=chrome&.vn=126",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022555/https://googleads.g.doubleclick.net/pagead/id",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240520014307/https://my.isu-info.org/mtc/event",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022555/https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023223js_/https://www.youtube.com/s/player/e38bb6de/player_ias.vflset/en_US/embed.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022925js_/https://www.youtube.com/s/player/e38bb6de/player_ias.vflset/en_US/remote.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023211js_/https://www.google.com/js/th/YpaxWjHVNNO6KZk05PsGAol2GFYfBj4WvF05Ro9VHVE.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022803/https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240704062140im_/https://i.ytimg.com/vi/F1EVZIWdht8/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gmAAqQFigIMCAAQARhfIF8oXzAP&rs=AOn4CLDqmfsB23qRJs_AIdew_RhhmfIzjA",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/videoinfo?vtype=youtube&vid=F1EVZIWdht8",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022555/https://static.doubleclick.net/instream/ad_status.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/jwplayer/jwplayer.html5.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/img/F1EVZIWdht8",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022925/https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20230511132626oe_/https://rr5---sn-a5meknd6.googlevideo.com/videoplayback?expire=1683833178&ei=-uxcZJa8GcTBkgbb_6HwDA&ip=207.241.235.173&id=o-AFJXOAMHh1dUXBHXb51PVYmI2S2X7BsBpoBoLOomgzg5&itag=22&source=youtube&requiressl=yes&spc=qEK7B1p7OKRzpGfXHQkiTjRL3Ws4fb8&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=77.577&lmt=1682954419455020&fexp=24007246&c=ANDROID&txp=6218224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgZk40tGKaj05q8maAmioMbu-NonldeS9i-3wwJvQb-FoCIQCRv7QHRbXsj377RtCwqvhkujT7p5CEKpddYnF2hhm6yQ%3D%3D&video_id=F1EVZIWdht8&redirect_counter=1&cm2rm=sn-n4vse76&req_id=f0fadbcc56e6a3ee&cms_redirect=yes&cmsv=e&mh=fp&mip=207.241.236.59&mm=34&mn=sn-a5meknd6&ms=ltu&mt=1683811241&mv=m&mvi=5&pl=20&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAKT2fZn0pNTMlb_QbA0V_yCPZU-6-WRvKGAxY1BSD1B8AiEA5ACyGMHG4kBWcpEvMeaEfqOpwcNsoD-leHIRDcgmIYI%3D",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023230/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022803/https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/img/F1EVZIWdht8",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20230511132626oe_/https://rr5---sn-a5meknd6.googlevideo.com/videoplayback?expire=1683833178&ei=-uxcZJa8GcTBkgbb_6HwDA&ip=207.241.235.173&id=o-AFJXOAMHh1dUXBHXb51PVYmI2S2X7BsBpoBoLOomgzg5&itag=22&source=youtube&requiressl=yes&spc=qEK7B1p7OKRzpGfXHQkiTjRL3Ws4fb8&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=77.577&lmt=1682954419455020&fexp=24007246&c=ANDROID&txp=6218224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgZk40tGKaj05q8maAmioMbu-NonldeS9i-3wwJvQb-FoCIQCRv7QHRbXsj377RtCwqvhkujT7p5CEKpddYnF2hhm6yQ%3D%3D&video_id=F1EVZIWdht8&redirect_counter=1&cm2rm=sn-n4vse76&req_id=f0fadbcc56e6a3ee&cms_redirect=yes&cmsv=e&mh=fp&mip=207.241.236.59&mm=34&mn=sn-a5meknd6&ms=ltu&mt=1683811241&mv=m&mvi=5&pl=20&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAKT2fZn0pNTMlb_QbA0V_yCPZU-6-WRvKGAxY1BSD1B8AiEA5ACyGMHG4kBWcpEvMeaEfqOpwcNsoD-leHIRDcgmIYI%3D",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023230/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023230/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023230/https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022556/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022556/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022556/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336/https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022803/https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022606/https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022803/https://www.gstatic.com/eureka/clank/126/cast_sender.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240906102411/https://www.gstatic.com/eureka/clank/126/cast_sender.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715im_/https://cdn.theme.iastate.edu/favicon/favicon.svg",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001183234im_/https://cdn.theme.iastate.edu/favicon/favicon.svg",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://region1.analytics.google.com/g/collect?v=2&tid=G-8VJV332G3B&gtm=45je45f0v9134490419z878686541za200&_p=1727763435492&gcd=13l3l3l2l1&npa=1&dma_cps=sypham&dma=1&cid=398919704.1711961305&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B8.0.0.0%7CChromium%3B126.0.6478.126&uamb=0&uam=&uap=macOS&uapv=14.0.0&uaw=0&are=1&frm=0&pscdl=&_s=1&sid=1727763447&sct=1&seg=1&dl=https%3A%2F%2Fwww.iastate.edu%2F&dt=Iowa%20State%20University&en=page_view&tfd=7838",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001061715/https://region1.google-analytics.com/g/collect?v=2&tid=G-Z8BYGLSQ3F&gtm=45je45f0v9134490419z878686541za200&_p=1727763435492&gcd=13l3l3l2l1&npa=1&dma_cps=sypham&dma=1&cid=398919704.1711961305&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B8.0.0.0%7CChromium%3B126.0.6478.126&uamb=0&uam=&uap=macOS&uapv=14.0.0&uaw=0&are=1&frm=0&pscdl=&_s=2&sid=1727763447&sct=1&seg=1&dl=https%3A%2F%2Fwww.iastate.edu%2F&dt=Iowa%20State%20University&en=page_view&_et=5&tfd=7862",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023230/https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022803/https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023230/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023230/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023230/https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022556/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022556/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022803/https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916023336/https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+            "method": "POST",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240916022606/https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": null,
+            "errorText": null
+        }
+    ]
+}

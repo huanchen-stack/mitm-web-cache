@@ -11,7 +11,7 @@ async function startChrome(useProxy, proxyPort, forceHttp1) {
             '--enable-automation',
         ],
         defaultViewport: { width: 1920, height: 1080 },
-        headless: "new" //false
+        headless: false
     };
 
     // Conditionally add proxy server

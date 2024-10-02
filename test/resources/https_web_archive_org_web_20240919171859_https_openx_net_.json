@@ -1,0 +1,92 @@
+{
+    "stats": {
+        "total_resources": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "non_erroneous_resources": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "resources_200": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "resources_404": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/web/20240919171859/https://openx.net/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "net::ERR_CONNECTION_REFUSED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240919171859/https://openx.net/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "net::ERR_CONNECTION_REFUSED at https://web.archive.org/web/20240919171859/https://openx.net/"
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/web/20240919171859/https://openx.net/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "net::ERR_CONNECTION_REFUSED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240919171859/https://openx.net/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "net::ERR_CONNECTION_REFUSED at https://web.archive.org/web/20240919171859/https://openx.net/"
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/web/20240919171859/https://openx.net/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "net::ERR_EMPTY_RESPONSE"
+        },
+        {
+            "url": "https://web.archive.org/web/20240919171859/https://openx.net/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "net::ERR_EMPTY_RESPONSE at https://web.archive.org/web/20240919171859/https://openx.net/"
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/web/20240919171859/https://openx.net/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "net::ERR_EMPTY_RESPONSE"
+        },
+        {
+            "url": "https://web.archive.org/web/20240919171859/https://openx.net/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "net::ERR_EMPTY_RESPONSE at https://web.archive.org/web/20240919171859/https://openx.net/"
+        }
+    ]
+}

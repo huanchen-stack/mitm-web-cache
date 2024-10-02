@@ -1,0 +1,3109 @@
+{
+    "stats": {
+        "total_resources": [
+            116,
+            110,
+            106,
+            107
+        ],
+        "non_erroneous_resources": [
+            109,
+            102,
+            96,
+            97
+        ],
+        "resources_200": [
+            61,
+            58,
+            55,
+            55
+        ],
+        "resources_404": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "resources_1": [
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-regular.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-semibold.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-medium.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200120/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200116cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-semibold.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200117cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-medium.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200119/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/6d4bd815456c4f49b46bfc0648fcb79e/31e18/header.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/c6b4e6ef896f82f81e810bae3f2434be/78ee3/header_mobile.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://country.jimdo.com/?responseType=jsonp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/webpack-runtime-be324c56cab083a0575b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/framework-6e6b0ea57a7a6ff3f63e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/app-5594b431ba81c4980b1b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200121/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200114cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-regular.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121435im_/https://www.jimdo.com/static/6d4bd815456c4f49b46bfc0648fcb79e/31e18/header.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121435im_/https://www.jimdo.com/static/c6b4e6ef896f82f81e810bae3f2434be/78ee3/header_mobile.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930201140js_/https://www.jimdo.com/webpack-runtime-be324c56cab083a0575b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200115js_/https://country.jimdo.com/?responseType=jsonp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930201142js_/https://www.jimdo.com/framework-6e6b0ea57a7a6ff3f63e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240930225958/https%3A//www.jimdo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240930225958/https%3A//www.jimdo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.jimdo.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/http://web.archive.org/screenshot/https://www.jimdo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.jimdo.com%2F&timestamp=20240930225958",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654js_/https://www.jimdo.com/app-5594b431ba81c4980b1b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200114im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200117im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200116im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app213.us.archive.org&server_ms=526&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=1040&nav_to_done_ms=3686&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/f013fc4af011152782e9ca01e2debb2d/53981/BusinessWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/6fa33e7c104479579dc6d2cc47742783/cc1ac/OnlineShop.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/e7dab4f6ea339f4922f94d409a4ff9ef/53981/PortfolioWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/c2c1ecd41bb8b6fb7c0d50c1eed9eada/5bc0b/WebsiteEditor.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200120im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200121im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20220507165506/http://web.archive.org/screenshot/https://www.jimdo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200119im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437im_/https://www.jimdo.com/static/6fa33e7c104479579dc6d2cc47742783/cc1ac/OnlineShop.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437im_/https://www.jimdo.com/static/e7dab4f6ea339f4922f94d409a4ff9ef/53981/PortfolioWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121436im_/https://www.jimdo.com/static/f013fc4af011152782e9ca01e2debb2d/53981/BusinessWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930192959/https://www.jimdo.com/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437im_/https://www.jimdo.com/static/c2c1ecd41bb8b6fb7c0d50c1eed9eada/5bc0b/WebsiteEditor.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/page-data/app-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/page-data/index/page-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/loader.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437/https://www.jimdo.com/page-data/index/page-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001174302/https://www.jimdo.com/page-data/app-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930195701/https://web.cmp.usercentrics.eu/ui/loader.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/a79515f9-48d792cf37e8af90b262.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/commons-93269de1d673bd8ad526.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/a2ab16da329e1defde6147a5d261de7e8b1fd803-505236e67baae170f5b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/e1a06cbdc7ddfffcd07b377d0a32ff3c201e313e-287cfb44cb638712e790.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/ddd599c31841dc30fa727eb49dbaa71ecdabc5c0-8695c1b872f4fd64edcf.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/a1b6fbfa8dbba61680e54d7e9a1fedbb98124142-abfeebee587fea56205c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/2c494f52df70187c5a48e09d37fafb0fd3ab68b5-a9c4b3f8da186d75e51b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/component---src-landing-pages-homepage-en-index-tsx-4e64e6f93014cd06ddc1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/page-data/sq/d/1702873662.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200703js_/https://www.jimdo.com/component---src-landing-pages-homepage-en-index-tsx-4e64e6f93014cd06ddc1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185648js_/https://www.jimdo.com/a79515f9-48d792cf37e8af90b262.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185649js_/https://www.jimdo.com/a2ab16da329e1defde6147a5d261de7e8b1fd803-505236e67baae170f5b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185648js_/https://www.jimdo.com/commons-93269de1d673bd8ad526.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001174304/https://www.jimdo.com/page-data/sq/d/1702873662.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185649js_/https://www.jimdo.com/a1b6fbfa8dbba61680e54d7e9a1fedbb98124142-abfeebee587fea56205c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/v/3.23.0/BrowserSdk.lib.15843d7f.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185649js_/https://www.jimdo.com/e1a06cbdc7ddfffcd07b377d0a32ff3c201e313e-287cfb44cb638712e790.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://web.cmp.usercentrics.eu/ui/v/3.23.0/BrowserSdk.lib.15843d7f.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://www.jimdo.com/2c494f52df70187c5a48e09d37fafb0fd3ab68b5-a9c4b3f8da186d75e51b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://v1.api.service.cmp.usercentrics.eu/latest/core/k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930150246/https://v1.api.service.cmp.usercentrics.eu/latest/core/k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://app.usercentrics.eu/session/1px.png?settingsId=k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://www.jimdo.com/ddd599c31841dc30fa727eb49dbaa71ecdabc5c0-8695c1b872f4fd64edcf.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240127025835/https://app.usercentrics.eu/session/1px.png?settingsId=k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/k1JwB2Dk_/288.90.416/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240804045148/https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/k1JwB2Dk_/288.90.416/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/v/3.23.0/GdprCmpController.0dcd2fdc.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001024625/https://web.cmp.usercentrics.eu/ui/v/3.23.0/GdprCmpController.0dcd2fdc.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+            "method": "POST",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/v/3.23.0/UcGdprCmpView.69108eac.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930131028/https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 201,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20241001024626/https://web.cmp.usercentrics.eu/ui/v/3.23.0/UcGdprCmpView.69108eac.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://uct.service.usercentrics.eu/uct?v=2&sid=k1JwB2Dk_&t=1&abv=&r=https%3A%2F%2Fwww.jimdo.com%2F&cb=1727737213460",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 404,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/k1JwB2Dk_/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930150247/https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/k1JwB2Dk_/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241002063409/https://www.jimdo.com/2c494f52df70187c5a48e09d37fafb0fd3ab68b5-a9c4b3f8da186d75e51b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241002063410/https://www.jimdo.com/ddd599c31841dc30fa727eb49dbaa71ecdabc5c0-8695c1b872f4fd64edcf.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/icons/android-chrome-144x144.png",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/icons/favicon-32x32.png",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/icons/android-chrome-144x144.png",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930201750/https://www.jimdo.com/icons/android-chrome-144x144.png",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930193107im_/https://www.jimdo.com/icons/favicon-32x32.png",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_2": [
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-regular.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-semibold.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-medium.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200114cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-regular.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200116cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-semibold.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200117cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-medium.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200119/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200120/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200121/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/6d4bd815456c4f49b46bfc0648fcb79e/31e18/header.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/c6b4e6ef896f82f81e810bae3f2434be/78ee3/header_mobile.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121435im_/https://www.jimdo.com/static/6d4bd815456c4f49b46bfc0648fcb79e/31e18/header.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121435im_/https://www.jimdo.com/static/c6b4e6ef896f82f81e810bae3f2434be/78ee3/header_mobile.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://country.jimdo.com/?responseType=jsonp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/webpack-runtime-be324c56cab083a0575b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/framework-6e6b0ea57a7a6ff3f63e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/app-5594b431ba81c4980b1b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240930225958/https%3A//www.jimdo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240930225958/https%3A//www.jimdo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.jimdo.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/http://web.archive.org/screenshot/https://www.jimdo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.jimdo.com%2F&timestamp=20240930225958",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200115js_/https://country.jimdo.com/?responseType=jsonp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654js_/https://www.jimdo.com/app-5594b431ba81c4980b1b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930201140js_/https://www.jimdo.com/webpack-runtime-be324c56cab083a0575b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930201142js_/https://www.jimdo.com/framework-6e6b0ea57a7a6ff3f63e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200114im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200117im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200116im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20220507165506/http://web.archive.org/screenshot/https://www.jimdo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app213.us.archive.org&server_ms=526&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=697&nav_to_done_ms=879&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/page-data/app-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/page-data/index/page-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200121im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200120im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200119im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/f013fc4af011152782e9ca01e2debb2d/53981/BusinessWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/6fa33e7c104479579dc6d2cc47742783/cc1ac/OnlineShop.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/e7dab4f6ea339f4922f94d409a4ff9ef/53981/PortfolioWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/c2c1ecd41bb8b6fb7c0d50c1eed9eada/5bc0b/WebsiteEditor.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/loader.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001174302/https://www.jimdo.com/page-data/app-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437/https://www.jimdo.com/page-data/index/page-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121436im_/https://www.jimdo.com/static/f013fc4af011152782e9ca01e2debb2d/53981/BusinessWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437im_/https://www.jimdo.com/static/6fa33e7c104479579dc6d2cc47742783/cc1ac/OnlineShop.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437im_/https://www.jimdo.com/static/e7dab4f6ea339f4922f94d409a4ff9ef/53981/PortfolioWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/a79515f9-48d792cf37e8af90b262.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/commons-93269de1d673bd8ad526.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/a2ab16da329e1defde6147a5d261de7e8b1fd803-505236e67baae170f5b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/e1a06cbdc7ddfffcd07b377d0a32ff3c201e313e-287cfb44cb638712e790.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/ddd599c31841dc30fa727eb49dbaa71ecdabc5c0-8695c1b872f4fd64edcf.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/a1b6fbfa8dbba61680e54d7e9a1fedbb98124142-abfeebee587fea56205c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/2c494f52df70187c5a48e09d37fafb0fd3ab68b5-a9c4b3f8da186d75e51b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/component---src-landing-pages-homepage-en-index-tsx-4e64e6f93014cd06ddc1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/page-data/sq/d/1702873662.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437im_/https://www.jimdo.com/static/c2c1ecd41bb8b6fb7c0d50c1eed9eada/5bc0b/WebsiteEditor.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930195701/https://web.cmp.usercentrics.eu/ui/loader.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185648js_/https://www.jimdo.com/a79515f9-48d792cf37e8af90b262.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930192959/https://www.jimdo.com/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001174304/https://www.jimdo.com/page-data/sq/d/1702873662.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185648js_/https://www.jimdo.com/commons-93269de1d673bd8ad526.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185649js_/https://www.jimdo.com/a2ab16da329e1defde6147a5d261de7e8b1fd803-505236e67baae170f5b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185649js_/https://www.jimdo.com/e1a06cbdc7ddfffcd07b377d0a32ff3c201e313e-287cfb44cb638712e790.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://www.jimdo.com/ddd599c31841dc30fa727eb49dbaa71ecdabc5c0-8695c1b872f4fd64edcf.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 429,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185649js_/https://www.jimdo.com/a1b6fbfa8dbba61680e54d7e9a1fedbb98124142-abfeebee587fea56205c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://www.jimdo.com/2c494f52df70187c5a48e09d37fafb0fd3ab68b5-a9c4b3f8da186d75e51b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 429,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200703js_/https://www.jimdo.com/component---src-landing-pages-homepage-en-index-tsx-4e64e6f93014cd06ddc1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/v/3.23.0/BrowserSdk.lib.15843d7f.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://web.cmp.usercentrics.eu/ui/v/3.23.0/BrowserSdk.lib.15843d7f.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://v1.api.service.cmp.usercentrics.eu/latest/core/k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/icons/android-chrome-144x144.png",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930150246/https://v1.api.service.cmp.usercentrics.eu/latest/core/k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/icons/android-chrome-144x144.png",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://app.usercentrics.eu/session/1px.png?settingsId=k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930201750/https://www.jimdo.com/icons/android-chrome-144x144.png",
+            "method": "GET",
+            "resourceType": "other",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240127025835/https://app.usercentrics.eu/session/1px.png?settingsId=k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/k1JwB2Dk_/288.90.416/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240804045148/https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/k1JwB2Dk_/288.90.416/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/v/3.23.0/GdprCmpController.0dcd2fdc.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001024625/https://web.cmp.usercentrics.eu/ui/v/3.23.0/GdprCmpController.0dcd2fdc.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/v/3.23.0/UcGdprCmpView.69108eac.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001024626/https://web.cmp.usercentrics.eu/ui/v/3.23.0/UcGdprCmpView.69108eac.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://uct.service.usercentrics.eu/uct?v=2&sid=k1JwB2Dk_&t=1&abv=&r=https%3A%2F%2Fwww.jimdo.com%2F&cb=1727737200259",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/k1JwB2Dk_/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930150247/https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/k1JwB2Dk_/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        }
+    ],
+    "resources_3": [
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-regular.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-semibold.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-medium.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200114cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-regular.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200116cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-semibold.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200117cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-medium.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/6d4bd815456c4f49b46bfc0648fcb79e/31e18/header.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/c6b4e6ef896f82f81e810bae3f2434be/78ee3/header_mobile.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://country.jimdo.com/?responseType=jsonp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/webpack-runtime-be324c56cab083a0575b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/framework-6e6b0ea57a7a6ff3f63e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/app-5594b431ba81c4980b1b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240930225958/https%3A//www.jimdo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240930225958/https%3A//www.jimdo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.jimdo.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/http://web.archive.org/screenshot/https://www.jimdo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.jimdo.com%2F&timestamp=20240930225958",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200119/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200114im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200117im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200116im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app213.us.archive.org&server_ms=526&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=527&nav_to_done_ms=719&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200120/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200121/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121435im_/https://www.jimdo.com/static/6d4bd815456c4f49b46bfc0648fcb79e/31e18/header.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/f013fc4af011152782e9ca01e2debb2d/53981/BusinessWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/6fa33e7c104479579dc6d2cc47742783/cc1ac/OnlineShop.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/e7dab4f6ea339f4922f94d409a4ff9ef/53981/PortfolioWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/c2c1ecd41bb8b6fb7c0d50c1eed9eada/5bc0b/WebsiteEditor.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200119im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200120im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200121im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20220507165506/http://web.archive.org/screenshot/https://www.jimdo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121435im_/https://www.jimdo.com/static/c6b4e6ef896f82f81e810bae3f2434be/78ee3/header_mobile.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200115js_/https://country.jimdo.com/?responseType=jsonp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930201140js_/https://www.jimdo.com/webpack-runtime-be324c56cab083a0575b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930201142js_/https://www.jimdo.com/framework-6e6b0ea57a7a6ff3f63e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654js_/https://www.jimdo.com/app-5594b431ba81c4980b1b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121436im_/https://www.jimdo.com/static/f013fc4af011152782e9ca01e2debb2d/53981/BusinessWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437im_/https://www.jimdo.com/static/6fa33e7c104479579dc6d2cc47742783/cc1ac/OnlineShop.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437im_/https://www.jimdo.com/static/e7dab4f6ea339f4922f94d409a4ff9ef/53981/PortfolioWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437im_/https://www.jimdo.com/static/c2c1ecd41bb8b6fb7c0d50c1eed9eada/5bc0b/WebsiteEditor.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/page-data/app-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/page-data/index/page-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/loader.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001174302/https://www.jimdo.com/page-data/app-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437/https://www.jimdo.com/page-data/index/page-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/a79515f9-48d792cf37e8af90b262.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/commons-93269de1d673bd8ad526.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/a2ab16da329e1defde6147a5d261de7e8b1fd803-505236e67baae170f5b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/e1a06cbdc7ddfffcd07b377d0a32ff3c201e313e-287cfb44cb638712e790.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/ddd599c31841dc30fa727eb49dbaa71ecdabc5c0-8695c1b872f4fd64edcf.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/a1b6fbfa8dbba61680e54d7e9a1fedbb98124142-abfeebee587fea56205c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/2c494f52df70187c5a48e09d37fafb0fd3ab68b5-a9c4b3f8da186d75e51b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/component---src-landing-pages-homepage-en-index-tsx-4e64e6f93014cd06ddc1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/page-data/sq/d/1702873662.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930195701/https://web.cmp.usercentrics.eu/ui/loader.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185648js_/https://www.jimdo.com/a79515f9-48d792cf37e8af90b262.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001174304/https://www.jimdo.com/page-data/sq/d/1702873662.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185648js_/https://www.jimdo.com/commons-93269de1d673bd8ad526.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185649js_/https://www.jimdo.com/e1a06cbdc7ddfffcd07b377d0a32ff3c201e313e-287cfb44cb638712e790.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://www.jimdo.com/ddd599c31841dc30fa727eb49dbaa71ecdabc5c0-8695c1b872f4fd64edcf.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 429,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185649js_/https://www.jimdo.com/a2ab16da329e1defde6147a5d261de7e8b1fd803-505236e67baae170f5b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://www.jimdo.com/2c494f52df70187c5a48e09d37fafb0fd3ab68b5-a9c4b3f8da186d75e51b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 429,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185649js_/https://www.jimdo.com/a1b6fbfa8dbba61680e54d7e9a1fedbb98124142-abfeebee587fea56205c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200703js_/https://www.jimdo.com/component---src-landing-pages-homepage-en-index-tsx-4e64e6f93014cd06ddc1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/v/3.23.0/BrowserSdk.lib.15843d7f.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://web.cmp.usercentrics.eu/ui/v/3.23.0/BrowserSdk.lib.15843d7f.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://v1.api.service.cmp.usercentrics.eu/latest/core/k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930150246/https://v1.api.service.cmp.usercentrics.eu/latest/core/k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://app.usercentrics.eu/session/1px.png?settingsId=k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240127025835/https://app.usercentrics.eu/session/1px.png?settingsId=k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930192959/https://www.jimdo.com/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/k1JwB2Dk_/288.90.416/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240804045148/https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/k1JwB2Dk_/288.90.416/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/v/3.23.0/GdprCmpController.0dcd2fdc.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001024625/https://web.cmp.usercentrics.eu/ui/v/3.23.0/GdprCmpController.0dcd2fdc.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/v/3.23.0/UcGdprCmpView.69108eac.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001024626/https://web.cmp.usercentrics.eu/ui/v/3.23.0/UcGdprCmpView.69108eac.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://uct.service.usercentrics.eu/uct?v=2&sid=k1JwB2Dk_&t=1&abv=&r=https%3A%2F%2Fwww.jimdo.com%2F&cb=1727737203192",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/k1JwB2Dk_/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        }
+    ],
+    "resources_4": [
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/athena.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-regular.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-semibold.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-medium.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/loading.gif",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200114cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-regular.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200116cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-semibold.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/6d4bd815456c4f49b46bfc0648fcb79e/31e18/header.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200117cs_/https://webteam.jimstatic.com/fonts/common/euclidcircular-medium.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/c6b4e6ef896f82f81e810bae3f2434be/78ee3/header_mobile.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://country.jimdo.com/?responseType=jsonp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/webpack-runtime-be324c56cab083a0575b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/framework-6e6b0ea57a7a6ff3f63e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/app-5594b431ba81c4980b1b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200119/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200120/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121435im_/https://www.jimdo.com/static/c6b4e6ef896f82f81e810bae3f2434be/78ee3/header_mobile.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200121/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121435im_/https://www.jimdo.com/static/6d4bd815456c4f49b46bfc0648fcb79e/31e18/header.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200115js_/https://country.jimdo.com/?responseType=jsonp",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240930225958/https%3A//www.jimdo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240930225958/https%3A//www.jimdo.com/",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.jimdo.com%2F&collection=web",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/http://web.archive.org/screenshot/https://www.jimdo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.jimdo.com%2F&timestamp=20240930225958",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/images/web-screenshot.svg",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200114im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200117im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200116im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://athena.archive.org/0.gif?service=wb&server_name=wwwb-app213.us.archive.org&server_ms=526&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=770&nav_to_done_ms=828&iaprop_fontSize=25.6px&iaprop_devicePixelRatio=1&version=2&count=13",
+            "method": "POST",
+            "resourceType": "ping",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930201140js_/https://www.jimdo.com/webpack-runtime-be324c56cab083a0575b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930201142js_/https://www.jimdo.com/framework-6e6b0ea57a7a6ff3f63e.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654js_/https://www.jimdo.com/app-5594b431ba81c4980b1b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20220507165506/http://web.archive.org/screenshot/https://www.jimdo.com/",
+            "method": "HEAD",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/f013fc4af011152782e9ca01e2debb2d/53981/BusinessWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/6fa33e7c104479579dc6d2cc47742783/cc1ac/OnlineShop.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/e7dab4f6ea339f4922f94d409a4ff9ef/53981/PortfolioWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958im_/https://www.jimdo.com/static/c2c1ecd41bb8b6fb7c0d50c1eed9eada/5bc0b/WebsiteEditor.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200120im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/medium.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200119im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/regular.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200121im_/https://webteam.jimstatic.com/fonts/fonts/euclidcircular/semibold.woff2",
+            "method": "GET",
+            "resourceType": "font",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/page-data/app-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/page-data/index/page-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121436im_/https://www.jimdo.com/static/f013fc4af011152782e9ca01e2debb2d/53981/BusinessWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/loader.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437im_/https://www.jimdo.com/static/6fa33e7c104479579dc6d2cc47742783/cc1ac/OnlineShop.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437im_/https://www.jimdo.com/static/e7dab4f6ea339f4922f94d409a4ff9ef/53981/PortfolioWebsite.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001174302/https://www.jimdo.com/page-data/app-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437/https://www.jimdo.com/page-data/index/page-data.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/a79515f9-48d792cf37e8af90b262.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/commons-93269de1d673bd8ad526.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/a2ab16da329e1defde6147a5d261de7e8b1fd803-505236e67baae170f5b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/e1a06cbdc7ddfffcd07b377d0a32ff3c201e313e-287cfb44cb638712e790.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/ddd599c31841dc30fa727eb49dbaa71ecdabc5c0-8695c1b872f4fd64edcf.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/a1b6fbfa8dbba61680e54d7e9a1fedbb98124142-abfeebee587fea56205c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/2c494f52df70187c5a48e09d37fafb0fd3ab68b5-a9c4b3f8da186d75e51b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958js_/https://www.jimdo.com/component---src-landing-pages-homepage-en-index-tsx-4e64e6f93014cd06ddc1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/page-data/sq/d/1702873662.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240921121437im_/https://www.jimdo.com/static/c2c1ecd41bb8b6fb7c0d50c1eed9eada/5bc0b/WebsiteEditor.webp",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930195701/https://web.cmp.usercentrics.eu/ui/loader.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185648js_/https://www.jimdo.com/a79515f9-48d792cf37e8af90b262.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001174304/https://www.jimdo.com/page-data/sq/d/1702873662.json",
+            "method": "GET",
+            "resourceType": "xhr",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185648js_/https://www.jimdo.com/commons-93269de1d673bd8ad526.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185649js_/https://www.jimdo.com/a2ab16da329e1defde6147a5d261de7e8b1fd803-505236e67baae170f5b6.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185649js_/https://www.jimdo.com/e1a06cbdc7ddfffcd07b377d0a32ff3c201e313e-287cfb44cb638712e790.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://www.jimdo.com/ddd599c31841dc30fa727eb49dbaa71ecdabc5c0-8695c1b872f4fd64edcf.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 429,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240926185649js_/https://www.jimdo.com/a1b6fbfa8dbba61680e54d7e9a1fedbb98124142-abfeebee587fea56205c.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200703js_/https://www.jimdo.com/component---src-landing-pages-homepage-en-index-tsx-4e64e6f93014cd06ddc1.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/save/_embed/https://www.jimdo.com/2c494f52df70187c5a48e09d37fafb0fd3ab68b5-a9c4b3f8da186d75e51b.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 429,
+            "errorText": "net::ERR_ABORTED"
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/v/3.23.0/BrowserSdk.lib.15843d7f.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://web.cmp.usercentrics.eu/ui/v/3.23.0/BrowserSdk.lib.15843d7f.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://v1.api.service.cmp.usercentrics.eu/latest/core/k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930150246/https://v1.api.service.cmp.usercentrics.eu/latest/core/k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+            "method": "GET",
+            "resourceType": "document",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://app.usercentrics.eu/session/1px.png?settingsId=k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/bundle-playback.js?v=HxkREWBo",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/js/ruffle/ruffle.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240127025835/https://app.usercentrics.eu/session/1px.png?settingsId=k1JwB2Dk_",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web-static.archive.org/_static/css/record.css",
+            "method": "GET",
+            "resourceType": "stylesheet",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930225958/https://www.jimdo.com/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930192959/https://www.jimdo.com/manifest.json",
+            "method": "GET",
+            "resourceType": "manifest",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/k1JwB2Dk_/288.90.416/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240804045148/https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/k1JwB2Dk_/288.90.416/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/v/3.23.0/GdprCmpController.0dcd2fdc.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001024625/https://web.cmp.usercentrics.eu/ui/v/3.23.0/GdprCmpController.0dcd2fdc.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930200654/https://web.cmp.usercentrics.eu/ui/v/3.23.0/UcGdprCmpView.69108eac.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20241001024626/https://web.cmp.usercentrics.eu/ui/v/3.23.0/UcGdprCmpView.69108eac.js",
+            "method": "GET",
+            "resourceType": "script",
+            "statusCode": 200,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://uct.service.usercentrics.eu/uct?v=2&sid=k1JwB2Dk_&t=1&abv=&r=https%3A%2F%2Fwww.jimdo.com%2F&cb=1727737201282",
+            "method": "GET",
+            "resourceType": "image",
+            "statusCode": null,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930130715/https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/k1JwB2Dk_/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": 302,
+            "errorText": null
+        },
+        {
+            "url": "https://web.archive.org/web/20240930150247/https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/k1JwB2Dk_/288.90.416",
+            "method": "GET",
+            "resourceType": "fetch",
+            "statusCode": null,
+            "errorText": null
+        }
+    ]
+}

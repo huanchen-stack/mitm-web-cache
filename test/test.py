@@ -11,15 +11,13 @@ def stream_output(pipe):
         print(line.strip())
 
 def start_proxy():
+    parent_dir = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
+    
     proxy_process = subprocess.Popen(
-        ['python3', '../mitm-web-cache.py'],
-        stdout=subprocess.PIPE,
-        stderr=subprocess.PIPE,
-        bufsize=1,  # Line-buffered output
-        universal_newlines=True  # Automatically decode bytes to strings
+        ['python3', 'mitm-web-cache.py'],  # The script to run
+        cwd=parent_dir
     )
-    # threading.Thread(target=stream_output, args=(proxy_process.stdout,), daemon=True).start()
-    # threading.Thread(target=stream_output, args=(proxy_process.stderr,), daemon=True).start()
+
     return proxy_process
 
 def stop_proxy(proxy_process):
@@ -35,7 +33,7 @@ def run_puppeteer(url, use_proxy=False, force_http1=False):
         command += ['-h', 'http2']
 
     if use_proxy:
-        command += ['-p', '8080']
+        command += ['-p', '8090']
 
     result = subprocess.run(command, capture_output=True, text=True)
     
@@ -43,6 +41,9 @@ def run_puppeteer(url, use_proxy=False, force_http1=False):
         raise Exception(f"Puppeteer error: {result.stderr}")
 
     resources = [json.loads(line) for line in result.stdout.splitlines()]
+
+    time.sleep(10)
+
     return resources
 
 def analyze_resources(resources_list):
@@ -77,14 +78,14 @@ def run_tests(url):
     
     resources_1 = run_puppeteer(url, use_proxy=False, force_http1=False)
     resources_2 = run_puppeteer(url, use_proxy=False, force_http1=True)
-    
-    proxy_process = start_proxy()
+
+    # proxy_process = start_proxy()
     resources_3 = run_puppeteer(url, use_proxy=True, force_http1=False)
-    stop_proxy(proxy_process)
+    # stop_proxy(proxy_process)
     
-    proxy_process = start_proxy()
+    # proxy_process = start_proxy()
     resources_4 = run_puppeteer(url, use_proxy=True, force_http1=False)
-    stop_proxy(proxy_process)
+    # stop_proxy(proxy_process)
 
 
     analysis_1 = analyze_resources(resources_1)
@@ -108,11 +109,13 @@ def run_tests(url):
 with open("archived_links_2024.json", "r") as f:
     d = json.load(f)
 
-for host, url_to_test in d.items():
+d = d[40:50:]
+
+for url_to_test in d:
     # Test URL
     results = run_tests(url_to_test)
     print(results, flush=True)
-    time.sleep(60)
+    # time.sleep(60)
 
 # start_proxy()
 # time.sleep(100)

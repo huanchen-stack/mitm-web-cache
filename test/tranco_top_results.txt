@@ -1,0 +1,48 @@
+{'total_resources': (36, 36, 36, 36), 'non_erroneous_resources': (35, 35, 35, 35), 'resources_200': (24, 24, 24, 24), 'resources_404': (3, 3, 3, 3)}
+{'total_resources': (41, 41, 41, 41), 'non_erroneous_resources': (37, 37, 37, 37), 'resources_200': (23, 23, 23, 23), 'resources_404': (0, 0, 0, 0)}
+{'total_resources': (36, 36, 36, 36), 'non_erroneous_resources': (35, 35, 35, 35), 'resources_200': (24, 24, 24, 24), 'resources_404': (3, 3, 3, 3)}
+{'total_resources': (41, 41, 41, 41), 'non_erroneous_resources': (37, 37, 37, 37), 'resources_200': (23, 23, 23, 23), 'resources_404': (0, 0, 0, 0)}
+{'total_resources': (136, 136, 136, 136), 'non_erroneous_resources': (127, 127, 127, 127), 'resources_200': (72, 72, 72, 72), 'resources_404': (1, 1, 1, 1)}
+{'total_resources': (39, 39, 39, 39), 'non_erroneous_resources': (38, 38, 38, 38), 'resources_200': (20, 20, 20, 20), 'resources_404': (6, 6, 6, 6)}
+{'total_resources': (115, 117, 132, 132), 'non_erroneous_resources': (113, 115, 112, 112), 'resources_200': (63, 63, 62, 62), 'resources_404': (1, 1, 1, 1)}
+{'total_resources': (22, 22, 22, 22), 'non_erroneous_resources': (21, 21, 21, 21), 'resources_200': (18, 18, 18, 18), 'resources_404': (3, 3, 3, 3)}
+{'total_resources': (58, 111, 144, 244), 'non_erroneous_resources': (48, 70, 108, 169), 'resources_200': (30, 37, 57, 80), 'resources_404': (0, 2, 1, 3)}
+{'total_resources': (32, 32, 32, 32), 'non_erroneous_resources': (31, 31, 31, 31), 'resources_200': (23, 23, 23, 23), 'resources_404': (3, 3, 3, 3)}
+{'total_resources': (103, 103, 103, 103), 'non_erroneous_resources': (85, 85, 85, 85), 'resources_200': (48, 48, 48, 48), 'resources_404': (0, 0, 0, 0)}
+{'total_resources': (28, 28, 28, 28), 'non_erroneous_resources': (27, 27, 18, 27), 'resources_200': (19, 19, 15, 19), 'resources_404': (6, 6, 1, 6)}
+{'total_resources': (25, 23, 23, 23), 'non_erroneous_resources': (24, 22, 22, 22), 'resources_200': (21, 20, 20, 20), 'resources_404': (0, 0, 0, 0)}
+{'total_resources': (97, 81, 45, 95), 'non_erroneous_resources': (96, 80, 16, 94), 'resources_200': (55, 47, 13, 54), 'resources_404': (0, 0, 0, 0)}
+{'total_resources': (49, 47, 47, 47), 'non_erroneous_resources': (46, 44, 44, 44), 'resources_200': (32, 31, 31, 31), 'resources_404': (0, 0, 0, 0)}
+{'total_resources': (22, 22, 22, 22), 'non_erroneous_resources': (21, 21, 21, 21), 'resources_200': (19, 19, 19, 19), 'resources_404': (1, 1, 1, 1)}
+{'total_resources': (92, 92, 105, 104), 'non_erroneous_resources': (75, 73, 73, 73), 'resources_200': (51, 50, 50, 50), 'resources_404': (5, 5, 5, 5)}
+{'total_resources': (26, 26, 26, 26), 'non_erroneous_resources': (25, 25, 25, 25), 'resources_200': (18, 18, 18, 18), 'resources_404': (6, 6, 6, 6)}
+{'total_resources': (58, 58, 58, 58), 'non_erroneous_resources': (57, 57, 57, 57), 'resources_200': (30, 30, 30, 30), 'resources_404': (5, 5, 5, 5)}
+{'total_resources': (33, 31, 31, 31), 'non_erroneous_resources': (32, 30, 30, 30), 'resources_200': (24, 23, 23, 23), 'resources_404': (1, 1, 1, 1)}
+{'total_resources': (60, 57, 58, 58), 'non_erroneous_resources': (41, 39, 39, 39), 'resources_200': (29, 28, 28, 28), 'resources_404': (1, 1, 1, 1)}
+{'total_resources': (64, 62, 62, 62), 'non_erroneous_resources': (63, 61, 61, 61), 'resources_200': (40, 39, 39, 39), 'resources_404': (1, 1, 1, 1)}
+{'total_resources': (92, 91, 90, 91), 'non_erroneous_resources': (90, 88, 88, 88), 'resources_200': (51, 50, 50, 50), 'resources_404': (5, 5, 5, 5)}
+Traceback (most recent call last):
+  File "/Users/sunhuanchen/Desktop/research/web-cache/mitm-web-cache/test/test.py", line 113, in <module>
+    results = run_tests(url_to_test)
+  File "/Users/sunhuanchen/Desktop/research/web-cache/mitm-web-cache/test/test.py", line 78, in run_tests
+    resources_1 = run_puppeteer(url, use_proxy=False, force_http1=False)
+  File "/Users/sunhuanchen/Desktop/research/web-cache/mitm-web-cache/test/test.py", line 43, in run_puppeteer
+    raise Exception(f"Puppeteer error: {result.stderr}")
+Exception: Puppeteer error: /Users/sunhuanchen/node_modules/puppeteer-core/lib/cjs/puppeteer/common/CallbackRegistry.js:93
+    #error = new Errors_js_1.ProtocolError();
+             ^
+
+ProtocolError: Network.enable timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+    at <instance_members_initializer> (/Users/sunhuanchen/node_modules/puppeteer-core/lib/cjs/puppeteer/common/CallbackRegistry.js:93:14)
+    at new Callback (/Users/sunhuanchen/node_modules/puppeteer-core/lib/cjs/puppeteer/common/CallbackRegistry.js:97:16)
+    at CallbackRegistry.create (/Users/sunhuanchen/node_modules/puppeteer-core/lib/cjs/puppeteer/common/CallbackRegistry.js:22:26)
+    at Connection._rawSend (/Users/sunhuanchen/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Connection.js:89:26)
+    at CdpCDPSession.send (/Users/sunhuanchen/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/CDPSession.js:66:33)
+    at NetworkManager.addClient (/Users/sunhuanchen/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/NetworkManager.js:62:20)
+    at FrameManager.initialize (/Users/sunhuanchen/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/FrameManager.js:167:38)
+    at #initialize (/Users/sunhuanchen/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Page.js:310:36)
+    at CdpPage._create (/Users/sunhuanchen/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Page.js:95:31)
+    at /Users/sunhuanchen/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Target.js:196:42
+
+Node.js v20.11.1
+

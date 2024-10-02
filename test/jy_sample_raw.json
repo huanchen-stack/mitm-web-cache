@@ -1,0 +1,2168 @@
+[
+    {
+        "url": "https://wireshark.org",
+        "directory": "www.wireshark.org_5873aa400c",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://egihosting.com",
+        "directory": "egihosting.com_328857fec1",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://www.gov.pl",
+        "directory": "www.gov.pl_66b6eed650",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://www.gov.cn",
+        "directory": "www.gov.cn_c12ac11ed1",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://yellowshop.es",
+        "directory": "www.yellowshop.es_07fdce2f3e",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://nipc.jp",
+        "directory": "nipc.jp_ec000a5a29",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://aps-csb.in",
+        "directory": "aps-csb.in_c18c7bea3e",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://smartrecruiters.com",
+        "directory": "www.smartrecruiters.com_c793a0f42d",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://google.ee",
+        "directory": "www.google.ee_b832c5c189",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://kampyle.com",
+        "directory": "www.medallia.com_17107df4d9",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://onrealt.ru",
+        "directory": "onrealt.ru_9e65dafe2e",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://camara.gov.br",
+        "directory": "www.camara.leg.br_289fc68af6",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://wikimedia.org",
+        "directory": "www.wikimedia.org_cb97f3f93a",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://groupebcp.com",
+        "directory": "www.groupebcp.com_f511bf6237",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://bettervits.co.uk",
+        "directory": "bettervits.co.uk_f0be882d63",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://mit.edu",
+        "directory": "web.mit.edu_43a93bafa8",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://unemi.edu.ec",
+        "directory": "www.unemi.edu.ec_8d82d75cd3",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://inkfrog.com",
+        "directory": "www.inkfrog.com_8119545079",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://dearfoams.com",
+        "directory": "dearfoams.com_49f6e5f6e1",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://spliethoffgroup.com",
+        "directory": "spliethoffgroup.com_604cb5c2ab",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://ioam.de",
+        "directory": "www.infonline.de_23ec36a300",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://ermeshotels.com",
+        "directory": "ermeshotels.com_386d2f902c",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://iastate.edu",
+        "directory": "www.iastate.edu_b2bebf2631",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://dkb.de",
+        "directory": "www.dkb.de_a6d812a648",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://nit.pt",
+        "directory": "www.nit.pt_f62a49e749",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://isladejuegos.com",
+        "directory": "www.isladejuegos.com_7f3d4feda5",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://abasmartcard.com",
+        "directory": "abasmartcard.com_dc36aaa782",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://boomsolutions.com",
+        "directory": "boomsolutions.com_e6d8673a45",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://warnerrecords.com",
+        "directory": "www.warnerrecords.com_53749f2fda",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://princeton.edu",
+        "directory": "www.Princeton.EDU_9c8460146b",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://solventa.co",
+        "directory": "solventa.co_1b86df955f",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://cpanelhost.cl",
+        "directory": "cpanelhost.cl_d8d0929d79",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://mediawiki.org",
+        "directory": "www.mediawiki.org_ab64d0b304",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://theculturetrip.com",
+        "directory": "theculturetrip.com_2014587ad0",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://skype.com",
+        "directory": "www.skype.com_7d38a24a48",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://novorab.ru",
+        "directory": "novorab.ru_8d03d8103c",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://php.net",
+        "directory": "www.php.net_d900812bed",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://soulboxe.com",
+        "directory": "soulboxe.com_74bcebd243",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://myvolumio.org",
+        "directory": "myvolumio.org_5a8a344aca",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://vuslat.org.tr",
+        "directory": "www.vuslat.org.tr_43375ff4c9",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://tplinkcloud.com",
+        "directory": "www.tplinkcloud.com_a38166a07d",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://sweezy-cursors.com",
+        "directory": "sweezy-cursors.com_3fbce41638",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://surbl.org",
+        "directory": "surbl.org_113573dd56",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://lemans.fr",
+        "directory": "www.lemans.fr_6764c0ed9a",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://twitter.com",
+        "directory": "x.com_3af30c01b1",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://mihanfal.com",
+        "directory": "www.mihanfal.com_fdb061311a",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://7zap.com",
+        "directory": "7zap.com_d57fc6b4c4",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://adam4adam.com",
+        "directory": "www.adam4adam.com_fe817c77db",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://scribd.com",
+        "directory": "www.scribd.com_3fc5bba2d5",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://apache-ssl.org",
+        "directory": "www.reddit.com_b965ad00a7",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://avforums.com",
+        "directory": "avforums.com_16590eb61a",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://sissa.it",
+        "directory": "www.sissa.it_9e573a261f",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://shanijacobi.co.il",
+        "directory": "shanijacobi.co.il_ac94e6a804",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://tribute.tg",
+        "directory": "tribute.tg_6e910e3881",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://vivoglobal.com",
+        "directory": "vivoglobal.com_1a174b7d18",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://substack.com",
+        "directory": "substack.com_08cfbdfdb6",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://hevs.ch",
+        "directory": "www.hevs.ch_bc183c247c",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://openx.net",
+        "directory": "openx.net_9bc4fa28fa",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://ht-web.com",
+        "directory": "ht-web.com_29a4a10508",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://theforklift.net",
+        "directory": "theforklift.net_a2fe190cea",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://smartadserver.com",
+        "directory": "equativ.com_7daf1fc723",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://klaviyo.com",
+        "directory": "www.klaviyo.com_a21846432a",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://bookhodai.jp",
+        "directory": "bookhodai.jp_bf9b4f2b6f",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://v.show",
+        "directory": "v.show_b47698fb45",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://dailymotion.com",
+        "directory": "www.dailymotion.com_cfafa0944b",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://radtouren.at",
+        "directory": "www.radtouren.at_0f45993a27",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://porzo.com",
+        "directory": "www.porzo.com_3afca81785",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://tado.com",
+        "directory": "www.tado.com_701517829a",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://instagram.com",
+        "directory": "www.instagram.com_bcbafb69b5",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://keyauto.ru",
+        "directory": "keyauto.ru_d60477aa29",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://forensit.com",
+        "directory": "forensit.com_54e886fb6a",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://passwordboss.com",
+        "directory": "www.passwordboss.com_7ee8a52448",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://www.gov.uk",
+        "directory": "www.gov.uk_5f0bca29bd",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://healio.com",
+        "directory": "www.healio.com_6885db64d8",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://genome.gov",
+        "directory": "www.genome.gov_5f20d52eb2",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://perfectworld.com",
+        "directory": "www.perfectworld.com_8102d5cb39",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://rug.nl",
+        "directory": "www.rug.nl_739d482416",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://nesine.com",
+        "directory": "www.nesine.com_004c0c0d96",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://viber.com",
+        "directory": "www.viber.com_fc39765f6e",
+        "deterministic": true,
+        "pairwise_comparison": {}
+    },
+    {
+        "url": "https://realrobo.in",
+        "directory": "realrobo.in_afe61458dd",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://nist.gov",
+        "directory": "www.nist.gov_eee92ed9f0",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://yapolitic.ru",
+        "directory": "yapolitic.ru_18031db01e",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://stackcommerce.com",
+        "directory": "www.stackcommerce.com_440295fcad",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://milemoa.com",
+        "directory": "www.milemoa.com_5fd1de28ae",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://crpt.ru",
+        "directory": "crpt.ru_e772ab6e0f",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://jimdo.com",
+        "directory": "www.jimdo.com_1ab758b6f3",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://greenmatters.com",
+        "directory": "www.greenmatters.com_2e7f518a63",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://pnpclearance.ph",
+        "directory": "pnpclearance.ph_fecacc93b4",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://intel.com",
+        "directory": "www.intel.com_d2cc6a9872",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://mozilla.com",
+        "directory": "www.mozilla.org_20021742ac",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://reddit.com",
+        "directory": "www.reddit.com_80bbf48dad",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://forbes.com",
+        "directory": "www.forbes.com_a0300bc9a6",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://transip.nl",
+        "directory": "www.transip.nl_bc7ce43081",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://bootstrapcdn.com",
+        "directory": "www.bootstrapcdn.com_a50782120b",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://voxeu.org",
+        "directory": "cepr.org_7bd90af7f5",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://registry.in",
+        "directory": "registry.in_ac07cb0b77",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://si.edu",
+        "directory": "www.si.edu_d95442db09",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://pinimg.com",
+        "directory": "www.pinterest.com_c700fa12be",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://stanford.edu",
+        "directory": "www.stanford.edu_5ca346154f",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://hinet.net",
+        "directory": "www.hinet.net_22b78df197",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://business.site",
+        "directory": "www.google.com_ea1f65d737",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://codepre.com",
+        "directory": "222club.info_744b8b75d9",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://transcend.io",
+        "directory": "transcend.io_1bdf966bfd",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://farmaciamazziniroma.it",
+        "directory": "www.farmaciamazziniroma.it_c9c7f68648",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://jrgroupindia.com",
+        "directory": "jrgroupindia.com_4ab72d1083",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://tapping-game.win",
+        "directory": "tapping-game.win_873c755d64",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://gubudakis.com",
+        "directory": "gubudakis.com_772bc52805",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://rtvbn.tv",
+        "directory": "rtvbn.tv_f782b5351d",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://sherlockcomms.com",
+        "directory": "www.sherlockcomms.com_8ee1974420",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://templateblackscreen.in",
+        "directory": "templateblackscreen.in_c0f845b319",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://medium.com",
+        "directory": "medium.com_c0cba60e4b",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://nike.com",
+        "directory": "www.nike.com_b3a3718bf1",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://ip4.co.kr",
+        "directory": "ip4.co.kr_079f563ea8",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://ia-dmp.com",
+        "directory": "ia-dmp.com_e58411220f",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://nootheme.com",
+        "directory": "nootheme.com_4be1f70c79",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://example.com",
+        "directory": "example.com_182ccedb33",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://privatebin.net",
+        "directory": "privatebin.net_26bd5d5dd8",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://mojocloud.com",
+        "directory": "mojohost.com_e6d0a27588",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://akereon.net",
+        "directory": "akereon.net_960a04ee3e",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://ucanr.edu",
+        "directory": "ucanr.edu_260e2cb464",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://magic-mushrooms-shop.com",
+        "directory": "www.magic-mushrooms-shop.com_4a05cfa59f",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://isaimini1.vip",
+        "directory": "isaimini1.vip_2c63847632",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://checkpoint.com",
+        "directory": "www.checkpoint.com_95ea129a35",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://dailysignal.com",
+        "directory": "www.dailysignal.com_152a3c034c",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://awin1.com",
+        "directory": "www.awin.com_e46dbd4d2a",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://bestsolaris.com",
+        "directory": "bestsolaris.com_11a1957761",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://vkontakte.ru",
+        "directory": "m.vk.com_3e924566d9",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://google.com.gh",
+        "directory": "www.google.com.gh_8bc4e4eeb2",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://modyolo.com",
+        "directory": "modyolo.com_6cd40d94c2",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://gettyimages.co.jp",
+        "directory": "www.gettyimages.co.jp_08b8f9074f",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://grapheneos.org",
+        "directory": "grapheneos.org_325ebc498d",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://gov.hr",
+        "directory": "gov.hr_7a6ed34df2",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://blomqvist.no",
+        "directory": "www.blomqvist.no_1feb6a4d28",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://hoathinh3d.run",
+        "directory": "hoathinh3d.in_24984ee163",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://wa.me",
+        "directory": "api.whatsapp.com_c3b5b603f1",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://behance.net",
+        "directory": "www.behance.net_deafb0135e",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://visn.co.uk",
+        "directory": "www.visn.co.uk_a88f710543",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://oenergetice.cz",
+        "directory": "oenergetice.cz_2e71e44890",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://fourhourworkweek.com",
+        "directory": "fourhourworkweek.com_1e92013da1",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://nih.gov",
+        "directory": "www.nih.gov_b6ad0e11b0",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://nginx.org",
+        "directory": "nginx.org_94828e8a79",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://studyonlinebd.com",
+        "directory": "studyonlinebd.com_9fb105f777",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://towbook.com",
+        "directory": "towbook.com_44b1b74aac",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://chereda.net",
+        "directory": "www.chereda.net_c63c13c54c",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://genius.com",
+        "directory": "genius.com_fe75dfc386",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://gsa.gov",
+        "directory": "www.gsa.gov_9c27f0afb3",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://em-net.ne.jp",
+        "directory": "www.em-net.ne.jp_35e3a7775d",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://pinterest.ca",
+        "directory": "ca.pinterest.com_153ff211da",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://lidl.com",
+        "directory": "www.lidl.com_c720902278",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false
+        }
+    },
+    {
+        "url": "https://save-club.com",
+        "directory": "save-club.com_aa2f3aa3ca",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://computrabajo.com",
+        "directory": "www.computrabajo.com_cecd706495",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://atlassian.net",
+        "directory": "www.atlassian.com_983a660f53",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://eldestapeweb.com",
+        "directory": "www.eldestapeweb.com_18d76cf3cf",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false
+        }
+    },
+    {
+        "url": "https://ltn.com.tw",
+        "directory": "www.ltn.com.tw_00a32b3ace",
+        "deterministic": true,
+        "pairwise_comparison": {}
+    },
+    {
+        "url": "https://sinoptik.ua",
+        "directory": "sinoptik.ua_767274bb94",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://flashscore.co",
+        "directory": "m.flashscore.co_9d94cf2e7d",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://notion.so",
+        "directory": "www.notion.so_46aee8199d",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://ampproject.org",
+        "directory": "amp.dev_5a5384f2c4",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://youtube.com",
+        "directory": "www.youtube.com_dba51bcc52",
+        "deterministic": true,
+        "pairwise_comparison": {}
+    },
+    {
+        "url": "https://att.com",
+        "directory": "www.att.com_76a5d1d3e8",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://ehow.com",
+        "directory": "www.ehow.com_fd6933ab24",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://confluent.cloud",
+        "directory": "confluent.cloud_377592dfe5",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://empiresandpuzzles.com",
+        "directory": "www.empiresandpuzzles.com_6cc79ddd9b",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://telekom.de",
+        "directory": "www.telekom.de_5108d532f8",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://livescore.in",
+        "directory": "www.flashscore.mobi_bf95018b2a",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://destentor.nl",
+        "directory": "myprivacy.dpgmedia.nl_c481b16661",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://flashscore.com.ua",
+        "directory": "m.flashscore.com.ua_bd1c540f71",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://capacity.com",
+        "directory": "capacity.com_4c99cd4072",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://snapchat.com",
+        "directory": "www.snapchat.com_cd47136a04",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://id5-sync.com",
+        "directory": "id5-sync.com_40cf209c64",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://churnzero.net",
+        "directory": "churnzero.com_fdf104a8a9",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://facebook.com",
+        "directory": "www.facebook.com_e203e98e4c",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://telstra.com.au",
+        "directory": "www.telstra.com.au_7eab54076f",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://wps.cn",
+        "directory": "www.wps.cn_57367bdf5c",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://miniclip.com",
+        "directory": "miniclip.com_3c3f18104c",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://delhivery.com",
+        "directory": "www.delhivery.com_ac04280495",
+        "deterministic": true,
+        "pairwise_comparison": {}
+    },
+    {
+        "url": "https://trustpilot.com",
+        "directory": "www.trustpilot.com_2b4936d920",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://theatlantic.com",
+        "directory": "www.theatlantic.com_a2e577ba24",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://service.gov.uk",
+        "directory": "www.gov.uk_b1abcd6e59",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://elitebabes.com",
+        "directory": "www.elitebabes.com_6c26e7cb80",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://surriel.com",
+        "directory": "surriel.com_645f4d80fa",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://crazyvideotodownload.com",
+        "directory": "bigsport.today_a6b55a0fca",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://superbet.com",
+        "directory": "superbet.com_842b91e367",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://saveinsta.app",
+        "directory": "saveclip.app_8236a3f6d2",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://mysql.com",
+        "directory": "www.mysql.com_0f8f518d08",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://notepad-plus-plus.org",
+        "directory": "notepad-plus-plus.org_5b25dcf27e",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://nebo.mobi",
+        "directory": "nebo.mobi_b21fb9073a",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://notamedia.ru",
+        "directory": "agency.nota.media_34e191f857",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://videojs.com",
+        "directory": "videojs.com_7e3e963801",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://sprint.com",
+        "directory": "www.t-mobile.com_0703a0a512",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://annunci69.it",
+        "directory": "www.annunci69.it_2460b78be3",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://q10.com",
+        "directory": "q10.com_d4af246baf",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://efortuna.pl",
+        "directory": "www.efortuna.pl_3391c64503",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://finex.co.id",
+        "directory": "finex.co.id_eb85460956",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://lipighor.com",
+        "directory": "lipighor.com_faa17214b2",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://veja-store.com",
+        "directory": "www.veja-store.com_917958ee79",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://nmg.ru",
+        "directory": "nmg.ru_5a505bb9dd",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://m1.com.sg",
+        "directory": "www.m1.com.sg_cc55ea55d9",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://madmoizelle.com",
+        "directory": "www.madmoizelle.com_e2a865bb64",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://adobe.com",
+        "directory": "www.adobe.com_875c824d70",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://dzen.ru",
+        "directory": "sso.passport.yandex.ru_88f46388ff",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://taboola.com",
+        "directory": "www.taboola.com_c0bdda302a",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://starlink.com",
+        "directory": "www.starlink.com_6041def777",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://sflix.to",
+        "directory": "sflix.to_1537844ae2",
+        "deterministic": true,
+        "pairwise_comparison": {}
+    },
+    {
+        "url": "https://tarhely.eu",
+        "directory": "tarhely.eu_067ef5a875",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://cra-nsdl.com",
+        "directory": "cra-nsdl.com_c503436f29",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://denofgeek.com",
+        "directory": "www.denofgeek.com_2e95fe11ef",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://freeslotsnodownload-ca.com",
+        "directory": "freeslotsnodownload-ca.com_5154a4c785",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://skyblueenergy.com",
+        "directory": "ayunan-desa.id_a7731252ad",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://kemnaker.go.id",
+        "directory": "kemnaker.go.id_c41d889134",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://billabong.com",
+        "directory": "www.billabong.com_e824578283",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://jrc.or.jp",
+        "directory": "www.jrc.or.jp_e56ebf75cc",
+        "deterministic": true,
+        "pairwise_comparison": {}
+    },
+    {
+        "url": "https://kualo.net",
+        "directory": "www.kualo.com_034953ff11",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://dreamhost.com",
+        "directory": "www.dreamhost.com_d45c43ce8b",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_0_determinism_1": false,
+            "determinism_0_determinism_2": false,
+            "determinism_1_determinism_2": false
+        }
+    },
+    {
+        "url": "https://businessinsider.com",
+        "directory": "www.businessinsider.com_458ddf355a",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://mrjack.bet",
+        "directory": "mrjack.bet_ce42d32bf2",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_1_determinism_0": false,
+            "determinism_1_determinism_2": false,
+            "determinism_0_determinism_2": false
+        }
+    },
+    {
+        "url": "https://maxroll.gg",
+        "directory": "maxroll.gg_46eb044c3e",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    },
+    {
+        "url": "https://pokemon.com",
+        "directory": "www.pokemon.com_e533d59a86",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://antarvasnaphotos.com",
+        "directory": "www.antarvasnaphotos2.com_92f0960b2b",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_0": false,
+            "determinism_2_determinism_1": false,
+            "determinism_0_determinism_1": false
+        }
+    },
+    {
+        "url": "https://xiaohongshu.com",
+        "directory": "www.xiaohongshu.com_b8c9e1bb4d",
+        "deterministic": true,
+        "pairwise_comparison": {
+            "determinism_2_determinism_1": false,
+            "determinism_2_determinism_0": false,
+            "determinism_1_determinism_0": false
+        }
+    }
+]

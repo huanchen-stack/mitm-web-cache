@@ -24,7 +24,7 @@ def stop_proxy(proxy_process):
     proxy_process.terminate()
     proxy_process.wait()
 
-def run_puppeteer(url, use_proxy=False, force_http1=False):
+def run_puppeteer(url, use_proxy=False, force_http1=False, sleep_time=10):
     command = ['node', 'start_chrome.js', '-u', url]
 
     if force_http1:
@@ -42,7 +42,7 @@ def run_puppeteer(url, use_proxy=False, force_http1=False):
 
     resources = [json.loads(line) for line in result.stdout.splitlines()]
 
-    time.sleep(10)
+    time.sleep(sleep_time)
 
     return resources
 
@@ -78,15 +78,8 @@ def run_tests(url):
     
     resources_1 = run_puppeteer(url, use_proxy=False, force_http1=False)
     resources_2 = run_puppeteer(url, use_proxy=False, force_http1=True)
-
-    # proxy_process = start_proxy()
     resources_3 = run_puppeteer(url, use_proxy=True, force_http1=False)
-    # stop_proxy(proxy_process)
-    
-    # proxy_process = start_proxy()
     resources_4 = run_puppeteer(url, use_proxy=True, force_http1=False)
-    # stop_proxy(proxy_process)
-
 
     analysis_1 = analyze_resources(resources_1)
     analysis_2 = analyze_resources(resources_2)
@@ -109,13 +102,12 @@ def run_tests(url):
 with open("archived_links_2024.json", "r") as f:
     d = json.load(f)
 
-d = d[40:50:]
+# d = d[40:50:]
 
 for url_to_test in d:
     # Test URL
     results = run_tests(url_to_test)
     print(results, flush=True)
-    # time.sleep(60)
 
 # start_proxy()
 # time.sleep(100)

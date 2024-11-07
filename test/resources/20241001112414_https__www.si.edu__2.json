@@ -1,0 +1,765 @@
+[
+    {
+        "url": "https://web.archive.org/web/20241001112414/https://www.si.edu/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414/https://use.typekit.net/qfv0ytn.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414cs_/https://use.typekit.net/qfv0ytn.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414cs_/https://www.si.edu/sites/default/files/css/css_V87EvcbNzzamTlwZWiBREpPElg0wJsrxoFPmRoQW0N0.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414cs_/https://www.si.edu/sites/default/files/css/css_XD6maABl5YpHur3MkfXLi1-b_gI30pZ_DvC3kRT4unU.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414cs_/https://www.si.edu/sites/default/files/css/css_eoQrIhZhjdR-pvpvFnWwNYZHeUnAZpwPI6F5_sPjdqA.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/jquery_update/replace/jquery/1.12/jquery.min.js?v=1.12.4",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/jquery_update/replace/jquery-migrate/1/jquery-migrate.min.js?v=1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/misc/jquery-extend-3.4.0.js?v=1.12.4",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.12.4",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/misc/jquery.once.js?v=1.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/misc/drupal.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/themes/omega/omega/js/no-js.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/jquery_update/js/jquery_browser.js?v=0.0.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/jquery_update/replace/jquery.form/4/jquery.form.min.js?v=4.2.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/misc/form-single-submit.js?v=7.98",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/misc/ajax.js?v=7.98",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/autoupload/js/autoupload.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/entityreference/js/entityreference.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/picture/picturefill/picturefill.min.js?v=3.0.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/picture/picture.min.js?v=7.98",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/libraries/colorbox/jquery.colorbox-min.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/colorbox/js/colorbox.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/colorbox/styles/default/colorbox_style.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/colorbox/js/colorbox_load.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/colorbox/js/colorbox_inline.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/libraries/flexslider/jquery.flexslider-min.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/views/js/base.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/misc/progress.js?v=7.98",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/views/js/ajax_view.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/captcha/captcha.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/field_group/field_group.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/webform/js/webform.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/themes/si_baseline/js/js-cookie/dist/js.cookie.min.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/themes/si_baseline/js/si_visit_planner.behaviors.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/libraries/superfish/sftouchscreen.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/libraries/superfish/sfsmallscreen.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/libraries/superfish/supposition.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/libraries/superfish/superfish.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/superfish/superfish.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/themes/si_baseline/js/luminateExtend.min.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/themes/si_baseline/js/modernizr-custom.min.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/themes/si_baseline/js/ScrollMagic.min.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/themes/si_baseline/js/uisearch.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/themes/si_baseline/js/si_baseline.behaviors.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001050024/https://use.typekit.net/qfv0ytn.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001190732js_/https://www.si.edu/misc/jquery.once.js?v=1.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001190732js_/https://www.si.edu/misc/form-single-submit.js?v=7.98",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001190732js_/https://www.si.edu/sites/all/modules/picture/picture.min.js?v=7.98",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001053153js_/https://www.si.edu/sites/all/libraries/flexslider/jquery.flexslider-min.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001005650js_/https://www.si.edu/sites/all/modules/webform/js/webform.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001003507js_/https://www.si.edu/sites/all/libraries/superfish/sfsmallscreen.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/all/themes/si_baseline/images/logos/logo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001003610js_/https://www.si.edu/sites/all/themes/si_baseline/js/ScrollMagic.min.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/slides_horiz_wide/public/page_banner/soa_masthead_1920x460_final.jpg?itok=zHHSmTt-&timestamp=1726235319",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/slides_horiz_wide/public/page_banner/dia_de_los_muertos_23_749-enhanced-nr.jpg?itok=Iz3d1E8Z&timestamp=1727728651",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/modules/flexslider/assets/js/flexslider.load.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/themes/si_baseline/js/si_promo.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/themes/si_baseline/js/colorbox-gs.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/all/themes/si_baseline/js/si_views.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.google.com/recaptcha/api.js?hl=en",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414js_/https://www.si.edu/sites/default/files/google_tag/www_si_edu/google_tag.script.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001112414/https%3A//www.si.edu/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/slides_horiz_wide/public/slideshow/s11e01-web_large.jpg?itok=y-Zl9Dkj&timestamp=1726665530",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/blog/debate_chair_file-20240906-24-a88t2r.jpeg?itok=6aJc7SrZ&c=febf347dca0cb1572e5c3ed3b3822a79",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/teaser/fs-f1904.61_006.jpg?itok=Lw0wBe6w&c=2a621879d6a9cd9feb5e1974b36b1124",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/teaser/fy24-fmd-promo-grid.jpg?itok=4undv7Mp&c=6e6f3f6cf9cacabf6ed0b24a55131d0e",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/blog/bison-010.jpg?itok=e-JNH6nw&c=a728af87e21354abad66625a9f9d13b3",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/teaser/npg_2018_75_r.png?itok=mTZ8Cl54&c=82b16a9d1b2636a95e265ea0a1bc8d17",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/teaser/autumn-leaf-walcott.jpg?itok=O5b52C30&c=1b99d1d72cdb2751b8a57591c021954d",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/teaser/babe-ruth-sox.png?itok=3usKeU0F&c=d72e144c14617fe4963492633cdf9508",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/teaser/bat-fsg.jpg?itok=MXpLhdNJ&c=81e7f4ac3045b7c35037f53db4616a8e",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/teaser/nmah-2001-3147.jpg?itok=g3_ZRnJC&c=8de94a1efae879c9aff9aff11ecae17e",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/teaser/npm-1999_2004_371.jpg?itok=u-1qy2NG&c=6367534b94adcb7e222a60d64955afab",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/teaser/chsdm-297456_01.jpg?itok=7hSsbvFk&c=876568e1c176dc1b9c2650311f58776c",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/teaser/folklife-climate-change-collage.jpeg?itok=kkZefokK&c=ca4fbeae7e3b98132e653aa28c835a20",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/page_banner/sd_s02_website-interior_episode-1_hope-diamond-01_0.png?itok=lpuBzswU&c=d416b3e7b3aa8f94c79449736ce727a9",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/page_banner/sd_s3_episode-12_cheech-marin-gets-artsy_web-interior.png?itok=045Oa3_m&c=b66443735e5c499c1cd3382857daebac",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/page_banner/s09e05-web_small.png?itok=QcbC4uII&c=1760c8d23a3f538476f6538f61b17ec7",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid/public/sidedoor/s10e01-web_small.png?itok=2SGG4XW_&c=6227dab0f35f73f73162c4a8e6d88260",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid_large/public/join-circles300.png?itok=H1fesXIv&c=dc501da7c3946193e8fa085d5805953f",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid_large/public/se-mag-307_1.png?itok=uhOKP4Gx&c=03a4ae799bd5ed587c5e3bc9dd284d57",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid_large/public/se-circles300elephant-cher.png?itok=DENVx5im&c=dc501da7c3946193e8fa085d5805953f",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid_large/public/se-panda-circles300.png?itok=AhhLWuq0&c=dc501da7c3946193e8fa085d5805953f",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414im_/https://www.si.edu/sites/default/files/styles/grid_large/public/journey-circle.png?itok=tA2RhDPo&c=dc501da7c3946193e8fa085d5805953f",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414cs_/https://www.si.edu/sites/default/files/css/css_VqkYt6aPnWBLlBbkgUdI9j_bk3lrEiKMPBD3Vvyywps.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001050028im_/https://www.si.edu/sites/all/themes/si_baseline/images/logos/logo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414/https://www.si.edu/sites/all/modules/si_webtrends/js/webtrends.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001003706im_/https://www.si.edu/sites/default/files/styles/slides_horiz_wide/public/page_banner/dia_de_los_muertos_23_749-enhanced-nr.jpg?itok=Iz3d1E8Z&timestamp=1727728651",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001002939js_/https://www.si.edu/sites/default/files/google_tag/www_si_edu/google_tag.script.js?skn4vq",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001003751im_/https://www.si.edu/sites/default/files/styles/grid/public/teaser/fy24-fmd-promo-grid.jpg?itok=4undv7Mp&c=6e6f3f6cf9cacabf6ed0b24a55131d0e",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001112414/https://www.si.edu/sites/all/themes/si_baseline/favicon/manifest.json?v=Jy7B3ml8wp",
+        "method": "GET",
+        "resourceType": "manifest",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001003834im_/https://www.si.edu/sites/default/files/styles/grid/public/teaser/nmah-2001-3147.jpg?itok=g3_ZRnJC&c=8de94a1efae879c9aff9aff11ecae17e",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004000im_/https://www.si.edu/sites/default/files/styles/grid/public/page_banner/s09e05-web_small.png?itok=QcbC4uII&c=1760c8d23a3f538476f6538f61b17ec7",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004106im_/https://www.si.edu/sites/default/files/styles/grid_large/public/journey-circle.png?itok=tA2RhDPo&c=dc501da7c3946193e8fa085d5805953f",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    }
+]

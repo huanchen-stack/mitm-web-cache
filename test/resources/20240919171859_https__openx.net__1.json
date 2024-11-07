@@ -1,0 +1,16 @@
+[
+    {
+        "url": "https://web.archive.org/web/20240919171859/https://openx.net/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": "net::ERR_HTTP2_PROTOCOL_ERROR"
+    },
+    {
+        "url": "https://web.archive.org/web/20240919171859/https://openx.net/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": "net::ERR_HTTP2_PROTOCOL_ERROR at https://web.archive.org/web/20240919171859/https://openx.net/"
+    }
+]

@@ -1,0 +1,261 @@
+[
+    {
+        "url": "https://web.archive.org/web/20241001034347/https://www.adam4adam.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347cs_/https://www.adam4adam.com/app/site/desktop-styles.7f7901ddeed5aaf0a456.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347cs_/https://www.adam4adam.com/app/site/desktop-light-theme.7d8d84a1114660149570.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347js_/https://www.adam4adam.com/bundles/fosjsrouting/js/router.min.js?e327-82",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347js_/https://www.adam4adam.com/bundles/bazingajstranslation/js/translator.min.js?e327-82",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347js_/https://www.adam4adam.com/app/js/fos_js_routes.js?e327-82",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347js_/https://www.adam4adam.com/app/js/translations/config.js?e327-82",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347js_/https://www.adam4adam.com/app/js/translations/en.js?e327-82",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347js_/https://www.google.com/recaptcha/api.js?render=6LetG4QUAAAAAJriD0k1PGDczVXm2HPZq19QLhmH",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034350cs_/https://www.adam4adam.com/app/site/desktop-styles.7f7901ddeed5aaf0a456.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034412js_/https://www.adam4adam.com/bundles/bazingajstranslation/js/translator.min.js?e327-82",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347im_/https://www.adam4adam.com/app/site/img/logo-white.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347js_/https://www.adam4adam.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034426im_/https://www.adam4adam.com/app/site/img/logo-white.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347js_/https://www.adam4adam.com/app/site/runtime.141a9eb0368b6dfbc7f2.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034418js_/https://www.adam4adam.com/app/site/runtime.141a9eb0368b6dfbc7f2.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347js_/https://www.adam4adam.com/app/site/786.77e6d87d92eac06d82d1.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347js_/https://www.adam4adam.com/app/site/650.4126ead73dc213ec2857.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034420js_/https://www.adam4adam.com/app/site/786.77e6d87d92eac06d82d1.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347js_/https://www.adam4adam.com/app/site/desktop.61b930bc57e336196dac.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347js_/https://www.googletagmanager.com/gtag/js?id=AW-819355046",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347js_/https://bb.adam4adam.com/www/delivery/asyncjs.php",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347/https://cdn.jsdelivr.net/npm/yandex-metrica-watch/watch.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001034347/https%3A//www.adam4adam.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034422js_/https://www.adam4adam.com/app/site/650.4126ead73dc213ec2857.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034347/https://www.adam4adam.com/manifest.json?e327-82",
+        "method": "GET",
+        "resourceType": "manifest",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    }
+]

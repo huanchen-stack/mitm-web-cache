@@ -1,0 +1,478 @@
+[
+    {
+        "url": "https://web.archive.org/web/20240521154826/https://solventa.co/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826/https://fonts.googleapis.com/css?family=Open%20Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800%7CNunito%20Sans%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&subset=latin%2Clatin-ext&display=swap",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826cs_/https://solventa.co/wp-includes/css/dist/block-library/style.min.css?ver=994ad8d25efa7438223ec5fe394d4b59",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826cs_/https://solventa.co/wp-includes/css/classic-themes.min.css?ver=1",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826cs_/https://solventa.co/wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=5.5.1",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826cs_/https://solventa.co/wp-content/cache/min/1/wp-content/themes/Divi/style.css?ver=1715871812",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826cs_/https://solventa.co/wp-content/cache/min/1/releases/v5.15.3/css/all.css?ver=1715871812",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826cs_/https://solventa.co/wp-content/cache/min/1/wp-includes/css/dashicons.min.css?ver=1715871812",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826cs_/https://solventa.co/wp-content/cache/min/1/wp-content/plugins/forget-about-shortcode-buttons/public/css/button-styles.css?ver=1715871812",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826cs_/https://solventa.co/wp-content/cache/min/1/releases/v5.15.3/css/v4-shims.css?ver=1715871812",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826/https://solventa.co/wp-content/themes/Divi/core/admin/fonts/modules.ttf",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826cs_/https://solventa.co/wp-content/cache/min/1/public_master/front/css/home.css?ver=1715871812",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826cs_/https://solventa.co/wp-content/cache/min/1/public_master/front/css/webApp.css?ver=1715871813",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826/https://staticres.r.worldssl.net/public_master/1.0.0.01028/public/js/menu.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240327161324cs_/https://solventa.co/wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=5.5.1",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241002060710cs_/https://solventa.co/wp-content/cache/min/1/wp-content/themes/Divi/style.css?ver=1715871812",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241003144933cs_/https://solventa.co/wp-content/cache/min/1/public_master/front/css/home.css?ver=1715871812",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241003145010cs_/https://solventa.co/wp-content/cache/min/1/public_master/front/css/webApp.css?ver=1715871813",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826im_/https://solventa.co/wp-content/uploads/2022/10/Logo-Co.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826im_/https://solventa.co/wp-content/uploads/2022/10/Logo-Co-Blanco.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826im_/https://staticres.r.worldssl.net/public_master/front/img/colombia-1.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20231217230022im_/https://solventa.co/wp-content/uploads/2022/10/Logo-Co-Blanco.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20231217230023im_/https://staticres.r.worldssl.net/public_master/front/img/colombia-1.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826js_/https://solventa.co/wp-includes/js/jquery/jquery.min.js?ver=3.6.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20231217230024js_/https://solventa.co/wp-includes/js/jquery/jquery.min.js?ver=3.6.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826js_/https://solventa.co/wp-content/cache/min/1/public_master/1.0.0.01028/public/js/app.js?ver=1715871815",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240517103514js_/https://solventa.co/wp-content/cache/min/1/public_master/1.0.0.01028/public/js/app.js?ver=1715871815",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826im_/https://staticres.r.worldssl.net/public_master/front/img//peru.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20231217230023im_/https://staticres.r.worldssl.net/public_master/front/img//peru.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826im_/https://staticres.r.worldssl.net/public_master/front/img/argentina.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20231217230023im_/https://staticres.r.worldssl.net/public_master/front/img/argentina.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826im_/https://staticres.r.worldssl.net/public_master/front/img/usa.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20231217230023im_/https://staticres.r.worldssl.net/public_master/front/img/usa.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826im_/https://staticres.r.worldssl.net/public_master/front/img/logo-1.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20231217230023im_/https://staticres.r.worldssl.net/public_master/front/img/logo-1.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826im_/https://staticres.r.worldssl.net/public_master/front/img/sic.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826im_/https://staticres.r.worldssl.net/public_master/front/img/sic_facilita.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20231217230023im_/https://staticres.r.worldssl.net/public_master/front/img/sic.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240429061259im_/https://staticres.r.worldssl.net/public_master/front/img/sic_facilita.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826js_/https://staticres.r.worldssl.net/public_master/1.0.0.01028/public/js/menu.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826js_/https://solventa.co/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.16.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826cs_/https://fonts.googleapis.com/css?family=Open%20Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800%7CNunito%20Sans%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&subset=latin%2Clatin-ext&display=swap",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240521154826/https%3A//solventa.co/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826im_/https://solventa.co/wp-content/uploads/2021/06/logo-menu-top.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826im_/https://staticres.r.worldssl.net/public_master/front/img/como_pagar/poligono_2_c.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240521154826im_/https://staticres.r.worldssl.net/public_master/front/img/como_pagar/poligono_2_c_left.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240517103514/https://staticres.r.worldssl.net/public_master/1.0.0.01028/public/js/vendors~group-desembolso~group-homebanking~group-registro~group-retanqueo~group-sim~group-solicitud.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240517103514/https://staticres.r.worldssl.net/public_master/1.0.0.01028/public/js/vendors~group-retanqueo~group-sim.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240517103514/https://staticres.r.worldssl.net/public_master/1.0.0.01028/public/js/group-sim.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240517103514/https://webapp.solventa.co/Parametria/getParams",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240502210856js_/https://staticres.r.worldssl.net/public_master/1.0.0.01028/public/js/menu.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20231217230023im_/https://staticres.r.worldssl.net/public_master/front/img/como_pagar/poligono_2_c.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241003145011js_/https://solventa.co/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.16.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20231217230023im_/https://staticres.r.worldssl.net/public_master/front/img/como_pagar/poligono_2_c_left.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240502210856/https://staticres.r.worldssl.net/public_master/1.0.0.01028/public/assets/img/user.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240502210856/https://staticres.r.worldssl.net/public_master/1.0.0.01028/public/assets/img/userVioleta.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 404,
+        "errorText": null
+    }
+]

@@ -1,0 +1,513 @@
+[
+    {
+        "url": "https://web.archive.org/web/20240925064154/https://aps-csb.in/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154js_/https://aps-csb.in/wp-content/themes/poker/assets/js/jquery-latest.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154cs_/https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154cs_/https://aps-csb.in/wp-content/themes/poker/assets/css/style.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154cs_/https://aps-csb.in/wp-content/themes/poker/assets/css/shortcodes.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154cs_/https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154cs_/https://aps-csb.in/wp-content/themes/poker/assets/css/owl.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154cs_/https://aps-csb.in/wp-content/themes/poker/assets/css/owl_002.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154cs_/https://aps-csb.in/wp-content/themes/poker/assets/css/css.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154cs_/https://aps-csb.in/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154cs_/https://aps-csb.in/wp-content/themes/poker/style.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154im_/https://aps-csb.in/wp-content/uploads/2024/01/1win-1024x495.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064405cs_/https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435cs_/https://aps-csb.in/wp-content/themes/poker/assets/css/style.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435cs_/https://aps-csb.in/wp-content/themes/poker/assets/css/shortcodes.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064559cs_/https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435cs_/https://aps-csb.in/wp-content/themes/poker/assets/css/owl.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435cs_/https://aps-csb.in/wp-content/themes/poker/assets/css/owl_002.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435cs_/https://aps-csb.in/wp-content/themes/poker/assets/css/css.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435cs_/https://aps-csb.in/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435cs_/https://aps-csb.in/wp-content/themes/poker/style.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435js_/https://aps-csb.in/wp-content/themes/poker/assets/js/jquery-latest.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435im_/https://aps-csb.in/wp-content/uploads/2024/01/1win-1024x495.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154im_/https://aps-csb.in/wp-content/uploads/2024/01/1win-3.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154im_/https://aps-csb.in/wp-content/uploads/2024/01/1win-1.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154js_/https://aps-csb.in/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154js_/https://aps-csb.in/wp-content/themes/poker/assets/js/owl.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154js_/https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154js_/https://www.googletagmanager.com/gtag/js?id=G-YG1SKE0ZD4",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154js_/https://www.googletagmanager.com/gtag/js?id=G-M5L7X37BYE",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154im_/https://aps-csb.in/wp-content/uploads/2024/01/1win-2-1024x489.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154im_/https://aps-csb.in/wp-content/uploads/2024/01/1win-promotions.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154im_/https://aps-csb.in/wp-content/uploads/2024/01/1win-customer-service2.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154im_/https://aps-csb.in/wp-content/uploads/2024/01/responsible.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435/https://web.archive.org/web/20221008060551/https://www.googletagmanager.com/gtm.js?id=GTM-5LDLNTT",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240925064154/https%3A//aps-csb.in/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": null
+    },
+    {
+        "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Faps-csb.in%2F&timestamp=20240925064154",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Faps-csb.in%2F&collection=web",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154/http://web.archive.org/screenshot/https://aps-csb.in/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/web-screenshot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/fonts/Iconochive-Regular.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435im_/https://fonts.gstatic.com/s/rubik/v12/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0U1.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064559im_/https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435im_/https://fonts.gstatic.com/s/titilliumweb/v9/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzYw.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435im_/https://fonts.gstatic.com/s/rubik/v12/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0U1.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435im_/https://aps-csb.in/wp-content/uploads/2024/01/1win-3.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241008073315im_/https://fonts.gstatic.com/s/rubik/v12/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0U1.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241008134638im_/https://fonts.gstatic.com/s/titilliumweb/v9/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzYw.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241008034259im_/https://fonts.gstatic.com/s/rubik/v12/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0U1.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435im_/https://aps-csb.in/wp-content/uploads/2024/01/1win-1.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435js_/https://aps-csb.in/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435js_/https://aps-csb.in/wp-content/themes/poker/assets/js/owl.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064405js_/https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240915064811js_/https://www.googletagmanager.com/gtag/js?id=G-YG1SKE0ZD4",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435js_/https://www.googletagmanager.com/gtag/js?id=G-M5L7X37BYE",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435im_/https://aps-csb.in/wp-content/uploads/2024/01/1win-2-1024x489.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435im_/https://aps-csb.in/wp-content/uploads/2024/01/1win-promotions.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435im_/https://aps-csb.in/wp-content/uploads/2024/01/1win-customer-service2.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241007140435im_/https://aps-csb.in/wp-content/uploads/2024/01/responsible.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154js_/https://www.googletagmanager.com/gtag/js?id=G-M5L7X37BYE&l=dataLayer&cx=c",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154/https://www.google-analytics.com/g/collect?v=2&tid=G-YG1SKE0ZD4&gtm=45je4990v9178101480za200&_p=1727246514131&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=0&cid=656506961.1727246516&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253FA_Brand%3B99.0.0.0%7CChromium%3B130.0.6723.58&uamb=0&uam=&uap=Linux&uapv=4.15.0&uaw=0&are=1&frm=0&pscdl=&_s=1&sid=1727246516&sct=1&seg=1&dl=https%3A%2F%2Faps-csb.in%2F&dt=1win%20%E2%80%93%20Best%20Online%20Casino%20and%20Betting%20in%20India.%20Join%20%26%20Login%20get%20500%25%20bonus.&en=page_view&_ee=1&tfd=1825",
+        "method": "POST",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240925064154/https://www.google-analytics.com/g/collect?v=2&tid=G-M5L7X37BYE&gtm=45je4a20v9187723548za200zb9178101480&_p=1727246514131&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101671035~101747727&cid=656506961.1727246516&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253FA_Brand%3B99.0.0.0%7CChromium%3B130.0.6723.58&uamb=0&uam=&uap=Linux&uapv=4.15.0&uaw=0&are=1&frm=0&pscdl=&_s=1&sid=1727246516&sct=1&seg=1&dl=https%3A%2F%2Faps-csb.in%2F&dt=1win%20%E2%80%93%20Best%20Online%20Casino%20and%20Betting%20in%20India.%20Join%20%26%20Login%20get%20500%25%20bonus.&en=page_view&_ee=1&tfd=1842",
+        "method": "POST",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    }
+]

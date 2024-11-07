@@ -1,0 +1,1892 @@
+[
+    {
+        "url": "https://web.archive.org/web/20241001123910/https://www.wireshark.org/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910cs_/https://ticketing.wireshark.org/sf/APAC-Wireshark-Training/widget/v1.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910cs_/https://www.wireshark.org/_astro/about.2fd343dc.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910cs_/https://www.wireshark.org/_astro/oui-lookup.bf58972c.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910cs_/https://www.wireshark.org/_astro/index.bf8ade08.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910cs_/https://www.wireshark.org/_astro/learn.4f6935af.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910cs_/https://www.wireshark.org/_astro/download.181723f1.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063105cs_/https://ticketing.wireshark.org/sf/APAC-Wireshark-Training/widget/v1.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063105cs_/https://www.wireshark.org/_astro/about.2fd343dc.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063106cs_/https://www.wireshark.org/_astro/oui-lookup.bf58972c.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063105cs_/https://www.wireshark.org/_astro/index.bf8ade08.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001125621cs_/https://www.wireshark.org/_astro/learn.4f6935af.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063105cs_/https://www.wireshark.org/_astro/download.181723f1.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/icons/phosphor/sun.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/icons/angle-down-white.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123908im_/https://www.wireshark.org/assets/icons/phosphor/sun.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910js_/https://www.wireshark.org/mirrors.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910js_/https://www.wireshark.org/js/update_mirror_url.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910js_/https://ticketing.wireshark.org/widget/v1.en.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910js_/https://www.googletagmanager.com/gtag/js?id=G-YLHRKD6LH6",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/wireshark-logo-light.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/icons/wireshark-fin.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sponsors/endace_big.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sponsors/liveaction.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sflogo-front.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001123910/https%3A//www.wireshark.org/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sharkbytes.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/wf-icon.webp",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/PCAPit.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/icons/phosphor/windows-logo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/icons/phosphor/apple-logo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/icons/phosphor/code.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sponsors/banners/endace.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sponsors/banners/liveaction.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sponsors/banners/fmadio.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sponsors/banners/veeam.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sponsors/banners/scos-ad.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910js_/https://static.cloudflareinsights.com/beacon.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001123910/https%3A//www.wireshark.org/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.wireshark.org%2F&timestamp=20241001123910",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.wireshark.org%2F&collection=web",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910/http://web.archive.org/screenshot/https://www.wireshark.org/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/web-screenshot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/fonts/Iconochive-Regular.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123909im_/https://www.wireshark.org/assets/icons/angle-down-white.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063105im_/https://www.wireshark.org/assets/fonts/Lato-Regular.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902064048/http://web.archive.org/screenshot/https://www.wireshark.org/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_astro/AppWrapper.a79045e2.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_astro/client.6ea6e353.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001125626js_/https://www.wireshark.org/mirrors.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063106im_/https://www.wireshark.org/assets/fonts/Lato-Regular.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910/https://www.wireshark.org/_astro/AppWrapper.a79045e2.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910/https://www.wireshark.org/_astro/client.6ea6e353.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063106/https://www.wireshark.org/_astro/AppWrapper.a79045e2.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063106/https://www.wireshark.org/_astro/client.6ea6e353.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001125628js_/https://www.wireshark.org/js/update_mirror_url.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910if_/https://www.youtube.com/embed/3HdKhen0Gqw",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910if_/https://www.youtube.com/embed/OU-A2EmVrKQ?w",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910if_/https://www.youtube.com/embed/OU-A2EmVrKQ",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910if_/https://www.youtube.com/embed/68t07-KOH9Y",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063105im_/https://www.wireshark.org/assets/fonts/Lato-Bold.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063105im_/https://www.wireshark.org/assets/fonts/Lato-Thin.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911if_/https://www.youtube.com/embed/3HdKhen0Gqw",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910if_/https://www.youtube.com/embed/xdQ9sgpkrX8",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_astro/MainLanding.fb7e956f.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063105im_/https://www.wireshark.org/assets/fonts/Lato-Heavy.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/assets/img/wireshark4-overview.webp",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911if_/https://www.youtube.com/embed/OU-A2EmVrKQ?w",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123908if_/https://www.youtube.com/embed/OU-A2EmVrKQ",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911if_/https://www.youtube.com/embed/68t07-KOH9Y",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063106im_/https://www.wireshark.org/assets/fonts/Lato-Bold.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063106im_/https://www.wireshark.org/assets/fonts/Lato-Thin.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/jwplayer/jwplayer.js?v=hiYhl5rb",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-video.js?v=KqkWCeDw",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911cs_/https://www.youtube.com/s/player/26636eff/www-player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/embed.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911js_/https://www.youtube.com/s/player/26636eff/www-embed-player.vflset/www-embed-player.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911js_/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/base.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911if_/https://www.youtube.com/embed/xdQ9sgpkrX8",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063106im_/https://www.wireshark.org/assets/fonts/Lato-Heavy.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/jwplayer/jwplayer.js?v=hiYhl5rb",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-video.js?v=KqkWCeDw",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911cs_/https://www.youtube.com/s/player/26636eff/www-player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/embed.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911js_/https://www.youtube.com/s/player/26636eff/www-embed-player.vflset/www-embed-player.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911js_/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/base.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/jwplayer/jwplayer.js?v=hiYhl5rb",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-video.js?v=KqkWCeDw",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123908cs_/https://www.youtube.com/s/player/26636eff/www-player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123908/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/embed.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123908js_/https://www.youtube.com/s/player/26636eff/www-embed-player.vflset/www-embed-player.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123908js_/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/base.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/jwplayer/jwplayer.js?v=hiYhl5rb",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-video.js?v=KqkWCeDw",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911cs_/https://www.youtube.com/s/player/d9418494/www-player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911/https://www.youtube.com/s/player/d9418494/player_ias.vflset/en_US/embed.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911js_/https://www.youtube.com/s/player/d9418494/www-embed-player.vflset/www-embed-player.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911js_/https://www.youtube.com/s/player/d9418494/player_ias.vflset/en_US/base.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123805cs_/https://www.youtube.com/s/player/26636eff/www-player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123805cs_/https://www.youtube.com/s/player/26636eff/www-player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/jwplayer/jwplayer.js?v=hiYhl5rb",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-video.js?v=KqkWCeDw",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911cs_/https://www.youtube.com/s/player/26636eff/www-player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/embed.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911js_/https://www.youtube.com/s/player/26636eff/www-embed-player.vflset/www-embed-player.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911js_/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/base.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123805cs_/https://www.youtube.com/s/player/26636eff/www-player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115cs_/https://www.youtube.com/s/player/d9418494/www-player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123805cs_/https://www.youtube.com/s/player/26636eff/www-player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910/https://www.wireshark.org/_astro/MainLanding.fb7e956f.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123503/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/embed.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": "net::ERR_INCOMPLETE_CHUNKED_ENCODING"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123805js_/https://www.youtube.com/s/player/26636eff/www-embed-player.vflset/www-embed-player.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": "net::ERR_INCOMPLETE_CHUNKED_ENCODING"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123503js_/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/base.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123503/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/embed.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123805js_/https://www.youtube.com/s/player/26636eff/www-embed-player.vflset/www-embed-player.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123503js_/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/base.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123503/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/embed.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123805js_/https://www.youtube.com/s/player/26636eff/www-embed-player.vflset/www-embed-player.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123503js_/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/base.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://www.youtube.com/s/player/d9418494/player_ias.vflset/en_US/embed.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115js_/https://www.youtube.com/s/player/d9418494/www-embed-player.vflset/www-embed-player.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115js_/https://www.youtube.com/s/player/d9418494/player_ias.vflset/en_US/base.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123503/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/embed.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001124005im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001124243im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123908im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123908im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123805js_/https://www.youtube.com/s/player/26636eff/www-embed-player.vflset/www-embed-player.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123503js_/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/base.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063106/https://www.wireshark.org/_astro/MainLanding.fb7e956f.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001124005im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001124243im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001124005im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001124243im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001124005im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001124243im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.youtube.com/error_204?t=jserror&level=ERROR&client.name=56&client.version=1.20240925.01.00&msg=writeEmbed%20is%20not%20defined&type=UnhandledWindowReferenceError&stack=ReferenceError%3A%20writeEmbed%20is%20not%20defined%0A%20%20%20%20at%20https%3A%2F%2Fweb.archive.org%2Fweb%2F20241001123911if_%2Fhttps%3A%2F%2Fwww.youtube.com%2Fembed%2F3HdKhen0Gqw%3A29%3A1533",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001124005im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001124243im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.youtube.com/error_204?t=jserror&level=ERROR&client.name=56&client.version=1.20240925.01.00&msg=writeEmbed%20is%20not%20defined&type=UnhandledWindowReferenceError&stack=ReferenceError%3A%20writeEmbed%20is%20not%20defined%0A%20%20%20%20at%20https%3A%2F%2Fweb.archive.org%2Fweb%2F20241001123911if_%2Fhttps%3A%2F%2Fwww.youtube.com%2Fembed%2FOU-A2EmVrKQ%3Fw%3A29%3A1533",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/videoinfo?vtype=youtube&vid=3HdKhen0Gqw",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123908im_/https://www.youtube.com/error_204?t=jserror&level=ERROR&client.name=56&client.version=1.20240925.01.00&msg=writeEmbed%20is%20not%20defined&type=UnhandledWindowReferenceError&stack=ReferenceError%3A%20writeEmbed%20is%20not%20defined%0A%20%20%20%20at%20https%3A%2F%2Fweb.archive.org%2Fweb%2F20241001123908if_%2Fhttps%3A%2F%2Fwww.youtube.com%2Fembed%2FOU-A2EmVrKQ%3A29%3A1533",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/videoinfo?vtype=youtube&vid=OU-A2EmVrKQ",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911js_/https://www.youtube.com/s/player/d9418494/player_ias.vflset/en_US/remote.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911js_///www.google.com/js/th/KZ9qBfv2Fvj8--thF3jkrqmjFIXwxVfodGy5wvrcirQ.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911js_/https://www.youtube.com/s/player/d9418494/player_ias.vflset/en_US/embed.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://i.ytimg.com/vi_webp/68t07-KOH9Y/default.webp",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910/https://www.wireshark.org/assets/img/wireshark4-overview.webp",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123908im_/https://www.wireshark.org/assets/img/wireshark-logo-light.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001125648js_/https://ticketing.wireshark.org/widget/v1.en.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001125616js_/https://www.googletagmanager.com/gtag/js?id=G-YLHRKD6LH6",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911/https://www.wireshark.org/assets/img/wireshark4-overview.webp",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.wireshark.org/assets/img/sponsors/liveaction.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.wireshark.org/assets/img/sflogo-front.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.wireshark.org/assets/img/sharkbytes.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.wireshark.org/assets/img/wf-icon.webp",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.wireshark.org/assets/img/PCAPit.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.youtube.com/error_204?t=jserror&level=ERROR&client.name=56&client.version=1.20240925.01.00&msg=writeEmbed%20is%20not%20defined&type=UnhandledWindowReferenceError&stack=ReferenceError%3A%20writeEmbed%20is%20not%20defined%0A%20%20%20%20at%20https%3A%2F%2Fweb.archive.org%2Fweb%2F20241001123911if_%2Fhttps%3A%2F%2Fwww.youtube.com%2Fembed%2FxdQ9sgpkrX8%3A29%3A1533",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/videoinfo?vtype=youtube&vid=OU-A2EmVrKQ",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/jwplayer/jwplayer.html5.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/jwplayer/jwplayer.html5.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/videoinfo?vtype=youtube&vid=68t07-KOH9Y",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/videoinfo?vtype=youtube&vid=xdQ9sgpkrX8",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911/https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.wireshark.org/assets/icons/phosphor/windows-logo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.wireshark.org/assets/icons/phosphor/apple-logo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123912im_/https://www.wireshark.org/assets/icons/phosphor/code.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.wireshark.org/assets/img/sponsors/banners/endace.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123912im_/https://www.wireshark.org/assets/img/sponsors/banners/fmadio.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.wireshark.org/assets/img/sponsors/banners/liveaction.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123912im_/https://www.wireshark.org/assets/img/sponsors/banners/veeam.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123913im_/https://www.wireshark.org/assets/img/sponsors/banners/scos-ad.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001124237js_/https://static.cloudflareinsights.com/beacon.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/jwplayer/jwplayer.html5.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/jwplayer/jwplayer.html5.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/jwplayer/jwplayer.html5.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123506/https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115js_/https://www.youtube.com/s/player/d9418494/player_ias.vflset/en_US/remote.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123215js_/https://www.google.com/js/th/KZ9qBfv2Fvj8--thF3jkrqmjFIXwxVfodGy5wvrcirQ.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115js_/https://www.youtube.com/s/player/d9418494/player_ias.vflset/en_US/embed.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240927194243im_/https://i.ytimg.com/vi_webp/68t07-KOH9Y/default.webp",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/img/3HdKhen0Gqw",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/img/OU-A2EmVrKQ",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/img/OU-A2EmVrKQ",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/img/68t07-KOH9Y",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/img/xdQ9sgpkrX8",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20221005110004oe_/https://rr2---sn-o097znsr.googlevideo.com/videoplayback?expire=1664989192&ei=qGM9Y9jqNoXMkwbRs6bACA&ip=207.241.226.199&id=o-AC3y6qBIQQnCbE2QBdorXFi2UUsYXuUi79Dry8BDIYKN&itag=22&source=youtube&requiressl=yes&spc=yR2vpydWpVghwUaicCc9uM7c6QXf8I8&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=1117.483&lmt=1664824128159077&fexp=24001373,24007246&c=ANDROID&txp=5318224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAI24Wu09QsrzDqqlA5J0UJm3pcjeOd3utS95cr4YoVjyAiBGe8ncgGBKF34wNO0e9fnZB_vksQPXxhCefeEP5SXLLQ%3D%3D&video_id=3HdKhen0Gqw&redirect_counter=1&rm=sn-o09sl7l&req_id=665037319b6ca3ee&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=E_&mip=207.241.229.236&mm=31&mn=sn-o097znsr&ms=au&mt=1664967432&mv=m&mvi=2&pl=20&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgWjWV41nkOFO5xG4GpS-pYDzVecm5SgzynU3b-OSjb0QCIEKXgW84ZrK_twdllEz7WiNwv9mKJxA1cSjZxmoF50uy",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://play.google.com/log?format=json&hasfast=true&authuser=0",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20210601100645oe_/https://r5---sn-a5mekner.googlevideo.com/videoplayback?expire=1622561931&ei=KwC2YKXJOIfLkgbC6qfoDQ&ip=207.241.229.52&id=o-AJewP0XWrUpoRTmO0dz9PqFWa9B-eT2VjkrNSTr6R1FI&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=seuYHRVOAotpUaZjP8xuLjgF&cnr=14&ratebypass=yes&dur=1011.786&lmt=1614203581230803&fexp=9466585,24001373,24007246&beids=9466585&c=WEB&txp=6316222&n=EPDTCtvQWBA6MXgu&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgJDqnF37JPr_QIXW8DfjtG_3liso6acPp6uIRHEwaNL8CIQDak_-zMOMkbB3z0Wi91I9eOdFmHukJKw706e5VJcy4GQ%3D%3D&video_id=OU-A2EmVrKQ&redirect_counter=1&rm=sn-n4vl676&req_id=cc42fb693927a3ee&cms_redirect=yes&mh=vq&mm=34&mn=sn-a5mekner&ms=ltu&mt=1622540193&mv=m&mvi=5&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgE_AAYHecgwT4bL51ePHlQbTgOB-9YnYcwmH4LkL41T4CIQCu32yZntok4zTK-Hb6xilf_qhzQEZfJJCwHRq-boxIEw%3D%3D",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20210601100645oe_/https://r5---sn-a5mekner.googlevideo.com/videoplayback?expire=1622561931&ei=KwC2YKXJOIfLkgbC6qfoDQ&ip=207.241.229.52&id=o-AJewP0XWrUpoRTmO0dz9PqFWa9B-eT2VjkrNSTr6R1FI&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=seuYHRVOAotpUaZjP8xuLjgF&cnr=14&ratebypass=yes&dur=1011.786&lmt=1614203581230803&fexp=9466585,24001373,24007246&beids=9466585&c=WEB&txp=6316222&n=EPDTCtvQWBA6MXgu&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgJDqnF37JPr_QIXW8DfjtG_3liso6acPp6uIRHEwaNL8CIQDak_-zMOMkbB3z0Wi91I9eOdFmHukJKw706e5VJcy4GQ%3D%3D&video_id=OU-A2EmVrKQ&redirect_counter=1&rm=sn-n4vl676&req_id=cc42fb693927a3ee&cms_redirect=yes&mh=vq&mm=34&mn=sn-a5mekner&ms=ltu&mt=1622540193&mv=m&mvi=5&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgE_AAYHecgwT4bL51ePHlQbTgOB-9YnYcwmH4LkL41T4CIQCu32yZntok4zTK-Hb6xilf_qhzQEZfJJCwHRq-boxIEw%3D%3D",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20200327131041oe_/https://r6---sn-n4v7sn7l.googlevideo.com/videoplayback?expire=1585336238&ei=Tvt9XoCfBsaPkwamq5ygBA&ip=207.241.231.173&id=o-AGL1tQGvJ-5X8wO4fp9g-loeX-LML-LbHUj3KgScr9oC&itag=22&source=youtube&requiressl=yes&mh=Fh&mm=31%2C29&mn=sn-n4v7sn7l%2Csn-o097znld&ms=au%2Crdu&mv=m&mvi=5&pl=20&initcwndbps=3342500&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=743.595&lmt=1540540093212041&mt=1585314513&fvip=6&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ADKhkGMwRgIhANAZ7l2ruYbZPE_ANRt1J7cMov7GnzikuZLEA0gWbRfuAiEAzuZsRCsfQ_r6S7Aj1PhYE1arOW1XuqDB4Qxp-2jLrNI%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ABSNjpQwRgIhAIlsIfqvDBUsYBkQHrDF3adamRNES98jkGHy7DQml1KQAiEAgPpe4rjxbVcee3zNQlABhCLI3fAUn5_WRgfAmzFRDjc%3D&video_id=68t07-KOH9Y",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20200904063818oe_/https://r3---sn-a5meknle.googlevideo.com/videoplayback?expire=1599223090&ei=0eBRX8G2O422kwbmsaa4CA&ip=207.241.233.117&id=o-AAr1d56xCtp-dTwgZRGrlm_hM3qq7qFiFU8fARO2_mR-&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=4643.805&lmt=1532408796326766&fvip=3&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAJrQa80mMd5h9fUuwED1U5gqtvutXoifhcAu9y1kAh5vAiEA7K9BT2PymD5psoMfg74twNVwOrATlvQ73Yxaj1YAwk8%3D&video_id=xdQ9sgpkrX8&redirect_counter=1&cm2rm=sn-n4vll7s&req_id=9c8945f3b729a3ee&cms_redirect=yes&mh=oa&mm=34&mn=sn-a5meknle&ms=ltu&mt=1599201388&mv=m&mvi=3&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAK4e64NSRme_jo8DlZUKsGhzzwdHkj_JXEGGEVGJMiEFAiEA7Mmceo2b4ijBba14hgoIgFiesV_rR7n_6tlFJKLOmAk%3D",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/img/3HdKhen0Gqw",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123115/https://www.gstatic.com/eureka/clank/130/cast_sender.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/img/OU-A2EmVrKQ",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/img/OU-A2EmVrKQ",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20221005110004oe_/https://rr2---sn-o097znsr.googlevideo.com/videoplayback?expire=1664989192&ei=qGM9Y9jqNoXMkwbRs6bACA&ip=207.241.226.199&id=o-AC3y6qBIQQnCbE2QBdorXFi2UUsYXuUi79Dry8BDIYKN&itag=22&source=youtube&requiressl=yes&spc=yR2vpydWpVghwUaicCc9uM7c6QXf8I8&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=1117.483&lmt=1664824128159077&fexp=24001373,24007246&c=ANDROID&txp=5318224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAI24Wu09QsrzDqqlA5J0UJm3pcjeOd3utS95cr4YoVjyAiBGe8ncgGBKF34wNO0e9fnZB_vksQPXxhCefeEP5SXLLQ%3D%3D&video_id=3HdKhen0Gqw&redirect_counter=1&rm=sn-o09sl7l&req_id=665037319b6ca3ee&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=E_&mip=207.241.229.236&mm=31&mn=sn-o097znsr&ms=au&mt=1664967432&mv=m&mvi=2&pl=20&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgWjWV41nkOFO5xG4GpS-pYDzVecm5SgzynU3b-OSjb0QCIEKXgW84ZrK_twdllEz7WiNwv9mKJxA1cSjZxmoF50uy",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/img/68t07-KOH9Y",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/img/xdQ9sgpkrX8",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20210601100645oe_/https://r5---sn-a5mekner.googlevideo.com/videoplayback?expire=1622561931&ei=KwC2YKXJOIfLkgbC6qfoDQ&ip=207.241.229.52&id=o-AJewP0XWrUpoRTmO0dz9PqFWa9B-eT2VjkrNSTr6R1FI&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=seuYHRVOAotpUaZjP8xuLjgF&cnr=14&ratebypass=yes&dur=1011.786&lmt=1614203581230803&fexp=9466585,24001373,24007246&beids=9466585&c=WEB&txp=6316222&n=EPDTCtvQWBA6MXgu&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgJDqnF37JPr_QIXW8DfjtG_3liso6acPp6uIRHEwaNL8CIQDak_-zMOMkbB3z0Wi91I9eOdFmHukJKw706e5VJcy4GQ%3D%3D&video_id=OU-A2EmVrKQ&redirect_counter=1&rm=sn-n4vl676&req_id=cc42fb693927a3ee&cms_redirect=yes&mh=vq&mm=34&mn=sn-a5mekner&ms=ltu&mt=1622540193&mv=m&mvi=5&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgE_AAYHecgwT4bL51ePHlQbTgOB-9YnYcwmH4LkL41T4CIQCu32yZntok4zTK-Hb6xilf_qhzQEZfJJCwHRq-boxIEw%3D%3D",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240824132035/https://www.gstatic.com/eureka/clank/130/cast_sender.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20210601100645oe_/https://r5---sn-a5mekner.googlevideo.com/videoplayback?expire=1622561931&ei=KwC2YKXJOIfLkgbC6qfoDQ&ip=207.241.229.52&id=o-AJewP0XWrUpoRTmO0dz9PqFWa9B-eT2VjkrNSTr6R1FI&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=seuYHRVOAotpUaZjP8xuLjgF&cnr=14&ratebypass=yes&dur=1011.786&lmt=1614203581230803&fexp=9466585,24001373,24007246&beids=9466585&c=WEB&txp=6316222&n=EPDTCtvQWBA6MXgu&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgJDqnF37JPr_QIXW8DfjtG_3liso6acPp6uIRHEwaNL8CIQDak_-zMOMkbB3z0Wi91I9eOdFmHukJKw706e5VJcy4GQ%3D%3D&video_id=OU-A2EmVrKQ&redirect_counter=1&rm=sn-n4vl676&req_id=cc42fb693927a3ee&cms_redirect=yes&mh=vq&mm=34&mn=sn-a5mekner&ms=ltu&mt=1622540193&mv=m&mvi=5&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgE_AAYHecgwT4bL51ePHlQbTgOB-9YnYcwmH4LkL41T4CIQCu32yZntok4zTK-Hb6xilf_qhzQEZfJJCwHRq-boxIEw%3D%3D",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20200327131041oe_/https://r6---sn-n4v7sn7l.googlevideo.com/videoplayback?expire=1585336238&ei=Tvt9XoCfBsaPkwamq5ygBA&ip=207.241.231.173&id=o-AGL1tQGvJ-5X8wO4fp9g-loeX-LML-LbHUj3KgScr9oC&itag=22&source=youtube&requiressl=yes&mh=Fh&mm=31%2C29&mn=sn-n4v7sn7l%2Csn-o097znld&ms=au%2Crdu&mv=m&mvi=5&pl=20&initcwndbps=3342500&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=743.595&lmt=1540540093212041&mt=1585314513&fvip=6&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ADKhkGMwRgIhANAZ7l2ruYbZPE_ANRt1J7cMov7GnzikuZLEA0gWbRfuAiEAzuZsRCsfQ_r6S7Aj1PhYE1arOW1XuqDB4Qxp-2jLrNI%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ABSNjpQwRgIhAIlsIfqvDBUsYBkQHrDF3adamRNES98jkGHy7DQml1KQAiEAgPpe4rjxbVcee3zNQlABhCLI3fAUn5_WRgfAmzFRDjc%3D&video_id=68t07-KOH9Y",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20200904063818oe_/https://r3---sn-a5meknle.googlevideo.com/videoplayback?expire=1599223090&ei=0eBRX8G2O422kwbmsaa4CA&ip=207.241.233.117&id=o-AAr1d56xCtp-dTwgZRGrlm_hM3qq7qFiFU8fARO2_mR-&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=4643.805&lmt=1532408796326766&fvip=3&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAJrQa80mMd5h9fUuwED1U5gqtvutXoifhcAu9y1kAh5vAiEA7K9BT2PymD5psoMfg74twNVwOrATlvQ73Yxaj1YAwk8%3D&video_id=xdQ9sgpkrX8&redirect_counter=1&cm2rm=sn-n4vll7s&req_id=9c8945f3b729a3ee&cms_redirect=yes&mh=oa&mm=34&mn=sn-a5meknle&ms=ltu&mt=1599201388&mv=m&mvi=3&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAK4e64NSRme_jo8DlZUKsGhzzwdHkj_JXEGGEVGJMiEFAiEA7Mmceo2b4ijBba14hgoIgFiesV_rR7n_6tlFJKLOmAk%3D",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    }
+]

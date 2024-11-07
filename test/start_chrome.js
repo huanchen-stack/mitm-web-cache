@@ -42,8 +42,8 @@ async function captureNetworkTraffic(url, useProxy, proxyPort, forceHttp1) {
     await page.setCacheEnabled(false);
 
     // Set default timeout for navigation and other actions to 300 seconds
-    await page.setDefaultNavigationTimeout(300000);  // 300 seconds (5 minutes)
-    await page.setDefaultTimeout(300000);            // Applies to other actions like `waitFor`
+    // await page.setDefaultNavigationTimeout(30000);  // 30 seconds (5 minutes)
+    // await page.setDefaultTimeout(300000);            // Applies to other actions like `waitFor`
 
     // Store network events in this array
     const networkEvents = [];
@@ -56,7 +56,7 @@ async function captureNetworkTraffic(url, useProxy, proxyPort, forceHttp1) {
         const url = request.url();
 
         // Only intercept real network requests (skip blob, data, etc.)
-        if (!url.startsWith('blob:') && !url.startsWith('data:') && !url.startsWith('image:') && url.startsWith('http')) {
+        if (url.startsWith('http')) {
             networkEvents.push({
                 url: request.url(),
                 method: request.method(),
@@ -89,11 +89,10 @@ async function captureNetworkTraffic(url, useProxy, proxyPort, forceHttp1) {
     try {
         // Load the page with increased timeout
         const startTime = Date.now();
-        await page.goto(url, { waitUntil: 'networkidle0', timeout: 180000 });
-        const networkIdleTime = Date.now() - startTime;
-
-        const delayTime = Math.min(60000, Math.max(networkIdleTime, 5000));
-        await delay(delayTime);
+        await page.goto(url, { waitUntil: ['load'], timeout: 60000 });
+        // const networkIdleTime = Date.now() - startTime;
+        // const delayTime = Math.min(60000, Math.max(networkIdleTime * 0.3, 5000));
+        // await delay(delayTime);
 
     } catch (error) {
         console.error(`Error occurred while loading ${url}: ${error.message}`);

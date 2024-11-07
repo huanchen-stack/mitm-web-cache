@@ -1,0 +1,1423 @@
+[
+    {
+        "url": "https://web.archive.org/web/20241001123017/https://www.gov.pl/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017cs_/https://www.gov.pl/fonts/font-awesome.min.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017cs_/https://www.gov.pl/css/vendors/jquery-ui-1.13.2-smoothness.min.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017cs_/https://www.gov.pl/css/vendors/modaal.min.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017cs_/https://www.gov.pl/css/vendors/vue-select.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017cs_/https://www.gov.pl/css/govpl_template.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017cs_/https://www.gov.pl/css/main.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/polyfills/modernizr-custom.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/polyfills/polyfills.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/vendors/jquery-3.7.1.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/vendors/jquery-ui-1.13.2.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/vendors/modaal.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/vendors/b_util.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/vendors/b_tab_orginal.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/vendors/validate.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/gov_context.js?locale=pl_PL",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/accordion.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/govpl.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/bundle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/utils.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132549cs_/https://www.gov.pl/fonts/font-awesome.min.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132547cs_/https://www.gov.pl/css/vendors/jquery-ui-1.13.2-smoothness.min.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001135124cs_/https://www.gov.pl/css/vendors/modaal.min.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132547cs_/https://www.gov.pl/css/vendors/vue-select.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132547cs_/https://www.gov.pl/css/govpl_template.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132547cs_/https://www.gov.pl/css/main.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132547js_/https://www.gov.pl/scripts/polyfills/modernizr-custom.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132547js_/https://www.gov.pl/scripts/polyfills/polyfills.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132547js_/https://www.gov.pl/scripts/vendors/jquery-3.7.1.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001135142js_/https://www.gov.pl/scripts/vendors/jquery-ui-1.13.2.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132547js_/https://www.gov.pl/scripts/vendors/modaal.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001135132js_/https://www.gov.pl/scripts/vendors/b_util.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001135130js_/https://www.gov.pl/scripts/vendors/b_tab_orginal.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132548js_/https://www.gov.pl/scripts/vendors/validate.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001135133js_/https://www.gov.pl/scripts/gov_context.js?locale=pl_PL",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132548js_/https://www.gov.pl/scripts/accordion.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001135117js_/https://www.gov.pl/scripts/bundle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132549js_/https://www.gov.pl/scripts/utils.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132548js_/https://www.gov.pl/scripts/govpl.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/eu/eu-center-pl.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/photo/ac2e5ae5-7e95-4640-bd66-643d19fb7e61",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/photo/77c195f7-8ae4-4b88-bdb2-82a92de99eb5",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/body_end.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017js_/https://www.gov.pl/scripts/register_metadata.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/photo/a6631d28-8291-4474-b530-32864664800e",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/logo/5797fcb7-405c-4180-b090-3290a040008c",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/01-dowod-osobisty.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/02-edukacja.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/03-pojazd.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/04-wybory.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/05-nieruchomo-srodo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/06-podatki.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/07-prawo2.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/08-praca-biznes.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/09-rodzina.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/10-armia-bezpieczenstwo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001123017/https%3A//www.gov.pl/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/11-lot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/12-zasilki.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/13-pismo-ogolne-do-urzedu.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/14-zdrowie.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/photo/a3701266-bab9-49e5-838f-84d93215a68b",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/logo/3b6603bb-4671-4038-9980-083d89297dd5",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/01-start-biznes.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/07-rozwoj.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/13-pracownicy-w-firmie.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/02-podatki-ksiegowosc.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/08-zus.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/14-sprawy-urzedowe.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/03-obowiazki-przedsiebiorcy.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/09-certyfikat.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/15-uprawnienia.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/04-zmiany-w-firmie.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/10-zawieszenia-wznowienia.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/16-zamkniecie-firmy.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/05-spzredaz-marketing.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/11-kontrahenci-klienci.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/17-handel-zagraniczny.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/06-biznes-w-UE.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/12-inw-budowlane.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/biz/18-cudzoziemcy.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/off/01-sprawy-publiczne.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/off/03-dokumenty-urzedowe.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/off/05-postepowania.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/off/02-systemy-inf.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/off/04-dotacje.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/services/off/06-inne.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/logo/fcfde220-4d47-4b00-8286-ecad27ac07e8",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/logo/34a2d026-3d10-4c87-82c8-b83fd38868dc",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.gov.pl%2F&timestamp=20241001123017",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/logo/081e09d4-9534-4dba-9bea-dfda83add0c8",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/logo/78b414a9-f7db-4c73-875d-a176284867fb",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/logo/c9d71299-0da4-423e-a99d-dafe2c399290",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/photo/d26b6130-e8b2-4233-aea3-e141faa9c519",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/photo/format/5fd6c24e-9ed8-4662-803e-d9928f28cd77/resolution/950x401",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/photo/format/60166f58-0ec3-4cb0-b381-0e67f5e84242/resolution/525x221",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/photo/format/d61ee3d4-6dd5-45e1-abc6-b754672762f4/resolution/525x221",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/photo/format/dd1edb4a-8f70-429f-b71a-42e41f9c8e03/resolution/525x221",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/photo/format/f0eabe24-5eb0-4382-ae48-365ef01d6eca/resolution/525x221",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/photo/format/45f20a79-9242-4953-9a76-07b0d97631aa/resolution/525x221",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/photo/format/4ecc72d3-74c6-48d9-aa85-9e8b4e77408c/resolution/525x221",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/logo/98095230-8d69-4e20-88eb-b8898d4aef11",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/logo/b41e841f-0ba1-42df-a7a8-7a4c424182f0",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/godlo-12.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/eu/fe-pc-left-pl.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/eu/rp-left-pl.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/eu/eu-efrp-left-pl.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017im_/https://www.gov.pl/img/icons/eu/eu-efrp-right-pl.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001135117/https://www.googletagmanager.com/gtm.js?id=GTM-TZ2N3NZ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017/https://matomo.www.gov.pl/analytics/js/container_68lYTZ79.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.gov.pl%2F&collection=web",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123017/http://web.archive.org/screenshot/https://www.gov.pl/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/web-screenshot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/fonts/Iconochive-Regular.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132547im_/https://www.gov.pl/img/Herb_Polski.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132547im_/https://www.gov.pl/img/bg_gov_services_desk.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132547im_/https://www.gov.pl/fonts/open-sans/mem8YaGs126MiZpBA-U1UQ.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132547im_/https://www.gov.pl/css/fonts/gov-icons.woff?fnnyxz",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240324205555/http://web.archive.org/screenshot/https://www.gov.pl/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132550im_/https://www.gov.pl/img/icons/eu/eu-center-pl.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152402im_/https://www.gov.pl/photo/ac2e5ae5-7e95-4640-bd66-643d19fb7e61",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152403im_/https://www.gov.pl/photo/77c195f7-8ae4-4b88-bdb2-82a92de99eb5",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001135128js_/https://www.gov.pl/scripts/body_end.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152404im_/https://www.gov.pl/img/icons/services/01-dowod-osobisty.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152403im_/https://www.gov.pl/img/icons/services/02-edukacja.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152403im_/https://www.gov.pl/img/icons/services/03-pojazd.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152404im_/https://www.gov.pl/img/icons/services/04-wybory.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152404im_/https://www.gov.pl/img/icons/services/05-nieruchomo-srodo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152403im_/https://www.gov.pl/img/icons/services/06-podatki.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152404im_/https://www.gov.pl/img/icons/services/07-prawo2.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152404im_/https://www.gov.pl/img/icons/services/08-praca-biznes.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152404im_/https://www.gov.pl/img/icons/services/09-rodzina.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152227im_/https://www.gov.pl/fonts/open-sans/mem8YaGs126MiZpBA-U1UQ.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152222im_/https://www.gov.pl/css/fonts/gov-icons.woff?fnnyxz",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152404im_/https://www.gov.pl/img/icons/services/10-armia-bezpieczenstwo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152405im_/https://www.gov.pl/img/icons/services/11-lot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152405im_/https://www.gov.pl/img/icons/services/12-zasilki.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152228im_/https://www.gov.pl/img/Herb_Polski.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152222im_/https://www.gov.pl/img/bg_gov_services_desk.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132550js_/https://www.gov.pl/scripts/register_metadata.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132550im_/https://www.gov.pl/photo/a6631d28-8291-4474-b530-32864664800e",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152403im_/https://www.gov.pl/logo/5797fcb7-405c-4180-b090-3290a040008c",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152405im_/https://www.gov.pl/img/icons/services/13-pismo-ogolne-do-urzedu.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152405im_/https://www.gov.pl/img/icons/services/14-zdrowie.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152405im_/https://www.gov.pl/photo/a3701266-bab9-49e5-838f-84d93215a68b",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152405im_/https://www.gov.pl/logo/3b6603bb-4671-4038-9980-083d89297dd5",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152405im_/https://www.gov.pl/img/icons/services/biz/01-start-biznes.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152405im_/https://www.gov.pl/img/icons/services/biz/07-rozwoj.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152405im_/https://www.gov.pl/img/icons/services/biz/13-pracownicy-w-firmie.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152406im_/https://www.gov.pl/img/icons/services/biz/02-podatki-ksiegowosc.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152405im_/https://www.gov.pl/img/icons/services/biz/08-zus.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152406im_/https://www.gov.pl/img/icons/services/biz/14-sprawy-urzedowe.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152406im_/https://www.gov.pl/img/icons/services/biz/09-certyfikat.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152406im_/https://www.gov.pl/img/icons/services/biz/03-obowiazki-przedsiebiorcy.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152406im_/https://www.gov.pl/img/icons/services/biz/15-uprawnienia.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152406im_/https://www.gov.pl/img/icons/services/biz/04-zmiany-w-firmie.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152406im_/https://www.gov.pl/img/icons/services/biz/10-zawieszenia-wznowienia.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152406im_/https://www.gov.pl/img/icons/services/biz/16-zamkniecie-firmy.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152406im_/https://www.gov.pl/img/icons/services/biz/05-spzredaz-marketing.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152407im_/https://www.gov.pl/img/icons/services/biz/11-kontrahenci-klienci.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152407im_/https://www.gov.pl/img/icons/services/biz/17-handel-zagraniczny.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152407im_/https://www.gov.pl/img/icons/services/biz/06-biznes-w-UE.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152407im_/https://www.gov.pl/img/icons/services/biz/12-inw-budowlane.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152407im_/https://www.gov.pl/img/icons/services/biz/18-cudzoziemcy.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152407im_/https://www.gov.pl/img/icons/services/off/01-sprawy-publiczne.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152407im_/https://www.gov.pl/img/icons/services/off/03-dokumenty-urzedowe.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152408im_/https://www.gov.pl/img/icons/services/off/05-postepowania.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152407im_/https://www.gov.pl/img/icons/services/off/02-systemy-inf.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152408im_/https://www.gov.pl/img/icons/services/off/04-dotacje.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152408im_/https://www.gov.pl/img/icons/services/off/06-inne.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152408im_/https://www.gov.pl/logo/fcfde220-4d47-4b00-8286-ecad27ac07e8",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152408im_/https://www.gov.pl/logo/34a2d026-3d10-4c87-82c8-b83fd38868dc",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152408im_/https://www.gov.pl/logo/081e09d4-9534-4dba-9bea-dfda83add0c8",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152408im_/https://www.gov.pl/logo/78b414a9-f7db-4c73-875d-a176284867fb",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152408im_/https://www.gov.pl/logo/c9d71299-0da4-423e-a99d-dafe2c399290",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152409im_/https://www.gov.pl/photo/d26b6130-e8b2-4233-aea3-e141faa9c519",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002054936im_/https://www.gov.pl/photo/format/5fd6c24e-9ed8-4662-803e-d9928f28cd77/resolution/950x401",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152408im_/https://www.gov.pl/photo/format/60166f58-0ec3-4cb0-b381-0e67f5e84242/resolution/525x221",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152409im_/https://www.gov.pl/photo/format/d61ee3d4-6dd5-45e1-abc6-b754672762f4/resolution/525x221",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152409im_/https://www.gov.pl/photo/format/dd1edb4a-8f70-429f-b71a-42e41f9c8e03/resolution/525x221",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152409im_/https://www.gov.pl/photo/format/f0eabe24-5eb0-4382-ae48-365ef01d6eca/resolution/525x221",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152409im_/https://www.gov.pl/photo/format/45f20a79-9242-4953-9a76-07b0d97631aa/resolution/525x221",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152409im_/https://www.gov.pl/photo/format/4ecc72d3-74c6-48d9-aa85-9e8b4e77408c/resolution/525x221",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152409im_/https://www.gov.pl/logo/98095230-8d69-4e20-88eb-b8898d4aef11",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001152410im_/https://www.gov.pl/logo/b41e841f-0ba1-42df-a7a8-7a4c424182f0",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001135120im_/https://www.gov.pl/img/icons/godlo-12.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001132554im_/https://www.gov.pl/img/icons/eu/fe-pc-left-pl.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001135129im_/https://www.gov.pl/img/icons/eu/rp-left-pl.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001135123im_/https://www.gov.pl/img/icons/eu/eu-efrp-left-pl.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241003002602/https://www.googletagmanager.com/gtm.js?id=GTM-TZ2N3NZ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001135145im_/https://www.gov.pl/img/icons/eu/eu-efrp-right-pl.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001135136/https://matomo.www.gov.pl/analytics/js/container_68lYTZ79.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    }
+]

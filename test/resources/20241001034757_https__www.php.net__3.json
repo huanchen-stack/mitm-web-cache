@@ -1,0 +1,492 @@
+[
+    {
+        "url": "https://web.archive.org/web/20241001034757/https://www.php.net/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757cs_/https://www.php.net/cached.php?t=1707321815&f=/fonts/Fira/fira.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757cs_/https://www.php.net/cached.php?t=1707321815&f=/fonts/Font-Awesome/css/fontello.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757cs_/https://www.php.net/cached.php?t=1723177202&f=/styles/theme-base.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757cs_/https://www.php.net/cached.php?t=1726696202&f=/styles/theme-medium.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757cs_/https://www.php.net/cached.php?t=1725211202&f=/styles/home.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041309cs_/https://www.php.net/cached.php?t=1707321815&f=/fonts/Fira/fira.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041311cs_/https://www.php.net/cached.php?t=1707321815&f=/fonts/Font-Awesome/css/fontello.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041314cs_/https://www.php.net/cached.php?t=1723177202&f=/styles/theme-base.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041313cs_/https://www.php.net/cached.php?t=1726696202&f=/styles/theme-medium.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001055807cs_/https://www.php.net/cached.php?t=1725211202&f=/styles/home.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757im_/https://www.php.net/images/logos/php-logo-white.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757js_/https://code.jquery.com/jquery-3.6.0.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757js_/https://www.php.net/cached.php?t=1707321815&f=/js/ext/hogan-3.0.2.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757js_/https://www.php.net/cached.php?t=1723177202&f=/js/ext/typeahead.jquery.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757js_/https://www.php.net/cached.php?t=1723177202&f=/js/ext/FuzzySearch.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757js_/https://www.php.net/cached.php?t=1707321815&f=/js/ext/mousetrap.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757js_/https://www.php.net/cached.php?t=1707321815&f=/js/ext/jquery.scrollTo.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757js_/https://www.php.net/cached.php?t=1723177202&f=/js/search.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757js_/https://www.php.net/cached.php?t=1707321815&f=/js/common.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757im_/https://www.php.net/images/logos/php-logo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757im_/https://www.php.net/images/php8/logo_php8_3.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757im_/https://www.php.net/images/to-top@2x.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001055809im_/https://www.php.net/images/logos/php-logo-white.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041313im_/https://www.php.net/images/bg-texture-00.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001034757/https%3A//www.php.net/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001034757/https%3A//www.php.net/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.php.net%2F&collection=web",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757/http://web.archive.org/screenshot/https://www.php.net/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.php.net%2F&timestamp=20241001034757",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/web-screenshot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/fonts/Iconochive-Regular.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034653js_/https://code.jquery.com/jquery-3.6.0.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041311js_/https://www.php.net/cached.php?t=1707321815&f=/js/ext/hogan-3.0.2.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041312js_/https://www.php.net/cached.php?t=1723177202&f=/js/ext/typeahead.jquery.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041309im_/https://www.php.net/fonts/Fira/woff2/FiraSans-Book.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041309im_/https://www.php.net/fonts/Fira/woff2/FiraSans-Medium.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041309im_/https://www.php.net/fonts/Fira/woff2/FiraMono-Regular.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041311im_/https://www.php.net/fonts/Font-Awesome/font/fontello.woff2?96103027",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041309im_/https://www.php.net/fonts/Fira/woff2/FiraSans-BookItalic.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041311js_/https://www.php.net/cached.php?t=1723177202&f=/js/ext/FuzzySearch.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041313js_/https://www.php.net/cached.php?t=1707321815&f=/js/ext/mousetrap.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041314js_/https://www.php.net/cached.php?t=1707321815&f=/js/ext/jquery.scrollTo.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041311js_/https://www.php.net/cached.php?t=1723177202&f=/js/search.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041309js_/https://www.php.net/cached.php?t=1707321815&f=/js/common.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041314im_/https://www.php.net/images/logos/php-logo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041312im_/https://www.php.net/images/php8/logo_php8_3.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001024048im_/https://www.php.net/images/bg-texture-00.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240903034120/http://web.archive.org/screenshot/https://www.php.net/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001024045im_/https://www.php.net/fonts/Fira/woff2/FiraSans-Book.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001024045im_/https://www.php.net/fonts/Fira/woff2/FiraSans-Medium.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001024045im_/https://www.php.net/fonts/Fira/woff2/FiraMono-Regular.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001024045im_/https://www.php.net/fonts/Font-Awesome/font/fontello.woff2?96103027",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001024045im_/https://www.php.net/fonts/Fira/woff2/FiraSans-BookItalic.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757/https://www.php.net/images/elephpants.php?count=26",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001034757/https://www.php.net/js/search-index.php?lang=en",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001041312im_/https://www.php.net/images/to-top@2x.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240918021513/https://www.php.net/images/elephpants.php?count=26",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001024047/https://www.php.net/js/search-index.php?lang=en",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    }
+]

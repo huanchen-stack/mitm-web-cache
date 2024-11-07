@@ -1,0 +1,2151 @@
+[
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/kreise-logo-outline.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/jost/jost-italic-latin-ext.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/jost/jost-italic-latin.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/jost/jost-normal-latin-ext.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/jost/jost-normal-latin.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-ext-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-ext-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-ext-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-ext-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-ext-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-ext-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-ext-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-ext-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-ext-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-ext-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-ext-500.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-500.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-ext-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-ext-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-ext-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-ext-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-ext-500.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-500.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-ext-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-ext-800.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-800.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-ext-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/omgf-stylesheet-53/open-sans-normal-latin-ext-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/omgf/omgf-stylesheet-53/open-sans-normal-latin-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/themes/betheme/css/base.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/themes/betheme/css/layout.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/themes/betheme/css/shortcodes.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/themes/betheme/assets/animations/animations.min.css?ver=17.3",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/themes/betheme/assets/ui/jquery.ui.all.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/themes/betheme/assets/prettyPhoto/prettyPhoto.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/themes/betheme/css/responsive.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/uploads/omgf/jost/jost.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/uploads/omgf/lato/lato.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/uploads/omgf/alegreyasans/alegreyasans.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/mailjet-for-wordpress/src/widgetformbuilder/css/front-widget.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.css?ver=8.8",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/plugins/easy-social-share-buttons3/assets/modules/click-to-tweet.min.css?ver=8.8",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/plugins/easy-social-share-buttons3/assets/modules/sharing-point.min.css?ver=8.8",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/plugins/easy-social-share-buttons3/assets/css/essb-display-methods.min.css?ver=8.8",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/easy-social-share-buttons3/assets/css/easy-social-share-buttons.min.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/cache/borlabs-cookie/borlabs-cookie_1_de.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css?ver=3.2.7",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/ubermenu/assets/css/skins/vanilla.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/ubermenu/assets/css/fontawesome/css/font-awesome.min.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/the-grid/frontend/assets/css/the-grid.min.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/themes/betheme-child/style.css?ver=17.3",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/plugins/modulobox/public/assets/css/modulobox.min.css?ver=1.0.5",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/plugins/weseo-template/assets/js/the-grid-hash-filters.js?ver=1.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926084302cs_/https://www.radtouren.at/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210102cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/themes/betheme/css/base.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210052cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/themes/betheme/css/layout.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081225cs_/https://www.radtouren.at/wp-content/themes/betheme/assets/animations/animations.min.css?ver=17.3",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210053cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/themes/betheme/css/shortcodes.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210055cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/themes/betheme/assets/ui/jquery.ui.all.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210104cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/themes/betheme/assets/prettyPhoto/prettyPhoto.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210053cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210057cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/themes/betheme/css/responsive.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210057cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/uploads/omgf/jost/jost.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210054cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/uploads/omgf/lato/lato.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210051cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/uploads/omgf/alegreyasans/alegreyasans.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210058cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/mailjet-for-wordpress/src/widgetformbuilder/css/front-widget.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081226cs_/https://www.radtouren.at/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.css?ver=8.8",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081236cs_/https://www.radtouren.at/wp-content/plugins/easy-social-share-buttons3/assets/modules/click-to-tweet.min.css?ver=8.8",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081231cs_/https://www.radtouren.at/wp-content/plugins/easy-social-share-buttons3/assets/modules/sharing-point.min.css?ver=8.8",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081238cs_/https://www.radtouren.at/wp-content/plugins/easy-social-share-buttons3/assets/css/essb-display-methods.min.css?ver=8.8",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210048cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/easy-social-share-buttons3/assets/css/easy-social-share-buttons.min.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210051cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/cache/borlabs-cookie/borlabs-cookie_1_de.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081232cs_/https://www.radtouren.at/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css?ver=3.2.7",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210053cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/ubermenu/assets/css/skins/vanilla.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210056cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/ubermenu/assets/css/fontawesome/css/font-awesome.min.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210101cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/the-grid/frontend/assets/css/the-grid.min.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081228cs_/https://www.radtouren.at/wp-content/themes/betheme-child/style.css?ver=17.3",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081204cs_/https://www.radtouren.at/wp-content/plugins/modulobox/public/assets/css/modulobox.min.css?ver=1.0.5",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022441/https://www.radtouren.at/wp-content/uploads/kreise-logo-outline.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022444/https://www.radtouren.at/wp-content/uploads/omgf/jost/jost-italic-latin-ext.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022445/https://www.radtouren.at/wp-content/uploads/omgf/jost/jost-italic-latin.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022445/https://www.radtouren.at/wp-content/uploads/omgf/jost/jost-normal-latin-ext.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022444/https://www.radtouren.at/wp-content/uploads/omgf/jost/jost-normal-latin.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022418/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-ext-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022418/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022416/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-ext-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022418/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022417/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-ext-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022418/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022416/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-ext-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022417/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-italic-latin-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022418/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-ext-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022416/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022417/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-ext-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022416/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022417/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-ext-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022416/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022417/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-ext-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022451/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-ext-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022418/https://www.radtouren.at/wp-content/uploads/omgf/lato/lato-normal-latin-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022449/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022450/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-ext-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022449/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022450/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-ext-500.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022450/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-500.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022447/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-ext-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022447/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022451/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-ext-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022451/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-italic-latin-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022449/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-ext-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022448/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-300.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022448/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-ext-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022449/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022448/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-ext-500.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022449/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-500.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022451/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-ext-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022450/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-700.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022449/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-ext-800.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022451/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-800.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022450/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-ext-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022442/https://www.radtouren.at/wp-content/uploads/omgf/omgf-stylesheet-53/open-sans-normal-latin-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022442/https://www.radtouren.at/wp-content/uploads/omgf/omgf-stylesheet-53/open-sans-normal-latin-ext-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022448/https://www.radtouren.at/wp-content/uploads/omgf/alegreyasans/alegreya-sans-normal-latin-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210051js_/https://www.radtouren.at/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081225js_/https://www.radtouren.at/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240417221333js_/https://www.radtouren.at/wp-content/plugins/weseo-template/assets/js/the-grid-hash-filters.js?ver=1.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/rtoe-quer-4c-negativ-weiss-logo.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/rtoe-quer-4c-positiv-sticky-retina.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/rtoe-quer-4c-positiv-s-ticky.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/uploads/omgf/omgf-stylesheet-60/omgf-stylesheet-60.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/mapplic/css/mapplic.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/mapplic/css/magnific-popup.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/mapplic/css/map.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/revslider/sr6/assets/css/rs6.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-contact-form-7-tracker.js?ver=1.20.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js?ver=1.20.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/themes/betheme-child/js/datepicker.form.js?ver=1.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/themes/betheme/js/plugins.js?ver=17.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/themes/betheme/js/menu.js?ver=17.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/themes/betheme/assets/animations/animations.min.js?ver=17.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/themes/betheme/assets/jplayer/jplayer.min.js?ver=17.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/themes/betheme/js/parallax/translate3d.js?ver=17.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/themes/betheme/js/scripts.js?ver=17.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/plugins/mailjet-for-wordpress/src/widgetformbuilder/js/front-widget.js?ver=6.6.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://maps.google.com/maps/api/js?key=AIzaSyBJ9ef23l7Am7dFD7CUNDVcvpG65LuxwGE&ver=6.6.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/plugins/ubermenu/assets/js/ubermenu.min.js?ver=3.2.7",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/plugins/the-grid/frontend/assets/js/the-grid.min.js?ver=2.7.9.5",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/plugins/modulobox/public/assets/js/modulobox.min.js?ver=1.0.5",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/plugins/mapplic/js/hammer.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001020135/https%3A//www.radtouren.at/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": null
+    },
+    {
+        "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.radtouren.at%2F&timestamp=20241001020135",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/plugins/mapplic/js/jquery.mousewheel.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/plugins/mapplic/js/magnific-popup.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/plugins/mapplic/js/mapplic.js?ver=4.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.2.68",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.13",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135js_/https://www.radtouren.at/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.13",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/plugins/revslider/sr6/assets/assets/dummy.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/icon-rad.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/an-der-donau-2422-hdr.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/rtoe-rgb-positiv.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.googletagmanager.com/gtm.js?id=GTM-WT73F9P",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.radtouren.at%2F&collection=web",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/http://web.archive.org/screenshot/https://www.radtouren.at/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/web-screenshot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/fonts/Iconochive-Regular.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081228im_/https://www.radtouren.at/wp-content/uploads/kreise-logo-outline.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210057im_/https://www.radtouren.at/wp-content/uploads/omgf/jost/jost-normal-latin.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/Startseite-Blick-vom-M%C3%BCllner-Steg-auf-die-Stadt-Salzburg-cSalzburgerLand-Tourismus-Markus-Greber.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/BettBike-Locker-Legere-St.-Ruprecht-c-TV-St.-Ruprecht-an-der-Raab-die-mosbacher%C2%B4s-1.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/Begegnungen-c-Steiermark-Tourismus-Lanxx.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/Radtouren-erleben.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081228im_/https://www.radtouren.at/wp-content/uploads/2017/03/triangle-5-01.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081228im_/https://www.radtouren.at/wp-content/uploads/wso-divider-bottom-down-white.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/K%C3%BCrbiscremesuppe-im-K%C3%BCrbis-c-Steiermark-Tourismus-bigshot.at_-768x512.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/tauernradweg-bei-maria-almcsalzburgerland-markus-greber-768x512.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/Das-Gilet-der-Eisenstra%C3%9Fentracht-c-Mostviertel-Tourismus-GmbH-weinfranz.at_-768x1152.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/ybbstalradweg-in-lunz-am-see-niederoesterreich-werbung-schwarz-koenigat-768x512.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/Sch%C3%A4rding-bei-Nacht-c-Sch%C3%A4rding-Tourismus-768x512.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/Drei-Trichter-im-Joanneumsviertel-c-Universalmuseum-Joanneum-N.-Lackner-768x512.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/K%C3%A4ferbohnensalat-c-TV-St.-Ruprecht-an-der-Raab-die-mosbachers-768x512.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/Donauradweg-Zillenfahrt-c-WGD-Donau-Ober%C3%B6sterreich-Tourismus-GmbH-768x513.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135im_/https://www.radtouren.at/wp-content/uploads/familienradtour-am-tuernitzer-bahnradweg-mostviertel-tourismus-weinfranzat-768x512.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210057im_/https://www.radtouren.at/wp-content/uploads/omgf/jost/jost-italic-latin.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210102im_/https://www.radtouren.at/wp-content/themes/betheme/fonts/mfn-icons.woff?23391439",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022444im_/https://www.radtouren.at/wp-content/uploads/omgf/jost/jost-normal-latin.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20130823194938/http://web.archive.org/screenshot/http://radtouren.at/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002062247im_/https://www.radtouren.at/wp-content/plugins/revslider/sr6/assets/assets/dummy.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022441im_/https://www.radtouren.at/wp-content/uploads/kreise-logo-outline.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022445im_/https://www.radtouren.at/wp-content/uploads/omgf/jost/jost-italic-latin.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022443im_/https://www.radtouren.at/wp-content/themes/betheme/fonts/mfn-icons.woff?23391439",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081202im_/https://www.radtouren.at/wp-content/uploads/Startseite-Blick-vom-M%C3%BCllner-Steg-auf-die-Stadt-Salzburg-cSalzburgerLand-Tourismus-Markus-Greber.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081233im_/https://www.radtouren.at/wp-content/uploads/rtoe-quer-4c-negativ-weiss-logo.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081152im_/https://www.radtouren.at/wp-content/uploads/rtoe-quer-4c-positiv-sticky-retina.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081158im_/https://www.radtouren.at/wp-content/uploads/rtoe-quer-4c-positiv-s-ticky.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002062241cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/uploads/omgf/omgf-stylesheet-60/omgf-stylesheet-60.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210055cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/mapplic/css/mapplic.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210057cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/mapplic/css/magnific-popup.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210101cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/mapplic/css/map.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210104cs_/https://www.radtouren.at/wp-content/cache/min/1/wp-content/plugins/revslider/sr6/assets/css/rs6.css?ver=1725275582",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926090240js_/https://www.radtouren.at/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001042256js_/https://www.radtouren.at/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-contact-form-7-tracker.js?ver=1.20.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210056js_/https://www.radtouren.at/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js?ver=1.20.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926081259js_/https://www.radtouren.at/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081205js_/https://www.radtouren.at/wp-content/themes/betheme-child/js/datepicker.form.js?ver=1.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926091615js_/https://www.radtouren.at/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926091003js_/https://www.radtouren.at/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210048js_/https://www.radtouren.at/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001000744js_/https://www.radtouren.at/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081229js_/https://www.radtouren.at/wp-content/themes/betheme/js/plugins.js?ver=17.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081236js_/https://www.radtouren.at/wp-content/themes/betheme/js/menu.js?ver=17.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081202js_/https://www.radtouren.at/wp-content/themes/betheme/assets/animations/animations.min.js?ver=17.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081203js_/https://www.radtouren.at/wp-content/themes/betheme/assets/jplayer/jplayer.min.js?ver=17.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081200js_/https://www.radtouren.at/wp-content/themes/betheme/js/parallax/translate3d.js?ver=17.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081200js_/https://www.radtouren.at/wp-content/themes/betheme/js/scripts.js?ver=17.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002062241im_/https://www.radtouren.at/wp-content/uploads/omgf/omgf-stylesheet-60/open-sans-normal-latin-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926105358js_/https://www.radtouren.at/wp-content/plugins/mailjet-for-wordpress/src/widgetformbuilder/js/front-widget.js?ver=6.6.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081230js_/https://www.radtouren.at/wp-content/plugins/ubermenu/assets/js/ubermenu.min.js?ver=3.2.7",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926105937js_/https://www.radtouren.at/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210049js_/https://www.radtouren.at/wp-content/plugins/the-grid/frontend/assets/js/the-grid.min.js?ver=2.7.9.5",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081153js_/https://www.radtouren.at/wp-content/plugins/modulobox/public/assets/js/modulobox.min.js?ver=1.0.5",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081227js_/https://www.radtouren.at/wp-content/plugins/mapplic/js/hammer.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081154js_/https://www.radtouren.at/wp-content/plugins/mapplic/js/jquery.mousewheel.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081233js_/https://www.radtouren.at/wp-content/plugins/mapplic/js/magnific-popup.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081150js_/https://www.radtouren.at/wp-content/plugins/mapplic/js/mapplic.js?ver=4.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210057js_/https://www.radtouren.at/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.2.68",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002062248im_/https://www.radtouren.at/wp-content/uploads/omgf/omgf-stylesheet-60/open-sans-normal-latin-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/plugins/easy-social-share-buttons3/assets/modules/pinterest-pro.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/plugins/modulobox/public/assets/icons/modulobox.svg",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081158im_/https://www.radtouren.at/wp-content/uploads/icon-rad.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081229im_/https://www.radtouren.at/wp-content/uploads/an-der-donau-2422-hdr.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081224im_/https://www.radtouren.at/wp-content/uploads/rtoe-rgb-positiv.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081153im_/https://www.radtouren.at/wp-content/uploads/BettBike-Locker-Legere-St.-Ruprecht-c-TV-St.-Ruprecht-an-der-Raab-die-mosbacher%C2%B4s-1.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081237im_/https://www.radtouren.at/wp-content/uploads/Begegnungen-c-Steiermark-Tourismus-Lanxx.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081201im_/https://www.radtouren.at/wp-content/uploads/Radtouren-erleben.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022441im_/https://www.radtouren.at/wp-content/uploads/2017/03/triangle-5-01.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022441im_/https://www.radtouren.at/wp-content/uploads/wso-divider-bottom-down-white.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210055im_/https://www.radtouren.at/wp-content/plugins/mapplic/images/loader.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210101im_/https://www.radtouren.at/wp-content/plugins/the-grid/frontend/assets/fonts/the_grid.ttf",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/wso-megamenu-5.svg",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081238im_/https://www.radtouren.at/wp-content/uploads/K%C3%BCrbiscremesuppe-im-K%C3%BCrbis-c-Steiermark-Tourismus-bigshot.at_-768x512.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081157im_/https://www.radtouren.at/wp-content/uploads/tauernradweg-bei-maria-almcsalzburgerland-markus-greber-768x512.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081238im_/https://www.radtouren.at/wp-content/uploads/Das-Gilet-der-Eisenstra%C3%9Fentracht-c-Mostviertel-Tourismus-GmbH-weinfranz.at_-768x1152.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081236im_/https://www.radtouren.at/wp-content/uploads/ybbstalradweg-in-lunz-am-see-niederoesterreich-werbung-schwarz-koenigat-768x512.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081223im_/https://www.radtouren.at/wp-content/uploads/Sch%C3%A4rding-bei-Nacht-c-Sch%C3%A4rding-Tourismus-768x512.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210052js_/https://www.radtouren.at/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.13",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210053js_/https://www.radtouren.at/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.13",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081158im_/https://www.radtouren.at/wp-content/uploads/Drei-Trichter-im-Joanneumsviertel-c-Universalmuseum-Joanneum-N.-Lackner-768x512.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081238im_/https://www.radtouren.at/wp-content/uploads/K%C3%A4ferbohnensalat-c-TV-St.-Ruprecht-an-der-Raab-die-mosbachers-768x512.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081238im_/https://www.radtouren.at/wp-content/uploads/Donauradweg-Zillenfahrt-c-WGD-Donau-Ober%C3%B6sterreich-Tourismus-GmbH-768x513.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081152im_/https://www.radtouren.at/wp-content/uploads/familienradtour-am-tuernitzer-bahnradweg-mostviertel-tourismus-weinfranzat-768x512.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081233/https://www.radtouren.at/wp-content/plugins/modulobox/public/assets/icons/modulobox.svg",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081204/https://www.radtouren.at/wp-content/plugins/easy-social-share-buttons3/assets/modules/pinterest-pro.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022427im_/https://www.radtouren.at/wp-content/plugins/the-grid/frontend/assets/fonts/the_grid.ttf",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240508195750/https://www.radtouren.at/wp-content/uploads/wso-megamenu-5.svg",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240408022437im_/https://www.radtouren.at/wp-content/plugins/mapplic/images/loader.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081228/https://www.radtouren.at/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081228/https://www.radtouren.at/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/Am-Tauernradweg-zwischen-Golling-und-Kuchl-c-SalzburgerLand_Markus_Greber.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210104im_/https://www.radtouren.at/wp-content/plugins/revslider/sr6/assets/fonts/revicons/revicons.woff?5510888",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081202/https://www.radtouren.at/wp-content/uploads/Am-Tauernradweg-zwischen-Golling-und-Kuchl-c-SalzburgerLand_Markus_Greber.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902210124im_/https://www.radtouren.at/wp-content/plugins/revslider/sr6/assets/fonts/revicons/revicons.woff?5510888",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/TV-Ruprecht-54-Rad-Picknick-St.-Ruprecht-c-St.-Ruprecht_die-mosbacher%C2%B4....jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001020135/https://www.radtouren.at/wp-content/uploads/Galeriefoto-Zwischenstopp-am-Zeller-See-c-SalzburgerLand-Tourismus-Markus-Greber.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081227/https://www.radtouren.at/wp-content/uploads/TV-Ruprecht-54-Rad-Picknick-St.-Ruprecht-c-St.-Ruprecht_die-mosbacher%C2%B4....jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240329081205/https://www.radtouren.at/wp-content/uploads/Galeriefoto-Zwischenstopp-am-Zeller-See-c-SalzburgerLand-Tourismus-Markus-Greber.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    }
+]

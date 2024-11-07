@@ -1,0 +1,2333 @@
+[
+    {
+        "url": "https://web.archive.org/web/20241001083618/https://sweezy-cursors.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618/https://sweezy-cursors.com/wp-content/uploads/page/home/sweezy-cursors-home-page-banner-halloween-2k24.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618cs_/https://sweezy-cursors.com/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618cs_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads-slider/public/assets/css/unslider.css?ver=1.4.7",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618cs_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads-slider/public/assets/css/slider.css?ver=1.4.7",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618cs_/https://sweezy-cursors.com/wp-content/themes/cursortalk/styles/vendor.css?ver=1683359401",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618cs_/https://sweezy-cursors.com/wp-content/themes/cursortalk/styles/main.css?ver=1726049556",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618cs_/https://sweezy-cursors.com/wp-content/themes/cursortalk/style.css?ver=6.6.2",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618cs_/https://sweezy-cursors.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads/admin/assets/js/advertisement.js?ver=1.52.4",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads-slider/public/assets/js/unslider.min.js?ver=1.4.7",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads-slider/public/assets/js/jquery.event.move.js?ver=1.4.7",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads-slider/public/assets/js/jquery.event.swipe.js?ver=1.4.7",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js?ver=1.52.4",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-content/themes/cursortalk/scripts/vendor/modernizr.js?ver=6.6.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-content/themes/cursortalk/scripts/vendor.js?ver=1674923744",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/page/home/sweezy-cursors-home-page-banner-halloween-2k24.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/among-us-yellow-twerk-animated/among-us-yellow-twerk-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732cs_/https://sweezy-cursors.com/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001084023cs_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads-slider/public/assets/css/unslider.css?ver=1.4.7",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241003001252cs_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads-slider/public/assets/css/slider.css?ver=1.4.7",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732cs_/https://sweezy-cursors.com/wp-content/themes/cursortalk/styles/vendor.css?ver=1683359401",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732cs_/https://sweezy-cursors.com/wp-content/themes/cursortalk/style.css?ver=6.6.2",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732cs_/https://sweezy-cursors.com/wp-content/themes/cursortalk/styles/main.css?ver=1726049556",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732cs_/https://sweezy-cursors.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042034/https://sweezy-cursors.com/wp-content/uploads/page/home/sweezy-cursors-home-page-banner-halloween-2k24.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001115100js_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads/admin/assets/js/advertisement.js?ver=1.52.4",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733js_/https://sweezy-cursors.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732js_/https://sweezy-cursors.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733js_/https://sweezy-cursors.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001095706js_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads-slider/public/assets/js/unslider.min.js?ver=1.4.7",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001131125js_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads-slider/public/assets/js/jquery.event.move.js?ver=1.4.7",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241003025405js_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads-slider/public/assets/js/jquery.event.swipe.js?ver=1.4.7",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001094129js_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js?ver=1.52.4",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733js_/https://sweezy-cursors.com/wp-content/themes/cursortalk/scripts/vendor/modernizr.js?ver=6.6.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733js_/https://sweezy-cursors.com/wp-content/themes/cursortalk/scripts/vendor.js?ver=1674923744",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042034im_/https://sweezy-cursors.com/wp-content/uploads/page/home/sweezy-cursors-home-page-banner-halloween-2k24.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002175550im_/https://sweezy-cursors.com/wp-content/uploads/cursor/among-us-yellow-twerk-animated/among-us-yellow-twerk-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/2021/04/sweezy-cursors-logo.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/uploads/2021/04/sweezy-cursors-logo.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001113015js_/https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/AvenirNextCyr-Regular.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/icons/search-icon.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads-pro/assets/js/advanced-ads-pro.min.js?ver=2.26.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-content/themes/cursortalk/scripts/main.js?ver=1717585374",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-content/themes/cursortalk/scripts/constructor.js?ver=1681750049",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://dyou03zkatmo1.cloudfront.net/sweezy_cursors/scripts/cursor_preview/cursor-pack-preview_1_0_4.js?ver=6.6.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-content/themes/cursortalk/scripts/cur-files-download.js?ver=1725629672",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-content/themes/cursortalk/scripts/ajax-scripts.js?ver=1681765741",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads-pro/assets/js/base.min.js?ver=2.26.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7538024863465087",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://fundingchoicesmessages.google.com/i/pub-7538024863465087?ers=1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/page/home/banner-home-mobile.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/page/home/dark-banner-home-mobile.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/minecraft-enchanted-netherite-sword-animated/minecraft-enchanted-netherite-sword-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/black-rainbow-stroke-gradient-animated/black-rainbow-stroke-gradient-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/hello-kitty-hearts-pixel-animated/hello-kitty-hearts-pixel-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/matrix-pixel-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/lava/lava-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/mickey-mouse-hand-f-you/mickey-mouse-hand-f-you-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/jujutsu-kaisen-chibi-satoru-gojo-animated/jujutsu-kaisen-chibi-satoru-gojo-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/demon-slayer-water-breathing-sword-animated/demon-slayer-water-breathing-sword-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/lightning-speed-arrow-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/among-us-john-wick-skin/among-us-john-wick-skin-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/mclaren-720s/mclaren-720s-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/sanrio-cute-cinnamoroll-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/dancing-toothless-meme-animated/dancing-toothless-meme-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/trollface-meme-animated/trollface-meme-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/celestial-arrow-moon-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/sanrio-cinnamoroll-winking-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/korean-reaction-happy-cat-meme-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/black-amp-purple-stroke-gradient-animated/black-purple-stroke-gradient-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/one-piece-awesome-roronoa-zoro/one-piece-awesome-roronoa-zoro-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001083618/https%3A//sweezy-cursors.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_RESET"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/pokemon-charizard-animated/pokemon-charizard-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/fc-barcelona-logo-animated/fc-barcelona-logo-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/minecraft-enchanted-diamond-sword-animated/minecraft-enchanted-diamond-sword-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/minecraft-zombie-steve-pickaxe-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/messi-amp-world-cup-animated/messi-world-cup-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/purple-magic-wand-crystal-animated/purple-magic-wand-crystal-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/halloween-crawling-spider-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/jujutsu-kaisen-satoru-cursed-technique-reversal-animated/jujutsu-kaisen-satoru-cursed-technique-reversal-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/kawaii-green-pear-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/orange-gradient-animated/orange-gradient-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/pusheen-the-cat-animated/pusheen-the-cat-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/playstation-5-pro-dualshock-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/anime-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/gradient-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/games-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/memes-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cartoons-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/roblox-cursors-collection.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/star-wars-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/cute-cursors-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/pokemon-cursor-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/sanrio-cursor-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/animals-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/3d-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/super-mario-cursor-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/dragon-ball-cursors-collection.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/moviestv-cursor-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/books-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/demon-slayer-cursors-collection.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/minecraft-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/jujutsu-kaisen-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/spongebob-squarepants-cursor-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/supercars-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/prank-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/food-drinks-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/harry-potter-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/naruto-cursor-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/music-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/basic-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fsweezy-cursors.com%2F&timestamp=20241001083618",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/fnaf-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/dc-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/art-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/marvel-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/mix-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/aesthetics-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/icons/arrow-down.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/2020/10/install-img.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/2021/05/sweezy-cursors-logo-white.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/popup-img-1.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/donate-hands.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/popup-img-3.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/sweezy-community-icon-white-32.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/uploads/bro-mon-chickarange-floating-banner.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/popup/coffee-popup/sweezy-caffeine-queen.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618/https://static.addtoany.com/menu/page.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618/https://www.googletagmanager.com/gtm.js?id=GTM-W6WJ8QZ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fsweezy-cursors.com%2F&collection=web",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618/http://web.archive.org/screenshot/https://sweezy-cursors.com/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/web-screenshot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/fonts/Iconochive-Regular.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/icons/dark-arrow-top-right-icon.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/icons/home-icon.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/icons/sun-icon.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/icons/moon-icon.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/banner/dark-banner-home-bg.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/banner/dark-banner-before.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/other/title-shortline-white.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/other/dark-title-line.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/other/dark-title-arrows.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/BigJohn.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/AvenirNextCyr-Bold.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/AvenirNextCyr-Demi.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/fa-solid-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/AvenirNextCyr-Medium.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/AvenirNextCyr-Regular.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/icons/search-icon.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001102244js_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads-pro/assets/js/advanced-ads-pro.min.js?ver=2.26.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733js_/https://sweezy-cursors.com/wp-content/themes/cursortalk/scripts/constructor.js?ver=1681750049",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733js_/https://sweezy-cursors.com/wp-content/themes/cursortalk/scripts/main.js?ver=1717585374",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/other/dark-bg-category.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/fa-brands-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/Raleway-SemiBold.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125732im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/Raleway-Black.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733js_/https://dyou03zkatmo1.cloudfront.net/sweezy_cursors/scripts/cursor_preview/cursor-pack-preview_1_0_4.js?ver=6.6.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733js_/https://sweezy-cursors.com/wp-content/themes/cursortalk/scripts/cur-files-download.js?ver=1725629672",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733js_/https://sweezy-cursors.com/wp-content/themes/cursortalk/scripts/ajax-scripts.js?ver=1681765741",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001101515js_/https://sweezy-cursors.com/wp-content/plugins/advanced-ads-pro/assets/js/base.min.js?ver=2.26.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241004182659js_/https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7538024863465087",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125818im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/BigJohn.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/AvenirNextCyr-Demi.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/AvenirNextCyr-Medium.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/AvenirNextCyr-Bold.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/fa-solid-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125734im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/fa-brands-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125734im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/Raleway-SemiBold.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125734im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/fonts/Raleway-Black.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/icons/dark-arrow-top-right-icon.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/icons/home-icon.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/icons/sun-icon.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/icons/moon-icon.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042045im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/banner/dark-banner-home-bg.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042044im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/banner/dark-banner-before.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042044im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/other/title-shortline-white.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125734im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/other/dark-title-line.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/other/dark-title-arrows.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618/https://cdn.buymeacoffee.com/assets/img/widget/loader.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001113015/https://cdn.buymeacoffee.com/widget/assets/coffee%20cup.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042045im_/https://sweezy-cursors.com/wp-content/uploads/page/home/banner-home-mobile.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042045im_/https://sweezy-cursors.com/wp-content/uploads/page/home/dark-banner-home-mobile.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002175550im_/https://sweezy-cursors.com/wp-content/uploads/cursor/minecraft-enchanted-netherite-sword-animated/minecraft-enchanted-netherite-sword-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002175553im_/https://sweezy-cursors.com/wp-content/uploads/cursor/black-rainbow-stroke-gradient-animated/black-rainbow-stroke-gradient-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002175553im_/https://sweezy-cursors.com/wp-content/uploads/cursor/hello-kitty-hearts-pixel-animated/hello-kitty-hearts-pixel-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002175553im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/matrix-pixel-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002175554im_/https://sweezy-cursors.com/wp-content/uploads/cursor/lava/lava-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002175553im_/https://sweezy-cursors.com/wp-content/uploads/cursor/mickey-mouse-hand-f-you/mickey-mouse-hand-f-you-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002175553im_/https://sweezy-cursors.com/wp-content/uploads/cursor/jujutsu-kaisen-chibi-satoru-gojo-animated/jujutsu-kaisen-chibi-satoru-gojo-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042046im_/https://sweezy-cursors.com/wp-content/uploads/cursor/demon-slayer-water-breathing-sword-animated/demon-slayer-water-breathing-sword-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001101358im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/lightning-speed-arrow-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042046im_/https://sweezy-cursors.com/wp-content/uploads/cursor/among-us-john-wick-skin/among-us-john-wick-skin-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240622130127im_/https://sweezy-cursors.com/wp-content/uploads/cursor/mclaren-720s/mclaren-720s-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926233748im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/sanrio-cute-cinnamoroll-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042046im_/https://sweezy-cursors.com/wp-content/uploads/cursor/dancing-toothless-meme-animated/dancing-toothless-meme-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042046im_/https://sweezy-cursors.com/wp-content/uploads/cursor/trollface-meme-animated/trollface-meme-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001095227im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/celestial-arrow-moon-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042046im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/sanrio-cinnamoroll-winking-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042046im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/korean-reaction-happy-cat-meme-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042046im_/https://sweezy-cursors.com/wp-content/uploads/cursor/black-amp-purple-stroke-gradient-animated/black-purple-stroke-gradient-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001111342im_/https://sweezy-cursors.com/wp-content/uploads/cursor/one-piece-awesome-roronoa-zoro/one-piece-awesome-roronoa-zoro-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240907073807im_/https://sweezy-cursors.com/wp-content/uploads/cursor/pokemon-charizard-animated/pokemon-charizard-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001105952im_/https://sweezy-cursors.com/wp-content/uploads/cursor/fc-barcelona-logo-animated/fc-barcelona-logo-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042047im_/https://sweezy-cursors.com/wp-content/uploads/cursor/minecraft-enchanted-diamond-sword-animated/minecraft-enchanted-diamond-sword-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001101038im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/minecraft-zombie-steve-pickaxe-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240910064909im_/https://sweezy-cursors.com/wp-content/uploads/cursor/messi-amp-world-cup-animated/messi-world-cup-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241003011046im_/https://sweezy-cursors.com/wp-content/uploads/cursor/purple-magic-wand-crystal-animated/purple-magic-wand-crystal-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001145054im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/halloween-crawling-spider-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042046im_/https://sweezy-cursors.com/wp-content/uploads/cursor/jujutsu-kaisen-satoru-cursed-technique-reversal-animated/jujutsu-kaisen-satoru-cursed-technique-reversal-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002060939im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/kawaii-green-pear-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240621154316im_/https://sweezy-cursors.com/wp-content/uploads/cursor/orange-gradient-animated/orange-gradient-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240415180055im_/https://sweezy-cursors.com/wp-content/uploads/cursor/pusheen-the-cat-animated/pusheen-the-cat-animated-custom-cursor.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001090534im_/https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/playstation-5-pro-dualshock-custom-cursor.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042047im_/https://sweezy-cursors.com/wp-content/uploads/anime-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042047im_/https://sweezy-cursors.com/wp-content/uploads/gradient-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042047im_/https://sweezy-cursors.com/wp-content/uploads/games-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042047im_/https://sweezy-cursors.com/wp-content/uploads/memes-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042047im_/https://sweezy-cursors.com/wp-content/uploads/cartoons-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042047im_/https://sweezy-cursors.com/wp-content/uploads/roblox-cursors-collection.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042047im_/https://sweezy-cursors.com/wp-content/uploads/star-wars-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/uploads/cute-cursors-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042047im_/https://sweezy-cursors.com/wp-content/uploads/pokemon-cursor-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042047im_/https://sweezy-cursors.com/wp-content/uploads/sanrio-cursor-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042048im_/https://sweezy-cursors.com/wp-content/uploads/animals-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042049im_/https://sweezy-cursors.com/wp-content/uploads/3d-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042047im_/https://sweezy-cursors.com/wp-content/uploads/super-mario-cursor-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042049im_/https://sweezy-cursors.com/wp-content/uploads/dragon-ball-cursors-collection.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042048im_/https://sweezy-cursors.com/wp-content/uploads/moviestv-cursor-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042048im_/https://sweezy-cursors.com/wp-content/uploads/books-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042048im_/https://sweezy-cursors.com/wp-content/uploads/demon-slayer-cursors-collection.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042048im_/https://sweezy-cursors.com/wp-content/uploads/minecraft-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042048im_/https://sweezy-cursors.com/wp-content/uploads/jujutsu-kaisen-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042048im_/https://sweezy-cursors.com/wp-content/uploads/spongebob-squarepants-cursor-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042049im_/https://sweezy-cursors.com/wp-content/uploads/supercars-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042052im_/https://sweezy-cursors.com/wp-content/uploads/prank-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042050im_/https://sweezy-cursors.com/wp-content/uploads/food-drinks-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042050im_/https://sweezy-cursors.com/wp-content/uploads/harry-potter-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042050im_/https://sweezy-cursors.com/wp-content/uploads/naruto-cursor-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042050im_/https://sweezy-cursors.com/wp-content/uploads/music-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042051im_/https://sweezy-cursors.com/wp-content/uploads/basic-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042050im_/https://sweezy-cursors.com/wp-content/uploads/fnaf-cursors-collection.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042051im_/https://sweezy-cursors.com/wp-content/uploads/dc-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042051im_/https://sweezy-cursors.com/wp-content/uploads/art-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042051im_/https://sweezy-cursors.com/wp-content/uploads/marvel-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042051im_/https://sweezy-cursors.com/wp-content/uploads/mix-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042051im_/https://sweezy-cursors.com/wp-content/uploads/aesthetics-cursors-collection.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/icons/arrow-down.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/uploads/2020/10/install-img.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/uploads/popup-img-1.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/uploads/2021/05/sweezy-cursors-logo-white.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/uploads/donate-hands.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/uploads/popup-img-3.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125733im_/https://sweezy-cursors.com/wp-content/uploads/sweezy-community-icon-white-32.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125734im_/https://sweezy-cursors.com/wp-content/uploads/bro-mon-chickarange-floating-banner.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125734im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/popup/coffee-popup/sweezy-caffeine-queen.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006042052im_/https://sweezy-cursors.com/wp-content/themes/cursortalk/images/other/dark-bg-category.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002125735js_/https://fundingchoicesmessages.google.com/i/pub-7538024863465087?ers=1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083123/https://static.addtoany.com/menu/page.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241004182659/https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202410020101/show_ads_impl.js?bust=31087736",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001113020/https://cdn.buymeacoffee.com/widget/assets/coffee%20cup.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001053352/https://cdn.buymeacoffee.com/assets/img/widget/loader.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083123/https://static.addtoany.com/menu/sm.25.html",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://static.addtoany.com/menu/modules/core.D0Uc7kY6.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006134813/https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202410020101/show_ads_impl.js?bust=31087736",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001084847/https://static.addtoany.com/menu/sm.25.html",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618js_/https://fundingchoicesmessages.google.com/f/AGSKWxVrv9isjiS-DhgRcsjNdvQvRIO87pvqq-ZwBvAgY66ApxfPPTXkCbYEtSA6l4_Kotj0asF8SDyia0Bv67uixu4qupbhxlj-5eeH2uDwQpPQFGWavEz4Ey3E52rkaKlg_J4fR7YryQ==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzI3NzcxNzgxLDgyMDAwMDAwXSxudWxsLG51bGwsbnVsbCxbbnVsbCxbN11dLCJodHRwczovL3N3ZWV6eS1jdXJzb3JzLmNvbS8iLG51bGwsW1s4LCItVTNTM2o1SWVfMCJdLFs5LCJlbi1VUyJdLFsxOSwiMiJdXV0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001090625js_/https://static.addtoany.com/menu/modules/core.D0Uc7kY6.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241006134813/https://googleads.g.doubleclick.net/pagead/html/r20241001/r20190131/zrt_lookup.html",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618if_/https://googleads.g.doubleclick.net/pagead/ads?gdpr=0&us_privacy=1---&gpp_sid=-1&client=ca-pub-7538024863465087&output=html&adk=1812271804&adf=3025194257&abgtt=6&lmt=1729461106&plaf=1%3A2%2C7%3A2&plat=1%3A128%2C2%3A128%2C3%3A128%2C4%3A128%2C9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32&format=0x0&url=https%3A%2F%2Fsweezy-cursors.com%2F&pra=5&wgl=1&aihb=0&asro=0&ailel=1~2~4~6~7~8~9~10~11~12~13~14~15~16~17~18~19~20~21~24~29~30~34&aiael=1~2~4~6~7~8~9~10~11~12~13~14~15~16~17~18~19~20~21~24~29~30~34&aifxl=29_18~30_19&aiixl=29_5~30_6&aslmct=0.7&asamct=0.7&aipecl=1&uach=WyJMaW51eCIsIjQuMTUuMCIsIng4NiIsIiIsIjEzMC4wLjY3MjMuNTgiLG51bGwsMCxudWxsLCI2NCIsW1siTm90P0FfQnJhbmQiLCI5OS4wLjAuMCJdLFsiQ2hyb21pdW0iLCIxMzAuMC42NzIzLjU4Il1dLDBd&dt=1727771779938&bpp=25&bdt=2777&idt=1201&shv=r20241001&mjsv=m202410020101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&nras=1&correlator=3227798127029&frm=20&pv=2&u_tz=0&u_his=2&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_sd=1&dmc=8&adx=-12245933&ady=-12245933&biw=1905&bih=1080&scr_x=0&scr_y=0&eid=44759875%2C44759926%2C44759842%2C95343852%2C44798934%2C95341936%2C95343328%2C31087736%2C95339679&oid=2&pvsid=2816390739193007&tmod=138759840&uas=0&nvt=1&fsapi=1&fc=1920&brdim=0%2C31%2C0%2C31%2C1920%2C0%2C1919%2C1079%2C1920%2C1080&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&bz=1&td=1&tdf=0&psd=W251bGwsbnVsbCxudWxsLDFd&nt=1&ifi=1&uci=a!1&fsb=1&dtd=1230",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618if_/https://googleads.g.doubleclick.net/pagead/ads?gdpr=0&us_privacy=1---&gpp_sid=-1&client=ca-pub-7538024863465087&output=html&h=90&slotname=1748041062&adk=2802364498&adf=1711784509&pi=t.ma~as.1748041062&w=728&abgtt=6&lmt=1729461106&format=728x90&url=https%3A%2F%2Fsweezy-cursors.com%2F&wgl=1&uach=WyJMaW51eCIsIjQuMTUuMCIsIng4NiIsIiIsIjEzMC4wLjY3MjMuNTgiLG51bGwsMCxudWxsLCI2NCIsW1siTm90P0FfQnJhbmQiLCI5OS4wLjAuMCJdLFsiQ2hyb21pdW0iLCIxMzAuMC42NzIzLjU4Il1dLDBd&dt=1727771779963&bpp=3&bdt=2802&idt=1211&shv=r20241001&mjsv=m202410020101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&prev_fmts=0x0&nras=1&correlator=3227798127029&frm=20&pv=1&u_tz=0&u_his=2&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_sd=1&dmc=8&adx=589&ady=767&biw=1905&bih=1080&scr_x=0&scr_y=0&eid=44759875%2C44759926%2C44759842%2C95343852%2C44798934%2C95341936%2C95343328%2C31087736%2C95339679&oid=2&pvsid=2816390739193007&tmod=138759840&uas=0&nvt=1&fc=1920&brdim=0%2C31%2C0%2C31%2C1920%2C0%2C1919%2C1079%2C1920%2C1080&vis=1&rsz=o%7C%7CeE%7C&abl=CS&pfx=0&fu=0&bc=31&bz=1&td=1&tdf=0&psd=W251bGwsbnVsbCxudWxsLDFd&nt=1&ifi=2&uci=a!2&fsb=1&dtd=1219",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618if_/https://googleads.g.doubleclick.net/pagead/ads?gdpr=0&us_privacy=1---&gpp_sid=-1&client=ca-pub-7538024863465087&output=html&h=90&slotname=1804539324&adk=1023594390&adf=1406904533&pi=t.ma~as.1804539324&w=728&abgtt=6&lmt=1729461106&format=728x90&url=https%3A%2F%2Fsweezy-cursors.com%2F&wgl=1&uach=WyJMaW51eCIsIjQuMTUuMCIsIng4NiIsIiIsIjEzMC4wLjY3MjMuNTgiLG51bGwsMCxudWxsLCI2NCIsW1siTm90P0FfQnJhbmQiLCI5OS4wLjAuMCJdLFsiQ2hyb21pdW0iLCIxMzAuMC42NzIzLjU4Il1dLDBd&dt=1727771779966&bpp=2&bdt=2805&idt=1225&shv=r20241001&mjsv=m202410020101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&prev_fmts=0x0%2C728x90&nras=1&correlator=3227798127029&frm=20&pv=1&u_tz=0&u_his=2&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_sd=1&dmc=8&adx=589&ady=1947&biw=1905&bih=1080&scr_x=0&scr_y=0&eid=44759875%2C44759926%2C44759842%2C95343852%2C44798934%2C95341936%2C95343328%2C31087736%2C95339679&oid=2&pvsid=2816390739193007&tmod=138759840&uas=0&nvt=1&fc=1920&brdim=0%2C31%2C0%2C31%2C1920%2C0%2C1919%2C1079%2C1920%2C1080&vis=1&rsz=o%7C%7CeEbr%7C&abl=CS&pfx=0&fu=0&bc=31&bz=1&td=1&tdf=0&psd=W251bGwsbnVsbCxudWxsLDFd&nt=1&ifi=3&uci=a!3&btvi=1&fsb=1&dtd=1230",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001083618if_/https://googleads.g.doubleclick.net/pagead/ads?gdpr=0&us_privacy=1---&gpp_sid=-1&client=ca-pub-7538024863465087&output=html&h=90&slotname=1804539324&adk=79772627&adf=4257113661&pi=t.ma~as.1804539324&w=728&abgtt=6&lmt=1729461106&format=728x90&url=https%3A%2F%2Fsweezy-cursors.com%2F&wgl=1&uach=WyJMaW51eCIsIjQuMTUuMCIsIng4NiIsIiIsIjEzMC4wLjY3MjMuNTgiLG51bGwsMCxudWxsLCI2NCIsW1siTm90P0FfQnJhbmQiLCI5OS4wLjAuMCJdLFsiQ2hyb21pdW0iLCIxMzAuMC42NzIzLjU4Il1dLDBd&dt=1727771779968&bpp=2&bdt=2808&idt=1235&shv=r20241001&mjsv=m202410020101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&prev_fmts=0x0%2C728x90%2C728x90&nras=1&correlator=3227798127029&frm=20&pv=1&u_tz=0&u_his=2&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_sd=1&dmc=8&adx=589&ady=3234&biw=1905&bih=1080&scr_x=0&scr_y=0&eid=44759875%2C44759926%2C44759842%2C95343852%2C44798934%2C95341936%2C95343328%2C31087736%2C95339679&oid=2&pvsid=2816390739193007&tmod=138759840&uas=0&nvt=1&fc=1920&brdim=0%2C31%2C0%2C31%2C1920%2C0%2C1919%2C1079%2C1920%2C1080&vis=1&rsz=o%7C%7CeEbr%7C&abl=CS&pfx=0&cms=5&fu=0&bc=31&bz=1&td=1&tdf=0&psd=W251bGwsbnVsbCxudWxsLDFd&nt=1&ifi=4&uci=a!4&btvi=2&fsb=1&dtd=1241",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241008011325/https://googleads.g.doubleclick.net/pagead/html/r20241001/r20190131/zrt_lookup.html",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/archive.min.css?v=iq6QSMQa",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/styles.css?v=NJKrxW82",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/web.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/logo_archive-sm.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/archive.min.css?v=iq6QSMQa",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/styles.css?v=NJKrxW82",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/web.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/archive.min.css?v=iq6QSMQa",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/styles.css?v=NJKrxW82",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/web.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/archive.min.css?v=iq6QSMQa",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/styles.css?v=NJKrxW82",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ui.js?v=7LYlZ-C2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/web.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/logo_archive-sm.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/logo_archive-sm.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    }
+]

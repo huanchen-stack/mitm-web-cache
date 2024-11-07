@@ -1,0 +1,737 @@
+[
+    {
+        "url": "https://web.archive.org/web/20241001162935/https://www.dailymotion.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162935/https://cdn.privacy-mgmt.com/unified/wrapperMessagingWithoutDetection.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162935/https://geo2.dailymotion.com/player/xtv3w.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162935cs_/https://static1.dmcdn.net/neon-user-ssr/prod/app-styles.d6b8333cabdad9465445.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001153640cs_/https://static1.dmcdn.net/neon-user-ssr/prod/app-styles.d6b8333cabdad9465445.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163808/https://cdn.privacy-mgmt.com/unified/wrapperMessagingWithoutDetection.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://geo2.dailymotion.com/player/xtv3w.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162935/https://webed.dm-event.net/",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162935js_/https://geo2.dailymotion.com/player/xtv3w.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162935js_/https://static1.dmcdn.net/neon-user-ssr/prod/app.c8d00ef6a5bee6579436.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162935js_/https://cdn.privacy-mgmt.com/unified/wrapperMessagingWithoutDetection.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001162935/https%3A//www.dailymotion.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.dailymotion.com%2F&collection=web",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162935/http://web.archive.org/screenshot/https://www.dailymotion.com/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.dailymotion.com%2F&timestamp=20241001162935",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/web-screenshot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/fonts/Iconochive-Regular.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001201747/https://webed.dm-event.net/",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162935/https://static1.dmcdn.net/neon-user-ssr/prod/favicons/manifest.2cb1641030856b343a54a7b78ade9295.json",
+        "method": "GET",
+        "resourceType": "manifest",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001200059/https://static1.dmcdn.net/neon-user-ssr/prod/favicons/manifest.2cb1641030856b343a54a7b78ade9295.json",
+        "method": "GET",
+        "resourceType": "manifest",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240722140319/http://web.archive.org/screenshot/http://dailymotion.com/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936js_/https://geo2.dailymotion.com/player/xtv3w.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://pebed.dm-event.net",
+        "method": "POST",
+        "resourceType": "fetch",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://pebed.dm-event.net",
+        "method": "POST",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://static1.dmcdn.net/playerv5/pes.pip.dcdbe336.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://geo2.dailymotion.com/player/xtv3w.html?",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://pebed.dm-event.net",
+        "method": "POST",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001153640im_/https://static1.dmcdn.net/ABCFavorit-Regular.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001153642js_/https://static1.dmcdn.net/neon-user-ssr/prod/app.c8d00ef6a5bee6579436.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163808js_/https://cdn.privacy-mgmt.com/unified/wrapperMessagingWithoutDetection.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163902/https://pebed.dm-event.net/",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://static1.dmcdn.net/playerv5/dmp.infopack.723b303b667a18aedc93.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://static1.dmcdn.net/playerv5/dmp.photon_vendor.192571b3a04e7ea1549d.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://static1.dmcdn.net/playerv5/dmp.photon_boot.65c547c940221277115d.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://static1.dmcdn.net/playerv5/dmp.photon_app.5ff1bc4b760f85b98828.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://static1.dmcdn.net/playerv5/dmp.photon_player.1395134643ce7df6691b.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936js_/https://static1.dmcdn.net/playerv5/dmp.includes.502d5bf2d723f29ddfbb.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936js_/https://static1.dmcdn.net/playerv5/dmp.infopack.723b303b667a18aedc93.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936js_/https://static1.dmcdn.net/playerv5/dmp.photon_vendor.192571b3a04e7ea1549d.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936js_/https://static1.dmcdn.net/playerv5/dmp.photon_boot.65c547c940221277115d.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001161206im_/https://static1.dmcdn.net/ABCFavorit-Regular.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163902/https://pebed.dm-event.net/",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163902/https://pebed.dm-event.net/",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162935/https://webed.dm-event.net/",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163904/https://static1.dmcdn.net/playerv5/dmp.infopack.723b303b667a18aedc93.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163905/https://static1.dmcdn.net/playerv5/dmp.photon_vendor.192571b3a04e7ea1549d.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163906/https://static1.dmcdn.net/playerv5/dmp.photon_boot.65c547c940221277115d.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163908/https://static1.dmcdn.net/playerv5/dmp.photon_app.5ff1bc4b760f85b98828.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163909/https://static1.dmcdn.net/playerv5/dmp.photon_player.1395134643ce7df6691b.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163912js_/https://static1.dmcdn.net/playerv5/dmp.includes.502d5bf2d723f29ddfbb.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163904js_/https://static1.dmcdn.net/playerv5/dmp.infopack.723b303b667a18aedc93.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163905js_/https://static1.dmcdn.net/playerv5/dmp.photon_vendor.192571b3a04e7ea1549d.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163906js_/https://static1.dmcdn.net/playerv5/dmp.photon_boot.65c547c940221277115d.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001201747/https://webed.dm-event.net/",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://imasdk.googleapis.com/js/sdkloader/ima3.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://static1.dmcdn.net/playerv5/dmp.advertising.0d33ba1183d632dab6f8.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://static1.dmcdn.net/playerv5/dmp.locale-en-US.7b13028918ac63c32459.json",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163912/https://pebed.dm-event.net",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163912/https://pebed.dm-event.net",
+        "method": "POST",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163904/https://vendorlist.dmcdn.net/v2/archives/vendor-list-v204.json",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162836/https://imasdk.googleapis.com/js/sdkloader/ima3.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163911/https://static1.dmcdn.net/playerv5/dmp.advertising.0d33ba1183d632dab6f8.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163902/https://pebed.dm-event.net/",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163902/https://pebed.dm-event.net/",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162937/https://static1.dmcdn.net/playerv5/dmp.locale-en-US.7b13028918ac63c32459.json",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001212347/https://vendorlist.dmcdn.net/v2/archives/vendor-list-v204.json",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://static1.dmcdn.net/playerv5/dmp.quality_switch_mse.c574aa974221b397210c.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://static1.dmcdn.net/ABCFavorit-Bold.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://static1.dmcdn.net/ABCFavorit-Regular.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163904/https://vendorlist.dmcdn.net/v3/archives/vendor-list-v63.json",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://static1.dmcdn.net/playerv5/dmp.omweb-v1.2f8096b04dea540d5bfd.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://static1.dmcdn.net/playerv5/dmp.omid-session-client-v1.582634dfc4708ea0ffca.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163911/https://imasdk.googleapis.com/js/sdkloader/ima3.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162937/https://static1.dmcdn.net/ABCFavorit-Bold.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163902/https://static1.dmcdn.net/playerv5/dmp.quality_switch_mse.c574aa974221b397210c.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162936/https://static1.dmcdn.net/playerv5/dmp.controls_vod_secondary.34286abe6cef8bf9c0cb.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163540/https://vendorlist.dmcdn.net/v3/archives/vendor-list-v63.json",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163908/https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123154/https://static1.dmcdn.net/playerv5/pes.pip.dcdbe336.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162935js_/https://cdn.privacy-mgmt.com/unified/4.25.2/usnat.9dc87f68478d1cf38b3d.bundle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162935/https://cdn.privacy-mgmt.com/mms/v2/get_site_data?hasCsp=true&href=https%3A%2F%2Fwww.dailymotion.com%2F&account_id=1945",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162937/https://static1.dmcdn.net/playerv5/dmp.omweb-v1.2f8096b04dea540d5bfd.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162937/https://static1.dmcdn.net/playerv5/dmp.omid-session-client-v1.582634dfc4708ea0ffca.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163901/https://imasdk.googleapis.com/js/sdkloader/ima3.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162938/https://static1.dmcdn.net/playerv5/dmp.controls_vod_secondary.34286abe6cef8bf9c0cb.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001162935/https://cdn.privacy-mgmt.com/wrapper/v2/meta-data?hasCsp=true&accountId=1945&env=prod&metadata=%7B%22usnat%22%3A%7B%7D%7D&propertyId=34227&scriptVersion=4.25.2&scriptType=unified",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001163922/https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    }
+]

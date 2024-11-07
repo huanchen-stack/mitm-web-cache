@@ -1,0 +1,1360 @@
+[
+    {
+        "url": "https://web.archive.org/web/20240524233729/https://codepre.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/themes/hello-elementor/style.min.css?ver=3.0.1",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.1",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.1",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.21.7",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/uploads/elementor/css/post-24.css?ver=1713441779",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.19.2",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/uploads/elementor/css/global.css?ver=1713441780",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/uploads/elementor/css/post-25.css?ver=1714206229",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/uploads/elementor/css/post-66.css?ver=1713603365",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/uploads/elementor/css/post-71.css?ver=1714129234",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://fonts.googleapis.com/css?family=Kanit&ver=6.5.3",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://fonts.googleapis.com/css?family=Kanit%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSarabun%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.5.3",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/IMG_0600-1-1024x329.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240525000604cs_/https://codepre.com/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.1",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233517cs_/https://codepre.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240525000619cs_/https://codepre.com/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.1",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233429cs_/https://codepre.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.21.7",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232750cs_/https://codepre.com/wp-content/uploads/elementor/css/post-24.css?ver=1713441779",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524235123cs_/https://codepre.com/wp-content/uploads/elementor/css/global.css?ver=1713441780",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232841cs_/https://codepre.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524234452cs_/https://codepre.com/wp-content/themes/hello-elementor/style.min.css?ver=3.0.1",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240529094702cs_/https://fonts.googleapis.com/css?family=Kanit%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSarabun%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.5.3",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240527104837cs_/https://codepre.com/wp-content/uploads/elementor/css/post-71.css?ver=1714129234",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233124cs_/https://codepre.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232734cs_/https://codepre.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524234106cs_/https://codepre.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.19.2",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232900cs_/https://codepre.com/wp-content/uploads/elementor/css/post-66.css?ver=1713603365",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524172417cs_/https://fonts.googleapis.com/css?family=Kanit&ver=6.5.3",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524235553cs_/https://codepre.com/wp-content/uploads/elementor/css/post-25.css?ver=1714206229",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232854cs_/https://codepre.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/UFA222_%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A-1-%E0%B9%83%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2_600x340.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/UFA222_%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9_600x340.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240525000059im_/https://codepre.com/wp-content/uploads/2022/05/IMG_0600-1-1024x329.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233450im_/https://codepre.com/wp-content/uploads/2022/05/UFA222_%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A-1-%E0%B9%83%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2_600x340.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729cs_/https://codepre.com/wp-content/plugins/pagination/css/nav-style.css?ver=1.2.4",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.19.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.21.7",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.21.7",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240524233729/https%3A//codepre.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.19.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.7",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240524233729/https%3A//codepre.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.19.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://codepre.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.19.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://www.googletagmanager.com/gtag/js?id=GT-WF78RZD",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://www.googletagmanager.com/gtag/js?id=G-FTSHDXL9LR",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/Untitled-1.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/Untitled-2.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/06/cropped-mangotree-01.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/p1cw7rt7x14v3sk3mim6xmogfnbwpfy62rjds8k8z8.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/p1cw9qb45ltdajpp6v37mmw0zjofqqq1cggsrznq0k.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/p1cwc5q3t751aa6q0evikitw8dpkmld2oh4yeq23xw.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/p1cwdkhe292ip84zs0tdb60sb6re68ykvgd6bnyulw.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/p1cwfzwdpue6oym0lklo91ynk0sj23lm7h1byed8j8.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/p1cwi4z5a9bp4zi23hx2xiig9m8mla3lu2j5b36yd0.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fcodepre.com%2F&timestamp=20240524233729",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/line.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/05/Partner.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2024/05/%E0%B8%9C%E0%B8%A5%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A2%E0%B8%B9%E0%B9%82%E0%B8%A3.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2024/05/%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8_.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2024/05/%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A2%E0%B8%B9%E0%B9%82%E0%B8%A3.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2024/04/codepre.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2024/02/%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A-%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%9B.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2024/01/%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A2%E0%B8%B9%E0%B8%9F%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%97.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fcodepre.com%2F&collection=web",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729/http://web.archive.org/screenshot/https://codepre.com/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/web-screenshot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/fonts/Iconochive-Regular.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729if_/https://player.vimeo.com/video/779289939?autoplay=1&playsinline=1&color&autopause=0&loop=1&muted=0&title=1&portrait=1&byline=1",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240529094702im_/https://fonts.gstatic.com/s/kanit/v15/nKKU-Go6G5tXcr4uPhWnVaQ.ttf",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240529094702im_/https://fonts.gstatic.com/s/kanit/v15/nKKZ-Go6G5tXcraVGwU.ttf",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240529094702im_/https://fonts.gstatic.com/s/kanit/v15/nKKU-Go6G5tXcr5KPxWnVaQ.ttf",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240529094702im_/https://fonts.gstatic.com/s/kanit/v15/nKKU-Go6G5tXcr5mOBWnVaQ.ttf",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/11/%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5-UFA222-UFABET-768x768.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729im_/https://codepre.com/wp-content/uploads/2022/11/%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-UFA222-1-768x768.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524235236cs_/https://codepre.com/wp-content/plugins/pagination/css/nav-style.css?ver=1.2.4",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233402js_/https://codepre.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524234511js_/https://codepre.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232717js_/https://codepre.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233646js_/https://codepre.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232734im_/https://codepre.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232854im_/https://codepre.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232815js_/https://codepre.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.19.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233223im_/https://codepre.com/wp-content/uploads/2022/05/UFA222_%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9_600x340.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240528002554if_/https://player.vimeo.com/video/779289939?autoplay=1&playsinline=1&color&autopause=0&loop=1&muted=0&title=1&portrait=1&byline=1",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240721182721im_/https://codepre.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240721182721im_/https://codepre.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240528002554jm_/https://f.vimeocdn.com/p/4.33.8/js/player.module.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240528002554jm_/https://f.vimeocdn.com/p/4.33.8/js/vendor.module.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240528002554/https://f.vimeocdn.com/p/4.33.8/css/player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524234243js_/https://codepre.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233303js_/https://codepre.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.21.7",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524234242js_/https://codepre.com/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524234946js_/https://codepre.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.21.7",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233313js_/https://codepre.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240525062355js_/https://codepre.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240528001855/https://f.vimeocdn.com/p/4.33.8/css/player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232739js_/https://codepre.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.7",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524235207js_/https://codepre.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232851js_/https://codepre.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.19.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232801js_/https://codepre.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240528002554/https://f.vimeocdn.com/p/4.33.8/js/player.module.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240528003127jm_/https://f.vimeocdn.com/p/4.33.8/js/player.module.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240528003128jm_/https://f.vimeocdn.com/p/4.33.8/js/vendor.module.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233931js_/https://codepre.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233617js_/https://codepre.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.19.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240528003127/https://f.vimeocdn.com/p/4.33.8/js/player.module.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232901js_/https://codepre.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.19.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233155im_/https://codepre.com/wp-content/uploads/2022/05/Untitled-1.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232814im_/https://codepre.com/wp-content/uploads/2022/05/Untitled-2.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232841js_/https://www.googletagmanager.com/gtag/js?id=GT-WF78RZD",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524235207js_/https://www.googletagmanager.com/gtag/js?id=G-FTSHDXL9LR",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524234945im_/https://codepre.com/wp-content/uploads/2022/06/cropped-mangotree-01.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233056im_/https://codepre.com/wp-content/uploads/2022/05/p1cw7rt7x14v3sk3mim6xmogfnbwpfy62rjds8k8z8.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729/https://codepre.com/wp-content/plugins/elementor-pro/assets/js/nav-menu.d43af66e5000fd109c04.bundle.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524234309im_/https://codepre.com/wp-content/uploads/2022/05/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729/https://codepre.com/wp-content/plugins/elementor/assets/js/image-carousel.4455c6362492d9067512.bundle.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729/https://codepre.com/wp-content/plugins/elementor/assets/js/video.d11c91c1b2b642a34601.bundle.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729/https://codepre.com/wp-content/plugins/elementor/assets/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233909im_/https://codepre.com/wp-content/uploads/2022/05/p1cwdkhe292ip84zs0tdb60sb6re68ykvgd6bnyulw.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524234243im_/https://codepre.com/wp-content/uploads/2022/05/p1cwc5q3t751aa6q0evikitw8dpkmld2oh4yeq23xw.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232653im_/https://codepre.com/wp-content/uploads/2022/05/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524234046im_/https://codepre.com/wp-content/uploads/2022/05/p1cwfzwdpue6oym0lklo91ynk0sj23lm7h1byed8j8.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233837im_/https://codepre.com/wp-content/uploads/2022/05/line.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729/https://codepre.com/wp-content/plugins/elementor-pro/assets/js/load-more.3ae4d5ec5d7fec660460.bundle.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729/https://codepre.com/wp-content/plugins/elementor-pro/assets/js/posts.caaf3e27e57db8207afc.bundle.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233516im_/https://codepre.com/wp-content/uploads/2022/05/Partner.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240525000003im_/https://codepre.com/wp-content/uploads/2022/05/p1cw9qb45ltdajpp6v37mmw0zjofqqq1cggsrznq0k.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233749im_/https://codepre.com/wp-content/uploads/2024/05/%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8_.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233144im_/https://codepre.com/wp-content/uploads/2024/05/%E0%B8%9C%E0%B8%A5%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A2%E0%B8%B9%E0%B9%82%E0%B8%A3.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233225im_/https://codepre.com/wp-content/uploads/2024/04/codepre.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524234324im_/https://codepre.com/wp-content/uploads/2024/05/%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A2%E0%B8%B9%E0%B9%82%E0%B8%A3.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233139im_/https://codepre.com/wp-content/uploads/2024/01/%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A2%E0%B8%B9%E0%B8%9F%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%97.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233854im_/https://codepre.com/wp-content/uploads/2024/02/%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A-%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%9B.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524234104im_/https://codepre.com/wp-content/uploads/2022/11/%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-UFA222-1-768x768.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524234229im_/https://codepre.com/wp-content/uploads/2022/11/%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5-UFA222-UFABET-768x768.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729js_/https://www.googletagmanager.com/gtag/js?id=G-FTSHDXL9LR&l=dataLayer&cx=c",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240524232935im_/https://codepre.com/wp-content/uploads/2022/05/p1cwi4z5a9bp4zi23hx2xiig9m8mla3lu2j5b36yd0.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240529100202im_/https://fonts.gstatic.com/s/kanit/v15/nKKU-Go6G5tXcr4uPhWnVaQ.ttf",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240529100200im_/https://fonts.gstatic.com/s/kanit/v15/nKKZ-Go6G5tXcraVGwU.ttf",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240529100202im_/https://fonts.gstatic.com/s/kanit/v15/nKKU-Go6G5tXcr5KPxWnVaQ.ttf",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240529100201im_/https://fonts.gstatic.com/s/kanit/v15/nKKU-Go6G5tXcr5mOBWnVaQ.ttf",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524172417im_/https://fonts.gstatic.com/s/kanit/v15/nKKZ-Go6G5tXcraBGwCYdA.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240721182724/https://codepre.com/wp-content/plugins/elementor/assets/js/image-carousel.4455c6362492d9067512.bundle.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002072412/https://codepre.com/wp-content/plugins/elementor-pro/assets/js/nav-menu.d43af66e5000fd109c04.bundle.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 301,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729/https://codepre.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002072412/https://222club.info/",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002072408/https://codepre.com/wp-content/plugins/elementor/assets/js/video.d11c91c1b2b642a34601.bundle.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 301,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002072408/https://222club.info/",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002072408/https://222club.info/",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002072408/https://codepre.com/wp-content/plugins/elementor-pro/assets/js/load-more.3ae4d5ec5d7fec660460.bundle.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 301,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240721182724/https://codepre.com/wp-content/plugins/elementor/assets/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240721182724/https://codepre.com/wp-content/plugins/elementor-pro/assets/js/posts.caaf3e27e57db8207afc.bundle.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002072408/https://222club.info/",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240721182724/https://codepre.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524230109im_/https://fonts.gstatic.com/s/kanit/v15/nKKZ-Go6G5tXcraBGwCYdA.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729/https://region1.google-analytics.com/g/collect?v=2&tid=G-C75L7BJ7QT&gtm=45Pe45m0v9169623596za200&_p=1716593850233&gcd=13l3l3l2l1&npa=1&dma_cps=sypham&dma=1&gdid=dZTNiMT&cid=1456400432.1716593853&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253FA_Brand%3B99.0.0.0%7CChromium%3B130.0.6723.58&uamb=0&uam=&uap=Linux&uapv=4.15.0&uaw=0&are=1&frm=0&pscdl=&_s=1&sid=1716593853&sct=1&seg=1&dl=https%3A%2F%2Fcodepre.com%2F&dt=%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8Cufabet%20%7C%20UFABET%20%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%20%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%94%E0%B8%B5%204%E0%B8%95%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C&en=page_view&_ee=1&tfd=10890",
+        "method": "POST",
+        "resourceType": "ping",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240524233729/https://region1.google-analytics.com/g/collect?v=2&tid=G-FTSHDXL9LR&gtm=45je45m0v9183226760za200zb9169623596&_p=1716593850233&gcd=13l3l3l2l1&npa=1&dma_cps=sypham&dma=1&gdid=dZTNiMT&cid=1456400432.1716593853&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253FA_Brand%3B99.0.0.0%7CChromium%3B130.0.6723.58&uamb=0&uam=&uap=Linux&uapv=4.15.0&uaw=0&are=1&frm=0&pscdl=&_s=1&sid=1716593853&sct=1&seg=1&dl=https%3A%2F%2Fcodepre.com%2F&dt=%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8Cufabet%20%7C%20UFABET%20%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%20%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%94%E0%B8%B5%204%E0%B8%95%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C&en=page_view&_ee=1&tfd=12094",
+        "method": "POST",
+        "resourceType": "ping",
+        "statusCode": 404,
+        "errorText": null
+    }
+]

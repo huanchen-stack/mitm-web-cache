@@ -1,0 +1,16 @@
+[
+    {
+        "url": "https://web.archive.org/web/20240919171859/https://openx.net/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": "net::ERR_EMPTY_RESPONSE"
+    },
+    {
+        "url": "https://web.archive.org/web/20240919171859/https://openx.net/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": "net::ERR_EMPTY_RESPONSE at https://web.archive.org/web/20240919171859/https://openx.net/"
+    }
+]

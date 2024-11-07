@@ -1,0 +1,2403 @@
+[
+    {
+        "url": "https://web.archive.org/web/20241001004708/https://www.nit.pt/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708cs_/https://fonts.googleapis.com/css?family=PT+Sans:400italic,600italic,700italic,400,600,700",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708cs_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/styles/admin-2dddae3fca.css?ver=6.3.4",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708cs_/https://www.nit.pt/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.2.10",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004709cs_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/styles/admin-2dddae3fca.css?ver=6.3.4",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708cs_/https://www.nit.pt/wp-includes/css/dist/block-library/style.min.css?ver=6.3.4",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708cs_/https://www.nit.pt/wp-content/plugins/ajax-load-more/core/css/ajax-load-more.min.css?ver=6.3.4",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708cs_/https://www.nit.pt/wp-content/plugins/read-more-without-refresh/style.css?ver=6.3.4",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708cs_/https://www.nit.pt/wp-content/uploads/pum/pum-site-styles.css?generated=1705656528&ver=1.15.0",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708cs_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/styles/main-42dd80bcde.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708cs_/https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=6.3.4",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js?ver=2.2.4",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://www.nit.pt/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.10.4",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708cs_/https://fonts.googleapis.com/css?family=Montserrat:thin,extra-light,light,100,200,300,400,500,600,700,800",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://cloud.weborama.design/board.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001004708/https%3A//www.nit.pt/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://cdn.iol.pt/js/utils/Modules/IOLComercial/dist/iol.comercial.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/jPushMenu.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/tiktok.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/nittv_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/petsintown_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708cs_/https://www.nit.pt/wp-content/plugins/wpforms/assets/css/frontend/classic/wpforms-full.min.css?ver=1.8.6.2",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://www.nit.pt/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://www.nit.pt/wp-content/uploads/pum/pum-site-scripts.js?defer&generated=1705656528&ver=1.15.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/scripts/main-eced92158c.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://www.nit.pt/wp-content/plugins/wpforms/assets/lib/jquery.validate.min.js?ver=1.19.5",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://www.nit.pt/wp-content/plugins/wpforms/assets/lib/mailcheck.min.js?ver=1.1.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://www.nit.pt/wp-content/plugins/wpforms/assets/lib/punycode.min.js?ver=1.0.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://www.nit.pt/wp-content/plugins/wpforms/assets/js/utils.min.js?ver=1.8.6.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://www.nit.pt/wp-content/plugins/wpforms/assets/js/wpforms.min.js?ver=1.8.6.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://barranew.iol.pt/js/barra_IOL.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001004708/https%3A//www.nit.pt/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://www.googletagmanager.com/gtag/js?id=UA-224080301-1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://applets.ebxcdn.com/ebx.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/pinder_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/nicascais_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/Logo_icon_NEWINCOIMBRA_OFF.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/nio_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/newinoeste_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/niporto_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/niseixal_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/nis_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/logo/short_version/logo-nit-cat-.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/7c016bf2e0e5601ddf388f0f7d23457c-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/dcd613be122a8b4d31b8164950200017-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/5abaa9a9f4a90a252e34b3bff0b1ea53-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/dd6ff28193fcd6341a3be193d13596bb-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/151b0b80b7cc9f93cf6d4d9c125c456f-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/fef695023eb8eea3ead918d9992226f3-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/60cea339f6371deaf49ed8ab039fdff8-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/7af73b77dbbc5cc576171e7c8190e2fa-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/32fb01244399c090f4c4d4bdd2458223-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/80dc6c7e8b9ff471e3e249995a31bf86-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/faef4169dbae0615b9578c7a35104691-720x960.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/4b3712949eb45d80afe26786765034f2-720x960.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/8a7d7ba288ca0f0ea1ecf975b026e8e1-720x960.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://pit.nit.pt/wp-content/uploads/2024/09/0da913440319bd19c51d418d70d78e09-754x394.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://pit.nit.pt/wp-content/uploads/2024/09/0a622714f879293690ec370805c5f01c-754x394.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://pit.nit.pt/wp-content/uploads/2024/09/561170d2bc75e978063d9f7e720c35d5-754x394.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/5ada0c3f97a6b5c64bc63a1c4064613d-1120x250.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/70dde21241f2bc941b22def1e012d846-360x250.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/575c5ce2815729bd15c38ad7e0acfb8f-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/bcdaba0634a2c0ab23a9ebaf0ce98e56-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/66890140e402b5d812efde9a5b2fbce2-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/629374842b7b704c0d66ccc240e890bc-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/1c12694c7b9c70aacdee3046a94fb0b5-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/48cb8e94bcb1ee8b4a5790a29b2e05ef-360x250.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/92c43442e42fb044b7a0b3fe91623a8a-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/stamps/selo_nit_rating_stamp__native__256x256.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/080b9656be3819535f9c3fd0ef9c90eb-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/e379ccc8cae7679c9aeb35a44072c3f8-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/597cd431d25c6c4c5e3278f0dabceb15-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/a8df7f07baede1bf3fa833856823e0f8-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/346348c2db0705792d29e442601e9f9e-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/3a955dbb8e1bad080790f276463bb6a9-1120x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/a6539c35ec07965956f1de7b3ec36971-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/c42a6abdb44b110a766f705d1ad38acc-360x250.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/e7fc2ea04848714ba0125aeda2deeda9-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/07c4c04527a81acc600039b3627c1662-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/d11e33d0efb4ab2054e7078c85a04ac5-720x960.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/c81e728d9d4c2f636f067f89cc14862c-720x960.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/c4ca4238a0b923820dcc509a6f75849b-720x960.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/44ab8178044aac943b92cde20d38e54a-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.nit.pt%2F&timestamp=20241001004708",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/509991e5b628bdd0c6ab19d90e46b735-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/78ea4406ad416768e67dd8e944572a13-1-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/d3542dbb1c5c5060f76c287cc5ae06fc-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/7353a3a93580a97873fc129977e35536-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/78805a221a988e79ef3f42d7c5bfd418-3-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/7d823bf39a576edcc882fe59fe9b2dcb-740x250.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/925e24dc180bb41f0cca51fe31b7ea62-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/c179969e222d2360211c2f524da1f20c-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/1eeae37ed488b47f33ab393fe0b6510a-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/963f6d6a24e063f98e01fbf7078bd391-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/d02b40d69756b763c4c551c43f6e7768-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://nittv.nit.pt/wp-content/uploads/2024/09/v_32820__6805b05380e268c08bce365e55b8a3d1.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://nittv.nit.pt/wp-content/uploads/2024/09/v_32832__91621dcb48f52c7ecfcbd414bcd591b3.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://nittv.nit.pt/wp-content/uploads/2024/09/v_32808__e6644a4a490dd23b62c351b81841e125.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/65aaa0a51edacd28462646ba5c32c75a-1120x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/b7194de7ff95e738ed8a29246d0495af-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/1aeb4c8ff8e2caa2f834d500da320e8e-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/6123497d0ad5305012b47102e30b2195-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/b2e93187fe3b4e481e260a7941cf39ce-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/532c28d5412dd75bf975fb951c740a30-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/a37f367c08ce5ba25de1190d26a73fda-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/18a2b53ac7b17604454e2b34eea9ecb6-1-360x250.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/03/93ccd723399e0a7fc1050bf3eef56f12-754x754.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/01/dadcb6c3f0f42a5a3ab9508df576e289-754x754.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/01/d7c652773880b01cab8d49e804ea86cb-754x754.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/madmen-full-logo.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/escolha_consumidor_2023.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/escolha_consumidor_2022.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/plugins/wpforms/assets/images/submit-spin.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=1.0.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://newinoeiras.nit.pt/wp-content/uploads/2024/09/04fc6ba58ed3acb125e8d524c1b36448-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://newinseixal.nit.pt/wp-content/uploads/2024/09/ed3690c217e0bab09af02215b08d9c96-360x250.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://newincoimbra.nit.pt/wp-content/uploads/2024/09/c5a601021c19720f659cb742d1a36099-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://newincascais.nit.pt/wp-content/uploads/2024/09/cd6665a607896ad9c3281b344c4659be-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://newinsetubal.nit.pt/wp-content/uploads/2024/09/d81673de0e63672bb478c824249493b9-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.nit.pt%2F&collection=web",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708/http://web.archive.org/screenshot/https://www.nit.pt/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/web-screenshot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/fonts/Iconochive-Regular.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708/https://www.googletagmanager.com/gtm.js?id=GTM-WPX9QWQ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708/https://www.google-analytics.com/analytics.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004709cs_/https://www.nit.pt/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.2.10",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20200825022402/http://web.archive.org/screenshot/http://nit.pt/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004709cs_/https://www.nit.pt/wp-includes/css/dist/block-library/style.min.css?ver=6.3.4",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004709cs_/https://www.nit.pt/wp-content/plugins/ajax-load-more/core/css/ajax-load-more.min.css?ver=6.3.4",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004709cs_/https://www.nit.pt/wp-content/plugins/read-more-without-refresh/style.css?ver=6.3.4",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004709cs_/https://www.nit.pt/wp-content/uploads/pum/pum-site-styles.css?generated=1705656528&ver=1.15.0",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004709cs_/https://fonts.googleapis.com/css?family=PT%20Sans:700",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004709cs_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/styles/main-42dd80bcde.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001005021js_/https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js?ver=2.2.4",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241004155359js_/https://www.nit.pt/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.10.4",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001045902cs_/https://fonts.googleapis.com/css?family=Montserrat:thin,extra-light,light,100,200,300,400,500,600,700,800",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930234042js_/https://cloud.weborama.design/board.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930235053js_/https://cdn.iol.pt/js/utils/Modules/IOLComercial/dist/iol.comercial.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004709js_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/jPushMenu.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/tiktok.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004712im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/nittv_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004711im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/petsintown_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710cs_/https://www.nit.pt/wp-content/plugins/wpforms/assets/css/frontend/classic/wpforms-full.min.css?ver=1.8.6.2",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710js_/https://www.nit.pt/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710js_/https://www.nit.pt/wp-content/uploads/pum/pum-site-scripts.js?defer&generated=1705656528&ver=1.15.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710js_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/scripts/main-eced92158c.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004712js_/https://www.nit.pt/wp-content/plugins/wpforms/assets/lib/jquery.validate.min.js?ver=1.19.5",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004712js_/https://www.nit.pt/wp-content/plugins/wpforms/assets/lib/mailcheck.min.js?ver=1.1.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004713js_/https://www.nit.pt/wp-content/plugins/wpforms/assets/lib/punycode.min.js?ver=1.0.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004713js_/https://www.nit.pt/wp-content/plugins/wpforms/assets/js/utils.min.js?ver=1.8.6.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004713js_/https://www.nit.pt/wp-content/plugins/wpforms/assets/js/wpforms.min.js?ver=1.8.6.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004711js_/https://barranew.iol.pt/js/barra_IOL.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 301,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930234042/https://cloud.weborama.design/constructor.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930234042/https://ams3.digitaloceanspaces.com/weborama/rules/9153.json",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930234042/https://cstatic.weborama.com/bigsea/contextual/v1/weboctx.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/4f65981b53655f9066c4f6cd7898d3b1-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/2b48802e60962ffb6fb4ba96eba65a92-754x394.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/59c2ed23fd1239e9ed5b50fd8189c057-754x754.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/uploads/2024/09/2445bba776c73d34284c8bb4154cf97b-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004709im_/https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh0O6tLQ.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001045902im_/https://fonts.gstatic.com/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KExQ.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff2?v=4.3.0",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930234043/https://ams3.digitaloceanspaces.com/weborama/rules/9153.json",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/agenda-nit-fullwidth-curves-bg.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/bg-footer-blue.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004033im_/https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh0O6tLQ.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001045859im_/https://fonts.gstatic.com/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004454im_/http://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KExQ.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004311im_/https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff2?v=4.3.0",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004712im_/https://www.nit.pt/wp-content/uploads/2024/09/4f65981b53655f9066c4f6cd7898d3b1-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004712im_/https://www.nit.pt/wp-content/uploads/2024/09/2b48802e60962ffb6fb4ba96eba65a92-754x394.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004712im_/https://www.nit.pt/wp-content/uploads/2024/09/2445bba776c73d34284c8bb4154cf97b-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004712im_/https://www.nit.pt/wp-content/uploads/2024/09/59c2ed23fd1239e9ed5b50fd8189c057-754x754.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708/https://cdn.mookie1.com/containr.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004711im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/pinder_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004711js_/https://cdn.iol.pt/utils/barraIOL/barraIOL.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004612js_/https://applets.ebxcdn.com/ebx.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241004155359js_/https://www.googletagmanager.com/gtag/js?id=UA-224080301-1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004711im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/nicascais_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004711im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/Logo_icon_NEWINCOIMBRA_OFF.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/nio_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004712im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/newinoeste_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004711im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/niporto_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004711im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/niseixal_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004711im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/network-sites/nis_gray.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/logo/short_version/logo-nit-cat-.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004713im_/https://www.nit.pt/wp-content/uploads/2024/09/7c016bf2e0e5601ddf388f0f7d23457c-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004713im_/https://www.nit.pt/wp-content/uploads/2024/09/dcd613be122a8b4d31b8164950200017-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004713im_/https://www.nit.pt/wp-content/uploads/2024/09/5abaa9a9f4a90a252e34b3bff0b1ea53-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004711/https://www.googletagmanager.com/gtm.js?id=GTM-TC5KGT",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708if_/https://www.nitfm.pt/?player_in_iframe=desktop-v7&utm_source=nit_pt&utm_medium=desktop&utm_campaign=nit_hp",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://www.nitfm.pt/wp-content/uploads/2020/03/9ac39678e7de5cbcb8b7651330fd0e10.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004713im_/https://www.nit.pt/wp-content/uploads/2024/09/dd6ff28193fcd6341a3be193d13596bb-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004713im_/https://www.nit.pt/wp-content/uploads/2024/09/151b0b80b7cc9f93cf6d4d9c125c456f-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004714im_/https://www.nit.pt/wp-content/uploads/2024/09/fef695023eb8eea3ead918d9992226f3-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004714im_/https://www.nit.pt/wp-content/uploads/2024/09/60cea339f6371deaf49ed8ab039fdff8-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004714im_/https://www.nit.pt/wp-content/uploads/2024/09/7af73b77dbbc5cc576171e7c8190e2fa-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004714im_/https://www.nit.pt/wp-content/uploads/2024/09/32fb01244399c090f4c4d4bdd2458223-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715if_/https://www.nitfm.pt/?player_in_iframe=desktop-v7&utm_source=nit_pt&utm_medium=desktop&utm_campaign=nit_hp",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004714im_/https://www.nitfm.pt/wp-content/uploads/2020/03/9ac39678e7de5cbcb8b7651330fd0e10.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715im_/https://www.nit.pt/wp-content/uploads/2024/09/80dc6c7e8b9ff471e3e249995a31bf86-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004714im_/https://www.nit.pt/wp-content/uploads/2024/09/faef4169dbae0615b9578c7a35104691-720x960.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715im_/https://www.nit.pt/wp-content/uploads/2024/09/4b3712949eb45d80afe26786765034f2-720x960.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715im_/https://www.nit.pt/wp-content/uploads/2024/09/8a7d7ba288ca0f0ea1ecf975b026e8e1-720x960.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710im_/https://pit.nit.pt/wp-content/uploads/2024/09/0da913440319bd19c51d418d70d78e09-754x394.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710im_/https://pit.nit.pt/wp-content/uploads/2024/09/0a622714f879293690ec370805c5f01c-754x394.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710im_/https://pit.nit.pt/wp-content/uploads/2024/09/561170d2bc75e978063d9f7e720c35d5-754x394.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715im_/https://www.nit.pt/wp-content/uploads/2024/09/5ada0c3f97a6b5c64bc63a1c4064613d-1120x250.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715im_/https://www.nit.pt/wp-content/uploads/2024/09/70dde21241f2bc941b22def1e012d846-360x250.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240929160421im_/https://www.nit.pt/wp-content/uploads/2024/09/575c5ce2815729bd15c38ad7e0acfb8f-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004716im_/https://www.nit.pt/wp-content/uploads/2024/09/bcdaba0634a2c0ab23a9ebaf0ce98e56-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004716im_/https://www.nit.pt/wp-content/uploads/2024/09/66890140e402b5d812efde9a5b2fbce2-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004716im_/https://www.nit.pt/wp-content/uploads/2024/09/629374842b7b704c0d66ccc240e890bc-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004716im_/https://www.nit.pt/wp-content/uploads/2024/09/1c12694c7b9c70aacdee3046a94fb0b5-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004717im_/https://www.nit.pt/wp-content/uploads/2024/09/48cb8e94bcb1ee8b4a5790a29b2e05ef-360x250.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715cs_/https://www.nitfm.pt/wp-includes/css/dist/block-library/style.min.css?ver=6.3.4",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715cs_/https://www.nitfm.pt/wp-content/themes/nitfm--v02/dist/styles/main-552069331a.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715js_/https://www.nitfm.pt/wp-includes/js/jquery/jquery.min.js?ver=3.7.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715js_/https://www.nitfm.pt/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715im_/https://www.nitfm.pt/wp-content/themes/nitfm--v02/dist/images/logo-white-red.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715js_/https://www.nitfm.pt/wp-content/themes/nitfm--v02/dist/scripts/main-bd8a99d93d.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004717im_/https://www.nit.pt/wp-content/uploads/2024/09/92c43442e42fb044b7a0b3fe91623a8a-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004717im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/stamps/selo_nit_rating_stamp__native__256x256.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004718im_/https://www.nit.pt/wp-content/uploads/2024/09/080b9656be3819535f9c3fd0ef9c90eb-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004718im_/https://www.nit.pt/wp-content/uploads/2024/09/e379ccc8cae7679c9aeb35a44072c3f8-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004718im_/https://www.nit.pt/wp-content/uploads/2024/09/597cd431d25c6c4c5e3278f0dabceb15-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004718im_/https://www.nit.pt/wp-content/uploads/2024/09/a8df7f07baede1bf3fa833856823e0f8-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930141255im_/https://www.nit.pt/wp-content/uploads/2024/09/346348c2db0705792d29e442601e9f9e-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004718im_/https://www.nit.pt/wp-content/uploads/2024/09/3a955dbb8e1bad080790f276463bb6a9-1120x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004719im_/https://www.nit.pt/wp-content/uploads/2024/09/a6539c35ec07965956f1de7b3ec36971-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004719im_/https://www.nit.pt/wp-content/uploads/2024/09/c42a6abdb44b110a766f705d1ad38acc-360x250.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004719im_/https://www.nit.pt/wp-content/uploads/2024/09/e7fc2ea04848714ba0125aeda2deeda9-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004719im_/https://www.nit.pt/wp-content/uploads/2024/09/07c4c04527a81acc600039b3627c1662-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004719im_/https://www.nit.pt/wp-content/uploads/2024/09/d11e33d0efb4ab2054e7078c85a04ac5-720x960.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004721im_/https://www.nit.pt/wp-content/uploads/2024/09/c81e728d9d4c2f636f067f89cc14862c-720x960.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004720im_/https://www.nit.pt/wp-content/uploads/2024/09/c4ca4238a0b923820dcc509a6f75849b-720x960.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930145751im_/https://www.nit.pt/wp-content/uploads/2024/09/44ab8178044aac943b92cde20d38e54a-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004720im_/https://www.nit.pt/wp-content/uploads/2024/09/509991e5b628bdd0c6ab19d90e46b735-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004721im_/https://www.nit.pt/wp-content/uploads/2024/09/78ea4406ad416768e67dd8e944572a13-1-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240929010149cs_/https://www.nitfm.pt/wp-includes/css/dist/block-library/style.min.css?ver=6.3.4",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240929010153cs_/https://www.nitfm.pt/wp-content/themes/nitfm--v02/dist/styles/main-552069331a.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240929010155js_/https://www.nitfm.pt/wp-includes/js/jquery/jquery.min.js?ver=3.7.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240821133326im_/https://www.nitfm.pt/wp-content/themes/nitfm--v02/dist/images/logo-white-red.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240929010200js_/https://www.nitfm.pt/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240929010202js_/https://www.nitfm.pt/wp-content/themes/nitfm--v02/dist/scripts/main-bd8a99d93d.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004721im_/https://www.nit.pt/wp-content/uploads/2024/09/d3542dbb1c5c5060f76c287cc5ae06fc-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004722im_/https://www.nit.pt/wp-content/uploads/2024/09/7353a3a93580a97873fc129977e35536-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004725im_/https://www.nit.pt/wp-content/uploads/2024/09/78805a221a988e79ef3f42d7c5bfd418-3-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004722im_/https://www.nit.pt/wp-content/uploads/2024/09/7d823bf39a576edcc882fe59fe9b2dcb-740x250.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004724im_/https://www.nit.pt/wp-content/uploads/2024/09/925e24dc180bb41f0cca51fe31b7ea62-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004723im_/https://www.nit.pt/wp-content/uploads/2024/09/c179969e222d2360211c2f524da1f20c-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004724im_/https://www.nit.pt/wp-content/uploads/2024/09/1eeae37ed488b47f33ab393fe0b6510a-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004724im_/https://www.nit.pt/wp-content/uploads/2024/09/963f6d6a24e063f98e01fbf7078bd391-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004724im_/https://www.nit.pt/wp-content/uploads/2024/09/d02b40d69756b763c4c551c43f6e7768-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710im_/https://nittv.nit.pt/wp-content/uploads/2024/09/v_32820__6805b05380e268c08bce365e55b8a3d1.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710im_/https://nittv.nit.pt/wp-content/uploads/2024/09/v_32832__91621dcb48f52c7ecfcbd414bcd591b3.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004711im_/https://nittv.nit.pt/wp-content/uploads/2024/09/v_32808__e6644a4a490dd23b62c351b81841e125.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004725im_/https://www.nit.pt/wp-content/uploads/2024/09/65aaa0a51edacd28462646ba5c32c75a-1120x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240929010153cs_/https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240929010153cs_/https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930141019im_/https://www.nit.pt/wp-content/uploads/2024/09/b7194de7ff95e738ed8a29246d0495af-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004725im_/https://www.nit.pt/wp-content/uploads/2024/09/1aeb4c8ff8e2caa2f834d500da320e8e-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004725im_/https://www.nit.pt/wp-content/uploads/2024/09/6123497d0ad5305012b47102e30b2195-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004726im_/https://www.nit.pt/wp-content/uploads/2024/09/b2e93187fe3b4e481e260a7941cf39ce-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004726im_/https://www.nit.pt/wp-content/uploads/2024/09/532c28d5412dd75bf975fb951c740a30-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004726im_/https://www.nit.pt/wp-content/uploads/2024/09/a37f367c08ce5ba25de1190d26a73fda-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004726im_/https://www.nit.pt/wp-content/uploads/2024/09/18a2b53ac7b17604454e2b34eea9ecb6-1-360x250.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004726im_/https://www.nit.pt/wp-content/uploads/2024/03/93ccd723399e0a7fc1050bf3eef56f12-754x754.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004726im_/https://www.nit.pt/wp-content/uploads/2024/01/dadcb6c3f0f42a5a3ab9508df576e289-754x754.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004726im_/https://www.nit.pt/wp-content/uploads/2024/01/d7c652773880b01cab8d49e804ea86cb-754x754.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004727im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/madmen-full-logo.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004728im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/escolha_consumidor_2023.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004728im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/escolha_consumidor_2022.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004728im_/https://www.nit.pt/wp-content/plugins/wpforms/assets/images/submit-spin.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004711im_/https://newinoeiras.nit.pt/wp-content/uploads/2024/09/04fc6ba58ed3acb125e8d524c1b36448-740x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001003934js_/https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=1.0.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004711im_/https://newinseixal.nit.pt/wp-content/uploads/2024/09/ed3690c217e0bab09af02215b08d9c96-360x250.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240929012955cs_/https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240922064206cs_/https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930163415im_/https://newincoimbra.nit.pt/wp-content/uploads/2024/09/c5a601021c19720f659cb742d1a36099-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004712im_/https://newincascais.nit.pt/wp-content/uploads/2024/09/cd6665a607896ad9c3281b344c4659be-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930160607im_/https://newinsetubal.nit.pt/wp-content/uploads/2024/09/d81673de0e63672bb478c824249493b9-360x250.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710/http://www.google-analytics.com/analytics.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004553/https://cloud.weborama.design/constructor.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930212809/https://cstatic.weborama.com/bigsea/contextual/v1/weboctx.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004728im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/agenda-nit-fullwidth-curves-bg.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715/https://www.googletagmanager.com/gtm.js?id=GTM-PB2RX2W",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004728im_/https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/bg-footer-blue.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001022401/https://cdn.mookie1.com/containr.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715im_/https://nitfm.pt/wp-content/uploads/2020/03/9ac39678e7de5cbcb8b7651330fd0e10.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240929012955im_/https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KEww.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240929012955im_/https://fonts.gstatic.com/s/ptsans/v17/jizYRExUiTo99u79D0e0x8mO.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004612/https://applets.ebxcdn.com/applets/www.nit.pt/scripts.js",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20200131141208/https://www.googletagmanager.com/gtm.js?id=GTM-TC5KGT",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://www.googletagmanager.com/gtag/js?id=G-4VJ2SMG4GC&l=dataLayer&cx=c",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241004155359/https://www.google-analytics.com/analytics.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715/https://fonts.googleapis.com/css?family=Roboto:400",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715/https://www.nitfm.pt/onair/song/onair.txt",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240929011533im_/https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KEww.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240929015429im_/http://fonts.gstatic.com/s/ptsans/v17/jizYRExUiTo99u79D0e0x8mO.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004714im_/https://www.nitfm.pt/wp-content/uploads/2020/03/9ac39678e7de5cbcb8b7651330fd0e10.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710/https://applets.ebxcdn.com/applets/www.nit.pt/scripts.js",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004849/https://fonts.googleapis.com/css?family=Roboto:400",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240719122732/https://www.nitfm.pt/onair/song/onair.txt",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715/https://itunes.apple.com/search?term=LIAM%20GALLAGHER%20-%20EVERYTHING%27S%20ELECTRIC&media=music&limit=1&url=undefined&url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20241001004715%2Fhttps%3A%2F%2Fitunes.apple.com%2Fsearch%3Fterm%3DLIAM%2520GALLAGHER%2520-%2520EVERYTHING%27S%2520ELECTRIC%26media%3Dmusic%26limit%3D1%26url%3Dundefined",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004849im_/https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004614im_/https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708js_/https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151606",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710/http://www.google-analytics.com/j/collect?v=1&_v=j101&a=1572888164&t=pageview&_s=1&dl=https%3A%2F%2Fwww.nit.pt%2F&ul=en-us&de=UTF-8&dt=NiT&sd=24-bit&sr=1920x1080&vp=1905x1080&je=0&fl=32.0%20r0&_u=QACAAUABCAAAACAAI~&jid=&gjid=&cid=628595263.1727743656&tid=UA-55646885-1&_gid=1094609483.1727743643&_slc=1&z=940684002",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004710/http://www.google-analytics.com/collect?v=1&_v=j101&a=1572888164&t=pageview&_s=1&dl=https%3A%2F%2Fwww.nit.pt%2F&ul=en-us&de=UTF-8&dt=NiT&sd=24-bit&sr=1920x1080&vp=1905x1080&je=0&fl=32.0%20r0&_u=QACAAUABCAAAACAAI~&jid=&gjid=&cid=628595263.1727743656&tid=UA-224080301-1&_gid=1094609483.1727743643&gtm=457e4a20za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=101671035~101747727&jsscut=1&z=1361140827",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930212809/https://dx.frontend.weborama.com/collect?ctx=1&touchpoint=1015&url=https%3A%2F%2Fwww.nit.pt%2F",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930212809/https://dx.frontend.weborama.com/collect?ctx=1&touchpoint=1075&url=https%3A%2F%2Fwww.nit.pt%2F",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930212809/https://dx.frontend.weborama.com/collect?ctx=1&touchpoint=1069&url=https%3A%2F%2Fwww.nit.pt%2F",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://pt-gmtdmp.mookie1.com/t/v2/learn?tagid=V2_7903&src.rand=%5Btimestamp%5D&src.id=NIT&depp=6.3.2-7",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004708im_/https://pt-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_585665&src.rand=%5Btimestamp%5D&depp=6.3.2-7",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241004155408/https://www.google-analytics.com/analytics.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001005829js_/https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151606",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20211122211305im_/https://pt-gmtdmp.mookie1.com/t/v2/learn?tagid=V2_7903&src.rand=%5Btimestamp%5D&src.id=NIT&depp=6.3.2-7",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20211122211305im_/https://pt-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_585665&src.rand=%5Btimestamp%5D&depp=6.3.2-7",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001005829/https://onesignal.com/api/v1/sync/840d6b80-c564-40a6-b672-8256e09c5332/web?callback=__jp0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20190516202923/https://onesignal.com/api/v1/sync/840d6b80-c564-40a6-b672-8256e09c5332/web?callback=__jp0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004715/https://www.nitfm.pt/onair/song/onair.txt",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240719122732/https://www.nitfm.pt/onair/song/onair.txt",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930235053/https://www.googletagservices.com/tag/js/gpt.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    }
+]

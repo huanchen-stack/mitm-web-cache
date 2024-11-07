@@ -1,0 +1,394 @@
+[
+    {
+        "url": "https://web.archive.org/web/20240923192732/https://www.isladejuegos.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/hbg2.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930230200/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/hbg2.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/images/isladejuegos.com.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/images/loader/thumb-400x400.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/images/loader/thumb-600x300.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/images/loader/thumb-400x246.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240923192732/https%3A//www.isladejuegos.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240923192732/https%3A//www.isladejuegos.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.isladejuegos.com%2F&collection=web",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732/http://web.archive.org/screenshot/https://www.isladejuegos.com/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.isladejuegos.com%2F&timestamp=20240923192732",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/web-screenshot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/fonts/Iconochive-Regular.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240728103145im_/https://ccf.admeen.org/52/images/isladejuegos.com.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/hbg.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/hbg1.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/hbg2.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/hbg4.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/hbg3.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/content/bg-top-left.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/content/bg-top-right.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/content/serie.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/content/box-newest-bg.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/content/header-large-board.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20180828213928/http://web.archive.org/screenshot/http://isladejuegos.com/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/vendor/flags/es.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732im_/https://ccf.admeen.org/52/images/admeen.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240923192732/https://ccf.admeen.org/52/icon/site.webmanifest",
+        "method": "GET",
+        "resourceType": "manifest",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241003144228im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/hbg.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241003144228im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/hbg1.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240930230200im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/hbg2.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002055715im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/hbg4.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002055715im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/hbg3.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240218071424/https://ccf.admeen.org/52/icon/site.webmanifest",
+        "method": "GET",
+        "resourceType": "manifest",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002055715im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/content/bg-top-left.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002055715im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/content/bg-top-right.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241003144228im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/content/serie.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009061053im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/content/box-newest-bg.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009061053im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/content/header-large-board.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240828135000im_/https://ccf.admeen.org/52/images/loader/thumb-400x400.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240218071439im_/https://ccf.admeen.org/52/images/loader/thumb-600x300.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240728103145im_/https://ccf.admeen.org/52/images/loader/thumb-400x246.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009061054im_/https://ccf.admeen.org/52/fp/48a29d4ed2da19ae054dc92747c4e69a/images/vendor/flags/es.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240728131646im_/https://ccf.admeen.org/52/images/admeen.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    }
+]

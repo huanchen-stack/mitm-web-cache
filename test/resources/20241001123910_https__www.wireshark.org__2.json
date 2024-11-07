@@ -1,0 +1,751 @@
+[
+    {
+        "url": "https://web.archive.org/web/20241001123910/https://www.wireshark.org/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910cs_/https://ticketing.wireshark.org/sf/APAC-Wireshark-Training/widget/v1.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910cs_/https://www.wireshark.org/_astro/about.2fd343dc.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910cs_/https://www.wireshark.org/_astro/oui-lookup.bf58972c.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910cs_/https://www.wireshark.org/_astro/index.bf8ade08.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910cs_/https://www.wireshark.org/_astro/learn.4f6935af.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910cs_/https://www.wireshark.org/_astro/download.181723f1.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/icons/phosphor/sun.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001125621cs_/https://www.wireshark.org/_astro/learn.4f6935af.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063106cs_/https://www.wireshark.org/_astro/oui-lookup.bf58972c.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/icons/angle-down-white.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123908im_/https://www.wireshark.org/assets/icons/phosphor/sun.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910js_/https://www.wireshark.org/mirrors.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123909im_/https://www.wireshark.org/assets/icons/angle-down-white.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910js_/https://www.wireshark.org/js/update_mirror_url.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910js_/https://ticketing.wireshark.org/widget/v1.en.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910js_/https://www.googletagmanager.com/gtag/js?id=G-YLHRKD6LH6",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/wireshark-logo-light.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/icons/wireshark-fin.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sponsors/endace_big.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sponsors/liveaction.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sflogo-front.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sharkbytes.jpeg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/wf-icon.webp",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/PCAPit.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/icons/phosphor/windows-logo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/icons/phosphor/apple-logo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/icons/phosphor/code.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sponsors/banners/endace.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sponsors/banners/liveaction.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sponsors/banners/fmadio.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sponsors/banners/veeam.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/sponsors/banners/scos-ad.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.wireshark.org%2F&timestamp=20241001123910",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910js_/https://static.cloudflareinsights.com/beacon.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001123910/https%3A//www.wireshark.org/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.wireshark.org%2F&collection=web",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910/http://web.archive.org/screenshot/https://www.wireshark.org/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/web-screenshot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001125626js_/https://www.wireshark.org/mirrors.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_astro/AppWrapper.a79045e2.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_astro/client.6ea6e353.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240902064048/http://web.archive.org/screenshot/https://www.wireshark.org/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001125628js_/https://www.wireshark.org/js/update_mirror_url.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910/https://www.wireshark.org/_astro/AppWrapper.a79045e2.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910if_/https://www.youtube.com/embed/3HdKhen0Gqw",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910/https://www.wireshark.org/_astro/client.6ea6e353.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910if_/https://www.youtube.com/embed/OU-A2EmVrKQ?w",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910if_/https://www.youtube.com/embed/OU-A2EmVrKQ",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910if_/https://www.youtube.com/embed/68t07-KOH9Y",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910if_/https://www.youtube.com/embed/xdQ9sgpkrX8",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063106im_/https://www.wireshark.org/assets/fonts/Lato-Bold.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063106im_/https://www.wireshark.org/assets/fonts/Lato-Thin.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123910im_/https://www.wireshark.org/assets/img/wireshark-logo-light.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_astro/MainLanding.fb7e956f.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/assets/img/wireshark4-overview.webp",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.wireshark.org/assets/img/sponsors/liveaction.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.wireshark.org/assets/img/wf-icon.webp",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063106im_/https://www.wireshark.org/assets/fonts/Lato-Thin.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911if_/https://www.youtube.com/embed/OU-A2EmVrKQ?w",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911if_/https://www.youtube.com/embed/3HdKhen0Gqw",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.wireshark.org/assets/icons/phosphor/apple-logo.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123912im_/https://www.wireshark.org/assets/icons/phosphor/code.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://www.wireshark.org/assets/img/sponsors/banners/endace.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001063106im_/https://www.wireshark.org/assets/fonts/Lato-Thin.ttf",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123913im_/https://www.wireshark.org/assets/img/sponsors/banners/scos-ad.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001124237js_/https://static.cloudflareinsights.com/beacon.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123908im_/https://www.wireshark.org/assets/img/wireshark-logo-light.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/jwplayer/jwplayer.js?v=hiYhl5rb",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-video.js?v=KqkWCeDw",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911cs_/https://www.youtube.com/s/player/26636eff/www-player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/embed.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911js_/https://www.youtube.com/s/player/26636eff/www-embed-player.vflset/www-embed-player.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911js_/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/base.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123805js_/https://www.youtube.com/s/player/26636eff/www-embed-player.vflset/www-embed-player.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001124005im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001124243im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123805/https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123805/https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911js_/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/base.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911mp_/https://www.youtube.com/s/player/26636eff/www-player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123504/https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123504/https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123503js_/https://www.youtube.com/s/player/26636eff/player_ias.vflset/en_US/base.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123911/https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+        "method": "POST",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123805mp_/https://www.youtube.com/s/player/26636eff/www-player.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123504/https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001123506/https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": null,
+        "errorText": null
+    }
+]

@@ -1,0 +1,324 @@
+[
+    {
+        "url": "https://web.archive.org/web/20240926154544/https://abasmartcard.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544js_/https://abasmartcard.com/Content/Scripts/js/localforage.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544cs_/https://abasmartcard.com/Content/StyleSheets/theme.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544cs_/https://abasmartcard.com/Content/StyleSheets/materialize.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544cs_/https://abasmartcard.com/Content/StyleSheets/site.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544cs_/https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&family=Raleway:wght@400;500;600;700&display=swap",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544js_/https://cdn.jsdelivr.net/npm/dynamsoft-javascript-barcode@9.6.31/dist/dbr.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544cs_/https://abasmartcard.com/pwa/aba/aba_style.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154545cs_/https://abasmartcard.com/Content/StyleSheets/theme.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544cs_/https://fonts.googleapis.com/css?family=Skranji",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544cs_/https://fonts.googleapis.com/icon?family=Material+Icons",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544js_/https://abasmartcard.com/Content/Scripts/js/materialize.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544js_/https://abasmartcard.com/Index.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544cs_/https://abasmartcard.com/Index.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154545js_/https://abasmartcard.com/Content/Scripts/js/materialize.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544cs_/https://abasmartcard.com/Content/StyleSheets/aba-web-font-styles.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154545cs_/https://abasmartcard.com/Index.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544js_/https://abasmartcard.com/Content/Scripts/js/ScanWrapper.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154545cs_/https://abasmartcard.com/Content/StyleSheets/aba-web-font-styles.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544js_/https://abasmartcard.com/Content/Scripts/js/ajaxHelper.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154545js_/https://abasmartcard.com/Content/Scripts/js/ScanWrapper.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544js_/https://cdn.jsdelivr.net/npm/dynamsoft-javascript-barcode@7.6.0/dist/dbr.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154545js_/https://abasmartcard.com/Content/Scripts/js/ajaxHelper.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544cs_/https://abasmartcard.com/Content/StyleSheets/ScanWrapper.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544im_/https://abasmartcard.com/Content/Images/Report/ABA_Connect_Icon.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544js_/https://static.zdassets.com/ekr/snippet.js?key=af224f2a-e7d0-4ec6-8198-a528bbf9631b",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154545cs_/https://fonts.googleapis.com/css?family=Ruda:400,900,700",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154545cs_/https://fonts.googleapis.com/css?family=Open+Sans",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154545cs_/https://fonts.googleapis.com/css?family=Raleway",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544js_/https://abasmartcard.com/Content/Scripts/js/smoothscroll.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544/https://static.site24x7rum.com/beacon/site24x7rum-min.js?appKey=71c56b60f5cbfadd9c574df9ce7f7352",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154545im_/https://abasmartcard.com/Content/Images/Report/ABA_Connect_Icon.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240926154544/https%3A//abasmartcard.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154545js_/https://abasmartcard.com/Content/Scripts/js/smoothscroll.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_CONNECTION_REFUSED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240926154544/https://js-agent.newrelic.com/nr-spa-1.263.0.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": null
+    }
+]

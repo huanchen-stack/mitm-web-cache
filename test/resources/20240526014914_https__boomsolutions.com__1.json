@@ -1,0 +1,604 @@
+[
+    {
+        "url": "https://web.archive.org/web/20240526014914/https://boomsolutions.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/lxydcshy/br8ip.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/kopn34fn/br8ip.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/7uhr5e19/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/k0ifrfdc/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/oyn1d66/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/8uvzfow9/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/lxwerv3b/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/k1rxrav4/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/g1lhp4iz/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914cs_/https://fonts.googleapis.com/css?family=Montserrat%3A300%2C400%2C700%2C700%2C400&ver=6a025bab1e8fbc85bb8adf3df6058896",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241003144720cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/oyn1d66/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002060408cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/k0ifrfdc/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002060621cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/7uhr5e19/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241003144721cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/kopn34fn/br8ip.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002060409cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/k1rxrav4/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002060627cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/8uvzfow9/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002060408cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/lxwerv3b/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002060413cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/g1lhp4iz/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914cs_/https://fonts.googleapis.com/css?family=Roboto:400,600,700",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/9hwmtfvt/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241003144721js_/https://boomsolutions.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002060409cs_/https://fonts.googleapis.com/css?family=Montserrat%3A300%2C400%2C700%2C700%2C400&ver=6a025bab1e8fbc85bb8adf3df6058896",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009062124js_/https://boomsolutions.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002060408cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/lxydcshy/br8ip.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002060627cs_/https://fonts.googleapis.com/css?family=Montserrat:100",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009062148cs_/https://boomsolutions.com/wp-content/cache/wpfc-minified/9hwmtfvt/br8io.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526005218cs_/https://fonts.googleapis.com/css?family=Roboto:400,600,700",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002054414cs_/https://fonts.googleapis.com/css?family=Montserrat:100",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-content/uploads/bb-plugin/cache/1471-layout.js?ver=dc1aa94668bb5cb68506007886be97a3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009062126js_/https://boomsolutions.com/wp-content/uploads/bb-plugin/cache/1471-layout.js?ver=dc1aa94668bb5cb68506007886be97a3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-content/uploads/pum/pum-site-scripts.js?defer&generated=1667219040&ver=1.16.12",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.5.0.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.5.0.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-content/themes/bb-theme/js/bootstrap.min.js?ver=1.7.9",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1.7.9",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-content/plugins/formcraft3/assets/js/src/fc_modal.js?ver=3.9.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-content/plugins/formcraft3/assets/js/vendor/tooltip.min.js?ver=6a025bab1e8fbc85bb8adf3df6058896",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-content/plugins/formcraft3/lib/awesomplete.min.js?ver=6a025bab1e8fbc85bb8adf3df6058896",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-content/plugins/formcraft3/dist/form.min.js?ver=3.9.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://boomsolutions.com/wp-content/plugins/formidable-pro/js/frm.min.js?ver=5.5.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://img1.wsimg.com/traffic-assets/js/tccl.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://www.googletagmanager.com/gtag/js?id=UA-231270273-1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914js_/https://www.googletagmanager.com/gtag/js?id=G-537Z7Y667H",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 404,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240526014914/https%3A//boomsolutions.com/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": null
+    },
+    {
+        "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fboomsolutions.com%2F&timestamp=20240526014914",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fboomsolutions.com%2F&collection=web",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914/http://web.archive.org/screenshot/https://boomsolutions.com/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/web-screenshot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/fonts/Iconochive-Regular.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002060409im_/https://fonts.gstatic.com/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002060408im_/https://boomsolutions.com/wp-content/plugins/formcraft3/lib/material-icons/MaterialIcons-Regular.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526014914im_/https://boomsolutions.com/wp-content/uploads/2021/01/boomlogo-1-2048x899.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009062226js_/https://boomsolutions.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009062319js_/https://boomsolutions.com/wp-content/plugins/formcraft3/assets/js/src/fc_modal.js?ver=3.9.3",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009062226js_/https://boomsolutions.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1.7.9",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009062227js_/https://boomsolutions.com/wp-content/themes/bb-theme/js/bootstrap.min.js?ver=1.7.9",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009062243js_/https://boomsolutions.com/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.5.0.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526005218im_/https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxM.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526005218im_/https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc-.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009062226js_/https://boomsolutions.com/wp-content/uploads/pum/pum-site-scripts.js?defer&generated=1667219040&ver=1.16.12",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009062226js_/https://boomsolutions.com/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.5.0.2",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241002061539im_/https://fonts.gstatic.com/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009062312im_/https://boomsolutions.com/wp-content/plugins/formcraft3/lib/material-icons/MaterialIcons-Regular.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526011220im_/https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxM.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526005312im_/https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc-.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526020200js_/https://img1.wsimg.com/traffic-assets/js/tccl.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 301,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/save/_embed/https://boomsolutions.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.1",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 503,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241009062313im_/https://boomsolutions.com/wp-content/uploads/2021/01/boomlogo-1-2048x899.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526020200js_/https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240526020201js_/https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    }
+]

@@ -7,7 +7,7 @@ async function startChrome() {
             '--window-size=1920,1080',
             '--user-data-dir=./chrome_data',
             '--enable-automation',
-            '--proxy-server=localhost:8080'  // Adjust proxy if needed
+            '--proxy-server=localhost:8090'  // Adjust proxy if needed
         ],
         ignoreDefaultArgs: ["--disable-extensions"],
         defaultViewport: { width: 1920, height: 1080 },

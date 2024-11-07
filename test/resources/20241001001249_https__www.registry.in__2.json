@@ -1,0 +1,310 @@
+[
+    {
+        "url": "https://web.archive.org/web/20241001001249/https://www.registry.in/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/athena.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": null,
+        "errorText": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+        "url": "https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/wombat.js?v=txqj7nKC",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/js/ruffle/ruffle.js",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001001249cs_/https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001001249cs_/https://www.registry.in/assets/front/assets/css/animate1.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001001249cs_/https://www.registry.in/assets/front/assets/css/stylesheet1.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/loading.gif",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004529cs_/https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009203503cs_/https://www.registry.in/assets/front/assets/css/animate1.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009203505cs_/https://www.registry.in/assets/front/assets/css/stylesheet1.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001001249im_/https://www.registry.in/assets/front/assets/landing/registry.in.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001001249im_/https://www.registry.in/assets/admin/website_logo/1641193390_logo.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240916153608im_/https://registry.in/assets/front/assets/landing/registry.in.jpg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009203504im_/https://www.registry.in/assets/admin/website_logo/1641193390_logo.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001001249js_/https://www.googletagmanager.com/gtag/js?id=G-410FW91SMF",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/css/record.css",
+        "method": "GET",
+        "resourceType": "stylesheet",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009203502js_/https://www.googletagmanager.com/gtag/js?id=G-410FW91SMF",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001001249/https://www.googletagmanager.com/gtm.js?id=GTM-K6CT2BR",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001001249/https%3A//www.registry.in/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": 503,
+        "errorText": null
+    },
+    {
+        "url": "https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20241001001249/https%3A//www.registry.in/",
+        "method": "GET",
+        "resourceType": "document",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Fwww.registry.in%2F&collection=web",
+        "method": "GET",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001001249/http://web.archive.org/screenshot/https://www.registry.in/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://wayback-api.archive.org/services/context/notices?url=https%3A%2F%2Fwww.registry.in%2F&timestamp=20241001001249",
+        "method": "GET",
+        "resourceType": "fetch",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/images/web-screenshot.svg",
+        "method": "GET",
+        "resourceType": "image",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/_static/fonts/Iconochive-Regular.woff",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20240101192602/https://www.googletagmanager.com/gtm.js?id=GTM-K6CT2BR",
+        "method": "GET",
+        "resourceType": "script",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004529im_/https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfecg.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20220308012054/http://web.archive.org/screenshot/https://www.registry.in/",
+        "method": "HEAD",
+        "resourceType": "xhr",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001001249im_/https://www.registry.in/assets/front/assets/landing/registry.in.mov",
+        "method": "GET",
+        "resourceType": "media",
+        "statusCode": 302,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001004659im_/https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfecg.woff2",
+        "method": "GET",
+        "resourceType": "font",
+        "statusCode": 200,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001001249/https://www.google-analytics.com/g/collect?v=2&tid=G-410FW91SMF&gtm=45je4a70v869109622za200&_p=1727741569086&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101529666~101671035~101686685~101747727&cid=484896063.1727741569&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253FA_Brand%3B99.0.0.0%7CChromium%3B130.0.6723.58&uamb=0&uam=&uap=Linux&uapv=4.15.0&uaw=0&are=1&frm=0&pscdl=&_s=1&sid=1727741569&sct=1&seg=1&dl=https%3A%2F%2Fwww.registry.in%2F&dt=Registry&en=page_view&_ee=1&tfd=1075",
+        "method": "POST",
+        "resourceType": "fetch",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009203503im_/https://www.registry.in/assets/front/assets/landing/registry.in.mov",
+        "method": "GET",
+        "resourceType": "media",
+        "statusCode": 206,
+        "errorText": "net::ERR_ABORTED"
+    },
+    {
+        "url": "https://web.archive.org/web/20241001001249/https://www.google-analytics.com/g/collect?v=2&tid=G-410FW91SMF&gtm=45je4a70v869109622za200&_p=1727741569086&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101529666~101671035~101686685~101747727&cid=484896063.1727741569&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253FA_Brand%3B99.0.0.0%7CChromium%3B130.0.6723.58&uamb=0&uam=&uap=Linux&uapv=4.15.0&uaw=0&are=1&frm=0&pscdl=&_eu=AEA&_s=2&sid=1727741569&sct=1&seg=1&dl=https%3A%2F%2Fwww.registry.in%2F&dt=Registry&en=scroll&epn.percent_scrolled=90&_et=13&tfd=1173",
+        "method": "POST",
+        "resourceType": "fetch",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001001249/https://www.google-analytics.com/g/collect?v=2&tid=G-410FW91SMF&gtm=45je4a70v869109622z8858153046za200&_p=1727741569086&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101529666~101671035~101686685~101747727&cid=484896063.1727741569&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253FA_Brand%3B99.0.0.0%7CChromium%3B130.0.6723.58&uamb=0&uam=&uap=Linux&uapv=4.15.0&uaw=0&are=1&frm=0&pscdl=&_eu=AAAC&_s=3&sid=1727741569&sct=1&seg=1&dl=https%3A%2F%2Fwww.registry.in%2F&dt=Registry&en=page_view&_et=94&tfd=1180",
+        "method": "POST",
+        "resourceType": "fetch",
+        "statusCode": 404,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009203503im_/https://www.registry.in/assets/front/assets/landing/registry.in.mov",
+        "method": "GET",
+        "resourceType": "media",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241009203503im_/https://www.registry.in/assets/front/assets/landing/registry.in.mov",
+        "method": "GET",
+        "resourceType": "media",
+        "statusCode": null,
+        "errorText": null
+    },
+    {
+        "url": "https://web.archive.org/web/20241001001249/https://www.google-analytics.com/g/collect?v=2&tid=G-410FW91SMF&gtm=45je4a70v869109622z8858153046za200&_p=1727741569086&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101529666~101671035~101686685~101747727&cid=484896063.1727741569&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253FA_Brand%3B99.0.0.0%7CChromium%3B130.0.6723.58&uamb=0&uam=&uap=Linux&uapv=4.15.0&uaw=0&are=1&frm=0&pscdl=&_s=4&sid=1727741569&sct=1&seg=1&dl=https%3A%2F%2Fwww.registry.in%2F&dt=Registry&en=Page%20View%20--%20Offers%20pagehttps%3A%2F%2Fwww.registry.in%2F&ep.https%3A%2F%2Fwww=%5Bobject%20Object%5D&_et=2&tfd=6181",
+        "method": "POST",
+        "resourceType": "fetch",
+        "statusCode": 404,
+        "errorText": null
+    }
+]
